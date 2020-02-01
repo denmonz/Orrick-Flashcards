@@ -7,7 +7,7 @@ Code: https://github.com/LexPredict/lexpredict-lexnlp
 
 
 ----------------
-How I got NLTK working on Mac:
+How I got LexNLP working on Mac:
 
 download python 3.6<br>
 Use pip3 to install pipenv<br>
