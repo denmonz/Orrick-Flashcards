@@ -24,6 +24,8 @@ firebase.initializeApp(firebaseConfig);
 
 const db = firebase.database().ref();
 
+var mammoth = require("mammoth");
+
 const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
@@ -53,18 +55,39 @@ function ButtonAppBar() {
 }
 
 function MyDropzone() {
+  var upload = '';
+  var text = '';
+  var messages = '';
+
   const onDrop = useCallback((acceptedFiles) => {
     acceptedFiles.forEach((file) => {
-      const reader = new FileReader()
+      const reader = new FileReader();
 
-      reader.onabort = () => console.log('file reading was aborted')
-      reader.onerror = () => console.log('file reading has failed')
+      reader.onabort = () => console.log('file reading was aborted');
+      reader.onerror = () => console.log('file reading has failed');
       reader.onload = () => {
       // Do whatever you want with the file contents
-        const upload = reader.result
-        console.log(upload)
+        const file_extention = file.name.split('.').pop();
+        var arrayBuffer = reader.result;
+
+        if (file_extention === 'txt' || file_extention === 'html') { // for txt or html files
+          upload = String.fromCharCode.apply(null, new Uint8Array(arrayBuffer));
+          console.log(upload);
+        }
+        else if (file_extention === 'docx') { // for docx files
+          mammoth.extractRawText({arrayBuffer: arrayBuffer})
+            .then(function(result) {
+                text = result.value; // The generated text
+                messages = result.messages; // Any messages, such as warnings during conversion
+            })
+            .done(function() {
+              upload = text;
+              console.log(upload)
+              console.log(messages)
+            });
+        }
       }
-      reader.readAsText(file)
+      reader.readAsArrayBuffer(file);
     })
     
   }, [])
@@ -77,7 +100,7 @@ function MyDropzone() {
       <br/>
       <div {...getRootProps()} align='center'>
         <input {...getInputProps()} />
-        <IconButton class='download'>
+        <IconButton className='download'>
           <GetAppIcon/>
         </IconButton>
       </div>
