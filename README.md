@@ -26,6 +26,6 @@ Be sure to have Python version 3.6 and PipEnv installed on your machine.
 6. In the pop-up window, install "all".<br>
     
 ## Common Errors<br>
-### "SSL Connection Error" When Installing NLTK<br>
+### "SSL: CERTIFICATE_VERIFY_FAILED" When Installing NLTK<br>
 Navigate to the intallation location of Python 3.6, open a terminal, and run the command `sudo ./Install\ Certificates.command`.
 
