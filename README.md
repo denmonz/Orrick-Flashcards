@@ -1,5 +1,6 @@
 # Orrick Flashcards
 Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com
+Heroku Deployed Website: https://orrick-flashcards.herokuapp.com/
 
 ## LexNLP<br>
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192101) | [Code](https://github.com/LexPredict/lexpredict-lexnlp)<br>
