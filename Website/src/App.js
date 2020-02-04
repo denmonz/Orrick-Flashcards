@@ -1,11 +1,8 @@
-import React, {useCallback} from 'react'
+import React, {useCallback, useState} from 'react'
 import {useDropzone} from 'react-dropzone'
+import {AppBar, Toolbar, Typography, IconButton, Card, CardContent} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
 import GetAppIcon from '@material-ui/icons/GetApp';
-import { IconButton } from '@material-ui/core';
 import './App.css';
 import firebase from 'firebase/app';
 import 'firebase/database';
@@ -54,8 +51,7 @@ function ButtonAppBar() {
   );
 }
 
-function MyDropzone() {
-  var upload = '';
+function MyDropzone({upload, setUpload}) {
   var text = '';
   var messages = '';
 
@@ -71,7 +67,7 @@ function MyDropzone() {
         var arrayBuffer = reader.result;
 
         if (file_extention === 'txt' || file_extention === 'html') { // for txt or html files
-          upload = String.fromCharCode.apply(null, new Uint8Array(arrayBuffer));
+          setUpload(String.fromCharCode.apply(null, new Uint8Array(arrayBuffer)));
           console.log(upload);
         }
         else if (file_extention === 'docx') { // for docx files
@@ -81,7 +77,7 @@ function MyDropzone() {
                 messages = result.messages; // Any messages, such as warnings during conversion
             })
             .done(function() {
-              upload = text;
+              setUpload(text);
               console.log(upload)
               console.log(messages)
             });
@@ -108,11 +104,43 @@ function MyDropzone() {
   ) 
 }
 
+
+const useStyles2 = makeStyles({
+  root: {
+    minWidth: 275,
+  },
+  bullet: {
+    display: 'inline-block',
+    margin: '0 2px',
+    transform: 'scale(0.8)',
+  },
+  title: {
+    fontSize: 14,
+  },
+  pos: {
+    marginBottom: 12,
+  },
+});
+
 function App() {
+  const [upload, setUpload] = useState('')
+
   return (
     <React.Fragment>
       <ButtonAppBar/>
-      <MyDropzone/>
+      <MyDropzone upload={upload} setUpload={setUpload}/>
+      <br/>
+      <Typography align="center">
+        Uploaded text will shown below ↓
+      </Typography>
+      <br/>
+      <Card variant="outlined">
+        <CardContent>
+          <Typography>
+            {upload}
+          </Typography>
+        </CardContent>
+      </Card>
     </React.Fragment>
   );
 }
