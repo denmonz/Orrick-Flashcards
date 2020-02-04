@@ -79,7 +79,7 @@ function MyDropzone({upload, setUpload}) {
             })
             .done(function() {
               setUpload(text);
-              console.log(upload)
+              console.log(text)
               console.log(messages)
             });
         }

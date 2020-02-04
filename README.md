@@ -1,5 +1,5 @@
 # Orrick Flashcards
-Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com
+Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com <br>
 Heroku Deployed Website: https://orrick-flashcards.herokuapp.com/
 
 ## LexNLP<br>
