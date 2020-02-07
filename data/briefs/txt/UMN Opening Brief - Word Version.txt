@@ -1,0 +1,1403 @@
+Case: 18-1559	Document: 44 Page: 1 Filed: 05/31/2018
+
+Nos. 2018-1559 (Lead), -1560, -1561, -1562, -1563, -1564, -1565
+United States Court of Appeals for the Federal Circuit
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+LSI CORPORATION, AVAGO
+TECHNOLOGIES U.S. INC.,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+(Lead) Appeal from the U.S. Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2017-01068
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+ERICSSON INC.,
+TELEFONAKTIEBOLAGET LM
+ERICSSON,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+Appeals from the U.S. Patent
+and Trademark Office, Patent
+Trial and Appeal Board in Nos.
+IPR2017-01186, IPR2017-
+01197, IPR2017-01200,
+IPR2017-01213, IPR2017-
+01214, and IPR2017-01219
+
+CORRECTED BRIEF OF APPELLANT
+REGENTS OF THE UNIVERSITY OF MINNESOTA
+May 29, 2018	Michael A. Albert
+Richard F. Giunta
+Charles T. Steenburg
+Gerald B. Hrycyszyn
+Stuart V. C. Duncan Smith
+WOLF, GREENFIELD & SACKS, P.C.
+600 Atlantic Avenue
+Boston, MA 02210
+Tel: (617) 646-8000
+Attorneys for Appellant
+
+Case: 18-1559	Document: 44 Page: 2 Filed: 05/31/2018
+CERTIFICATE OF INTEREST
+Counsel for Appellant certifies the following:
+	1.	The full name of every party represented by me is:
+Regents of the University of Minnesota
+	2.	The names of the real parties in interest represented by me are:
+Regents of the University of Minnesota
+	3.	All parent corporations and any publicly held companies that own 10
+percent of the stock of the parties represented by me are listed below.
+None. The Regents of the University of Minnesota is a state entity created by the constitution of the State of Minnesota.
+	4.	The names of all law firms and the partners and associates that have
+appeared for the party in the lower tribunal or are expected to appear for the party in this court and who are not already listed on the docket for the current case are:
+K&L GATES LLP: Patrick J. McElhinny, Mark G. Knedeisen
+FISH & RICHARDSON P.C.: W. Karl Renner, Lawrence K. Kolodney
+	5.	The title and number of any case known to counsel to be pending in
+this or any other court or agency that will directly affect or be directly affected by this court’s decision in the pending appeal:
+Regents of the University of Minnesota v. LSI Corporation, No. 5:18-cv-00821 (N.D. Cal.)
+i
+
+Case: 18-1559	Document: 44 Page: 3 Filed: 05/31/2018
+Regents of the University of Minnesota v. Gilead Sciences, Inc., No. 3:17-cv-06056 (N.D. Cal.)
+Regents of the University of Minnesota v. AT&T Mobility LLC, No. 0:14-cv-04666 (D. Minn.)
+Regents of the University of Minnesota v. Sprint Solutions, Inc., No. 0:14-cv-04669 (D. Minn.)
+Regents of the University of Minnesota v. T-Mobile USA, Inc., No. 0:14-cv-04671 (D. Minn.)
+Regents of the University of Minnesota v. Cellco Partnership, No. 0:14-cv-04672 (D. Minn.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-01753 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-01712 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-02004 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-02005 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01186 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01197 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01200 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01213 (P.T.A.B.)
+ii
+
+Case: 18-1559	Document: 44 Page: 4 Filed: 05/31/2018
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01214 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01219 (P.T.A.B.)
+LSI Corporation v. Regents of the University of Minnesota, No. IPR2017-01068 (P.T.A.B.)
+Date: May 29, 2018	/s/ Michael A. Albert
+Michael A. Albert
+
+Case: 18-1559	Document: 44 Page: 5 Filed: 05/31/2018
+TABLE OF CONTENTS
+CERTIFICATE OF INTEREST	i
+TABLE OF CONTENTS	iv
+TABLE OF AUTHORITIES	vi
+STATEMENT OF RELATED CASES	1
+STATEMENT OF JURISDICTION	3
+INTRODUCTION	5
+STATEMENT OF THE ISSUES PRESENTED FOR REVIEW	10
+STATEMENT OF THE CASE	11
+Factual Background	11
+Procedural Background	13
+SUMMARY OF THE ARGUMENT	16
+STANDARD OF REVIEW	20
+ARGUMENT	21
+I.	The Board Correctly Concluded That IPRs Are Subject to UMN’s
+Sovereign Immunity and so Cannot Proceed Without UMN’s
+Consent.	21
+UMN’s Ability to Invoke Minnesota’s Sovereign Immunity Is
+Undisputed, and Is a Matter of Well-Established Federal Law.	22
+IPRs Are Adversarial Proceedings Brought by the Petitioner
+Against the Patent Owner.	23
+Under FMC, IPRs Are the Type of Adjudicatory Administrative
+Proceedings to Which State Sovereign Immunity Applies.	30
+The Board’s Role in IPR Is Functionally Comparable to
+That of Judges in Federal District Court Litigation.	31
+IPRs Have the Same Procedural Safeguards as in FMC.	33
+IPRs’ Rules and Procedures Result in a Proceeding that
+Resembles Federal Court Litigation.	33
+iv
+
+Case: 18-1559	Document: 44 Page: 6 Filed: 05/31/2018
+II. The Board Incorrectly Concluded that UMN Waived Its State
+Sovereign Immunity by Asserting the Challenged Patents.	36
+A. UMN Did Not Waive Its Sovereign Immunity Merely by
+Applying For and Obtaining the Challenged Patents.	38
+B. This Court’s Tegic and A123 Decisions Resolve the Issue on
+Appeal	39
+C. The Board Misapplied Lapides, Which Did Not Expand the
+Scope of Litigation Waiver Beyond its Traditional Bounds.	44
+Under Longstanding Supreme Court Precedent, Litigation Waiver Applies Only as to the Action in Which the State Voluntarily Appears and Only to the Extent Necessary to
+Resolve That Action.	44
+Lapides Applied This Longstanding Waiver Rule to Removal; It Did Not Create a New Roving Mandate to
+Find Waiver Based on “Unfairness” or “Inconsistency.”	47
+This Court Has Consistently Applied Lapides Within the Traditional Confines of the Rule Articulated in Clark,
+Gardner, and Gunter.	51
+Even if Lapides Had Created a Rule of Waiver Based on “Unfairness” and “Inconsistency,” UMN’s Choice to Litigate Challenges to Its Patents in Federal Court, and
+Not Before the Board, Is Neither Unfair Nor Inconsistent.	53
+D. The Board Misapplied Knight, Which Did Not Extend Waiver
+to Any Merely Foreseeable Consequence of the State’s Action.	57
+E. The Board Misapplied BPMC, Which Did Not Change Tegic’s
+and A123’s Clear Rule Concerning Separate Patent Challenges.	59
+CONCLUSION	61
+ADDENDUM
+CERTIFICATE OF COMPLIANCE WITH FED. R. APP. P 32(A)
+CERTIFICATE OF SERVICE AND FILING
+v
+
+Case: 18-1559	Document: 44 Page: 7 Filed: 05/31/2018
+TABLE OF AUTHORITIES
+CASES
+A123 Sys., Inc. v. Hydro-Quebec,
+626 F.3d 1213 (Fed. Cir. 2010)	passim
+Alden v. Maine,
+527 U.S. 706 (1999)	 17, 35
+Atascadero State Hosp. v. Scanlon,
+473 U.S. 234 (1985)	49, 50
+Bd. of Regents of Univ. of Wis. Sys. v. Phoenix Int’l Software, Inc.,
+653 F.3d 448 (7th Cir. 2011)	46
+Belden Inc. v. Berk-Tek LLC,
+805 F.3d 1064 (Fed. Cir. 2015)	26, 32, 33
+Biomedical Patent Mgmt. Corp. v. Cal., Dep’t of Health Servs.,
+505 F.3d 1328 (Fed. Cir. 2007)	passim
+Butz v. Economou,
+438 U.S. 478 (1978)	 31, 32, 33
+Carolina Power & Light Co. v. U.S. Dep’t of Labor,
+43 F.3d 912 (4th Cir. 1995)	4
+Chancellor Manor v. United States,
+331 F.3d 891 (Fed. Cir. 2003)	49
+Chehazeh v. Attorney General of U.S.,
+666 F.3d 118 (3rd Cir. 2012)	4
+City of Boerne v. Flores,
+521 U.S. 507 (1997)	43
+City of S. Pasadena v. Mineta,
+284 F.3d 1154 (9th Cir. 2002)	49
+Clark v. Barnard,
+108 U.S. 436 (1883)	passim
+vi
+
+Case: 18-1559	Document: 44 Page: 8 Filed: 05/31/2018
+Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd.,
+527 U.S. 666 (1999)	passim
+Covidien LP v. Univ. of Fla. Research Found., Inc.,
+No. IPR2016-01274, 2017 WL 4015009 (Jan. 25, 2017)	5, 22, 31, 32
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131 (2016)	passim
+Dunn & Black, P.S. v. United States,
+492 F.3d 1084 (9th Cir. 2007)	36
+Edelman v. Jordan,
+415 U.S. 651 (1974)	36
+Fed. Mar. Comm’n v. S.C. Ports Auth.,
+535 U.S. 743 (2002)	passim
+Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank,
+527 U.S. 627 (1999)	43
+Gardner v. New Jersey,
+329 U.S. 565 (1947)	passim
+Great Northern Life Ins. Co. v. Read,
+322 U.S. 47 (1944)	37
+Gregory v. Ashcroft,
+501 U.S. 452 (1991)	17
+Gunter v. Atl. Coast Line R.R. Co.,
+200 U.S. 273 (1906)	passim
+In re Ayers,
+123 U.S. 443 (1887)	17
+In re Friendship Med. Ctr., Ltd.,
+710 F.2d 1297 (7th Cir. 1983)	36
+In re Magnum Oil Tools Int’l, Ltd.,
+829 F.3d 1364 (Fed. Cir. 2016)	27, 28, 33, 34
+vii
+
+Case: 18-1559	Document: 44 Page: 9 Filed: 05/31/2018
+Kimel v. Fla. Bd. of Regents,
+528 U.S. 62 (2000)	43
+Lapides v. Bd. of Regents of Univ. Sys. of Ga.,
+535 U.S. 613 (2002)	passim
+Lehman v. Nakshian,
+453 US 156 (1981)	56
+Madison v. Virginia,
+474 F.3d 118 (4th Cir. 2006)	3
+Meredith v. Fed. Mine Safety & Health Review Comm’n,
+177 F.3d 1042 (D.C. Cir. 1999)	4
+Mitchell v. Forsyth,
+472 U.S. 511 (1985)	3
+NeoChord, Inc. v. Univ. of Md., Balt.,
+No. IPR2016-00208, Paper 28 (P.T.A.B. May 23, 2017)	22
+Novartis AG v. Torrent Pharm. Ltd.,
+853 F.3d 1316 (Fed. Cir. 2017)	32, 33
+Nuclear Energy Inst. v. Envtl. Prot. Agency,
+373 F.3d 1251 (D.C. Cir. 2004)	23
+Oil States Energy Servs. v. Greene’s Energy Grp.,
+138 S. Ct. 1365 (2018)	29
+Pennhurst State Sch. & Hosp. v. Halderman,
+465 U.S. 89 (1984)	passim
+Port Auth. Trans-Hudson Corp. v. Feeney,
+495 U.S. 299 (1990)	 16, 37
+R.I. Dep’t of Envtl. Mgmt. v. United States,
+304 F.3d 31 (1st Cir. 2002)	29
+Raygor v. Regents of Univ. of Minn.,
+534 U.S. 533 (2002)	22
+viii
+
+Case: 18-1559	Document: 44 Page: 10 Filed: 05/31/2018
+Regents of the Univ. of Cal. v. Doe,
+519 U.S. 425 (1997)	20, 22
+Regents of the Univ. of Minn. v. AT&T Mobility LLC,
+No. 14-cv-04666, Dkt. No. 237 (D. Minn. May 19, 2017)	15
+Regents of the Univ. of Minn. v. Gilead Scis., Inc.,
+No. 3:17-cv-06056, Dkt. No. 308 (N.D. Cal. Mar. 9, 2018)	15
+Regents of the Univ. of Minn. v. LSI Corp.,
+No. 16-cv-02891, Dkt. No. 144 (D. Minn. Feb. 1, 2018)	14
+Regents of Univ. of Minn. v. Gilead Scis., Inc.,
+No. 16-cv-2915, 2017 WL 4773150 (D. Minn. Oct. 20, 2017)	15
+Regents of Univ. of Minn. v. LSI Corp.,
+No. 5:18-cv-00821, 2018 WL 2183274 (N.D. Cal. May 11, 2018)	15
+Regents of Univ. of Minn. v. Raygor,
+620 N.W.2d 680 (Minn. 2001)	22
+Regents of Univ. of N.M. v. Knight,
+321 F.3d 1111 (Fed. Cir. 2003)	passim
+RPX Corp. v. Applications in Internet Time, LLC,
+No. IPR2015-01750, 2015 WL 6157114 (P.T.A.B. Oct. 20, 2015)	26
+RPX Corp. v. Applications in Internet Time, LLC,
+No. IPR2015-01750, 2015 WL 7889318 (P.T.A.B. Dec. 4, 2015)	26
+RPX Corp. v. Applications in Internet Time, LLC,
+No. IPR2015-01750, 2016 WL 3577873 (P.T.A.B. May 6, 2016)	26
+S.C. State Ports Auth. v. Fed. Mar. Comm’n,
+243 F.3d 165 (4th Cir. 2001)	28, 29
+SAS Inst., Inc. v. Iancu,
+138 S. Ct. 1348, 1352(2018)	passim
+Seminole Tribe of Fla. v. Florida,
+517 U.S. 44 (1996)	43, 50
+ix
+
+Case: 18-1559	Document: 44 Page: 11 Filed: 05/31/2018
+Smith v. Reeves,
+178 U.S. 436 (1900)	56
+Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys.,
+458 F.3d 1335 (Fed. Cir. 2006)	passim
+Treleven v. Univ. of Minn.,
+73 F.3d 816 (8th Cir. 1996)	23
+Turkish Coal. of Am., Inc. v. Bruininks,
+678 F.3d 617 (8th Cir. 2012)	23
+U.S. ex rel. Eisenstein v. City of N.Y.,
+556 U.S. 928 (2009)	28
+United States v. L.A. Tucker Truck Lines, Inc.,
+344 U.S. 33 (1952)	23
+United States v. Nordic Vill., Inc.,
+503 U.S. 30 (1992)	49
+Univ. of Utah v. Max-Planck-Gesellschaft Zur Forderung
+Der Wissenschaften E.V., 734 F.3d 1315 (Fed. Cir. 2013)	4
+Vas-Cath, Inc. v. Curators of Univ. of Mo.,
+473 F.3d 1376 (Fed. Cir. 2007)	passim
+Walstad v. Univ. of Minn. Hosps.,
+442 F.2d 634 (8th Cir. 1971)	22
+Welch v. Tex. Dep’t of Highways & Pub. Transp.,
+483 U.S. 468, 477 (1987)	 8, 16, 37, 55
+Welch v. United States,
+409 F.3d 646 (4th Cir. 2005)	36
+Xechem Int’l, Inc. v. Univ. of Tex. M.D. Anderson Cancer Ctr.,
+382 F.3d 1324 (Fed. Cir. 2004)	 16, 36, 39
+STATUTES
+5 U.S.C. § 554	33
+5 U.S.C. § 555	33
+x
+
+Case: 18-1559	Document: 44 Page: 12 Filed: 05/31/2018
+5 U.S.C. § 556	33
+5 U.S.C. § 556(e)	33
+5 U.S.C. § 557	33
+5 U.S.C. § 706	20
+28 U.S.C. § 1295(a)(1)	4
+28 U.S.C. § 1295(a)(4)(A)	3
+28 U.S.C. § 2201	42
+28 U.S.C. ch. 5	42
+35 U.S.C. § 135(a) (2010)	32
+35 U.S.C. § 143	27
+35 U.S.C. § 146	52
+35 U.S.C. § 200	11
+35 U.S.C. § 311(a)	25
+35 U.S.C. § 312	33, 34
+35 U.S.C. § 312(a)	25
+35 U.S.C. § 313	25, 33, 34
+35 U.S.C. § 314(a)	27
+35 U.S.C. § 315(a)(1)	27
+35 U.S.C. § 315(a)(2)	27
+35 U.S.C. § 315(e)(2)	27
+35 U.S.C. § 316(a)	26
+35 U.S.C. § 316(a)(5)	33
+35 U.S.C. § 317(a)	27
+xi
+
+Case: 18-1559	Document: 44 Page: 13 Filed: 05/31/2018
+35 U.S.C. § 318(a)	27
+Minn. Terr. Laws, ch. 3, § 3 (1851)	11
+Minn. Terr. Laws, ch. 3, § 7 (1851)	11
+OTHER AUTHORITIES
+Brief for Petitioner, Fed. Mar. Comm’n v. S.C. Ports Auth.,
+535 U.S. 743 (2002) (No. 01-46), 2001 WL 1530159	28
+H.R. REP. No. 112-98 (2011)	24
+Office for Technology Commercialization, University of Minnesota,
+http://license.umn.edu/	12
+Office Patent Trial Practice Guide,
+77 Fed. Reg. 48,756, 48,757 (Aug. 14, 2012)	25
+THE FEDERALIST No. 81 (Alexander Hamilton) (C. Rossiter ed. 1961)	23
+U.S. CONST. art. III, § 1	42
+REGULATIONS
+37 C.F.R. § 41.152(a)	34
+37 C.F.R. § 41.200	32
+37 C.F.R. § 42.2	25
+37 C.F.R. § 42.12(a)	26
+37 C.F.R. §§ 42.20-42.25	25
+37 C.F.R. § 42.51	26
+37 C.F.R. § 42.51(b)(2)	26
+37 C.F.R. §§ 42.51-42.65	33
+37 C.F.R. § 42.54(a)	26
+37 C.F.R. § 42.62	34
+xii
+
+
+
+xiii
+
+Case: 18-1559	Document: 44 Page: 15 Filed: 05/31/2018
+STATEMENT OF RELATED CASES
+No appeal from the seven inter partes reviews (IPRs) on appeal here has
+been before any appellate court.
+This appeal will indirectly affect the following litigation pending in the United States District Court for the District of Minnesota: Regents of the
+University of Minnesota v. AT&T Mobility LLC, No. 0:14-cv-04666; Regents of the University of Minnesota v. Sprint Solutions, Inc., No. 0:14-cv-04669; Regents of the University of Minnesota v. T-Mobile USA, Inc., No. 0:14-cv-04671; and Regents of the University of Minnesota v. Cellco Partnership, No. 0:14-cv-04672 (collectively, the “Ericsson Litigation”). In the Ericsson Litigation, Appellant Regents of the University of Minnesota (“UMN”) asserted the patents challenged in six of the IPRs on appeal here.
+This appeal will also indirectly affect the following litigations pending in the United States District Court for the Northern District of California: Regents of the University of Minnesota v. LSI Corp., No. 5:18-cv-00821 (the “LSI Litigation”); and Regents of the University of Minnesota v. Gilead Sciences, Inc., No. 17-cv-06056 (the “Gilead Litigation”). In the LSI Litigation, UMN asserted the patent challenged in one of the IPRs on appeal here. In the Gilead Litigation, UMN asserted the patent challenged by Intervenor in the four Gilead IPRs noted below.
+1
+
+Case: 18-1559	Document: 44 Page: 16 Filed: 05/31/2018
+
+This appeal will also indirectly affect the following IPRs: Gilead Sciences, Inc. v. Regents of the University of Minnesota, IPR Nos. IPR2017-01753, -01712, -02004, -02005.
+
+2
+
+Case: 18-1559	Document: 44 Page: 17 Filed: 05/31/2018
+STATEMENT OF JURISDICTION
+UMN appeals from Patent Trial and Appeal Board (“Board”) decisions
+denying UMN’s motions to dismiss IPRs filed by Appellees against UMN. UMN moved to dismiss, invoking its sovereign immunity. On December 19, 2017, the Board agreed UMN’s sovereign immunity shields it from involuntary participation in adjudicatory administrative proceedings such as IPRs, but found that UMN had waived that immunity by asserting the patents in district court. Appx1-45. UMN timely filed its notices of appeal on February 12, 2018. Appx1094-1142. This Court has jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A) and the collateral order doctrine.
+Section 1295(a)(4)(A) grants this Court jurisdiction over “an appeal from a decision of . . . the Patent Trial and Appeal Board of the United States Patent and Trademark Office with respect to . . . inter partes review under title 35.” By the terms of § 1295(a)(4)(A), this Court’s jurisdiction is not limited to a final decision. Even if § 1295(a)(4)(A) required a final decision, the denial of a claim of sovereign immunity “is an appealable ‘final decision’” for purposes of appeal under the collateral order doctrine. Mitchell v. Forsyth, 472 U.S. 511, 530 (1985); see also Madison v. Virginia, 474 F.3d 118, 123 (4th Cir. 2006) (appeal from decision finding that a State had waived its sovereign immunity was “a final order appealable under the collateral order doctrine”); Univ. of Utah v. Max-Planck-
+
+3
+
+Case: 18-1559	Document: 44 Page: 18 Filed: 05/31/2018
+
+Gesellschaft Zur Forderung Der Wissenschaften E.V., 734 F.3d 1315, 1319 (Fed. Cir. 2013) (finding jurisdiction to review a denial of sovereign immunity “under 28 U.S.C. § 1295(a)(1) and the collateral order doctrine,” notwithstanding the express requirement in § 1295(a)(1) for “a final decision”).
+The unanimous and settled view of the courts of appeal is that the collateral order doctrine applies equally to appeals from agency decisions denying sovereign immunity. E.g., Meredith v. Fed. Mine Safety & Health Review Comm’n, 177 F.3d 1042, 1051 (D.C. Cir. 1999) (“It is well-settled that . . . the collateral order doctrine appl[ies] . . . to appeals from executive agency action.” (quoting Carolina Power & Light Co. v. U.S. Dep’t of Labor, 43 F.3d 912, 916 (4th Cir. 1995))); Chehazeh v. Attorney General of U.S., 666 F.3d 118, 136 (3rd Cir. 2012) (adopting the “unanimous view” of the Courts of Appeals that “the collateral order doctrine applies to judicial review of agency decisions”).
+
+4
+
+Case: 18-1559	Document: 44 Page: 19 Filed: 05/31/2018
+INTRODUCTION
+As a matter of federal law not contested below, appellant UMN is an arm of
+The State of Minnesota and shares the State’s sovereign immunity. As a result, the federal government may not adjudicate a proceeding brought by a private party against UMN. As the Board correctly held, IPRs are such proceedings. Covidien LP v. Univ. of Fla. Research Found., Inc., No. IPR2016-01274, 2017 WL 4015009, at *8-11 (Jan. 25, 2017).
+On that basis, the Board should have dismissed these IPRs. Instead, the Board found that UMN waived its sovereign immunity before the Board by asserting the challenged patents in a different forum (district court). This Court should reverse the Board’s orders for several reasons.
+First, the Board erred in failing to follow well-established authority from the Supreme Court and this Court that a sovereign’s waiver in one action extends only to resolution of that action. The Supreme Court and this Court have long recognized that a state’s sovereign immunity “encompasses not merely whether it may be sued, but where it may be sued.” Pennhurst State Sch. & Hosp. v. Halderman, 465 U.S. 89, 99 (1984) (emphasis original); see also Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys., 458 F.3d 1335, 1342-43 (Fed. Cir. 2006) (same).
+5
+
+Case: 18-1559	Document: 44 Page: 20 Filed: 05/31/2018
+Applying that principle, this Court has twice held that “where a waiver of immunity occurs in one suit, the waiver does not extend to an entirely separate lawsuit, even one involving the same subject matter and the same parties.” A123 Sys., Inc. v. Hydro-Quebec, 626 F.3d 1213, 1219 (Fed. Cir. 2010); see also Tegic, 458 F.3d at 1342-43 (same). In A123 and Tegic, this Court concluded that filing an infringement action in one district court does not waive the State’s immunity to a declaratory judgment action challenging the asserted patents in another district court. Consistent with this precedent, in every instance in which a court has found waiver of sovereign immunity (1) it was in the same action in which the State had voluntarily submitted to a federal tribunal and (2) waiver was necessary for the complete determination of that action.
+First, the IPRs here are different actions filed in a different forum than the actions UMN commenced in federal district court.
+Second, there was no finding here that IPRs are “necessary” for the complete determination of an infringement action, as is required to support a finding of waiver. To the contrary, IPRs are discretionary proceedings that Congress only recently created; they plainly cannot be “necessary” for the complete determination of a district court infringement action. Courts have resolved patent infringement cases for centuries without recourse to IPRs. Appellees here have a full and fair opportunity to defend themselves – and to challenge the asserted patents – in the
+6
+
+Case: 18-1559	Document: 44 Page: 21 Filed: 05/31/2018
+district court actions that UMN initiated. The Board’s waiver finding is unprecedented and inconsistent with controlling authority.
+Third, the Board erred when it concluded that UMN waived its sovereign immunity because denying defendants the opportunity to attack the asserted patents before the Board – a separate forum not chosen by the State – would be “unfair.” The Board’s cited authority, Lapides v. Board of Regents of University System of Georgia, 535 U.S. 613 (2002), does not authorize the Board to find waiver based on “fairness” in the absence of circumstances meeting the Supreme Court’s longstanding test for waiver. A State’s access to the federal courts to enforce its patent rights is not – and cannot be – conditioned upon waiver of its constitutional right to be immune from suit by a private party in a different forum. Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd., 527 U.S. 666, 687 (1999) (“[W]here the constitutionally guaranteed protection of the States’ sovereign immunity is involved, the point of coercion is automatically passed— and the voluntariness of waiver destroyed—when what is attached to the refusal to waive is the exclusion of the State from otherwise lawful activity.”). Even if it could constitutionally do so, Congress has not attempted to impose any such waiver precondition upon States. Nothing in Lapides suggests otherwise, whether based on “fairness” or any other ground. Indeed, the same purported unfairness existed in Tegic, where the defendant was deprived of the right, available to other
+7
+
+Case: 18-1559	Document: 44 Page: 22 Filed: 05/31/2018
+parties, to bring a separate action in another forum to challenge a State’s patent. Yet this Court rejected the argument that “allowing the University to assert immunity” to the separate action would be “unfair.” Tegic, 458 F.3d at 1344. States’ sovereign immunity “sets them apart” such that “‘evenhandness’ between individuals and States is not to be expected.” Coll. Sav. Bank, 527 U.S. at 685-86 (quoting Welch v. Tex. Dep’t of Highways & Pub. Transp., 483 U.S. 468, 477 (1987)).
+By its Orders, the Board claimed a power to exercise jurisdiction over State sovereigns that this Court held in Tegic and A123 that even Article III courts do not have – namely, the power to adjudicate a private citizen’s challenge to a State-owned patent in a different forum to which the State never consented. It cited no precedent or authority supporting such extraordinary power. The affront to a State’s sovereignty is no less when forced against its will to defend itself in an administrative tribunal as opposed to a district court.
+To the contrary, “allowing a private party to haul a State in front of such an administrative tribunal constitutes a greater insult to a State’s dignity than
+requiring a State to appear in an Article III court.” Fed. Mar. Comm’n v. S.C. Ports Auth. (“FMC”), 535 U.S. 743, 761 n.11 (2002).
+This is particularly true where the State has decided to bring suit to protect or enforce valuable intellectual property. The Board’s decision denies States their
+8
+
+Case: 18-1559	Document: 44 Page: 23 Filed: 05/31/2018
+
+day in court unless they also appear, against their will, in an adjudicative proceeding before an administrative agency. Effectively, the Board uses the threat of deprivation of substantial State assets to trample on a fundamental aspect of State sovereignty. The Board’s holding that sovereign immunity is waived precisely when States need it the most – e.g., when enforcing their property rights in court – guts the very sovereignty that is at stake, and also undermines clear Congressional policy, embodied in the Bayh-Dole Act, that state universities use patents to promote the development and commercialization of technology.
+
+9
+
+Case: 18-1559	Document: 44 Page: 24 Filed: 05/31/2018
+
+STATEMENT OF THE ISSUES PRESENTED FOR REVIEW The following issues are presented for this Court’s review:
+Whether a sovereign state waives its immunity from inter partes review in the Patent Trial and Appeal Board by filing a patent infringement suit in a federal district court on the challenged claims.
+Whether the Board correctly determined that IPRs are subject to state sovereign immunity. (While Appellant does not seek review of the underlying question, Appellees have indicated in their docketing statements that they intend to raise this issue and therefore it is addressed herein. See Dkt. No. 6; Dkt. No. 18)
+
+10
+
+Case: 18-1559	Document: 44 Page: 25 Filed: 05/31/2018
+STATEMENT OF THE CASE
+I.	Factual Background
+Appellant UMN is the governing board of the public land-grant university of
+the State of Minnesota. Minn. Terr. Laws, ch. 3, § 7 (1851) (Appx712-713); Appx720-721. UMN oversees five campuses in Minnesota, which collectively enroll approximately 67,000 students. Appx720.
+Since its founding in 1851, UMN’s mission has been “to provide the
+inhabitants of this Territory with the means of acquiring a thorough knowledge of the various branches of Literature, Science and the Arts.” Minn. Terr. Laws, ch. 3, § 3 (Appx712). UMN accomplishes that mission through teaching, research, and public service, which impacts over a million Minnesotans every year. Appx720-721.
+Research conducted by UMN is a significant part of its operation and budget. UMN spends roughly $700 million on research annually, making it one of the top ten largest public research institutions in the country. Appx720.
+UMN’s research is funded by a variety of sources, including federal, state, and governmental agencies. Appx720-721. As the recipient of federal funds for research, UMN understands that it is national policy, inter alia, “to use the patent system to promote the utilization of inventions arising from federally supported research or development.” 35 U.S.C. § 200 (“Bayh-Dole Act”). In service of that
+11
+
+Case: 18-1559	Document: 44 Page: 26 Filed: 05/31/2018
+policy, UMN applies for patent protection for inventions developed through such funded research, and licenses patents it obtains. E.g., Appx720-721, Appx736; Office for Technology Commercialization, University of Minnesota, 
+
+The patents challenged in the IPRs on appeal exemplify UMN’s commitment to this national policy. The subject inventions arose from research performed by UMN faculty, staff, and students. Appx46, Appx67, Appx89, Appx117, Appx145, Appx174, Appx191, Appx1143-1145, Appx1159-1161, Appx1175-1177, Appx1191-1193, Appx1223-1235, Appx1248-1254. The inventors assigned their inventions to UMN, which prosecuted the applications that led to the challenged patents. Id. UMN approached each of Appellees and Intervenor and offered to license one or more of these patents. Appx 1242, Appx1257. Despite those entities’ commercialization of the UMN’s patented inventions, they refused to license the patents. Appx1145-1146, Appx1162, Appx1177-1178, Appx1193-1194, Appx1235-1242, Appx1255-1257. To carry out its obligation to the public to protect, license, and generate revenue from UMN-developed intellectual property as provided in the Bayh-Dole Act, UMN sued for infringement. Each Appellee and Intervenor challenged the asserted patents as defenses in the district court litigation. Appx1270-1271, Appx1319, Appx1367, Appx1415, Appx1773, Appx1829-1830. Each Appellee and Intervenor also
+12
+
+Case: 18-1559	Document: 44 Page: 27 Filed: 05/31/2018
+initiated a separate IPR proceeding in a different forum (the Board). Those IPR proceedings are the subject matter of this appeal.
+II.	Procedural Background
+UMN filed the Ericsson Litigation on November 5, 2014, and Ericsson
+moved to intervene in the litigation on January 21, 2016. Appx1158, Appx1174, Appx1190, Appx1206-1217. UMN filed the LSI Litigation on August 25, 2016. Appx1246. UMN filed the Gilead Litigation on August 29, 2016. Appx1259. All defendants to the LSI, Ericsson, and Gilead Litigations challenged the asserted patents in those cases. Appx1270-1271, Appx1319, Appx1367, Appx1415, Appx1773, Appx1829-1830.
+In addition to challenging the patents in the district court forum that UMN chose, LSI, Ericsson, and Gilead initiated IPRs at the Board to get a second bite at the apple. LSI filed an IPR petition on March 10, 2017 challenging one UMN patent. Appx37-38. Ericsson filed six IPR petitions between March 28, 2017 and March 30, 2017 challenging five UMN patents. Appx39-45.1 Gilead filed four IPR petitions between June 30, 2017 and August 29, 2017 challenging a different UMN patent. Gilead Scis., Inc. v. Regents of the Univ. of Minn., IPR2017-01712, -
+1 The procedural histories of Ericsson’s IPRs are identical in all material respects. Consequently, citations herein are just to No. IPR2017-01186.
+13
+
+Case: 18-1559	Document: 44 Page: 28 Filed: 05/31/2018
+01753, -02004, -02005. The Ericsson, LSI, and Gilead IPR petitions were assigned to different panels of Board judges. Appx1, Appx18, Appx2038.
+UMN moved to dismiss LSI’s IPR petition in May 2017. Appx38. UMN moved to dismiss Ericsson’s IPR petitions in June 2017. Appx40-45. UMN moved to dismiss two of Gilead’s earlier-filed IPR petitions in September 2017 and the other two in November 2017. Appx1793-1816, Appx1936-1959. LSI, Ericsson, and Gilead opposed UMN’s motions to dismiss and UMN submitted a reply. Appx38, Appx40-45, Appx1894, Appx1915, Appx1960, Appx1981.
+On December 19, 2017, the Board denied UMN’s motions to dismiss the LSI and Ericsson IPRs.2 Appx1-45. Noting “the exceptional nature of the issues presented,” the Board had expanded the originally-designated panels from three judges to seven, by adding to each original panel the Chief Judge, the Deputy Chief Judge, and two Vice Chief Judges. Appx2-3, Appx19-21. Through these expanded panels, the Board issued substantively identical decisions in the Ericsson IPRs and the LSI IPR denying all the motions to dismiss. Appx1-36.
+The Board granted UMN’s motions to stay the Ericsson IPRs and the LSI IPR pending appeal on February 9, 2018. Appx1083-1093. UMN filed notices of appeal on February 12, 2018. Appx1094-1142.
+2 The Board has not yet ruled on UMN’s motion to dismiss Gilead’s IPRs. Appx2038-2042.
+14
+
+Case: 18-1559	Document: 44 Page: 29 Filed: 05/31/2018
+
+Over UMN’s objections, the LSI and Gilead Litigations were transferred from the District of Minnesota to the Northern District of California. Regents of the Univ. of Minn. v. LSI Corp., No. 16-cv-02891, Dkt. No. 144 (D. Minn. Feb. 1, 2018); Regents of Univ. of Minn. v. Gilead Scis., Inc., No. 16-cv-2915, 2017 WL 4773150 (D. Minn. Oct. 20, 2017). The LSI, Ericsson, and Gilead Litigations were stayed pending resolution of the IPRs. Regents of Univ. of Minn. v. LSI Corp., No. 5:18-cv-00821, 2018 WL 2183274 (N.D. Cal. May 11, 2018); Regents of the Univ. of Minn. v. AT&T Mobility LLC, No. 14-cv-04666, Dkt. No. 237 (D. Minn. May 19, 2017); Regents of the Univ. of Minn. v. Gilead Scis., Inc., No. 3:17-cv-06056, Dkt. No. 308 (N.D. Cal. Mar. 9, 2018).
+
+15
+
+Case: 18-1559	Document: 44 Page: 30 Filed: 05/31/2018
+SUMMARY OF THE ARGUMENT
+State sovereign immunity limits federal adjudicatory authority over States,
+whether exercised by federal courts or administrative agencies. A “defining feature of our Nation’s constitutional blueprint” is that States retained their sovereignty when entering the Union, and immunity from suit by a private party is among States’ sovereign rights. FMC, 535 U.S. at 751-52. A state thus may decide “not merely whether it may be sued, but where it may be sued.” Pennhurst, 465 U.S. at 99 (emphasis original); Tegic, 458 F.3d at 1342 (explaining that “a state may control where it may be sued” (citing Port Auth. Trans-Hudson Corp. v. Feeney, 495 U.S. 299, 307 (1990))).
+States thus stand on a different footing than private parties. “In the sovereign-immunity context, ... ‘[e]venhandness’ between individuals and States is not to be expected: ‘[T]he constitutional role of the States sets them apart from other ... defendants.’” Coll. Sav. Bank, 527 U.S. at 685-86 (quoting Welch, 483 U.S. at 477); see also Xechem Int’l, Inc. v. Univ. of Tex. M.D. Anderson Cancer Ctr., 382 F.3d 1324, 1329 (Fed. Cir. 2004) (citing the same language). This difference between the rights of a State and the rights of other litigants is a fundamental feature of our constitutional structure: “[by] guarding against encroachments by the Federal Government on fundamental aspects of state sovereignty, such as sovereign immunity, we strive to maintain the balance of
+16
+
+Case: 18-1559	Document: 44 Page: 31 Filed: 05/31/2018
+power embodied in our Constitution.” FMC, 535 U.S. at 769 (quoting Gregory v. Ashcroft, 501 U.S. 452, 458 (1991)).
+The same rule of sovereign immunity that applies to district courts also applies to adjudicatory administrative proceedings. “Private suits against nonconsenting States . . . present ‘the indignity of subjecting a State to the coercive process of judicial tribunals at the instance of private parties,’ regardless of the forum.”3 Alden v. Maine, 527 U.S. 706, 749 (1999) (quoting In re Ayers, 123 U.S. 443, 505 (1887)); see also FMC, 535 U.S. at 760-61. Sovereign immunity likewise applies to administrative proceedings that subject states to a process similar to the “coercive process of judicial tribunals.” FMC, 535 U.S. at 760; see also Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376, 1382 (Fed. Cir. 2007) (sovereign immunity applies to interference proceedings). The Supreme Court explained that administrative proceedings present the same if not “greater insult to a State’s dignity than requiring a State to appear in an Article III court.” FMC, 535 U.S. at 761 n.11.
+In the decisions on appeal, the Board correctly followed FMC, and this Court’s decision in Vas-Cath, and concluded that IPRs are subject to state
+3 Throughout this brief, emphasis is added unless otherwise noted.
+17
+
+Case: 18-1559	Document: 44 Page: 32 Filed: 05/31/2018
+sovereign immunity. Appx4-6.4 Because Appellees apparently intend to dispute that IPRs are subject to state sovereign immunity, UMN will explain why the Board was correct as to this issue.
+The Board, however, went on to find that UMN had waived its immunity by suing to enforce its patents. Appx6-10. That portion of the Board’s decision flies in the face of this Court’s precedent. In Tegic, this Court held that a State’s “filing of the [infringement] action did not establish waiver as to [a] separate action” challenging the patent. 458 F.3d at 1342. In A123, this Court again held that “where a waiver of immunity occurs in one suit, the waiver does not extend to an entirely separate lawsuit, even one involving the same subject matter and the same parties.” 626 F.3d at 1219.
+Rather than applying Tegic and A123, the Board misinterpreted language in two pre-Tegic cases, Lapides v. Board of Regents of University System of Georgia, 535 U.S. 613 (2002), and Regents of University of New Mexico v. Knight, 321 F.3d 1111 (Fed. Cir. 2003), as somehow dismantling established sovereign immunity law and, in its place, granting a roving power to the Board to disregard sovereign immunity whenever it believes enforcing it would be “unfair.” Appx6-10. But Lapides and Knight did not create some new, amorphous waiver doctrine based on
+4 Citations to the Board’s decision are to the decision in the IPR2017-01068 proceeding (Appx1-10), which is the subject of the lead appeal here. Unless otherwise noted, the other decision on appeal (Appx18-29) is the same.
+18
+
+Case: 18-1559	Document: 44 Page: 33 Filed: 05/31/2018
+
+“unfairness.” Instead, this Court found that where a State invokes the jurisdiction of a federal court to resolve a dispute, the State waives immunity only in the action in which the State voluntarily appeared to resolve a claim – i.e., in the State’s chosen forum, and only to the extent necessary for the complete determination of that claim. Tegic, 458 F.3d 1342-44 (rejecting waiver that was not necessary to “fully resolv[e] the state’s claims”).
+The Board’s failure to apply Tegic and A123 and its misapplication of Lapides and Knight are reversible errors of law. There was no waiver. Accordingly, this Court should reverse the Board’s denial of UMN’s motions to dismiss because sovereign immunity bars IPRs against non-consenting States.
+
+19
+
+Case: 18-1559	Document: 44 Page: 34 Filed: 05/31/2018
+
+STANDARD OF REVIEW
+This appeal concerns questions of law that this Court reviews de novo. See,
+e.g., Tegic, 458 F.3d at 1339 (“The constitutional issue of Eleventh Amendment immunity is given plenary review.”); Vas-Cath, 473 F.3d at 1382 (deciding de novo whether sovereign immunity applies to an administrative proceeding as a matter of law); Regents of the Univ. of Cal. v. Doe, 519 U.S. 425, 430 n.5 (1997) (holding that whether a state entity is entitled to invoke sovereign immunity “is a question of federal law”); Lapides, 535 U.S. at 623 (“[W]hether a particular set of state laws, rules, or activities amounts to a waiver of the State’s Eleventh Amendment immunity is a question of federal law.”). This Court reviews the Board’s findings of fact for substantial evidence. 5 U.S.C. § 706.
+
+20
+
+Case: 18-1559	Document: 44 Page: 35 Filed: 05/31/2018
+ARGUMENT
+For the reasons discussed in § I below, the Board correctly found that
+sovereign immunity applies to IPR proceedings. Congress established IPRs as an adversarial, adjudicative proceeding between a petitioner and a patent owner. Under FMC, IPRs are precisely the kind of proceedings to which sovereign immunity applies.
+For the reasons discussed in § II below, the Board erroneously concluded that UMN, by enforcing its patents in a federal district court, had waived its sovereign immunity from an IPR filed without its consent before the Board. Appx6-10. This Court’s holdings in Tegic and its progeny are clear: a sovereign State’s submission to the jurisdiction of one tribunal for the purposes of asserting a patent does not waive its sovereign immunity in a different action challenging that patent, let alone one in a different forum to whose jurisdiction the State does not assent. The Board’s decisions should therefore be reversed and UMN’s motions to dismiss the IPRs be granted.
+I.	The Board Correctly Concluded That IPRs Are Subject to UMN’s Sovereign Immunity and so Cannot Proceed Without UMN’s Consent.
+Sovereign immunity bars adversarial proceedings brought by a private party against a State (or an arm of the State with the power to invoke its immunity). FMC, 535 U.S. at 751-52. If the proceeding is administrative, the Supreme Court’s FMC decision governs whether it is the type of proceeding to which
+21
+
+Case: 18-1559	Document: 44 Page: 36 Filed: 05/31/2018
+sovereign immunity applies. Id. at 754-55. The Board correctly concluded that a State (and here, UMN as its instrumentality) may assert its sovereign immunity to the IPR proceeding.5 Appx4-6. In reaching that conclusion, the Board found that (1) UMN is the type of state instrumentality that can invoke Minnesota’s sovereign immunity, (2) IPRs involve adverse parties, and (3) IPRs are the type of adjudicatory administrative proceedings to which state sovereign immunity applies under FMC. Appx5. The Board was correct in all three respects.
+A.	UMN’s Ability to Invoke Minnesota’s Sovereign Immunity Is Undisputed, and Is a Matter of Well-Established Federal Law.
+State sovereign immunity applies to “certain actions against state agents and state instrumentalities.” Doe, 519 U.S. at 429. State universities “typically enjoy[] sovereign immunity.” Univ. of Utah, 734 F.3d at 1319. Federal courts at all levels have recognized UMN’s sovereign immunity. Raygor v. Regents of Univ. of Minn., 534 U.S. 533, 535-36 (2002) (citing Regents of Univ. of Minn. v. Raygor, 620 N.W.2d 680, 683 (Minn. 2001)) (noting that UMN is “an arm of the State of Minnesota”); Walstad v. Univ. of Minn. Hosps., 442 F.2d 634, 641-42 (8th Cir. 1971) (holding that UMN is “immune from suit as a sovereign entity”); Treleven v.
+5 That portion of the Board’s decision relies on several of its prior decisions. Id. (citing Covidien, No. IPR2016-01274, 2017 WL 4015009 at *8-11; NeoChord, Inc. v. Univ. of Md., Balt., No. IPR2016-00208, Paper 28 (P.T.A.B. May 23, 2017)).
+22
+
+Case: 18-1559	Document: 44 Page: 37 Filed: 05/31/2018
+Univ. of Minn., 73 F.3d 816, 818-19 (8th Cir. 1996); Turkish Coal. of Am., Inc. v. Bruininks, 678 F.3d 617, 621 n.1 (8th Cir. 2012).
+Neither Appellees nor Intervenor argued that UMN was not entitled to invoke Minnesota’s sovereign immunity. Appx3-4, Appx21. As a result, they waived any such argument on appeal. United States v. L.A. Tucker Truck Lines, Inc., 344 U.S. 33, 36-37 (1952); Nuclear Energy Inst. v. Envtl. Prot. Agency, 373 F.3d 1251, 1297 (D.C. Cir. 2004) (“It is a hard and fast rule of administrative law, rooted in simple fairness, that issues not raised before an agency are waived and will not be considered by a court on review.”).
+B.	IPRs Are Adversarial Proceedings Brought by the Petitioner Against the Patent Owner.
+“‘It is inherent in the nature of sovereignty [that a State is] not . . . amenable to the suit of an individual without its consent.’” FMC, 535 U.S. at 752 (quoting THE FEDERALIST No. 81, at 487-88 (Alexander Hamilton) (C. Rossiter ed. 1961)). To circumvent this immunity, Intervenor calls into question whether IPRs are adversarial proceedings, characterizing them instead as administrative actions by the Board or PTO against the patentee. But both the statute that created the IPR process and case law interpreting the statute establish that an IPR is an adversarial proceeding against the patent owner brought by a petitioner – not by the Board. Thus, the IPRs brought by Appellees and Intervenor (who are indisputably private
+23
+
+Case: 18-1559	Document: 44 Page: 38 Filed: 05/31/2018
+parties) against UMN fall within the scope of the State of Minnesota’s sovereign immunity.
+When creating IPRs, Congress “convert[ed] inter partes reexamination from an examinational to an adjudicative proceeding.” H.R. REP. No. 112-98, pt. 1, at 46-47 (2011). A central feature of IPRs’ adjudicative character is that IPRs are adversarial. Indeed, in SAS, the Supreme Court rejected the notion that an IPR is directed or controlled by the PTO or the Board. Rather, the Supreme Court described IPRs as a procedure that “allows private parties to challenge previously issued patent claims in an adversarial process before the Patent Office that mimics civil litigation” and does not “authorize the Director to start proceedings on his own initiative.” SAS Inst., Inc. v. Iancu, 138 S. Ct. 1348, 1352, 1355 (2018). Pointing to the text of the statute, the Court further explained that “Congress chose to structure [IPRs as] a process in which it’s the petitioner, not the Director, who gets to define the contours of the proceeding.” Id. at 1355; see also id. at 1356 (“Nothing [in the statute] suggests the Director enjoys a license to depart from the petition and institute a different inter partes review of his own design.” (emphasis original)).
+The Court further distinguished IPRs from ex parte reexamination and the prior, PTO-guided inter partes reexamination, explaining that “rather than create (another) agency-led, inquisitorial process for reconsidering patents, Congress
+24
+
+Case: 18-1559	Document: 44 Page: 39 Filed: 05/31/2018
+opted for a party-directed, adversarial process.” Id. at 1355. In this respect, SAS further explained that relative to inter partes reexamination, “[t]he new [IPR] regime looks a good deal more like civil litigation.” Id. at 1353. In fact, IPRs share the following similarities with civil litigation:
+IPRs are defined as a “contested case,” and the “parties” to IPR are identified as the petitioner and patent owner. 37 C.F.R. § 42.2.
+IPRs “begin with the filing of a petition that identifies all of the claims challenged and the grounds and supporting evidence on a claim-by-claim basis.” Office Patent Trial Practice Guide, 77 Fed. Reg. 48,756, 48,757 (Aug. 14, 2012); 35 U.S.C. §§ 311(a), 312(a); see also SAS, 138 S. Ct. at 1355 (“Much as in the civil litigation system it mimics, in an inter partes review the petitioner is master of its complaint.”).
+After the petitioner files the petition, the patent owner may respond to the petition with a motion (as in the IPRs on appeal here) and/or with a preliminary response. 35 U.S.C. § 313; 37 C.F.R. §§ 42.20-42.25.
+The proceeding is initiated by the Petitioner and begins well before the institution decision, with the Board presiding, in a judicial manner, over the preliminary stage of the parties’ dispute. See 37 C.F.R. § 42.2 (defining the IPR “proceeding” to include the “preliminary proceeding,” which “begins with the filing of a petition”). For
+25
+
+Case: 18-1559	Document: 44 Page: 40 Filed: 05/31/2018
+example, before institution, the Board can order discovery, sanction parties, conduct oral hearings, and authorize and decide motions. E.g., RPX Corp. v. Applications in Internet Time, LLC, No. IPR2015-01750, 2015 WL 6157114 (P.T.A.B. Oct. 20, 2015) (granting discovery before institution under 37 C.F.R. § 42.51(b)(2)); id., 2015 WL 7889318 (P.T.A.B. Dec. 4, 2015) (authorizing a protective order before institution under 37 C.F.R. § 42.54(a)); id., 2016 WL 3577873 (P.T.A.B. July 1, 2016) (ordering sanctions before institution under 37 C.F.R. § 42.12(a)).
+The parties use standard forms of discovery against each other (but not against the Board), which the Board can enforce with sanctions. 35 U.S.C. § 316(a); 37 C.F.R. §§ 42.51-42.65.
+The patent owner may file a response to the petition or a motion to amend, which the petitioner can oppose. 37 C.F.R. §§ 42.120, 42.121.
+The parties (but not the Board) may offer rebuttal evidence that “is responsive to the adversary’s evidence.” Belden Inc. v. Berk-Tek LLC, 805 F.3d 1064, 1082 (Fed. Cir. 2015).
+The parties (i.e., the petitioner and patent owner) may settle the IPR, SAS, 138 S. Ct. at 1354 (“The parties may also settle their differences
+26
+
+Case: 18-1559	Document: 44 Page: 41 Filed: 05/31/2018
+and seek to end the review.” (citing 35 U.S.C. § 317(a))). But “the Board is not a party to the settlement.” 37 C.F.R. § 42.74(a)).
+The Board cannot conduct the proceeding without the parties and does not conduct its own investigation, but instead must decide the case based on the “arguments that were advanced by a party, and to which the opposing party was given a chance to respond” – i.e., an adversarial model in which an impartial adjudicator (the Board) resolves matters presented by parties. In re Magnum Oil Tools Int’l, Ltd. (“Magnum”), 829 F.3d 1364, 1380-81 (Fed. Cir. 2016) (the Board lacks authority “to raise, address, and decide unpatentability theories never presented by the petitioner”); §§ 314(a), 318(a).
+Upon issuance of a final written decision on patentability from the Board, both the parties (i.e., the petitioner and the patent owner) may be subject to estoppels that are specific to the parties. 35 U.S.C. § 315(a)(1); § 315(a)(2); § 315(e)(2); 37 C.F.R. § 42.73(d)(3). The Board, of course, not being a party, is not estopped from conducting subsequent IPRs requested by new requester.
+Subsequent to the final written decision, the parties may appeal. While the PTO and the United States may intervene in the appeal of an IPR, 35 U.S.C. § 143; 37 C.F.R. § 90.2(a)(3)(ii), that fact makes no difference to the Eleventh
+27
+
+Case: 18-1559	Document: 44 Page: 42 Filed: 05/31/2018
+Amendment analysis. For example, the United States was a party to the appeal in FMC, but the Supreme Court nonetheless applied sovereign immunity to the administrative proceeding. See, e.g., S.C. State Ports Auth. v. Fed. Mar. Comm’n, 243 F.3d 165 (4th Cir. 2001) (captioning the United States as a party to the appeal); Brief for Petitioner at 9 n.3, Fed. Mar. Comm’n v. S.C. Ports Auth., 535 U.S. 743 (2002) (No. 01-46), 2001 WL 1530159, at *9 n.3 (explaining the United States’ status as a party); see generally U.S. ex rel. Eisenstein v. City of N.Y., 556 U.S. 928, 933 (2009) (explaining that “intervention is the requisite method for a nonparty to become a party”). Finally, the Board, in issuing its final written decision, acts like a judge or jury by assessing the persuasiveness of the evidence and arguments made by the patent owner and the challenging party to resolve the parties’ dispute before it over whether the patent claims survive the petitioner’s specific challenges, and cannot consider arguments or grounds outside the record the parties create. Magnum Oil, 829 F.3d at 1380-81.
+In light of the foregoing, the Board was plainly correct that IPRs are adversarial proceedings between patent owner and petitioner. These adversarial characteristics make clear that IPRs are proceedings before the Board as adjudicator, not proceedings by the Board as a party (acting as a branch of the federal government), and so IPRs are not exempted from sovereign immunity for that reason. See, e.g., R.I. Dep’t of Envtl. Mgmt. v. United States, 304 F.3d 31, 53
+28
+
+Case: 18-1559	Document: 44 Page: 43 Filed: 05/31/2018
+(1st Cir. 2002) (applying sovereign immunity to proceedings in which an agency “acts as the neutral arbiter of law and fact”).
+Intervenor had suggested that the Supreme Court’s then-pending Oil States decision might affect the above analysis. Appx1966-1967, Appx1971. It did not. Oil States explained that patents are public rights granted by the government and so IPRs do not violate Article III of the U.S. Constitution. Oil States Energy Servs. v. Greene’s Energy Grp., 138 S. Ct. 1365, 1372-78 (2018). That ruling has no bearing on whether sovereign immunity applies to IPRs. Oil States likewise has no bearing on whether IPRs are adversarial proceedings between patent owner and petitioner. Indeed, SAS, which the Supreme Court issued the same day as Oil States, confirmed that IPRs are “a party-directed, adversarial process,” as distinguished from reexamination’s “inquisitorial approach.” SAS, 138 S. Ct. at 1355. And the Fourth Circuit’s decision affirmed by FMC explained that even a dispute over a public right is not exempted from the rule that “a private party simply cannot commence an adversarial proceeding against an unconsenting state.” S.C. State Ports Auth., 243 F.3d at 175 n.*. Oil States’ holding regarding the constitutionality of IPRs under Article III, therefore, has no bearing on whether IPRs are adversarial proceedings between the petitioner and patent owner.
+29
+
+Case: 18-1559	Document: 44 Page: 44 Filed: 05/31/2018
+C.	Under FMC, IPRs Are the Type of Adjudicatory Administrative Proceedings to Which State Sovereign Immunity Applies.
+In FMC, the Supreme Court applied sovereign immunity to the Federal Maritime Commission’s administrative proceedings based on three procedural similarities between Commission proceedings and district court litigation. 535 U.S. at 756-59. First, the Commission’s Administrative Law Judges (“ALJs”) have a role that is “‘functionally comparable’ to that of a judge.” Id. at 756. Second, the Commission’s administrative proceeding have “‘many of the same safeguards as are available in the judicial process.’” Id. at 756-57. Third, the rules and procedures of the Commission’s administrative tribunal result in its proceedings bearing “a remarkably strong resemblance to civil litigation in federal courts.” Id. at 757.
+This Court applied FMC in Vas-Cath to conclude that interference proceedings at the Board are sufficiently similar to district court litigation with regard to the features that FMC identified and so are subject to sovereign immunity. Vas-Cath, 473 F.3d at 1382. Interferences have “adverse parties, examination and cross-examination by deposition of witnesses, production of documentary evidence, findings by an impartial federal adjudicator, and power to implement the decision.” Id. Though interferences and district court litigation are not identical, sovereign immunity applied. Id.
+30
+
+Case: 18-1559	Document: 44 Page: 45 Filed: 05/31/2018
+IPRs are materially indistinguishable from district court litigation in at least the ways that FMC and Vas-Cath identified. The Board’s conclusion that sovereign immunity applies to IPRs expressly relied on Vas-Cath and indirectly relied on FMC by citing its prior decision in Covidien, which applied FMC in detail. Appx4-5 (citing Vas-Cath and Covidien).
+1.	The Board’s Role in IPR Is Functionally Comparable to That of Judges in Federal District Court Litigation.
+The criteria applied in FMC to determine whether ALJs have a role that is “‘functionally comparable’ to that of a judge” included:
+His powers are often, if not generally, comparable to those of a trial judge: He may issue subpoenas, rule on proffers of evidence, regulate the course of the hearing, and make or recommend decisions. More importantly, the process of agency adjudication is currently structured so as to assure that the hearing examiner exercises his independent judgment on the evidence before him, free from pressures by the parties or other officials within the agency.
+FMC, 535 U.S. at 756 (quoting Butz v. Economou, 438 U.S. 478, 513 (1978)).
+Applying these criteria to the Commission’s administrative proceeding, FMC found it sufficient that (1) the ALJ is an “impartial officer” because the ALJ is shielded from influence as prescribed by the Administrative Procedures Act (“APA”) and (2) the ALJ conducts an adversarial hearing, rules on motions, takes evidence, receives legal briefs, issues a decision, orders relief for the prevailing party, and imposes sanctions such as attorney’s fees. Id. at 758 n.9, 758-59.
+31
+
+Case: 18-1559	Document: 44 Page: 46 Filed: 05/31/2018
+The members of the Board are “impartial officer[s]” and “impartial federal adjudicator[s]” like the ALJs in FMC and Vas-Cath, 473 F.3d at 1382. Indeed, Vas-Cath explained that the Board members (who also conduct interferences, see 35 U.S.C. § 135(a) (2010); 37 C.F.R. § 41.200) are “impartial federal adjudicator[s].” 473 F.3d at 1382. Further, as in FMC, the protections of the APA apply to the Board in IPR. See, e.g., Novartis AG v. Torrent Pharm. Ltd., 853 F.3d 1316, 1324 (Fed. Cir. 2017); Belden, 805 F.3d at 1080.
+Much like the Commission in FMC, the Board’s “powers are often, if not generally, comparable to those of a trial judge.” FMC, 535 U.S. at 756 (quoting Butz, 438 U.S. at 513)). “There are also notable similarities between the role of the [Board] and that of an Article III judge in civil litigation,” including reviewing pleadings, setting schedules, setting standards for discovery, deciding motions, resolving procedural requests, imposing sanctions, and issuing a final written decision. Covidien LP, 2017 WL 4015009, at *10 (citations omitted), cited in Appx4; see § I.B. In this respect, the Board’s powers in IPR are not meaningfully different from its powers during interferences, which were sufficiently comparable to federal litigation to give rise to sovereign immunity. Vas-Cath, 473 F.3d at 1382.
+32
+
+Case: 18-1559	Document: 44 Page: 47 Filed: 05/31/2018
+IPRs Have the Same Procedural Safeguards as in FMC. FMC concluded that the administrative proceeding used “‘many of the same
+safeguards as are available in the judicial process,’” including:
+The proceedings are adversary in nature. They are conducted before a trier of fact insulated from political influence. A party is entitled to present his case by oral or documentary evidence, and the transcript of testimony and exhibits together with the pleadings constitute the exclusive record for decision. The parties are entitled to know the findings and conclusions on all of the issues of fact, law, or discretion presented on the record.
+Id. at 756-57 (quoting Butz, 438 U.S. at 513)).
+IPRs likewise “are adversar[ial] in nature,” id., and the parties’ dispute is resolved by the Board based on the evidence. See § I.B; 35 U.S.C. §§ 312, 313, 316(a)(5); 37 C.F.R. §§ 42.51-42.65; 5 U.S.C. § 556(e); Magnum Oil, 829 F.3d at 1380-81. Further, Butz, which FMC quotes for this rule, explains that the safeguards are secured by application of 5 U.S.C. §§ 554-557 to the administrative proceeding. Butz, 438 U.S. at 513. Sections 554-557 all apply to IPRs. See, e.g., Novartis AG, 853 F.3d at 1324; Belden, 805 F.3d at 1080. Thus, all the safeguards FMC mentioned are available in IPRs.
+IPRs’ Rules and Procedures Result in a Proceeding that Resembles Federal Court Litigation.
+FMC also noted the similarities between the Commission’s administrative rules and procedures and those in federal court litigation. 535 U.S. at 757-58. With regard to pleadings, the Commission’s administrative proceeding begins with
+33
+
+Case: 18-1559	Document: 44 Page: 48 Filed: 05/31/2018
+a complaint, which is followed by an answer, and can include motion practice such as a motion to dismiss. Id. With regard to discovery, parties to the Commission’s administrative proceeding may employ depositions, interrogatories, document requests, and other discovery means available in civil litigation. Id. at 758. Further, the Federal Rules of Evidence apply to the proceedings. Id. at 759 n.10.
+IPRs also share with the FMC Commission’s proceedings the pleadings, discovery practices, and procedures that FMC found sufficient. IPRs are governed by pleadings, e.g., 35 U.S.C. §§ 312, 313 (providing for the petition and preliminary response), and the Board’s decision on patentability is limited to issues raised by the parties. Magnum Oil, 829 F.3d at 1380-81; see also SAS, 138 S. Ct. at 1355. Many types of discovery are available in IPRs, including the use of depositions and documentary evidence that Vas-Cath found sufficient. 37 C.F.R. §§ 42.51-42.65; Vas-Cath, 473 F.3d at 1382. Further, as in FMC, here too the Federal Rules of Evidence also apply to IPRs. 37 C.F.R. §§ 42.62, 41.152(a).
+* * *
+In sum, an IPR “walks, talks and squawks very much like a lawsuit,” FMC, 535 U.S. at 757, and meets all of FMC’s requirements. While IPRs are not identical to district court litigation, see, e.g., Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2143-44 (2016) (noting several differences), they share the same features with civil litigation that the Supreme Court found determinative in FMC.
+34
+
+Case: 18-1559	Document: 44 Page: 49 Filed: 05/31/2018
+See, e.g., SAS, 138 S. Ct. at 1353-54 (explaining that IPRs “proceed[] before the Board with many of the usual trappings of litigation”); Cuozzo, 136 S. Ct. at 2143 (recognizing that IPRs’ “adjudicatory characteristics . . . make these agency proceedings similar to court proceedings”).
+The few differences between IPRs and civil litigation do not change the outcome. This Court has already found that sovereign immunity applies to PTO interference proceedings, despite differences between those proceedings and district court litigation. Vas-Cath, 473 F.3d at 1382. To the extent differences exist between IPRs and district court litigation, those differences are likewise insufficient to eliminate IPRs from the category of proceedings “from which the Framers would have thought the States possessed immunity when they agreed to enter the Union.” FMC, 535 U.S. at 756. IPRs, much the same as federal court cases, threaten the core interests that state sovereign immunity protects, including protecting States from the indignity of being haled before a tribunal to answer to a private party’s contentions, forcing States to pay to defend themselves in the proceeding, and risking the loss of valuable property. See Alden, 527 U.S. at 750.
+Further, the differences between IPRs and district court litigation do nothing to alleviate FMC’s concern that “allowing a private party to haul a State in front of such an administrative tribunal [could] constitute[] a greater insult to a State’s dignity than requiring a State to appear in an Article III court.” 535 U.S. at 760.
+35
+
+Case: 18-1559	Document: 44 Page: 50 Filed: 05/31/2018
+Cuozzo, for example, notes that petitioners in IPRs need not have constitutional standing and need only meet a lower burden of proof. Cuozzo, 136 S. Ct. at 214344. Those features of IPRs only enhance the “insult to a State’s dignity” if forced to defend itself against an IPR brought by a private party. FMC, 535 U.S. at 761 n.11.
+Because IPRs are similar to district court litigation in the ways that FMC identified, and because the differences between IPRs and district court litigation only amplify the risk to States’ sovereignty, state sovereign immunity applies in IPRs.
+II.	The Board Incorrectly Concluded that UMN Waived Its State
+Sovereign Immunity by Asserting the Challenged Patents.
+As the parties asserting waiver, Appellees and Intervenor bear the heavy burden of proving “that an unequivocal waiver of sovereign immunity exists.” Welch v. United States, 409 F.3d 646, 650-51 (4th Cir. 2005); see also Dunn & Black, P.S. v. United States, 492 F.3d 1084, 1088 (9th Cir. 2007) (same); In re Friendship Med. Ctr., Ltd., 710 F.2d 1297, 1300 (7th Cir. 1983) (“A plaintiff bears a heavy burden in showing waiver.”); Xechem, 382 F.3d at 1332 (affirming dismissal because plaintiff failed to meet its burden to show waiver).
+Regardless of how it arises, waiver of state sovereign immunity must be “unequivocally expressed.” Pennhurst, 465 U.S. at 99 (citing Edelman v. Jordan, 415 U.S. 651, 673 (1974)); see also Coll. Sav. Bank, 527 U.S. at 680 (requiring
+36
+
+Case: 18-1559	Document: 44 Page: 51 Filed: 05/31/2018
+that “a State’s express waiver of sovereign immunity be unequivocal” (citing Great Northern Life Ins. Co. v. Read, 322 U.S. 47 (1944))). “While waiver in the litigation context focuses on the litigation act, the waiver must nonetheless be ‘clear.’” Tegic, 458 F.3d at 1342 (quoting Lapides, 535 U.S. at 620); see also Lapides, 535 U.S. at 620 (focusing on clarity of “the litigation act the State takes that creates the waiver.”).
+The touchstone for the determination of whether sovereign immunity bars an action is the fundamental principle that a State has the right to control “whether it may be sued [and] where it may be sued,” notwithstanding any litigation advantage over private parties that such rights might create. Pennhurst, 465 U.S. at 99 (emphasis original); see also Port Auth. Trans-Hudson Corp., 495 U.S. at 307 (explaining that States can limit their consent to certain courts, and noting that “issues of venue are closely related to those concerning sovereign immunity”). College Savings Bank explained that “‘evenhandness’ between individuals and States is not to be expected” since “the constitutional role of the States sets them apart.’” 527 U.S. at 685-86 (quoting Welch, 483 U.S. at 477). Thus, while a State’s invocation of the jurisdiction of a court waives sovereign immunity, it does so only to a circumscribed degree, namely (1) only in the action in which the State voluntarily appeared to resolve a claim and (2) only to the extent necessary for the complete determination of that claim. Clark v. Barnard, 108 U.S. 436, 447-48
+37
+
+Case: 18-1559	Document: 44 Page: 52 Filed: 05/31/2018
+(1883); Gardner v. New Jersey, 329 U.S. 565, 574 (1947); Gunter v. Atl. Coast Line R.R. Co., 200 U.S. 273, 291-92 (1906).
+This Court has on two occasions (Tegic and A123) addressed the question of whether a State’s infringement action waives its sovereign immunity as to a separate challenge to the patent in a different forum, and in both cases this Court concluded that it does not. Yet the Board refused to follow those cases. Instead, it relied upon and misinterpreted Lapides, Knight, and Biomedical Patent Management Corp. v. California, Department of Health Services (“BPMC”), 505 F.3d 1328 (Fed. Cir. 2007) – cases that do not address the circumstances present here, where a separate challenge to the patent is brought in a different forum. The Board cannot disregard Tegic and A123, nor can it make new constitutional law, particularly on the well-worn paths that narrowly define the limits of sovereign immunity waiver. Because Tegic and A123 govern, and because the Board misinterpreted the precedent it relied on to reach the opposite result, the Board’s waiver holding should be reversed.
+A.	UMN Did Not Waive Its Sovereign Immunity Merely by Applying For and Obtaining the Challenged Patents.
+Appellees and Intervenor have indicated that they may argue that UMN waived its sovereign immunity merely by applying for and obtaining the Challenged Patents. E.g., Appx880, Appx1908-1909. But States do not waive their sovereign immunity merely because they pursue conduct “that is undertaken
+38
+
+Case: 18-1559	Document: 44 Page: 53 Filed: 05/31/2018
+for profit, that is traditionally performed by private citizens and corporations, and that otherwise resembles the behavior of ‘market participants.’” Coll. Sav. Bank, 527 U.S. at 684; id. at 687 (“[W]here the constitutionally guaranteed protection of the States’ sovereign immunity is involved, the point of coercion is automatically passed—and the voluntariness of waiver destroyed—when what is attached to the refusal to waive is the exclusion of the State from otherwise lawful activity.”). Applying College Savings Bank, this Court has consistently rejected the argument that obtaining a patent ipso facto waives state sovereign immunity. “[A] state’s participation in the federal patent system does not of itself waive immunity in federal court with respect to patent infringement by the state.” Vas-Cath, 473 F.3d at 1381. Likewise, in Xechem, this Court affirmed dismissal of an inventorship action against a State patent owner, explaining that Supreme Court precedent including College Savings Bank “foreclosed” the argument that the State consented “to any federal proceeding involving those patents” merely by obtaining the patents. 382 F.3d at 1327, 1331. Obtaining the patents did not subject UMN to private parties’ actions attacking those patents.
+B.	This Court’s Tegic and A123 Decisions Resolve the Issue on Appeal.
+In Tegic and A123, this Court addressed the dispositive issue in this case and concluded that, by suing to enforce its patent, a State does not waive its immunity to a private party’s challenge to the asserted patents in a separate action. In Tegic,
+39
+
+Case: 18-1559	Document: 44 Page: 54 Filed: 05/31/2018
+a State filed an infringement action, and a supplier to the defendants thereafter filed a separate declaratory judgment action challenging the asserted patents in a different court. 458 F.3d at 1337-38. This Court held that a State’s “filing of the [infringement] action did not establish waiver as to [a] separate action” challenging the patent, even though a separate action would have been available had the patentee been a private litigant. Id. at 1342.
+Likewise, A123 concerned a State’s infringement action and a separate declaratory judgment action challenging the asserted patents. 626 F.3d at 1215-16. This Court again held that “where a waiver of immunity occurs in one suit, the waiver does not extend to an entirely separate lawsuit, even one involving the same subject matter and the same parties.” Id. at 1219.
+Those holdings resolve this case. Here, as in Tegic and A123, the IPRs are entirely separate actions from the district court litigations filed in a different forum. As the Supreme Court recently explained, IPRs and district court litigation “provide[] different tracks—one in the Patent Office and one in the courts—for the review and adjudication of patent claims.” Cuozzo, 136 S. Ct. at 2146. As has been true for over two centuries, infringement litigation – including challenges to the asserted patents – can be resolved without resort to the IPR process.
+Petitioning for IPR is a separate, optional process. When allowed, IPRs proceed
+40
+
+Case: 18-1559	Document: 44 Page: 55 Filed: 05/31/2018
+independently of district court litigation, and can reach different results. Id. at 2146. And the results of IPRs and district court litigation are separately appealed.
+The Board’s sole basis to distinguish this appeal from Tegic or A123 is that here the separate challenge to the patent is an IPR rather than a declaratory judgment action. Appx9-10. That distinction is insufficient for at least three reasons.
+First, while IPRs and declaratory judgment actions have their differences, they share the critical feature that determined the outcome in Tegic and A123 – they are both separate proceedings rather than integral parts of the action the State initiated.
+Second, Tegic specifically rejected the argument that procedural differences between two proceedings justify extending waiver to the separate action challenging the asserted patent. Tegic explained, “[t]o determine immunity under the Eleventh Amendment it is necessary to look to the substantive charge, not to the procedure for obtaining relief.” 458 F.3d at 1342. The Board acknowledged, as it must, that Appellees may “assert a defense and/or counterclaim challenging the validity of the asserted patent in the district court.” Appx10. Thus, the “substantive charge” that controlled the outcome of Tegic is the same here. 458 F.3d at 1342. Under Tegic, the differences in “the procedure for obtaining relief,” id., on which the Board relied are immaterial.
+41
+
+Case: 18-1559	Document: 44 Page: 56 Filed: 05/31/2018
+Third, the Board incorrectly distinguished Tegic and A123 by asserting that they “do[] not address waiver with respect to separate proceedings in a single forum created by Congress.” Appx9. To start, this simply is not true. Declaratory judgment actions in federal district courts are also separate proceedings in a forum Congress created. See U.S. CONST. art. III, § 1 (Congress assigned power to create inferior courts); 28 U.S.C. ch. 5 (statutory provisions established federal district courts); 28 U.S.C. § 2201 (statutory provision creating declaratory judgment remedy). To the extent the Board meant to imply that, by creating the IPR process, Congress somehow conveyed an intent to subject States to IPR review whenever they file an infringement action, that suggestion has no merit either. Congress has not acted to limit state sovereign immunity in IPRs. And even if it had purported to do so, Congress has no greater authority to limit sovereign immunity in an administrative proceeding than it does in a judicial proceeding. Sovereign immunity applies equally to a district court action as to an administrative proceeding that sufficiently resembles district court litigation: “[I]f the Framers thought it an impermissible affront to a State’s dignity to be required to answer the complaints of private parties in federal courts, we cannot imagine that they would have found it acceptable to compel a State to do exactly the same thing before the administrative tribunal of an agency. . . .” FMC, 535 U.S. at 754; id. at 760.
+42
+
+Case: 18-1559	Document: 44 Page: 57 Filed: 05/31/2018
+Congress cannot sidestep sovereign immunity by subjecting States to an adjudicative action via an administrative proceeding.
+Moreover, even had Congress purported to take such action, Congress lacks Article I power to abrogate States’ sovereign immunity in IPRs or otherwise subject States to a special, more expansive rule of waiver. Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 72-73 (1996); Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank, 527 U.S. 627, 645 (1999) (quoting City of Boerne v. Flores, 521 U.S. 507 (1997)). In any event, Congress has never “unequivocally expressed” any intent to abrogate States’ sovereign immunity from IPR. Kimel v. Fla. Bd. of Regents, 528 U.S. 62, 73 (2000).
+The Board, thus, had no legitimate basis to treat IPRs differently from the district court declaratory judgment actions in Tegic and A123. Nor does the vague “fairness” concept that the Board purports to derive from the Supreme Court’s decision in Lapides and this Court’s decisions in Knight and BPMC, justify overriding Tegic and A123. As discussed below, Lapides, Knight, and BPMC do not allow the Board to find waiver of UMN’s sovereign immunity in the IPR proceedings below on those (or any) grounds. To the contrary, they confirm the reasons that UMN’s infringement suits do not waive immunity to IPR.
+43
+
+Case: 18-1559	Document: 44 Page: 58 Filed: 05/31/2018
+C.	The Board Misapplied Lapides, Which Did Not Expand the Scope of Litigation Waiver Beyond its Traditional Bounds.
+Despite the Board’s conclusion that sovereign immunity applies to IPRs, the Board erroneously concluded that Lapides authorized an extension of traditional waiver principles to avoid what the Board viewed as an “unfairness.” Lapides is the most recent decision in a line of cases from the Supreme Court dating back to the 1800s that established the limited conditions under which a non-consenting State may be found to have waived its sovereign immunity based on litigation conduct. In each instance, the waiver applied (1) only in the action in which the State voluntarily appeared to resolve a claim and (2) only to the extent necessary for the complete determination of that claim. The Board ignored the limitations set out in Lapides and misread it in a manner that this Court has previously and rightly rejected.
+1.	Under Longstanding Supreme Court Precedent, Litigation Waiver Applies Only as to the Action in Which the State Voluntarily Appears and Only to the Extent Necessary to Resolve That Action.
+The Supreme Court has consistently limited waiver by litigation conduct to the particular action in which the State voluntarily appears – by initiating, intervening, selecting the forum or failing to timely assert its immunity – and then only to the extent necessary for the complete determination of that action. For example, in Clark v. Barnard – a bankruptcy proceeding in which Rhode Island
+44
+
+Case: 18-1559	Document: 44 Page: 59 Filed: 05/31/2018
+intervened – the Supreme Court was “relieved” of deciding the immunity question “by the voluntary appearance of the state.” 108 U.S. 436, 442, 445-48 (1883). As a consequence, the Court held that “[i]n the present case the [State] appeared in the cause . . . and thereby made itself a party to the litigation to the full extent required for its complete determination.” Id. at 448.
+The Supreme Court reached the same conclusion in Gardner v. New Jersey, where New Jersey had filed a claim for back taxes in a bankruptcy proceeding. 329 U.S. 565, 570, 574 (1947). As the Supreme Court explained, “[w]hen the State becomes the actor and files a claim against the fund it waives any immunity which it otherwise might have had respecting the adjudication of the claim.” Id. at 574 (citing Clark, 108 U.S. at 447-48).
+Gunter v. Atlantic Coast Line Railroad Co. stands for the same rule. 200 U.S. 273, 291-92 (1906). In Gunter, the State voluntarily submitted itself to the jurisdiction of a federal court, and judgment was entered. Id. The State later argued, based on sovereign immunity, that the court could not enforce its judgment. Id. The Supreme Court rejected the argument because sovereign immunity was waived “as a result of the voluntary action of the state in submitting its rights to judicial determination.” Id.
+Most recently, in Lapides, a State voluntarily invoked a federal court’s jurisdiction to resolve a claim, and thereafter sought to assert immunity from the
+45
+
+Case: 18-1559	Document: 44 Page: 60 Filed: 05/31/2018
+judgment arising from that claim – in that same court and in the same action. 535 U.S. at 616-17. The State had originally been sued in state court on state law claims, where it had waived its sovereign immunity by statute. Id. The State removed the action to federal court, and then sought dismissal on the grounds that the State was immune from suit in federal court. Id. The Supreme Court held that, by choosing the federal court, the State agreed to that court’s jurisdiction over the matter. Id. at 619-20. This was a straightforward application of the longstanding rule from Clark, Gardner, and Gunter, which, again, the Supreme Court “s[aw] no reason to abandon.” Id. at 620.
+The Seventh Circuit decision on which the Board relied is not contrary. Appx9 (citing Bd. of Regents of Univ. of Wis. Sys. v. Phoenix Int’l Software, Inc. (“Phoenix”), 653 F.3d 448, 466 (7th Cir. 2011)). In Phoenix, the State waived immunity to the underlying administrative proceeding, and further invoked federal jurisdiction by challenging the administrative decision through a district court action. It then, however, sought to dismiss counterclaims on the basis of sovereign immunity. Phoenix, 653 F.3d at 451, 464. The Seventh Circuit explained that the State’s choice to bring the dispute to district court justified finding waiver – in that same court chosen by the State – as to the private party’s counterclaims. Id. at 466. Thus, Phoenix illustrates that under the long-established rule, a State’s choice to
+46
+
+Case: 18-1559	Document: 44 Page: 61 Filed: 05/31/2018
+invoke federal jurisdiction waives immunity as to complete resolution of that case in that same action and forum.
+To UMN’s knowledge, no case has applied waiver from litigation conduct beyond those limits – until the Board’s decisions on appeal here. See, e.g., BPMC, 505 F.3d at 1336 (“BPMC misses one critical point . . . : the waivers found in the cases cited by BPMC were based on actions by a State in the same case, not in . . . entirely different actions.”). Neither Appellees, Intervenor nor the Board cited any contrary case. By finding that bringing an action in one forum (federal court) the State waives immunity in a different action brought by a private citizen in a different forum (the Board), the Board overstepped the confines of the Supreme Court’s long-established rule articulated in Clark, Gardner, and Gunter. To reach that result, the Board relied on an incorrect interpretation of Lapides.
+2.	Lapides Applied This Longstanding Waiver Rule to Removal; It Did Not Create a New Roving Mandate to Find Waiver Based on “Unfairness” or “Inconsistency.”
+The Board misinterpreted Lapides as giving it authority to find sovereign immunity waived whenever enforcing it might seem (in the Board’s judgment) “unfair” or “inconsistent.” Citing Lapides, the Board asserted that waiver can be found in IPR because “bar[ring] Petitioner ... from obtaining the benefits of an [IPR] of the asserted patent would result in substantial unfairness and inconsistency.” Appx10. But Lapides did not expand the narrowly-circumscribed
+47
+
+Case: 18-1559	Document: 44 Page: 62 Filed: 05/31/2018
+waiver doctrine into one that allows agencies to find waiver whenever their sense of “fairness” suggests. On the contrary, after restating the traditional rule articulated in Clark, Gardner, and Gunter, Lapides explained that “[w]e see no reason to abandon the general principle.” 535 U.S. at 620. Lapides made passing reference to the issues of fairness and consistency only to point out that the established doctrine is fair and sensible. Id. at 619-20. In other words, Lapides addressed fairness in explaining the rationale for the centuries-old rule, not to reverse it or invent a new one.
+Lapides’s language about unfairness and inconsistency was used to explain why the Court rejected the State’s arguments that it had not waived immunity in the very federal action it initiated. Id. at 620. The State had argued that waiver from litigation conduct should not exist because it was not “clear,” as required by College Savings Bank. Id. (citing Coll. Sav. Bank, 527 U.S. at 675-81). Lapides then explained that the Court’s holding “makes sense” because it could be unfair and inconsistent to allow a State both to “invoke federal jurisdiction” and simultaneously to “claim Eleventh Amendment immunity” in the same case. Id. at 619-20. Lapides thus does not contradict or reverse the traditional rule from Clark, Gardner, and Gunter – it reaffirms it, while explaining why doing so is fair.
+Nor does Lapides expand the scope of litigation waiver. First, Lapides made clear that it was addressing only whether a state that initiated “the case at hand”
+48
+
+Case: 18-1559	Document: 44 Page: 63 Filed: 05/31/2018
+waived its immunity in that “case at hand.” 535 U.S. at 619. Thus, by its own express terms, it does not concern waiver beyond the action that the State voluntarily submitted to the federal tribunal.
+Second, interpreting Lapides as vesting in an administrative agency the unfettered authority to dispense with a State’s sovereign immunity based on notions of unfairness and inconsistency conflicts with the Supreme Court’s instruction that “[w]aivers of sovereign immunity are construed narrowly.” Chancellor Manor v. United States, 331 F.3d 891, 898 (Fed. Cir. 2003) (citing United States v. Nordic Vill., Inc., 503 U.S. 30, 34 (1992) (holding that a sovereign’s “consent to be sued must be construed strictly in favor of the sovereign”)); see also City of S. Pasadena v. Mineta, 284 F.3d 1154, 1158 (9th Cir. 2002) (finding no waiver “[b]ecause waivers of sovereign immunity are narrowly construed” (citing Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 241 (1985))).
+Third, while Lapides emphasized that “jurisdictional rules should be clear,” 535 U.S. at 621, the Board’s malleable standard of “fairness” is anything but a clear rule. It evinced no suggestion whatsoever that this longstanding rule should be replaced with some malleable new standard of “fairness”; and indeed any such dramatic change would no doubt have been accompanied by a clear enunciation of intent to alter a long-established test.
+49
+
+Case: 18-1559	Document: 44 Page: 64 Filed: 05/31/2018
+Fourth, Lapides should not be interpreted to extend waiver beyond the traditional rule to pursue to the policy of “unfairness,” since it is for Congress – not the courts – to make such policy decisions (and only if and when constitutionally authorized to do so). The Supreme Court explained that it is “reluctan[t] to infer that a State’s immunity from suit in the federal courts has been negated,” and so insists “on the clearest indications in holding that Congress has enhanced our power” to supersede that immunity. Atascadero State Hosp., 473 U.S. at 242 (quoting Pennhurst, 465 U.S. at 99). Here, nothing suggests that Congress considered, much less decided, that “fairness” requires States to be required to submit to IPRs as a condition for access to federal courts to enforce their patents. And as discussed in Section II.A above, Congress lacks the authority to impose such a rule. Seminole Tribe of Fla., 517 U.S. at 72-73; Coll. Sav. Bank, 527 U.S. at 687. Yet under Appellees’ interpretation of Lapides, the Board may exercise a power that Congress itself does not have, effectively abrogating states’ sovereign immunity whenever it thinks fairness requires putting states on the same footing with private parties in judicial or administrative proceedings.
+In sum, Lapides was a straightforward decision that simply applied longstanding law regarding sovereign immunity and waiver. It neither announced, nor resulted in, any change in that law, and certainly did not expand the scope of
+50
+
+Case: 18-1559	Document: 44 Page: 65 Filed: 05/31/2018
+litigation waiver by granting to tribunals a new roving power to dispense with sovereign immunity whenever it believed the doctrine would create “unfairness.”
+3.	This Court Has Consistently Applied Lapides Within the Traditional Confines of the Rule Articulated in Clark, Gardner, and Gunter.
+This Court has never interpreted Lapides as creating an amorphous rule of waiver based on unfairness and inconsistency. Tegic applied Lapides within its proper historical context:
+We agree with the University that its filing of the Texas action did not establish waiver as to this separate action. While waiver in the litigation context focuses on the litigation act, the waiver must nonetheless be “clear.” Lapides, 535 U.S. at 620, 122 S. Ct. 1640. In Clark, 108 U.S. at 448, 2 S. Ct. 878, waiver to the “complete
+determination” of the litigation was clear from the state’s voluntary intervention in that litigation; in Gardner, 329 U.S. at 574, 67 S. Ct. 467, waiver respecting the “adjudication” of a claim was clear from the state's filing of that claim; in Lapides, 535 U.S. at 619, 122 S. Ct. 1640, waiver as to the resolution of the “case at hand” was clear from its voluntary removal of that case to a federal court. . . . Although here the University obviously “made itself a party to the litigation to the full extent required for its complete determination,” Clark, 108 U.S. at 448, 2 S.Ct. 878, it did not thereby voluntarily submit itself to a new action brought by a different party in a different state and a different district court.
+Tegic, 458 F.3d at 1342.
+Likewise, in BPMC, this Court held that Lapides did not result in waiver of sovereign immunity beyond the action in which the state had invoked the court’s jurisdiction. There, a State had previously intervened in a district court patent suit, resulting (under the established rule that had been “recently reaffirmed” in
+51
+
+Case: 18-1559	Document: 44 Page: 66 Filed: 05/31/2018
+Lapides) in waiver of immunity in that suit. BPMC, 505 F.3d at 1331-33 (citing Knight, 321 F.3d at 1125-26). BPMC thereafter filed a separate suit on the same patent against the same State, which asserted its sovereign immunity. Id. at 133133. Plaintiff argued the earlier waiver should extend to the subsequent action, noting that the parties and the subject patent were the same, and citing Lapides’ concern with “avoiding unfairness and inconsistency.” Id. at 1335. This Court rejected the argument, explaining that the plaintiff “misses one critical point” – that its cases concern waiver “in the same case,” and that “waiver of immunity in one case” does not affect “a State’s ability to later assert immunity in a separate case.” Id. at 1336.
+By contrast, in circumstances where this Court has found waiver under Lapides, the waiver did not extend beyond that which was necessary to resolve the claims in the action in which the state invoked the court’s jurisdiction. In Vas-Cath, the private party to a State-initiated interference sought judicial review under 35 U.S.C. § 146 after the State prevailed. The State asserted that it was immune from that appeal. 473 F.3d at 1379-80. This Court disagreed, relying on the longstanding rule in Lapides and other cases that “a state’s voluntary entry into federal court serves to waive state immunity from federal adjudication of that claim.” Id. at 1383 (citing Clark, 108 U.S. at 447). Waiver thus applied to the appellate portion of the state-initiated action. Id.
+52
+
+Case: 18-1559	Document: 44 Page: 67 Filed: 05/31/2018
+This Court applied Lapides in the same way in Knight, which held that filing a lawsuit in federal court waives immunity as to compulsory counterclaims. 321 F.3d at 1126. Knight noted the centuries-old rule (citing Clark and Gunter) and had to decide whether that rule encompassed all compulsory counterclaims or just those of the “same kind or nature” as the state claim. Id. at 1124-25. Noting that compulsory counterclaims necessarily “arise from the same transaction or occurrence,” and so “should be litigated together,” Knight concluded that the rule that a State waives immunity as to the court’s resolution of its claim encompasses compulsory counterclaims. Id. at 1125.
+In short, Knight, like Vas-Cath, applied the longstanding rule, and noted the rationales for that rule that had been given in Lapides. Knight did not interpret Lapides as creating some broad, new rule of waiver based on more amorphous criteria.
+4.	Even if Lapides Had Created a Rule of Waiver Based on “Unfairness” and “Inconsistency,” UMN’s Choice to Litigate Challenges to Its Patents in Federal Court, and Not Before the Board, Is Neither Unfair Nor Inconsistent.
+Lapides did not create a rule of waiver based on “unfairness” and “inconsistency,” but even if it had, UMN’s choice to litigate challenges to its asserted patents in district court does not create the kinds of fairness or consistency concerns that, as Lapides notes, the established rule is designed to avoid (such as a State initiating an action and then claiming immunity in that very action). As a
+53
+
+Case: 18-1559	Document: 44 Page: 68 Filed: 05/31/2018
+consequence, the Board’s decisions are wrong, even applying its incorrect standard.
+Lapides addressed a State’s use of its sovereign immunity to bar resolution of an action the State brought to the federal forum. The State acted unfairly and inconsistently by “asserting . . . in the same case” that (1) “Judicial power of the United States extends to the case at hand” and (2) sovereign immunity applies, “thereby denying that the Judicial power of the United States extends to the case at hand.” Lapides, 535 U.S. at 619. Lapides, like Clark, Gardner, and Gunter, concerned a State attempting to both gain the advantages of a federal forum while avoiding the consequences of full and unfettered litigation in its chosen forum.
+Here, by contrast, Appellees and Intervenor have a full, fair, and unfettered opportunity to litigate any and all challenges to the patent they may wish to assert in the federal forum in which they have been sued (or indeed, as to the LSI and Gilead Litigations, in the federal forum to which Appellees succeeded in having those cases transferred). Appx1270-1271, Appx1319, Appx1367, Appx1415, Appx1773, Appx1829-1830.
+That these defendants may be required to litigate their cases in federal court, while defendants in suits not involving States have the option to also ask the Board to hear challenges to the patent, is not the kind of unfairness Lapides had in mind. College Savings Bank explained that “‘evenhandness’ between individuals and
+54
+
+Case: 18-1559	Document: 44 Page: 69 Filed: 05/31/2018
+States is not to be expected” since “the constitutional role of the States sets them apart.’” 527 U.S. at 685-86 (quoting Welch, 483 U.S. at 477). Lapides did not disturb the long-recognized principle that a core feature of sovereign immunity is the State’s right to control “not merely whether it may be sued, but where it may be sued,” notwithstanding any litigation advantage over private parties that such rights might create. Pennhurst, 465 U.S. at 99 (emphasis original).
+Accordingly, this Court has rejected the claim that there is any unfairness of the sort alluded to in Lapides in limiting a defendant to one full and fair opportunity to litigate its claim in the forum chosen by the State. In Tegic, this Court rejected the theory that denying the private party the option to initiate a new action created the kind of unfairness described in Lapides. 458 F.3d at 1344. Rather, Tegic explained that the private party could simply intervene in the State’s case, where it can challenge the asserted patent, and thereby “avoid ‘inconsistency, anomaly, and unfairness’ in litigation.” Id. (quoting Lapides, 535 U.S. at 620).
+Instead, this Court has found the unfairness described in Lapides applicable only when a state has tried to use its immunity to prevent a full and fair adjudication of the claims that the State brought to federal court. In Vas-Cath, this Court found unfairness where the State initiated an interference and then sought to shield a favorable decision from judicial review. 473 F.3d at 1383-84. In Knight, this Court found unfairness where the State filed suit and then sought to dismiss
+55
+
+Case: 18-1559	Document: 44 Page: 70 Filed: 05/31/2018
+defendant’s compulsory counterclaims. 321 F.3d at 1125. That holding is consistent with Lapides, in which the State brought an action to federal court by removing it from state court and then asserted that its immunity in federal court barred adjudication of that action. 535 U.S. at 619-20.
+The Board also reasoned that defendants may perceive some procedural benefits to IPRs over district court litigation. Appx10. But even if there are strategic reasons for defendants to prefer the IPR forum, sovereign immunity permits States to take such factors into account in deciding where to submit to adjudication. States are entitled, for example, to waive immunity only to suits in their own courts, without being forced in the name of fairness to likewise submit to federal jurisdiction even if there are material differences (for example, in the right to a jury trial) between the courts. Coll. Sav. Bank, 527 U.S. at 676; Smith v. Reeves, 178 U.S. 436, 441-42 (1900); cf. Lehman v. Nakshian, 453 U.S. 156, 16162 (1981) (noting that the federal government may, and usually does, condition its waiver of immunity from suit on not being subject to jury trial).
+In short, the fairness concerns raised in Lapides do not exist here. Appellees have a full and fair opportunity to raise – and have raised – challenges to the asserted patents in the actions UMN initiated and in the forum (a federal district court) UMN chose. (Indeed, in the LSI and Gilead Litigations, the particular district court is actually one chosen by LSI and Gilead, each of which moved
+56
+
+Case: 18-1559	Document: 44 Page: 71 Filed: 05/31/2018
+successfully for a change of venue.) There is no ground upon which unpatentability can be found in an IPR that is not also available as a defense in the district court. As Tegic explained, the opportunity to challenge the asserted patent in the case the State initiated “avoid[s] ‘inconsistency, anomaly, and unfairness’ in litigation.” 458 F.3d at 1344 (quoting Lapides, 535 U.S. at 620). Appellees and Intervenor do not need, and cannot constitutionally force a State to submit to, a different adjudicatory proceeding in a different forum.
+D.	The Board Misapplied Knight, Which Did Not Extend Waiver to Any Merely Foreseeable Consequence of the State’s Action.
+The Board misinterpreted Knight as creating yet another new rule of waiver based on whether the State could “anticipate” that accused infringer would petition for IPR. Appx7 (citing Knight, 321 F.3d at 1126). Knight did observe that application of the traditional rule to compulsory counterclaims was consistent with the fairness and consistency rationale noted in Lapides because the State should have anticipated that compulsory counterclaims, being compulsory, would necessarily be litigated as part of the same action in which the State agreed to be bound. Knight, 321 F.3d at 1126. Knight, however, mentioned the foreseeability of compulsory counterclaims only to further justify the application of the traditional rule to counterclaims that “should be litigated in the same cause of action” as the States’ claims. Id. at 1125-26. Knight did not hold, or even suggest, that it was creating a new rule of waiver that departed from the traditional rule.
+57
+
+Case: 18-1559	Document: 44 Page: 72 Filed: 05/31/2018
+Indeed, Tegic specifically rejected the Board’s reasoning that foreseeability of a separate action could justify waiver as to that action. In Tegic, the challenger argued that its separate act “was ‘fully foreseeable,’ much in the same way that the defendant’s counterclaims in [Knight] were foreseeable.” 458 F.3d at 1343. This Court recognized that Knight did not create such a broad rule:
+[T]he court’s rationale in [Knight] was not merely that the compulsory counterclaims were foreseeable; it was that the resolution of the compulsory counterclaims was a foreseeable aspect of fully
+resolving the state’s claims. It is not sufficient that a state’s
+initiation of a civil action would make a related action “foreseeable.”
+Id. at 1343-44.
+Rather, Tegic explained that Knight was merely an application of the traditional rule. After the Court explained why a clear waiver occurred as to the action in which the State submitted itself in Clark, Gardner, and Lapides, this Court in Tegic explained that Knight was no different:
+And in [Knight], waiver as to compulsory counterclaims filed by the defending party ‘in the same forum’ was clear from the state’s filing of the suit in that forum, for the state could “surely anticipate” that such counterclaims, which would otherwise be forever barred, would be asserted.
+Id. at 1342-43.
+Thus, asserting a patent in one case is not an indication of waiver (let alone a “clear” one) as to a separate proceeding challenging the patent in a forum the State did not choose. Id. (citing Lapides, 535 U.S. at 620). Tegic reaffirmed that
+58
+
+Case: 18-1559	Document: 44 Page: 73 Filed: 05/31/2018
+Lapides and Knight did not change the centuries-old rule that a State that initiates an action in federal court waives its sovereign immunity only for “‘complete determination’” of the “‘case at hand’” and “‘in the same forum.’” Id. (quoting Clark, 108 U.S. at 448; Lapides, 535 U.S. at 619; Knight, 321 F.3d at 1126). In all those cases, Tegic explained, initiating an action in federal court “‘made [the State] a party to the litigation to the full extent required for its complete determination,’” but the State did not “voluntarily submit itself” to a different action in a different forum. Id. at 1343 (quoting Clark, 108 U.S. at 448).
+Tegic’s logic is controlling here, since IPRs are a separate action – indeed, an “alternative to litigation” (77 Fed. Reg. 48,680, 48,680) – and so are not “necessary to fully resolve the claims and counterclaims in [UMN’s district court] action.” Tegic, 458 F.3d at 1344; see also H.R. REP. No. 112–98, pt. 1, pp. 48 (2011). A defendant in a patent litigation is never required to petition for IPR, and always has the right and ability to challenge the asserted patent, on any basis or theory it may wish to assert, in district court.
+E.	The Board Misapplied BPMC, Which Did Not Change Tegic’s and A123’s Clear Rule Concerning Separate Patent Challenges.
+Finally, the Board wrongly concluded that dicta in BPMC supported its analysis of the waiver issues. In BPMC, this Court said that no “bright-line rule” precludes waiver in one action from extending to another action. Appx7 (citing BPMC, 505 F.3d at 1339). But BPMC actually refused to extend waiver from one
+59
+
+Case: 18-1559	Document: 44 Page: 74 Filed: 05/31/2018
+
+action to another. BPMC, 505 F.3d at 1339-40. BPMC’s dicta declining to adopt a “bright-line rule” for situations not before it reflects judicial restraint – not an invitation to the Board to modify or ignore long-established waiver law based on what the Board thinks is “fair.” This Court had already spoken in Tegic, which was followed by BPMC and A123, on the factual scenario the Board had before it, holding that there is no waiver. BPMC, 505 F.3d at 1339; A123, 626 F.3d at 121920. BPMC does not support waiver in a separate action.
+
+60
+
+Case: 18-1559	Document: 44 Page: 75 Filed: 05/31/2018
+CONCLUSION
+For the above reasons, the Board correctly held that States have sovereign
+immunity from IPRs. The Board, however, erred in finding that UMN waived that immunity by suing in federal district court to enforce its patents. Under this Court’s and the Supreme Court’s controlling case law, the Board is barred from adjudicating these IPRs brought against UMN by private citizens. Accordingly, the Board’s decisions denying the motions to dismiss should be reversed, and this case should be remanded to the Board with instructions to dismiss the IPRs.
+Respectfully submitted,
+Date: May 29, 2018	/s/ Michael A. Albert
+Michael A. Albert
+Richard F. Giunta
+Charles T. Steenburg
+Gerald B. Hrycyszyn
+Stuart V. C. Duncan Smith
+WOLF GREENFIELD & SACKS, P.C.
+600 Atlantic Avenue
+Boston, MA 02210
+Tel: (617) 646-8000
+Attorneys for Appellant
+Regents of the University of Minnesota
+61
+
+Case: 18-1559	Document: 44 Page: 76 Filed: 05/31/2018
+ADDENDUM
+
+Case: 18-1559	Document: 44 Page: 77 Filed: 05/31/2018
+
+Attachment A
+
+Case: 18-1559	Document: 44 Page: 78 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 14 Filed: 03/27/2018
+	Paper 19
+571-272-7822	Entered: December 19, 2017
+UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+LSI CORPORATION and AVAGO TECHNOLOGIES U.S., INC.,
+Petitioner,
+v.
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Patent Owner.
+Case IPR2017-01068
+Patent 5,859,601
+Before DAVID P. RUSCHKE, Chief Administrative Patent Judge, SCOTT R. BOALICK, Deputy Chief Administrative Patent Judge, JACQUELINE WRIGHT BONILLA, SCOTT C. WEIDENFELLER, Vice Chief Administrative Patent Judges, ROBERT J. WEINSCHENK, CHARLES J. BOUDREAU, and JACQUELINE T. HARLOW, Administrative Patent Judges.
+Opinion for the Board filed by Chief Administrative Patent Judge RUSCHKE.
+Opinion Concurring filed by Administrative Patent Judge HARLOW.
+ORDER
+Denying Patent Owner’s Motion to Dismiss
+37 C.F.R. §§ 42.5, 42.71
+Appx1
+
+Case: 18-1559	Document: 44 Page: 79 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 15 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+I. INTRODUCTION
+Regents of the University of Minnesota (“Patent Owner”) filed a Motion to Dismiss (Paper 10, “Motion” or “Mot.”) the Petition for an inter partes review (Paper 1, “Petition” or “Pet.”) in this proceeding. Specifically, Patent Owner contends that it is entitled to avoid this proceeding entirely because it is a sovereign that is immune to our authority under the Eleventh Amendment to the U.S. Constitution. Mot. 1, 15. LSI Corporation and Avago Technologies U.S., Inc. (collectively, “Petitioner”) filed an Opposition to the Motion (Paper 11, “Opposition” or “Opp.”), to which Patent Owner filed a Reply in Support of the Motion (Paper 13, “Reply”). For the reasons discussed below, the Motion is denied.
+II.	PANEL EXPANSION
+Our standard operating procedures provide the Chief Judge with discretion to expand a panel to include more than three judges. PTAB SOP 1, 2–5 (§§ II, III) (Rev. 14); see id. at 2 (introductory language explaining that the Director has delegated to the Chief Judge the authority to designate panels under 35 U.S.C. § 6); see also In re Alappat, 33 F.3d 1526, 1532 (Fed. Cir. 1994) (abrogated on other grounds by In re Bilski, 545 F.3d 943 (Fed. Cir. 2008)) (providing that Congress “expressly granted the [Director] the authority to designate expanded Board panels made up of more than three Board members.”). The Chief Judge may consider panel expansions upon a “suggestion” from a judge, panel, or party in a post-issuance review created by the Leahy-Smith America Invents Act, Pub. L. No. 112-29, 125 Stat. 284 (2011) (“AIA”), such as an inter partes review. Id. at 3–4; see also Apple Inc. v. Rensselaer Polytechnic Inst., Case
+2
+Appx2
+
+Case: 18-1559	Document: 44 Page: 80 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 16 Filed: 03/27/2018 IPR2017-01068
+Patent 5,859,601
+IPR2014-00319, slip op. at 2 n.1 (PTAB Dec. 12, 2014) (Paper 20) (expanded panel) (per curiam).
+The standard operating procedure sets forth some of the reasons for which the Chief Judge may expand a panel. PTAB SOP 1, 3–4 (§ III.A). For example, an expanded panel may be appropriate when “[t]he proceeding or AIA Review involves an issue of exceptional importance.” Id. (§ III.A.1). An expanded panel may also be appropriate when “necessary to secure and maintain uniformity of the Board’s decisions.” Id. (§ III.A.2).
+In this case, the Chief Judge has considered whether expansion is warranted, and has decided to expand the panel due to the exceptional nature of the issues presented.1 As we discuss further below, the issues of whether a State can claim Eleventh Amendment immunity and whether such immunity may be waived have been raised in this proceeding. These issues are of an exceptional nature. The Eleventh Amendment immunity issue continues to be raised in multiple cases before the Board. We have not had occasion to address the waiver issue before, but it has been raised in multiple cases before the Board. The Chief Judge also has determined that an expanded panel is warranted to ensure uniformity of the Board’s decisions involving these issues.
+III. ANALYSIS
+Petitioner does not dispute that Patent Owner is a State entity that can claim sovereign immunity under the Eleventh Amendment, at least with
+1 Consistent with the standard operating procedure, the Judges on the merits panel in this case have been designated as part of the expanded panel, and the Chief Judge, Deputy Chief Judge, and Vice Chief Judges Bonilla and Weidenfeller have been added to the panel. PTAB SOP 1, 4 (§ III.E).
+3
+Appx3
+
+Case: 18-1559	Document: 44 Page: 81 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 17 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+respect to this Motion. See Mot. 9–13; Opp. 6 n.4. The parties disagree, though, about whether Eleventh Amendment immunity can be invoked in an inter partes review. Mot. 2–9; Opp. 1–4. We agree with Patent Owner that “an IPR is an adjudicatory proceeding of a federal agency from which States are immune.” Mot. 8 (citing Covidien LP v. Univ. of Fla. Research Found., Inc., Case IPR2016-01274, slip op. at 24, (PTAB Jan. 25, 2017) (Paper 21)). Nevertheless, we determine, for the reasons discussed below, that Patent Owner has waived its Eleventh Amendment immunity by filing an action in federal court alleging infringement of the patent being challenged in this proceeding.
+A.	Patent Owner May Assert Eleventh Amendment Immunity
+The Board has previously determined that Eleventh Amendment immunity is available to States as a defense in an inter partes review proceeding. Reactive Surfaces Ltd., LLP v. Toyota Motor Corp., Case IPR2016-01914 (PTAB July 13, 2017) (Paper 36) (granting in part motion to dismiss and dismissing Regents of the University of Minnesota from an inter partes review proceeding); NeoChord, Inc. v. Univ. of Md., Balt., Case IPR2016-00208 (PTAB May 23, 2017) (Paper 28) (granting motion to dismiss and terminating an inter partes review); Covidien LP v. Univ. of Fla. Research Found. Inc., Case IPR2016-01274 (PTAB Jan. 25, 2017) (Paper 21) (granting motion to dismiss and dismissing three Petitions requesting an inter partes review). We agree.
+The Supreme Court has held that the rules and practice of procedure of the Federal Maritime Commission are sufficiently similar to civil litigation for the State of South Carolina to raise Eleventh Amendment
+4
+Appx4
+
+Case: 18-1559	Document: 44 Page: 82 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 18 Filed: 03/27/2018 IPR2017-01068
+Patent 5,859,601
+immunity as a defense to participation in a proceeding seeking damages and injunctive relief against the South Carolina State Ports Authority. See Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743, 757–58, 765–66 (2002) (“FMC”). Applying FMC, the Federal Circuit has held that Eleventh Amendment immunity is available in interference proceedings before the Board of Patent Appeals and Interferences (the predecessor of the PTAB) because interferences are sufficiently similar in procedure to civil litigation, i.e., they involve adverse parties, examination and cross-examination by deposition of witnesses, production of documentary evidence, findings by an impartial federal adjudicator, and power to implement the decision. Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376, 1381–82 (Fed. Cir. 2007).
+Patent Owner asserts that inter partes reviews are sufficiently similar in procedure to interferences and other adjudicatory proceedings such that Eleventh Amendment immunity is available as a defense in both types of proceedings. See Mot. 3–8. We agree with Patent Owner. In keeping with Vas-Cath, we determine that inter partes reviews, like interferences, are similar to court proceedings inasmuch as they involve adverse parties, examination of witnesses, cross-examination by deposition, findings by an impartial adjudicator, power to implement the adjudicator’s decision, the ability of the adjudicator to set a time for filing motions and for discovery, and application of the Federal Rules of Evidence. See generally NeoChord, slip op. at 6–7 (Paper 28). Patent Owner, therefore, is entitled to rely on its
+5
+Appx5
+
+Case: 18-1559	Document: 44 Page: 83 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 19 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+Eleventh Amendment immunity in inter partes reviews, as appropriate.2 That determination, however, does not end our inquiry in this case.
+B.	Patent Owner Waived its Eleventh Amendment Immunity
+We must now decide whether, and in what circumstances, a State may waive its Eleventh Amendment immunity before us. Previous Board decisions have not involved a State that filed an action in federal court alleging infringement of the same patent being challenged in the petition for an inter partes review. Here, Patent Owner has filed such an action, and, accordingly, Petitioner argues that Patent Owner waived its Eleventh Amendment immunity by filing such an action. Opp. 4–12. We agree with Petitioner that the filing of an action in federal court alleging infringement effectively waives Patent Owner’s Eleventh Amendment immunity defense.
+A State’s waiver of Eleventh Amendment immunity in one action does not necessarily extend to a separate action, even if the separate action involves the same parties and the same subject matter. Biomedical Patent Mgmt. Corp. v. Cal., Dep’t of Health Servs., 505 F.3d 1328, 1339 (Fed. Cir.
+2 As the Supreme Court and my concurring colleague correctly note, in many “significant respects, inter partes review is less like a judicial proceeding and more like a specialized agency proceeding.” Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2143 (2016). Indeed, we rely on the differences between court and agency proceedings in reaching our determination that Patent Owner has waived its Eleventh Amendment immunity in this matter. See infra at 9–10. We respectfully disagree, nevertheless, that those differences alone provide a sufficient basis to conclude that “Congress had the power to compel States to surrender their sovereign immunity” wholesale in a proceeding that so closely resembles court proceedings. Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank, 527 U.S. 627, 635 (1999).
+6
+Appx6
+
+Case: 18-1559	Document: 44 Page: 84 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 20 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+2007) (“BPMC”). But there is not “a bright-line rule whereby a State’s waiver of sovereign immunity can never extend to a . . . separate lawsuit.” Id. Instead, the rule governing waiver of immunity by litigation conduct rests on the need to avoid unfairness and inconsistency, and to prevent a State from selectively using its immunity to achieve a litigation advantage. Lapides v. Bd. of Regents of Univ. Sys. of Ga., 535 U.S. 613, 620 (2002); BPMC, 505 F.3d at 1340.
+The facts presented here are similar to those in Regents of Univ. of New Mexico v. Knight, 321 F.3d 1111, 1125–26 (Fed. Cir. 2003) (“Knight”), where a State was found to have waived its Eleventh Amendment immunity as to compulsory counterclaims. Specifically, the Federal Circuit explained that “because a state as plaintiff can surely anticipate that a defendant will have to file any compulsory counterclaims or be forever barred from doing so, it is not unreasonable to view the state as having consented to such counterclaims.” Id. at 1126 (emphasis added). Similarly, a party served with a patent infringement complaint in federal court must request an inter partes review of the asserted patent within one year of service of that complaint or be forever barred from doing so. See 35 U.S.C. § 315(b). Thus, it is reasonable to view a State that files a patent infringement action as having consented to an inter partes review of the asserted patent.3 See Knight, 321 F.3d at 1126. That is particularly true where, as here, the State
+3 We do not conclude that an inter partes review is a compulsory counterclaim under Fed. R. Civ. P. 13(a). Rather, we determine that the rationale given in Knight, 321 F.3d at 1126, for holding that a State waived its Eleventh Amendment immunity as to a compulsory counterclaim similarly supports determining that Patent Owner waived its Eleventh Amendment immunity as to this proceeding.
+7
+Appx7
+
+Case: 18-1559	Document: 44 Page: 85 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 21 Filed: 03/27/2018 IPR2017-01068
+Patent 5,859,601
+filed its patent infringement action well after the AIA was enacted. See, e.g., Mot. 1 (indicating that Patent Owner filed suit on August 25, 2016).
+Further, when a State files a patent infringement action in federal court, it is the State’s litigation conduct that triggers the one-year statutory bar for an inter partes review. See 35 U.S.C. § 315(b). It would be unfair and inconsistent to allow a State to avail itself of the federal government’s authority by filing a patent infringement action in federal court, but then selectively invoke its sovereign immunity to ensure that a defendant is barred from requesting an inter partes review of the asserted patent from a different branch of that same federal government. See Lapides, 535 U.S. at 619–20; Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys., 458 F.3d 1335, 1341–42 (Fed. Cir. 2006) (emphasizing the need “to look to the substantive charge, not to the procedure for obtaining relief” in order to avoid the “‘seriously unfair results’ [that] could result if a state were permitted to file suit in a federal court and at the same time claim immunity against the defendant’s claims arising from the same conduct” (quoting Knight, 321 F.3d at 1125)).
+In fact, Patent Owner acknowledged as much in its motion to dismiss in Reactive Surfaces. IPR2016-01914, Paper 23, 18–20. In that case, Patent Owner addressed a hypothetical (as of the date of this decision) scenario in which a patent assertion entity (“PAE”) assigned ownership of a patent to a State in order to invoke Eleventh Amendment immunity and avoid an inter partes review. Id. at 18. Patent Owner acknowledged that the State would have to join any infringement action, and that “[b]y voluntarily invoking federal jurisdiction in the infringement litigation, the [S]tate entity could be deemed to have waived its sovereign immunity to the IPR process, which
+8
+Appx8
+
+Case: 18-1559	Document: 44 Page: 86 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 22 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+would deprive the PAE of any litigation advantage it might have hoped for.” Id. at 19–20. Patent Owner attempts to distinguish that hypothetical scenario from this case because it involved a State acting together with a PAE. Reply 4. We fail to see, though, how a State selectively asserting its sovereign immunity to achieve a litigation advantage for itself, rather than a PAE, is less unfair to a defendant.
+The crux of Patent Owner’s argument in this proceeding is that any waiver of Eleventh Amendment immunity should be limited to the venue where Patent Owner filed its action. Mot. 13–15 (citing A123 Sys., Inc. v. Hydro-Quebec, 626 F.3d 1213, 1219–20 (Fed. Cir. 2010); Tegic, 458 F.3d at 1342, 1344–45); Reply 3–4. Although waiver is generally limited in this way in our court system, which is arranged geographically, it is not a bright-line rule. BPMC, 505 F.3d at 1339. Indeed, “[a]n animating principle of Lapides is that a state should not reap litigation advantages through its selection of a forum and subsequent assertion of sovereign immunity as a defense.” Bd. of Regents of Univ. of Wis. Sys. v. Phoenix Int’l Software, Inc., 653 F.3d 448, 466 (7th Cir. 2011). And the authority on which Patent Owner relies does not address waiver with respect to separate proceedings in a single forum created by Congress, such as the post-issuance review proceedings under the AIA.
+In any event, the cases cited by Patent Owner are distinguishable. In those cases, a private party was not permitted to assert claims against a State in a different forum from the one in which the State filed its action. A123 Sys., 626 F.3d at 1219–20; Tegic, 458 F.3d at 1342–44. The private party, however, did not suffer any substantial unfairness from that result because the private party could still assert the exact same claims in the forum where
+9
+Appx9
+
+Case: 18-1559	Document: 44 Page: 87 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 23 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+the State filed its action. A123 Sys., 626 F.3d at 1216 (“A123 had an adequate remedy because UT has waived Eleventh Amendment immunity in the Northern District of Texas.”); Tegic, 458 F.3d at 1344 (“It has not been shown . . . that the adjudication of Tegic’s claims of noninfringement and invalidity is not available in the Texas action.”).
+In contrast, here, Petitioner cannot seek an inter partes review in the district court where Patent Owner filed its patent infringement action. We recognize that Petitioner may be able to assert a defense and/or counterclaim challenging the validity of the asserted patent in the district court where Patent Owner filed its action. Reply 4–5. But, even though an inter partes review has characteristics that are similar to district court litigation, the proceedings are not the same. See Cuozzo, 136 S. Ct. at 2143–44. Therefore, allowing Patent Owner to assert its Eleventh Amendment immunity in this proceeding selectively so as to bar Petitioner, a defendant sued by Patent Owner, from obtaining the benefits of an inter partes review of the asserted patent would result in substantial unfairness and inconsistency. See Lapides, 535 U.S. at 620.
+For the foregoing reasons, we determine that Patent Owner has waived its Eleventh Amendment immunity by filing an action in federal court alleging infringement of the patent being challenged in this proceeding.
+IV. ORDER
+In consideration of the foregoing, it is hereby:
+ORDERED that Patent Owner’s Motion to Dismiss is denied.
+10
+Appx10
+
+Case: 18-1559	Document: 44 Page: 88 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 24 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+LSI CORPORATION and AVAGO TECHNOLOGIES U.S., INC.,
+Petitioner,
+v.
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Patent Owner.
+Case IPR2017-01068
+Patent 5,859,601
+Before DAVID P. RUSCHKE, Chief Administrative Patent Judge, SCOTT R. BOALICK, Deputy Chief Administrative Patent Judge, JACQUELINE WRIGHT BONILLA, SCOTT C. WEIDENFELLER, Vice Chief Administrative Patent Judges, ROBERT J. WEINSCHENK, CHARLES J. BOUDREAU, and JACQUELINE T. HARLOW, Administrative Patent Judges.
+HARLOW, Administrative Patent Judge, concurring.
+I write separately to express my view that a state university, having availed itself of Patent Office procedures to secure patent rights from the public, may not subsequently invoke sovereign immunity as a shield against reconsideration by the Patent Office in an inter partes review proceeding of
+Appx11
+
+Case: 18-1559	Document: 44 Page: 89 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 25 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+whether the agency improvidently granted a patent monopoly in the first instance.1
+
+Sovereign immunity has been found to attach to administrative proceedings where those actions resemble civil litigation. See Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743, 753–761 (2002) (“FMC”). Inter partes review cannot be said, however, to bear the same marks of civil litigation as previously considered administrative matters. Obvious differences exist, for example, between the U.S. Patent and Trademark Office’s review of a patent procured from that agency by a State, and the Federal Maritime Commission’s review of a State’s refusal to berth a cruise ship at port facilities within the sovereign borders of a State that are managed by a State authority. See FMC, 535 U.S. at 748–49. The adjudication at issue in FMC, after all, implicated a power with unmistakably sovereign characteristics—the ability of a State to control access to its territory.
+Far removed from any question of territorial control, inter partes review represents no more than the Patent Office’s reconsideration of its initial decision to “take[] from the public rights of immense value, and bestow[] them upon the patentee” in the form of a patent grant. United States v. Am. Bell Tel. Co., 128 U.S. 315, 370 (1888). As the Supreme Court has explained, the “basic purpose[]” of inter partes review is “to reexamine
+1 I am mindful that resolution of the instant motion requires us to address important constitutional issues that “are unsuited to resolution in administrative hearing procedures,” Califano v. Sanders, 430 U.S. 99, 109 (1977), and further highlight that “access to the courts is essential to the decision of such questions.” Id.
+2
+Appx12
+
+Case: 18-1559	Document: 44 Page: 90 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 26 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+an earlier agency decision,” and thereby “help[] protect the public’s ‘paramount interest in seeing that patent monopolies . . . are kept within their legitimate scope.’” Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2144 (2016) (quoting Precision Instrument Mfg. Co. v. Auto. Maint. Mach. Co., 324 U.S. 806, 816 (1945)); see also MCM Portfolio LLC v. Hewlett-Packard Co., 812 F.3d 1284, 1293 (Fed. Cir. 2015) (explaining that “patent rights are public rights,” and “their validity [is] susceptible to review by an administrative agency.”). Allowing a State to secure monopoly rights from the Patent Office, while simultaneously foreclosing Patent Office reappraisal of that decision via inter partes review, would thwart “the important public interest in permitting full and free competition in the use of ideas which are in reality a part of the public domain.” Lear, Inc. v. Adkins, 395 U.S. 653, 670 (1969).
+The essential nature of inter partes review as a reevaluation by the Patent Office of its decision to grant a patent, rather than as an administrative analog to civil litigation, is evident from the relief available, which differs both in degree and in kind from that afforded in federal district court. At its core, inter partes review is a circumscribed in rem proceeding, in which the Patent Office exercises jurisdiction over the patent challenged, rather than the parties named; “it does not implicate States’ sovereignty to nearly the same degree as other kinds of jurisdiction.” Cent. Va. Cmty. Coll. v. Katz, 546 U.S. 356, 362 (2006). Such proceedings are authorized solely to address whether the Patent Office should “cancel as unpatentable 1 or more claims of a patent only on a ground that could be raised under section 102 or 103 [of the Patent Act] and only on the basis of prior art consisting of patents or printed publications.” 35 U.S.C. § 311(b). Once inter partes
+3
+Appx13
+
+Case: 18-1559	Document: 44 Page: 91 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 27 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+review is commenced, the patent owner may, as a matter of right, “file 1 motion to amend the patent,” 35 U.S.C. § 316(d)––“just what he would do in the examination process.” Cuozzo, 136 S. Ct. at 2145 (citing 35 U.S.C. § 316(d) (2012)). No equivalent procedure is available in the federal district courts, which assess the validity only of static patent claims.
+The ultimate remedy available from inter partes review likewise mirrors the patent examination process more closely than it does federal district court litigation, where a patent monopoly may be enforced through charges of patent infringement. Without resort to the damages or injunctive relief that may be awarded when infringement is proved in federal court, the lone remedy issuable by the Patent Office in an inter partes review proceeding is the publication, by the Director, of a certificate canceling, confirming, or amending the challenged claims. 35 U.S.C. § 318(b). In addition, the freedom of the Director to “stay, transfer, consolidat[e], terminat[e],” or otherwise determine how either matter should proceed when a patent is concurrently subject to an inter partes review and another action in the Office, 35 U.S.C. § 315(d), further differentiates inter partes review from civil litigation.
+Inter partes review does not seek to resolve relationships between parties, or even require that the petitioner have Article III standing to proceed. See 35 U.S.C. § 311(a). Indeed, notwithstanding the absence of an existing legal dispute concerning the patent-in-question, so long as a prospective petitioner “is not the owner of [that] patent,” that party is eligible, subject to additional statutory provisions, to file a petition for inter partes review. 35 U.S.C. § 311(a). Consistent with this focus on the patent, rather than on the parties, participation by the parties subsequent to
+4
+Appx14
+
+Case: 18-1559	Document: 44 Page: 92 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 28 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+institution is not required for an inter partes review to go forward.
+35 U.S.C. § 317(a) (“If no petitioner remains in the inter partes review, the Office may terminate the review or proceed to a final written decision under section 318(a).”). Even in the event of settlement between the parties, the Board remains free to “independently determine any question of jurisdiction, patentability, or Office practice.” 37 C.F.R. § 42.74(a). Similarly, the Patent Office “may intervene in a later judicial proceeding” to defend its cancellation of an improperly granted patent, “even if the private challengers drop out.” Cuozzo, 136 S. Ct. at 2144 (emphasis omitted); see 35 U.S.C. § 143.
+Indeed, the Supreme Court has emphasized these aspects of inter partes review in its recognition that in “significant respects, inter partes review is less like a judicial proceeding and more like a specialized agency proceeding.” Cuozzo, 136 S. Ct. at 2143; see also Achates Reference Publ’g, Inc. v. Apple Inc., 803 F.3d 652, 657–58 (Fed. Cir. 2015) (holding that procedural limits placed on when certain parties must file for review do not relate to the Board’s ultimate authority to invalidate a patent); 35 U.S.C. § 303(a) (“On his own initiative, and any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by him or cited under the provisions of section 301 or 302.”).
+To my eye, therefore, far from implicating the sovereignty or dignity of the states, inter partes review simply provides a streamlined, specialized mechanism by which the Patent Office may reconsider a patent grant and correct any mistake. Accordingly, because inter partes review neither “walks, talks, [nor] squawks” like a lawsuit, FMC, 535 U.S. at 757 (internal
+5
+Appx15
+
+Case: 18-1559	Document: 44 Page: 93 Filed: 05/31/2018
+
+Case: 18-1559	Document: 33 Page: 29 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+quotation omitted), I conclude that sovereign immunity does not bar the Patent Office from conducting inter partes review of a patent owned by a state university. Thus, while I agree with my colleagues that Patent Owner’s Motion to Dismiss should be denied, I reach that conclusion for markedly different reasons.
+
+6
+Appx16
+
+Case: 18-1559	Document: 44 Page: 94 Filed: 05/31/2018
+
+Case: 18-1559	Document: 33 Page: 30 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+PETITIONERS:
+Kristopher Reed
+Edward Mayle
+KILPATRICK TOWNSEND & STOCKTON LLP
+ 
+ 
+PATENT OWNER:
+Patrick McElhinny
+Mark Knedeisen
+K&L GATES LLP
+
+
+
+
+Richard Giunta
+Gerald Hrycyszyn
+WOLF, GREENFIELD & SACKS, P.C.
+
+
+ 
+
+7
+Appx17
+
+Case: 18-1559	Document: 44 Page: 95 Filed: 05/31/2018
+
+Attachment B
+
+Case: 18-1559	Document: 44 Page: 96 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 31 Filed: 03/27/2018
+	Paper 14
+571-272-7822	Entered: December 19, 2017
+UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+ERICSSON INC. and TELFONAKTIEBOLAGET LM ERICSSON,
+Petitioner,
+v.
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Patent Owner.
+Cases IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+Before DAVID P. RUSCHKE, Chief Administrative Patent Judge, SCOTT R. BOALICK, Deputy Chief Administrative Patent Judge, JACQUELINE WRIGHT BONILLA, SCOTT C. WEIDENFELLER, Vice Chief Administrative Patent Judges, JENNIFER S. BISK, ROBERT J. WEINSCHENK, and CHARLES J. BOUDREAU, Administrative Patent Judges.
+Opinion for the Board filed by Chief Administrative Patent Judge RUSCHKE.
+Opinion Concurring filed by Administrative Patent Judge BISK.
+ORDER
+Denying Patent Owner’s Motion to Dismiss
+37 C.F.R. §§ 42.5, 42.71
+Appx18
+
+Case: 18-1559	Document: 44 Page: 97 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 32 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+I. INTRODUCTION
+Regents of the University of Minnesota (“Patent Owner”) filed a Motion to Dismiss (Paper 8,1 “Motion” or “Mot.”) the Petition for an inter partes review (Paper 1, “Petition” or “Pet.”) in this proceeding. Specifically, Patent Owner contends that it is entitled to avoid this proceeding entirely because it is a sovereign that is immune to our authority under the Eleventh Amendment to the U.S. Constitution. Mot. 1, 2, 15. Ericsson Inc. and Telefonaktiebolaget LM Ericsson (collectively, “Petitioner”) filed an Opposition to the Motion (Paper 10, “Opposition” or “Opp.”), to which Patent Owner filed a Reply in Support of the Motion (Paper 11, “Reply”). For the reasons discussed below, the Motion is denied.
+II.	PANEL EXPANSION
+Our standard operating procedures provide the Chief Judge with discretion to expand a panel to include more than three judges. PTAB SOP 1, 2–5 (§§ II, III) (Rev. 14); see id. at 2 (introductory language explaining that the Director has delegated to the Chief Judge the authority to designate panels under 35 U.S.C. § 6); see also In re Alappat, 33 F.3d 1526, 1532 (Fed. Cir. 1994) (abrogated on other grounds by In re Bilski, 545 F.3d 943 (Fed. Cir. 2008)) (providing that Congress “expressly granted the [Director] the authority to designate expanded Board panels made up of
+1 IPR2017-01186, IPR2017-01197, IPR2017-01200, IPR2017-01213, IPR2017-01214, and IPR2017-01219 include similar papers and exhibits. Accordingly, all citations are to IPR2017-01186 unless otherwise noted.
+2
+Appx19
+
+Case: 18-1559	Document: 44 Page: 98 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 33 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+more than three Board members.”). The Chief Judge may consider panel expansions upon a “suggestion” from a judge, panel, or party in a post-issuance review created by the Leahy-Smith America Invents Act, Pub. L. No. 112-29, 125 Stat. 284 (2011) (“AIA”), such as an inter partes review. Id. at 3–4; see also Apple Inc. v. Rensselaer Polytechnic Inst., Case IPR2014-00319, slip op. at 2 n.1 (PTAB Dec. 12, 2014) (Paper 20) (expanded panel) (per curiam).
+The standard operating procedure sets forth some of the reasons for which the Chief Judge may expand a panel. PTAB SOP 1, 3–4 (§ III.A). For example, an expanded panel may be appropriate when “[t]he proceeding or AIA Review involves an issue of exceptional importance.” Id. (§ III.A.1). An expanded panel may also be appropriate when “necessary to secure and maintain uniformity of the Board’s decisions.” Id. (§ III.A.2).
+In this case, the Chief Judge has considered whether expansion is warranted, and has decided to expand the panel due to the exceptional nature of the issues presented.2 As we discuss further below, the issues of whether a State can claim Eleventh Amendment immunity and whether such immunity may be waived have been raised in this proceeding. These issues are of an exceptional nature. The Eleventh Amendment immunity issue
+2 Consistent with the standard operating procedure, the Judges on the merits panel in this case have been designated as part of the expanded panel, and the Chief Judge, Deputy Chief Judge, and Vice Chief Judges Bonilla and Weidenfeller have been added to the panel. PTAB SOP 1, 4 (§ III.E).
+3
+Appx20
+
+Case: 18-1559	Document: 44 Page: 99 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 34 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+continues to be raised in multiple cases before the Board. We have not had occasion to address the waiver issue before, but it has been raised in multiple cases before the Board. The Chief Judge also has determined that an expanded panel is warranted to ensure uniformity of the Board’s decisions involving these issues.
+III. ANALYSIS
+Petitioner does not dispute that Patent Owner is a State entity that can claim sovereign immunity under the Eleventh Amendment, at least with respect to this Motion. See Mot. 8–11; Opp. 1–2. The parties disagree, though, about whether Eleventh Amendment immunity can be invoked in an inter partes review. Mot. 2–8; Opp. 13–15. We agree with Patent Owner that an “IPR is an adjudicatory proceeding of a federal agency from which state entities are immune.” Mot. 7–8 (citing Covidien LP v. Univ. of Fla. Research Found., Inc., Case IPR2016-01274 (PTAB Jan. 25, 2017) (Paper 21) and NeoChord, Inc. v. Univ. of Md., Balt., Case IPR2016-00208 (PTAB May 23, 2017) (Paper 28)). Nevertheless, we determine, for the reasons discussed below, that Patent Owner has waived its Eleventh Amendment immunity by filing an action in federal court alleging infringement of the patent being challenged in this proceeding.
+A.	Patent Owner May Assert Eleventh Amendment Immunity
+The Board has previously determined that Eleventh Amendment immunity is available to States as a defense in an inter partes review
+4
+Appx21
+
+Case: 18-1559	Document: 44 Page: 100 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 35 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+proceeding. Reactive Surfaces Ltd., LLP v. Toyota Motor Corp., Case IPR2016-01914 (PTAB July 13, 2017) (Paper 36) (granting in part motion to dismiss and dismissing Regents of the University of Minnesota from an inter partes review proceeding); NeoChord, Inc. v. Univ. of Md., Balt., Case IPR2016-00208 (PTAB May 23, 2017) (Paper 28) (granting motion to dismiss and terminating an inter partes review); Covidien LP v. Univ. of Fla. Research Found. Inc., Case IPR2016-01274 (PTAB Jan. 25, 2017) (Paper 21) (granting motion to dismiss and dismissing three Petitions requesting an inter partes review). We agree.
+The Supreme Court has held that the rules and practice of procedure of the Federal Maritime Commission are sufficiently similar to civil litigation for the State of South Carolina to raise Eleventh Amendment immunity as a defense to participation in a proceeding seeking damages and injunctive relief against the South Carolina State Ports Authority. See Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743, 757–58, 765–66 (2002) (“FMC”). Applying FMC, the Federal Circuit has held that Eleventh Amendment immunity is available in interference proceedings before the Board of Patent Appeals and Interferences (the predecessor of the PTAB) because interferences are sufficiently similar in procedure to civil litigation, i.e., they involve adverse parties, examination and cross-examination by deposition of witnesses, production of documentary evidence, findings by an impartial federal adjudicator, and power to implement the decision. Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376, 1381–82 (Fed.
+5
+
+Appx22
+
+Case: 18-1559	Document: 44 Page: 101 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 36 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+Cir. 2007).
+Patent Owner asserts that inter partes reviews are sufficiently similar in procedure to interferences and other adjudicatory proceedings such that Eleventh Amendment immunity is available as a defense in both types of proceedings. See Mot. 3–8. We agree with Patent Owner. In keeping with Vas-Cath, we determine that inter partes reviews, like interferences, are similar to court proceedings inasmuch as they involve adverse parties, examination of witnesses, cross-examination by deposition, findings by an impartial adjudicator, power to implement the adjudicator’s decision, the ability of the adjudicator to set a time for filing motions and for discovery, and application of the Federal Rules of Evidence. See generally NeoChord, slip op. at 6–7 (Paper 28). Patent Owner, therefore, is entitled to rely on its Eleventh Amendment immunity in inter partes reviews, as appropriate.3 That determination, however, does not end our inquiry in this case.
+3 As the Supreme Court and my concurring colleague correctly note, in many “significant respects, inter partes review is less like a judicial proceeding and more like a specialized agency proceeding.” Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2143 (2016). Indeed, we rely on the differences between court and agency proceedings in reaching our determination that Patent Owner has waived its Eleventh Amendment immunity in this matter. See infra at 9–10. We respectfully disagree, nevertheless, that those differences alone provide a sufficient basis to conclude that “Congress had the power to compel States to surrender their sovereign immunity” wholesale in a proceeding that so closely resembles court proceedings. Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank, 527 U.S. 627, 635 (1999).
+6
+
+Appx23
+
+Case: 18-1559	Document: 44 Page: 102 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 37 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+B.	Patent Owner Waived its Eleventh Amendment Immunity
+We must now decide whether, and in what circumstances, a State may waive its Eleventh Amendment immunity before us. Previous Board decisions have not involved a State that filed an action in federal court alleging infringement of the same patent being challenged in the petition for an inter partes review. Here, Patent Owner has filed such an action, and, accordingly, Petitioner argues that Patent Owner waived its Eleventh Amendment immunity by filing such an action. Opp. 2–13. We agree with Petitioner that the filing of an action in federal court alleging infringement effectively waives Patent Owner’s Eleventh Amendment immunity defense.
+A State’s waiver of Eleventh Amendment immunity in one action does not necessarily extend to a separate action, even if the separate action involves the same parties and the same subject matter. Biomedical Patent Mgmt. Corp. v. Cal., Dep’t of Health Servs., 505 F.3d 1328, 1339 (Fed. Cir. 2007) (“BPMC”). But there is not “a bright-line rule whereby a State’s waiver of sovereign immunity can never extend to a . . . separate lawsuit.” Id. Instead, the rule governing waiver of immunity by litigation conduct rests on the need to avoid unfairness and inconsistency, and to prevent a State from selectively using its immunity to achieve a litigation advantage. Lapides v. Bd. of Regents of Univ. Sys. of Ga., 535 U.S. 613, 620 (2002); BPMC, 505 F.3d at 1340.
+The facts presented here are similar to those in Regents of Univ. of New Mexico v. Knight, 321 F.3d 1111, 1125–26 (Fed. Cir. 2003) (“Knight”),
+7
+
+Appx24
+
+Case: 18-1559	Document: 44 Page: 103 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 38 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+where a State was found to have waived its Eleventh Amendment immunity as to compulsory counterclaims. Specifically, the Federal Circuit explained that “because a state as plaintiff can surely anticipate that a defendant will have to file any compulsory counterclaims or be forever barred from doing so, it is not unreasonable to view the state as having consented to such counterclaims.” Id. at 1126 (emphasis added). Similarly, a party served with a patent infringement complaint in federal court must request an inter partes review of the asserted patent within one year of service of that complaint or be forever barred from doing so. See 35 U.S.C. § 315(b). Thus, it is reasonable to view a State that files a patent infringement action as having consented to an inter partes review of the asserted patent.4 See Knight, 321 F.3d at 1126. That is particularly true where, as here, the State filed its patent infringement action well after the AIA was enacted. See, e.g., Mot. 2 (indicating that Patent Owner filed suit in November, 2014).
+Further, when a State files a patent infringement action in federal court, it is the State’s litigation conduct that triggers the one-year statutory bar for an inter partes review. See 35 U.S.C. § 315(b). It would be unfair and inconsistent to allow a State to avail itself of the federal government’s
+4 We do not conclude that an inter partes review is a compulsory
+counterclaim under Fed. R. Civ. P. 13(a). Rather, we determine that the rationale given in Knight, 321 F.3d at 1126, for holding that a State waived its Eleventh Amendment immunity as to a compulsory counterclaim similarly supports determining that Patent Owner waived its Eleventh Amendment immunity as to this proceeding.
+8
+
+Appx25
+
+Case: 18-1559	Document: 44 Page: 104 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 39 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+authority by filing a patent infringement action in federal court, but then selectively invoke its sovereign immunity to ensure that a defendant is barred from requesting an inter partes review of the asserted patent from a different branch of that same federal government. See Lapides, 535 U.S. at 619–20; Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys., 458 F.3d 1335, 1341–42 (Fed. Cir. 2006) (emphasizing the need “to look to the substantive charge, not to the procedure for obtaining relief” in order to avoid the “‘seriously unfair results’ [that] could result if a state were permitted to file suit in a federal court and at the same time claim immunity against the defendant’s claims arising from the same conduct” (quoting Knight, 321 F.3d at 1125)).
+In fact, Patent Owner acknowledged as much in its motion to dismiss in Reactive Surfaces. IPR2016-01914, Paper 23, 18–20. In that case, Patent Owner addressed a hypothetical (as of the date of this decision) scenario in which a patent assertion entity (“PAE”) assigned ownership of a patent to a State in order to invoke Eleventh Amendment immunity and avoid an inter partes review. Id. at 18. Patent Owner acknowledged that the State would have to join any infringement action, and that “[b]y voluntarily invoking federal jurisdiction in the infringement litigation, the [S]tate entity could be deemed to have waived its sovereign immunity to the IPR process, which would deprive the PAE of any litigation advantage it might have hoped for.” Id. at 19–20. Patent Owner attempts to distinguish that hypothetical scenario from this case because it involved a State acting together with a PAE. Reply
+9
+
+Appx26
+
+Case: 18-1559	Document: 44 Page: 105 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 40 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E)
+IPR2017-01219 (Patent RE45,230 E)
+4. We fail to see, though, how a State selectively asserting its sovereign immunity to achieve a litigation advantage for itself, rather than a PAE, is less unfair to a defendant.
+The crux of Patent Owner’s argument in this proceeding is that any waiver of Eleventh Amendment immunity should be limited to the venue where Patent Owner filed its action. Mot. 12–15 (citing A123 Sys., Inc. v. Hydro-Quebec, 626 F.3d 1213, 1219–20 (Fed. Cir. 2010); Tegic, 458 F.3d at 1342, 1344–45); Reply 3–4. Although waiver is generally limited in this way in our court system, which is arranged geographically, it is not a bright-line rule. BPMC, 505 F.3d at 1339. Indeed, “[a]n animating principle of Lapides is that a state should not reap litigation advantages through its selection of a forum and subsequent assertion of sovereign immunity as a defense.” Bd. of Regents of Univ. of Wis. Sys. v. Phoenix Int’l Software, Inc., 653 F.3d 448, 466 (7th Cir. 2011). And the authority on which Patent Owner relies does not address waiver with respect to separate proceedings in a single forum created by Congress, such as the post-issuance review proceedings under the AIA.
+In any event, the cases cited by Patent Owner are distinguishable. In those cases, a private party was not permitted to assert claims against a State in a different forum from the one in which the State filed its action. A123 Sys., 626 F.3d at 1219–20; Tegic, 458 F.3d at 1342–44. The private party, however, did not suffer any substantial unfairness from that result because the private party could still assert the exact same claims in the forum where
+10
+
+Appx27
+
+Case: 18-1559	Document: 44 Page: 106 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 41 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+the State filed its action. A123 Sys., 626 F.3d at 1216 (“A123 had an adequate remedy because UT has waived Eleventh Amendment immunity in the Northern District of Texas.”); Tegic, 458 F.3d at 1344 (“It has not been shown . . . that the adjudication of Tegic’s claims of noninfringement and invalidity is not available in the Texas action.”).
+In contrast, here, Petitioner cannot seek an inter partes review in the district court where Patent Owner filed its patent infringement action. We recognize that Petitioner may be able to assert a defense and/or counterclaim challenging the validity of the asserted patent in the district court where Patent Owner filed its action. But, even though an inter partes review has characteristics that are similar to district court litigation, the proceedings are not the same. See Cuozzo, 136 S. Ct. at 2143–44. Therefore, allowing Patent Owner to assert its Eleventh Amendment immunity in this proceeding selectively so as to bar Petitioner from obtaining the benefits of an inter partes review of the asserted patent would result in substantial unfairness and inconsistency.5 See Lapides, 535 U.S. at 620.
+For the foregoing reasons, we determine that Patent Owner has waived its Eleventh Amendment immunity by filing an action in federal court alleging infringement of the patent being challenged in this proceeding.
+5 Patent Owner filed patent infringement actions against Petitioner’s customers, and then later consented to Petitioner joining those actions as an intervenor. Ex. 1015, 2–3; Ex. 1052, 2–3.
+11
+Appx28
+
+Case: 18-1559	Document: 44 Page: 107 Filed: 05/31/2018
+
+Case: 18-1559	Document: 33 Page: 42 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+ORDER
+In consideration of the foregoing, it is hereby:
+ORDERED that Patent Owner’s Motion to Dismiss is denied.
+
+12
+Appx29
+
+Case: 18-1559	Document: 44 Page: 108 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 43 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+UNITED STATES PATENT AND TRADEMARK OFFICE
+BEFORE THE PATENT TRIAL AND APPEAL BOARD
+ERICSSON INC. and TELFONAKTIEBOLAGET LM ERICSSON,
+Petitioner,
+v.
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Patent Owner.
+Cases IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+Before DAVID P. RUSCHKE, Chief Administrative Patent Judge, SCOTT R. BOALICK, Deputy Chief Administrative Patent Judge, JACQUELINE WRIGHT BONILLA, SCOTT C. WEIDENFELLER, Vice Chief Administrative Patent Judges, JENNIFER S. BISK, ROBERT J. WEINSCHENK, and CHARLES J. BOUDREAU, Administrative Patent Judges.
+BISK, Administrative Patent Judge, concurring.
+
+Appx30
+
+Case: 18-1559	Document: 44 Page: 109 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 44 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+I write separately to express my view that a state university, having availed itself of Patent Office procedures to secure patent rights from the public, may not subsequently invoke sovereign immunity as a shield against reconsideration by the Patent Office in an inter partes review proceeding of whether the agency improvidently granted a patent monopoly in the first instance.1
+
+Sovereign immunity has been found to attach to administrative proceedings where those actions resemble civil litigation. See Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743, 753–761 (2002) (“FMC”). Inter partes review cannot be said, however, to bear the same marks of civil litigation as previously considered administrative matters. Obvious differences exist, for example, between the U.S. Patent and Trademark Office’s review of a patent procured from that agency by a State, and the Federal Maritime Commission’s review of a State’s refusal to berth a cruise ship at port facilities within the sovereign borders of a State that are managed by a State authority. See FMC, 535 U.S. at 748–49. The adjudication at issue in FMC, after all, implicated a power with unmistakably sovereign characteristics—the ability of a State to control access to its territory.
+1 I am mindful that resolution of the instant motion requires us to address important constitutional issues that “are unsuited to resolution in administrative hearing procedures,” Califano v. Sanders, 430 U.S. 99, 109 (1977), and further highlight that “access to the courts is essential to the decision of such questions.” Id.
+2
+Appx31
+
+Case: 18-1559	Document: 44 Page: 110 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 45 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+Far removed from any question of territorial control, inter partes review represents no more than the Patent Office’s reconsideration of its initial decision to “take[] from the public rights of immense value, and bestow[] them upon the patentee” in the form of a patent grant. United States v. Am. Bell Tel. Co., 128 U.S. 315, 370 (1888). As the Supreme Court has explained, the “basic purpose[]” of inter partes review is “to reexamine an earlier agency decision,” and thereby “help[] protect the public’s ‘paramount interest in seeing that patent monopolies . . . are kept within their legitimate scope.’” Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2144 (2016) (quoting Precision Instrument Mfg. Co. v. Auto. Maint. Mach. Co., 324 U.S. 806, 816 (1945)); see also MCM Portfolio LLC v. Hewlett-Packard Co., 812 F.3d 1284, 1293 (Fed. Cir. 2015) (explaining that “patent rights are public rights,” and “their validity [is] susceptible to review by an administrative agency.”). Allowing a State to secure monopoly rights from the Patent Office, while simultaneously foreclosing Patent Office reappraisal of that decision via inter partes review, would thwart “the important public interest in permitting full and free competition in the use of ideas which are in reality a part of the public domain.” Lear, Inc. v. Adkins, 395 U.S. 653, 670 (1969).
+The essential nature of inter partes review as a reevaluation by the Patent Office of its decision to grant a patent, rather than as an
+administrative analog to civil litigation, is evident from the relief available, which differs both in degree and in kind from that afforded in federal district
+3
+Appx32
+
+Case: 18-1559	Document: 44 Page: 111 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 46 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+court. At its core, inter partes review is a circumscribed in rem proceeding, in which the Patent Office exercises jurisdiction over the patent challenged, rather than the parties named; “it does not implicate States’ sovereignty to nearly the same degree as other kinds of jurisdiction.” Cent. Va. Cmty. Coll. v. Katz, 546 U.S. 356, 362 (2006). Such proceedings are authorized solely to address whether the Patent Office should “cancel as unpatentable 1 or more claims of a patent only on a ground that could be raised under section 102 or 103 [of the Patent Act] and only on the basis of prior art consisting of patents or printed publications.” 35 U.S.C. § 311(b). Once inter partes review is commenced, the patent owner may, as a matter of right, “file 1 motion to amend the patent,” 35 U.S.C. § 316(d)––“just what he would do in the examination process.” Cuozzo, 136 S. Ct. at 2145 (citing 35 U.S.C. § 316(d) (2012)). No equivalent procedure is available in the federal district courts, which assess the validity only of static patent claims.
+The ultimate remedy available from inter partes review likewise mirrors the patent examination process more closely than it does federal district court litigation, where a patent monopoly may be enforced through charges of patent infringement. Without resort to the damages or injunctive relief that may be awarded when infringement is proved in federal court, the lone remedy issuable by the Patent Office in an inter partes review proceeding is the publication, by the Director, of a certificate canceling, confirming, or amending the challenged claims. 35 U.S.C. § 318(b). In addition, the freedom of the Director to “stay, transfer, consolidat[e],
+4
+Appx33
+
+Case: 18-1559	Document: 44 Page: 112 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 47 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+terminat[e],” or otherwise determine how either matter should proceed when a patent is concurrently subject to an inter partes review and another action in the Office, 35 U.S.C. § 315(d), further differentiates inter partes review from civil litigation.
+Inter partes review does not seek to resolve relationships between parties, or even require that the petitioner have Article III standing to proceed. See 35 U.S.C. § 311(a). Indeed, notwithstanding the absence of an existing legal dispute concerning the patent-in-question, so long as a prospective petitioner “is not the owner of [that] patent,” that party is eligible, subject to additional statutory provisions, to file a petition for inter partes review. 35 U.S.C. § 311(a). Consistent with this focus on the patent, rather than on the parties, participation by the parties subsequent to institution is not required for an inter partes review to go forward.
+35 U.S.C. § 317(a) (“If no petitioner remains in the inter partes review, the Office may terminate the review or proceed to a final written decision under section 318(a).”). Even in the event of settlement between the parties, the Board remains free to “independently determine any question of jurisdiction, patentability, or Office practice.” 37 C.F.R. § 42.74(a). Similarly, the Patent Office “may intervene in a later judicial proceeding” to defend its cancellation of an improperly granted patent, “even if the private challengers drop out.” Cuozzo, 136 S. Ct. at 2144 (emphasis omitted); see 35 U.S.C. § 143.
+5
+Appx34
+
+Case: 18-1559	Document: 44 Page: 113 Filed: 05/31/2018
+Case: 18-1559	Document: 33 Page: 48 Filed: 03/27/2018
+IPR2017-01186 (Patent 8,774,309 B2) IPR2017-01197 (Patent 7,251,768 B2) IPR2017-01200 (Patent 8,718,185 B2) IPR2017-01213 (Patent 8,588,317 B2) IPR2017-01214 (Patent RE45,230 E) IPR2017-01219 (Patent RE45,230 E)
+Indeed, the Supreme Court has emphasized these aspects of inter partes review in its recognition that in “significant respects, inter partes review is less like a judicial proceeding and more like a specialized agency proceeding.” Cuozzo, 136 S. Ct. at 2143; see also Achates Reference Publ’g, Inc. v. Apple Inc., 803 F.3d 652, 657–58 (Fed. Cir. 2015) (holding that procedural limits placed on when certain parties must file for review do not relate to the Board’s ultimate authority to invalidate a patent); 35 U.S.C. § 303(a) (“On his own initiative, and any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by him or cited under the provisions of section 301 or 302.”).
+To my eye, therefore, far from implicating the sovereignty or dignity of the states, inter partes review simply provides a streamlined, specialized mechanism by which the Patent Office may reconsider a patent grant and correct any mistake. Accordingly, because inter partes review neither “walks, talks, [nor] squawks” like a lawsuit, FMC, 535 U.S. at 757 (internal quotation omitted), I conclude that sovereign immunity does not bar the Patent Office from conducting inter partes review of a patent owned by a state university. Thus, while I agree with my colleagues that Patent Owner’s Motion to Dismiss should be denied, I reach that conclusion for markedly different reasons.
+6
+Appx35
+
+Case: 18-1559	Document: 44 Page: 114 Filed: 05/31/2018
+
+Case: 18-1559	Document: 33 Page: 49 Filed: 03/27/2018
+IPR2017-01068
+Patent 5,859,601
+PETITIONERS:
+J. Andrew Lowes
+John Russell Emerson
+Greg Webb
+Clint Wilkins
+HAYNES AND BOONE, LLP
+
+
+ 
+ 
+
+
+PATENT OWNER:
+Richard Giunta
+Gerald Hrycyszyn
+WOLF, GREENFIELD & SACKS, P.C.
+
+
+ 
+Walter Renner
+Lawrence Kolodney
+FISH & RICHARDSON P.C.
+
+
+
+
+
+7
+Appx36
+
+Case: 18-1559	Document: 44 Page: 115 Filed: 05/31/2018
+
+Attachment C
+
+Case: 18-1559	Document: 44 Page: 116 Filed: 05/31/2018
+35 U.S.C § 135(a) (2010)
+Whenever an application is made for a patent which, in the opinion of the Director, would interfere with any pending application, or with any unexpired patent, an interference may be declared and the Director shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be. The Board of Patent Appeals and Interferences shall determine questions of priority of the inventions and may determine questions of patentability. Any final decision, if adverse to the claim of an applicant, shall constitute the final refusal by the Patent and Trademark Office of the claims involved, and the Director may issue a patent to the applicant who is adjudged the prior inventor. A final judgment adverse to a patentee from which no appeal or other review has been or can be taken or had shall constitute cancellation of the claims involved in the patent, and notice of such cancellation shall be endorsed on copies of the patent distributed after such cancellation by the Patent and Trademark Office.
+35 U.S.C. § 311
+In General.—
+Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
+Scope.—
+A petitioner in an inter partes review may request to cancel as unpatentable 1 or more claims of a patent only on a ground that could be raised under section 102 or 103 and only on the basis of prior art consisting of patents or printed publications.
+Filing Deadline.—A petition for inter partes review shall be filed after the later of either—
+the date that is 9 months after the grant of a patent; or
+if a post-grant review is instituted under chapter 32, the date of the termination of such post-grant review.
+Attachment C, Page 1
+
+Case: 18-1559	Document: 44 Page: 117 Filed: 05/31/2018
+35 U.S.C. § 312
+(a) Requirements of Petition.—A petition filed under section 311 may be considered only if—
+(1) the petition is accompanied by payment of the fee established by the Director under section 311;
+(2) the petition identifies all real parties in interest;
+(3) the petition identifies, in writing and with particularity, each claim challenged, the grounds on which the challenge to each claim is based, and the evidence that supports the grounds for the challenge to each claim, including—
+copies of patents and printed publications that the petitioner relies upon in support of the petition; and
+affidavits or declarations of supporting evidence and opinions, if the petitioner relies on expert opinions;
+(4) the petition provides such other information as the Director may require by regulation; and
+(5) the petitioner provides copies of any of the documents required under paragraphs (2), (3), and (4) to the patent owner or, if applicable, the designated representative of the patent owner.
+(b) Public Availability.—
+As soon as practicable after the receipt of a petition under section 311, the Director shall make the petition available to the public.
+35 U.S.C. § 313
+If an inter partes review petition is filed under section 311, the patent owner shall have the right to file a preliminary response to the petition, within a time period set by the Director, that sets forth reasons why no inter partes review should be instituted based upon the failure of the petition to meet any requirement of this chapter.
+Attachment C, Page 2
+
+Case: 18-1559	Document: 44 Page: 118 Filed: 05/31/2018
+35 U.S.C. § 314
+(a) Threshold.—
+The Director may not authorize an inter partes review to be instituted unless the Director determines that the information presented in the petition filed under section 311 and any response filed under section 313 shows that there is a reasonable likelihood that the petitioner would prevail with respect to at least 1 of the claims challenged in the petition.
+(b) Timing.—The Director shall determine whether to institute an inter partes review under this chapter pursuant to a petition filed under section 311 within 3 months after—
+receiving a preliminary response to the petition under section 313; or
+if no such preliminary response is filed, the last date on which such response may be filed.
+(c) Notice.—
+The Director shall notify the petitioner and patent owner, in writing, of the Director’s determination under subsection (a), and shall make such notice available to the public as soon as is practicable. Such notice shall include the date on which the review shall commence.
+(d) No Appeal.—
+The determination by the Director whether to institute an inter partes review under this section shall be final and nonappealable.
+35 U.S.C. § 315
+(a) Infringer’s Civil Action.—
+Inter partes review barred by civil action.—An inter partes review may not be instituted if, before the date on which the petition for such a review is filed, the petitioner or real party in interest filed a civil action challenging the validity of a claim of the patent.
+Stay of civil action.—If the petitioner or real party in interest files a civil action challenging the validity of a claim of the patent on or
+Attachment C, Page 3
+
+Case: 18-1559	Document: 44 Page: 119 Filed: 05/31/2018
+after the date on which the petitioner files a petition for inter partes review of the patent, that civil action shall be automatically stayed until either—
+the patent owner moves the court to lift the stay;
+the patent owner files a civil action or counterclaim alleging that the petitioner or real party in interest has infringed the patent; or
+the petitioner or real party in interest moves the court to dismiss the civil action.
+(3) Treatment of counterclaim.—A counterclaim challenging the validity of a claim of a patent does not constitute a civil action challenging the validity of a claim of a patent for purposes of this subsection.
+Patent Owner’s Action.—
+An inter partes review may not be instituted if the petition requesting the proceeding is filed more than 1 year after the date on which the petitioner, real party in interest, or privy of the petitioner is served with a complaint alleging infringement of the patent. The time limitation set forth in the preceding sentence shall not apply to a request for joinder under subsection (c).
+Joinder.—
+If the Director institutes an inter partes review, the Director, in his or her discretion, may join as a party to that inter partes review any person who properly files a petition under section 311 that the Director, after receiving a preliminary response under section 313 or the expiration of the time for filing such a response, determines warrants the institution of an inter partes review under section 314.
+Multiple Proceedings.—
+Notwithstanding sections 135(a), 251, and 252, and chapter 30, during the pendency of an inter partes review, if another proceeding or matter involving the patent is before the Office, the Director may determine the manner in which the inter partes review or other proceeding or matter may proceed,
+Attachment C, Page 4
+
+Case: 18-1559	Document: 44 Page: 120 Filed: 05/31/2018
+including providing for stay, transfer, consolidation, or termination of any such matter or proceeding.
+(e) Estoppel.—
+Proceedings before the office.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+Civil actions and other proceedings.—The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+35 U.S.C. § 316
+(a) Regulations.—The Director shall prescribe regulations—
+providing that the file of any proceeding under this chapter shall be made available to the public, except that any petition or document filed with the intent that it be sealed shall, if accompanied by a motion to seal, be treated as sealed pending the outcome of the ruling on the motion;
+setting forth the standards for the showing of sufficient grounds to institute a review under section 314(a);
+establishing procedures for the submission of supplemental information after the petition is filed;
+establishing and governing inter partes review under this chapter and the relationship of such review to other proceedings under this title;
+Attachment C, Page 5
+
+Case: 18-1559	Document: 44 Page: 121 Filed: 05/31/2018
+(5) setting forth standards and procedures for discovery of relevant evidence, including that such discovery shall be limited to—
+the deposition of witnesses submitting affidavits or declarations; and
+what is otherwise necessary in the interest of justice;
+(6) prescribing sanctions for abuse of discovery, abuse of process, or any other improper use of the proceeding, such as to harass or to cause unnecessary delay or an unnecessary increase in the cost of the proceeding;
+(7) providing for protective orders governing the exchange and submission of confidential information;
+(8) providing for the filing by the patent owner of a response to the petition under section 313 after an inter partes review has been instituted, and requiring that the patent owner file with such response, through affidavits or declarations, any additional factual evidence and expert opinions on which the patent owner relies in support of the response;
+(9) setting forth standards and procedures for allowing the patent owner to move to amend the patent under subsection (d) to cancel a challenged claim or propose a reasonable number of substitute claims, and ensuring that any information submitted by the patent owner in support of any amendment entered under subsection (d) is made available to the public as part of the prosecution history of the patent;
+(10) providing either party with the right to an oral hearing as part of the proceeding;
+(11) requiring that the final determination in an inter partes review be issued not later than 1 year after the date on which the Director notices the institution of a review under this chapter, except that the Director may, for good cause shown, extend the 1-year period by not more than 6 months, and may adjust the time periods in this paragraph in the case of joinder under section 315(c);
+(12) setting a time period for requesting joinder under section 315(c); and
+Attachment C, Page 6
+
+Case: 18-1559	Document: 44 Page: 122 Filed: 05/31/2018
+(13) providing the petitioner with at least 1 opportunity to file written comments within a time period established by the Director.
+(b) Considerations.—
+In prescribing regulations under this section, the Director shall consider the effect of any such regulation on the economy, the integrity of the patent system, the efficient administration of the Office, and the ability of the Office to timely complete proceedings instituted under this chapter.
+(c) Patent Trial and Appeal Board.—
+The Patent Trial and Appeal Board shall, in accordance with section 6, conduct each inter partes review instituted under this chapter.
+(d) Amendment of the Patent.—
+(1) In general.—During an inter partes review instituted under this chapter, the patent owner may file 1 motion to amend the patent in 1 or more of the following ways:
+Cancel any challenged patent claim.
+For each challenged claim, propose a reasonable number of substitute claims.
+(2) Additional motions.— Additional motions to amend may be permitted upon the joint request of the petitioner and the patent owner to materially advance the settlement of a proceeding under section 317, or as permitted by regulations prescribed by the Director.
+(3) Scope of claims.— An amendment under this subsection may not enlarge the scope of the claims of the patent or introduce new matter.
+(e) Evidentiary Standards.—
+In an inter partes review instituted under this chapter, the petitioner shall have the burden of proving a proposition of unpatentability by a preponderance of the evidence.
+Attachment C, Page 7
+
+Case: 18-1559	Document: 44 Page: 123 Filed: 05/31/2018
+35 U.S.C. § 317
+In General.—
+An inter partes review instituted under this chapter shall be terminated with respect to any petitioner upon the joint request of the petitioner and the patent owner, unless the Office has decided the merits of the proceeding before the request for termination is filed. If the inter partes review is terminated with respect to a petitioner under this section, no estoppel under section 315(e) shall attach to the petitioner, or to the real party in interest or privy of the petitioner, on the basis of that petitioner’s institution of that inter partes review. If no petitioner remains in the inter partes review, the Office may terminate the review or proceed to a final written decision under section 318(a).
+Agreements in Writing.—
+Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of an inter partes review under this section shall be in writing and a true copy of such agreement or understanding shall be filed in the Office before the termination of the inter partes review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
+35 U.S.C. § 318
+Final Written Decision.—
+If an inter partes review is instituted and not dismissed under this chapter, the Patent Trial and Appeal Board shall issue a final written decision with respect to the patentability of any patent claim challenged by the petitioner and any new claim added under section 316(d).
+Certificate.—
+If the Patent Trial and Appeal Board issues a final written decision under subsection (a) and the time for appeal has expired or any appeal has
+Attachment C, Page 8
+
+Case: 18-1559	Document: 44 Page: 124 Filed: 05/31/2018
+
+terminated, the Director shall issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent by operation of the certificate any new or amended claim determined to be patentable.
+Intervening Rights.—
+Any proposed amended or new claim determined to be patentable and incorporated into a patent following an inter partes review under this chapter shall have the same effect as that specified in section 252 for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation therefor, before the issuance of a certificate under subsection (b).
+Data on Length of Review.—
+The Office shall make available to the public data describing the length of time between the institution of, and the issuance of a final written decision under subsection (a) for, each inter partes review.
+
+Attachment C, Page 9
+
+Case: 18-1559	Document: 44 Page: 125 Filed: 05/31/2018
+CERTIFICATE OF COMPLIANCE WITH FED. R. APP. P 32(A)
+I, Michael A. Albert, counsel for Appellants, certify that the foregoing Brief
+complies with the length limits set forth in Federal Circuit Rule 32(a).
+Specifically, this brief contains 12,998 words (excluding the parts of the motion exempted by Federal Rule of Appellate Procedure 32(f) and Federal Circuit Rule 32(b)) as determined by the word count feature of the word processing program used to create this brief.
+I further certify that the foregoing brief complies with the typeface requirements set forth in Federal Rule of Appellate Procedure 32(a)(5) and the type style requirements of Federal Rule of Appellate Procedure 32(a)(6). Specifically, this brief has been prepared using a proportionally spaced typeface using Microsoft Word 2013, in 14-point Times New Roman font.
+Date: May 29, 2018	/s/ Michael A. Albert
+Michael A. Albert
+
+Case: 18-1559	Document: 44 Page: 126 Filed: 05/31/2018
+CERTIFICATE OF SERVICE AND FILING
+I, Michael A. Albert, hereby certify that a true and correct copy of the
+foregoing has been filed using the Court’s CM/ECF system. All counsel of record
+were served via CM/ECF on the 31th day of May, 2018.
+Date: May 31, 2018	/s/ Michael A Albert
+Michael A. Albert

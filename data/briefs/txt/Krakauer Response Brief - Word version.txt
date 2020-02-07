@@ -1,0 +1,648 @@
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 1 of 64
+No. 18-1518
+In the United States Court of Appeals for the Fourth Circuit
+THOMAS KRAKAUER,
+Plaintiff-Appellee,
+v.
+DISH NETWORK LLC,
+Defendant-Appellant.
+On Appeal from the United States District Court
+for the Middle District of North Carolina
+Case No. 1:14-cv-00333-CCE-JEP
+(The Honorable Catherine C. Eagles, District Judge)
+PAGE-PROOF BRIEF OF PLAINTIFF-APPELLEE
+
+
+December 17, 2018	Counsel for Plaintiff-Appellee
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 2 of 64
+UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT DISCLOSURE OF CORPORATE AFFILIATIONS AND OTHER INTERESTS
+Disclosures must be filed on behalf of all parties to a civil, agency, bankruptcy or mandamus case, except that a disclosure statement is not required from the United States, from an indigent party, or from a state or local government in a pro se case. In mandamus cases arising from a civil or bankruptcy action, all parties to the action in the district court are considered parties to the mandamus case.
+Corporate defendants in a criminal or post-conviction case and corporate amici curiae are required to file disclosure statements.
+If counsel is not a registered ECF filer and does not intend to file documents other than the required disclosure statement, counsel may file the disclosure statement in paper rather than electronic form. Counsel has a continuing duty to update this information.
+No. 18-1518	Caption: Thomas Krakauer v. DISH Network L.L.C. 
+Pursuant to FRAP 26.1 and Local Rule 26.1,
+Thomas Krakauer
+(name of party/amicus)
+who is	, makes the following disclosure:
+appellee 
+
+(appellant/appellee/petitioner/respondent/amicus/intervenor)
+Is party/amicus a publicly held corporation or other publicly held entity?	YES NO
+✔
+Does party/amicus have any parent corporations?	YES NO
+✔
+If yes, identify all parent corporations, including all generations of parent corporations:
+Is 10% or more of the stock of a party/amicus owned by a publicly held corporation or
+other publicly held entity?	YES ✔NO
+If yes, identify all such owners:
+09/29/2016 SCC	- 1 -
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 3 of 64
+Is there any other publicly held corporation or other publicly held entity that has a direct
+	financial interest in the outcome of the litigation (Local Rule 26.1(a)(2)(B))? YES	NO
+✔
+If yes, identify entity and nature of interest:
+Is party a trade association? (amici curiae do not complete this question)		YES	NO
+✔ If yes, identify any publicly held member whose stock or equity value could be affected substantially by the outcome of the proceeding or whose claims the trade association is pursuing in a representative capacity, or state that there is no such member:
+Does this case arise out of a bankruptcy proceeding?	YES NO
+✔
+If yes, identify any trustee and the members of any creditors’ committee:
+Signature: /s/ Deepak Gupta 	Date: 	12/17/18
+Counsel for: Thomas Krakauer 
+CERTIFICATE OF SERVICE
+**************************
+I certify that on		the foregoing document was served on all parties or their 12/17/18 
+
+counsel of record through the CM/ECF system if they are registered users or, if they are not, by serving a true and correct copy at the addresses listed below:
+/s/ Deepak Gupta	12/17/18
+(signature)	(date)
+- 2 -
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 4 of 64
+TABLE OF CONTENTS
+Table of authorities	 iii
+Introduction	1
+Jurisdictional statement	5
+Statement of the issues	5
+Statement of the case	6
+Statutory and regulatory background	6
+Factual background	8
+Procedural background	14
+Dr. Krakauer sues, and the district court certifies a class of all people whose numbers were on the do-not-call list and who
+received multiple calls over the class period.	 14
+Two years into the case, Dish moves to dismiss or decertify for lack
+of Article III standing, without success.	 16
+The jury finds Dish liable to each class member and awards $400 per call, with total liability and class membership to be determined
+later.	 16
+The district court finds that Dish acted willfully. 	18
+The district court adopts a plan to identify class members, and
+eventually enters an aggregate class judgment.	19
+In the ongoing post-judgment claims process, Dish has an opportunity to contest individual class-membership determinations
+before a special master. 	23
+Summary of argument	24
+Standards of review	25
+Argument	26
+Neither of Dish’s two grounds for challenging classwide treatment has
+any merit or support in the case law.	26
+A.	By its plain terms, section 227(c)(5) authorizes suit by any “person” who received multiple calls in a year—the exact language in the
+class definition—not any “subscriber.”	27
+i
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 5 of 64
+The class definition tracks the text of section 227(c)(5).	27
+The plain text of section 227(c)(5) is not limited to subscribers. . 28
+Section 227(c)(5)’s zone of interests is not limited to
+subscribers.	30
+Dish’s counterarguments for its subscribers-only limitation
+are unpersuasive.	32
+B.	Because all class members, by definition, received multiple unlawful calls, and Congress specifically identified this harm as
+cognizable, they have suffered an Article III injury.	35
+Under Spokeo, “both history and the judgment of Congress
+play important roles” in the analysis.	36
+Dish’s argument conflicts with Spokeo and has been rejected
+by multiple circuits.	37
+Dish’s complaint about the jury instructions is baseless and supplies no
+justification for overturning the verdict.	39
+Dish does not come close to justifying vacatur of either the jury’s finding that SSN was “acting as Dish’s agent” or the district court’s finding that
+Dish’s conduct was knowing and willful.	42
+There is no basis for overturning the jury’s finding that SSN was
+“acting as Dish’s agent” in making the unlawful calls.	42
+There is no basis for overturning the district court’s finding that
+Dish knowingly and willfully violated the TCPA.	46
+Dish is liable for SSN’s willful or knowing violations.	47
+In finding that Dish acted knowingly and willfully, the
+district court did not apply a mere negligence standard.	49
+The district court’s finding that Dish’s conduct was knowing
+and willful is not clearly erroneous.	51
+Conclusion	53
+ii
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 6 of 64
+TABLE OF AUTHORITIES
+Cases
+Alea London Ltd. v. American Home Services, Inc.,
+638 F.3d 768 (11th Cir. 2011)	49
+Bank of America Corp. v. City of Miami,
+137 S. Ct. 1296 (2017)	30
+Belmora LLC v. Bayer Consumer Care AG,
+819 F.3d 697 (4th Cir. 2016)	3, 29, 31
+Bridgeview Health Care Center,, Ltd. v. Clark,
+816 F.3d 935 (7th Cir. 2016)	45
+Brown v. Nucor Corp.,
+785 F.3d 895 (4th Cir. 2015)	25
+Cortez v. Trans Union, LLC,
+617 F.3d 688 (3d Cir. 2010)	52
+Doe v. Chao,
+306 F.3d 170 (4th Cir. 2002)	8
+Doe v. Chao,
+540 U.S. 61 (2004)	36
+Henson v. Santander Consumer USA Inc.,
+137 S. Ct. 1718 (2017)	28
+Huggins v. FedEx Ground Package System, Inc.,
+592 F.3d 853 (8th Cir. 2010)	43
+In re Shulman Transportation Enterprises, Inc.,
+744 F.2d 293 (2d Cir. 1984)	43
+Jones v. Royal Administration Services, Inc.,
+887 F.3d 443 (9th Cir. 2018)	45
+Kolstad v. American Dental Association,
+527 U.S. 526 (1999)	49
+Lengel v. HomeAdvisor, Inc.,
+102 F. Supp. 3d 1202 (D. Kan. 2015)	52
+iii
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 7 of 64
+Levine v. World Financial Network National Bank,
+554 F.3d 1314 (11th Cir. 2009)	52
+Lexmark International, Inc. v. Static Control Components, Inc.,
+572 U.S. 118 (2014)	29, 30, 33
+Leyse v. Bank of America National Association,
+804 F.3d 316 (3d Cir. 2015)	 3, 31, 32
+Louis Pizitz Dry Goods v. Yeldell,
+274 U.S. 112 (1927)	47, 48
+Massachusetts v. EPA,
+549 U.S. 497 (2007)	37
+Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak,
+567 U.S. 209 (2012)	 30
+McKee v. Brimmer,
+39 F.3d 94 (5th Cir. 1994)	43
+Metco Products, Inc. v. National Labor Relations Board,
+884 F.2d 156 (4th Cir. 1989)	26, 45
+Mey v. Got Warranty, Inc.,
+193 F. Supp. 3d 641 (N.D. W. Va. 2016)	39
+Mims v. Arrow Financial Services, LLC,
+565 U.S. 368 (2012)	6, 31, 36
+Montgomery Ward v. Medline,
+104 F.2d 485 (4th Cir. 1939) 	45
+Northern v. McGraw-Edison Co.,
+542 F.2d 1336 (8th Cir. 1976)	43
+Redman v. RadioShack Corp.,
+768 F.3d 622 (7th Cir. 2014)	4
+Robb v. United States,
+80 F.3d 884 (4th Cir. 1996)	43
+Safeco Insurance Co. of America v. Burr,
+551 U.S. 47 (2007) 	48, 49, 50, 52
+iv
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 8 of 64
+Sherrill White Construction, Inc., v. South Carolina National Bank,
+713 F.2d 1047 (4th Cir. 1983)	26
+Spokeo, Inc. v. Robins,
+136 S. Ct. 1540 (2016)	 3, 35, 36, 37
+Susinno v. Work Out World Inc.,
+862 F.3d 346 (3d Cir. 2017)	3, 37, 38
+The Amiable Nancy,
+16 U.S. (3 Wheat) 546 (1818)	49
+Tyson Foods, Inc. v. Bouaphakeo,
+136 S. Ct. 1036 (2016)	5, 41
+United States v. Blankenship,
+846 F.3d 663 (4th Cir. 2017)	50
+United States v. Dish Network, LLC,
+256 F. Supp. 3d 810 (C.D. Ill. 2017)	13, 14, 44
+United States v. Otuya,
+720 F.3d 183 (4th Cir. 2013)	29
+United States v. Saunders,
+886 F.2d 56 (4th Cir. 1989)	26
+Valenti v. Qualex, Inc.,
+970 F.2d 363 (7th Cir. 1992)	43
+Van Patten v. Vertical Fitness Group, LLC,
+847 F.3d 1037 (9th Cir. 2017) 	3, 37, 38, 39
+Vodrey v. Golden,
+864 F.2d 28 (4th Cir. 1988)	26
+Statutes and regulations
+47 U.S.C. § 227(c)(3)(F)	32
+47 U.S.C. § 227(c)(5) 	passim
+47 C.F.R. § 64.1200(c)(2)	 7, 32
+47 C.F.R. § 64.1200(d)	52
+v
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 9 of 64
+
+Legislative materials
+137 Cong. Rec. 30,821 (1991)	16, 31
+Pub. L. No. 102-243, § 2(6), 105 Stat. 2394 	30, 31
+Administrative materials
+FTC, FTC and DOJ Case Results in Historic Decision Awarding $280 Million in Civil Penalties against Dish Network and Strong Injunctive Relief for Do Not Call
+Violations (June 6, 2017) 	7, 13
+In re Joint Petition Filed by Dish Network,
+28 FCC Rcd. 6574 (2013)	48, 52
+In the Matter of Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991,
+30 FCC Rcd. 7961 (2015)	33
+Other authorities
+Restatement (Second) of Torts § 652B, cmt. b (1977) 	36
+Restatement (Second) of Torts § 652B, cmt. d (1977) 	38
+Restatement (Third) of Agency § 1.02 (2006)	43
+Restatement (Third) of Agency § 2.02 cmt. e (2006)	46
+Restatement (Third) of Agency § 2.02 cmt. f (2006)	46
+Antonin Scalia & Bryan A. Garner,
+Reading Law: The Interpretation of Legal Texts (2012)	28
+Antonin Scalia,
+The Doctrine of Standing as an Essential Element of the Separation of Powers,
+17 Suffolk U. L. Rev. 881 (1983)	37
+
+vi
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 10 of 64
+INTRODUCTION
+This case concerns lawbreaking on a scale unrivaled in the history of the federal telemarketing laws. Dish Network’s practices prompted legal action by the Attorneys General of all 50 states and the U.S. Department of Justice under both the Obama and Trump Administrations. And they resulted, last June, in the largest civil fine ever obtained by the Federal Trade Commission—in any case, of any kind. In this parallel private-enforcement action under the Telephone Consumer Protection Act, a jury found Dish liable to people on the receiving end of tens of thousands of calls made on Dish’s behalf by its exclusive telemarketer, Satellite Systems Network, to numbers on the National Do Not Call Registry.
+The jury’s verdict should have come as no surprise. Dish’s corporate counsel flagged to its top executives that SSN’s owner had been “warned time and again ... that these activities could violate the law. ... In the past, we have successfully resisted the argument that we are responsible for the conduct of independent retailers, however, SSN is a problem because we know what he is doing.” JA_[PX194at1]. “Eventually,” he predicted, “someone will try to use that against us.” Id. They did. Facing charges by 46 states, Dish promised to “monitor” SSN and other telemarketers to ensure that they are “complying with [the] do-not-call laws,” to “affirmatively investigate complaints,” and to “appropriately and reasonably discipline” those who don’t comply. JA_[PX55§§1.7,4.58,4.78,4.79]. But despite what
+1
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 11 of 64
+it knew in private and what it promised in public, Dish pressed forward unapologetically, reaping millions in profits through illegal telemarketing.
+The district court had no trouble endorsing the jury’s findings, concluding that “[t]he evidence show[ed] that Dish’s TCPA compliance policy was decidedly two-faced.” JA_[Doc.338at28]. “While Dish promised forty-six state attorneys general in 2009 that it would enforce TCPA compliance by its marketers, Dish did nothing to monitor, much less enforce, SSN’s compliance,” and “[w]hen it learned of SSN’s noncompliance, Dish repeatedly looked the other way” and “disclaimed responsibility.” JA_[Doc.338at1,6].
+Dish now appeals, challenging virtually every aspect of the proceedings below: class certification, jury instructions, jury verdict, and post-trial findings. But when you isolate Dish’s actual legal arguments, it is apparent that there’s less here than meets the eye. One way to see this is to skip the bluster and go straight to the issue statement on page 4 of Dish’s brief: Dish offers two sweeping legal arguments that no court anywhere has accepted; it quibbles about the jury instructions; and it attacks the sufficiency of the evidence. That’s it.
+Dish’s lead argument (at 21) is that actions under TCPA section 227(c)(5) may only be “brought by a ‘telephone subscriber,’” while the court here “certified a much broader class” of people “who were ‘associated with’ a phone number.” Dish puts these words—“telephone subscriber” and “associated with”—in quotes, as if they
+2
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 12 of 64
+appear in the statute and the class definition. They don’t. The text of both covers any “person” who “receives” more than one unlawful call in a 12-month period. 47 U.S.C. § 227(c)(5); JA_[Doc.111at33-34]; JA_[Doc.47at1]. And the only circuit case on point—which Dish omits—holds that “it is clear that the Act’s zone of interests encompasses” recipients of calls even if they were not “the subscriber and intended recipient.” Leyse v. Bank of Am. Nat’l Ass’n, 804 F.3d 316, 326-27 (3d Cir. 2015). Courts “lack authority to introduce a requirement into [the statute] that Congress plainly omitted.” Belmora LLC v. Bayer Consumer Care AG, 819 F.3d 697, 708 (4th Cir. 2016).
+Next up to bat is Dish’s Article III standing argument. Dish says that people who receive repeated unlawful telemarketing calls don’t suffer injury unless they can allege some additional harm. But Dish forgets to mention that the Supreme Court held two years ago that plaintiffs “need not allege any additional harm beyond the one Congress has identified.” Spokeo, Inc. v. Robins, 136 S. Ct. 1540, 1549 (2016). And Dish doesn’t disclose that post-Spokeo circuit-court opinions have squarely rejected its argument. See Susinno v. Work Out World Inc., 862 F.3d 346, 351 (3d Cir. 2017); Van Patten v. Vertical Fitness Grp., LLC, 847 F.3d 1037, 1043 (9th Cir. 2017). Nor does Dish cite any case rejecting the prevailing view that TCPA violations inflict concrete injuries on recipients. Dish has every right to propose an entirely novel constitutional argument. But it ought to at least acknowledge that that’s what it’s doing.
+3
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 13 of 64
+The remainder of Dish’s brief seeks to vacate the jury’s and the district court’s findings on agency and willfulness. On agency, Dish relitigates factual questions, pretending as if the trial didn’t happen. But, in upholding the verdict, the district court independently found that “the evidence at trial persuasively demonstrated that SSN was acting as Dish’s agent.” JA_[Doc.338at19]. Dish’s task is unenviable: It must show that everyone who concluded that SSN acted as Dish’s agent—the jurors, Judge Eagles, the Attorneys General, federal regulators in two administrations, and the court in the government’s case—all got it badly wrong.
+A similar problem plagues Dish’s attempt to challenge the court’s finding that “Dish willfully and knowingly violated the TCPA.” JA_[Doc.338at1-2]. Even if it could overcome the rule that a principal may be liable for its agent’s willful acts, Dish would still need to upend the court’s extensive findings that “Dish knew or should have known that its agent, SSN, was violating the TCPA.” JA_[Doc.338at23-28]. This was not a close call. Dish declined to spend a mere $4,500 to audit SSN’s compliance with the do-not-call rules. It “had to know that there was a risk of [a violation] because the identical risk had materialized previously. Knowing the risk and failing to take any precaution against it—though a completely adequate precaution would have cost nothing—were indicative of willful violation.” Redman v. RadioShack Corp., 768 F.3d 622, 638 (7th Cir. 2014).
+4
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 14 of 64
+JURISDICTIONAL STATEMENT
+The jurisdictional statement in Dish’s brief lacks what the rules require: “an
+assertion that the appeal is from a final order” and “the basis for the court of appeals’ jurisdiction.” Fed. R. App. P. 28(a). The parties have engaged in separate motions
+practice on this issue: Dish has suggested that its own appeal is jurisdictionally defective, while the plaintiffs have conceded that the district court’s judgment is final
+under 28 U.S.C. § 1291. 4thCir-Docs. 5, 12. As we explain there, Rule 23(c)(3)(B) authorizes entry of a final judgment that “specifies or describes” the class members.
+That is precisely what the district court did. This Court may therefore review the aggregate class judgment under these circumstances, as the Supreme Court did in
+Tyson Foods, Inc. v. Bouaphakeo, 136 S. Ct. 1036, 1050 (2016) (affirming an aggregate class judgment where “the damages award ha[d] not yet been disbursed” and the court
+had not yet decided “how it will be disbursed”).
+STATEMENT OF THE ISSUES
+The class-certification order
+A.	Does section 227(c)(5) of the TCPA authorize suit by a “person” who has
+“received” multiple unsolicited unlawful calls within a year, as the text indicates, or does the statute contain an unstated limitation that the plaintiff must also be a
+“subscriber”?
+5
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 15 of 64
+B.	Is receiving repeated unlawful telemarketing calls a cognizable injury
+under Article III, or must plaintiffs in TCPA cases also demonstrate some additional
+harm beyond the harms that Congress has identified?
+The jury instructions
+Did the court err by issuing jury instructions that focused on class liability,
+reserving individualized class-membership questions for the claims process?
+III. The jury’s verdict and the district court’s findings
+Has Dish demonstrated that the evidence was insufficient to support the jury’s
+finding that SSN was “acting as Dish’s agent” or the district court’s finding that Dish
+acted willfully and knowingly?
+STATEMENT OF THE CASE
+A.	Statutory and regulatory background
+“Voluminous consumer complaints about abuses of telephone technology”— particularly unsolicited telemarketing calls to their homes—“prompted Congress to pass the TCPA” in 1991. Mims v. Arrow Fin. Servs., LLC, 565 U.S. 368, 370-71 (2012). Congress found that “[u]nrestricted telemarketing” calls “can be an intrusive invasion of privacy,” and that “many consumers are outraged over the proliferation of intrusive, nuisance telemarketing calls to their homes.” Id. at 372 (cleaned up).
+The TCPA authorizes a national database of phone numbers that are excluded from telemarketing calls, aptly named the National Do Not Call Registry.
+6
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 16 of 64
+This registry is one of the most “popular federal program[s],” and its effectiveness depends on “businesses [understanding] that they must comply with the Do Not Call rules.” FTC, FTC and DOJ Case Results in Historic Decision Awarding $280 Million in Civil Penalties against Dish Network and Strong Injunctive Relief for Do Not Call Violations,  (June 6, 2017) (quoting Chad Readler). Under those rules, the “person or entity making telephone solicitations (or on whose behalf telephone solicitations are made)” is liable for do-not-call violations. 47 C.F.R. § 64.1200(c)(2).
+The TCPA allows suit by “[a] person who has received more than one telephone call within any 12-month period by or on behalf of the same entity” to numbers on the do-not-call registry. 47 U.S.C. § 227(c)(5). This section thus indicates breadth—authorizing suit by any “person who has received” multiple unlawful calls in a 12-month period “by or on behalf of the same entity.” Any person who satisfies this definition may “receive up to $500 in damages for each such violation.” Id. Further, “[i]f the court finds that the defendant willfully or knowingly violated the regulations,” “the court may, in its discretion, increase the amount [up to] 3 times.” Id. The statute provides “an affirmative defense” (which Dish did not assert) to any defendant who “has established and implemented, with due care, reasonable practices and procedures to effectively prevent” violations. Id.
+Section 227(c)(5)’s expansiveness reflects Congress’s intent to encourage private enforcement, deter telemarketing abuses, and provide a remedy for people who
+7
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 17 of 64
+receive repeated unsolicited telemarketing calls. Congress generally “creates statutory damages remedies because it wants to encourage civil enforcement suits in situations where actual damages are difficult to prove.” Doe v. Chao, 306 F.3d 170, 198 (4th Cir. 2002). That is true of the TCPA, which aims to prevent intangible injuries like nuisance and invasion of privacy.
+B.	Factual background
+This case illustrates the importance of the TCPA’s remedial scheme:
+Dish sells satellite-TV equipment and services. Before 2003, it sold either directly or through full-service retailers who carried inventory. But then Dish hit upon an idea: allow a new, select group of retailers to sell Dish products without offering services of their own. These telemarketers (known as Order Entry or OE retailers) made up less than 2% of Dish retailers. JA_[Jan.11Tr.at61]. They had no inventory costs, no installation costs, and virtually no overhead costs. They held themselves out to the public as Dish retailers and used the Dish logo. They made sales directly to consumers, using Dish’s computer systems in real time and Dish-approved scripts, with the money going directly to Dish under a Dish service agreement. JA_[Jan.11Tr.at60,92-94]; JA_[PX1208]. Their only task was to make calls—lots and lots of calls—and market Dish’s products aggressively. Dish handled everything else. And these telemarketers got paid purely through commissions on sales volume. These few dozen companies generated enormous profits for Dish. By
+8
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 18 of 64
+2010, “the new customers enrolled by OE retailers created in the ballpark of $960 million in new annual Dish revenue per year.” JA_[Doc.338at9].
+SSN was one of these select retailers. Dish’s contract with SSN gave Dish virtually unlimited power to monitor and control SSN and its telemarketing calls. Dish required SSN to follow any “business rule” it created. JA_[JTX2,§1.7,7.3]. Dish also had the “right to modify, replace or withdraw all or any portion of any business rule at any time in its sole discretion.” JA_[§1.7]. Dish had the power to make SSN take any action or “refrain from taking any action” regarding “the marketing, advertisement, promotion and/or solicitation of [Dish] orders”—which was the only thing SSN sold during the class period. JA_[Doc.327at121] (“Q: But does [SSN] have any other stream of income, other than monies generated from DISH satellite sales? A: No.”). Dish enjoyed absolute control over SSN’s products, could change SSN’s compensation at any time, and policed SSN’s sales practices. JA_[JTX1§§6.1.1,7.3,7.4]; JA_[Jan.11Tr.at114]; JA_[Jan.13Tr.at149]. Although the contract characterized SSN as an “independent contractor,” ample record evidence demonstrated that SSN wasn’t “independent” in any meaningful sense. For example, as an SSN employee testified at trial, Dish required SSN to keep recordings of telemarketing calls and sent a representative to SSN’s office to listen to them daily; penalized SSN if it failed to give certain disclosures; and reviewed SSN’s sales scripts—including those where the
+9
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 19 of 64
+telemarketer was identified as “an account manager with Dish.” JA_[Doc.327at39,44,47,48,55,66-68]; JA_[PX22].
+SSN was not always so beholden to Dish. In the early years of its business, SSN marketed for both Dish and DirecTV. JA_[Doc.327at72-73]. The same year SSN became an OE retailer, Dish’s national sales manager told colleagues that he was “hearing a lot of complaints on [SSN] on telemarketing calls to customers.” JA_[PX503at1]. But despite “all [the] issues related to sales,” he directed a subordinate to recruit SSN to sell more Dish. JA_[PX656at1]. Not long after, the State of North Carolina fined SSN $25,000 for TCPA violations. JA[PX15at8002]. DirecTV quickly cut ties with SSN. JA_[Jan.12Tr.at53-55]. But Dish—knowing it stood to gain a lucrative revenue stream—chose to expand its relationship with SSN. JA_[PX656at1].
+By late 2005 (the year after SSN was elevated to an OE retailer), things had gotten so bad that Dish’s corporate counsel felt it necessary to send this email to other Dish executives (including the Vice President of Sales and head of the OE program):
+We know that SSN is using autodialers and automessages. [SSN’s owner] has been warned time and again ... that these activities could violate the law. Last time, [he] blamed a “rogue employee,” who he claimed was terminated, but the activities continue.
+In the past, we have successfully resisted the argument that we are responsible for the conduct of independent retailers, however, SSN is a problem because we know what he is doing and have cautioned him to stop. There is risk in continuing to give warnings
+10
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 20 of 64
+without a follow-through action. Eventually, someone will try to use that against us.
+JA_[PX194at1] (emphasis added).
+Yet nothing changed. Dish’s compliance manager—who “had knowledge” of two injunctions against SSN for TCPA violations (specifically, for illegally calling people on the do-not-call registry)—testified that she “didn’t have any reason to be concerned” about these violations. JA_[Jan.12Tr.at98-99,133-34]. As a result, she did no follow-up investigation or monitoring. Nor did she do anything when she learned of an ongoing class-action lawsuit against SSN for TCPA violations the following year. JA_[PX15at7995]. By that point, Dish knew that its commission payments to SSN were being garnished by court order because of SSN’s repeated violations of the do-not-call regulations. JA_[PX15at7994,8009-13]; JA_[Jan.12Tr.at57]. Dish also knew that SSN did not keep recordings of its calls as notionally required by a Dish “business rule.” JA_[PX15at7983-87].
+In 2009, Dr. Thomas Krakauer called Dish to complain about a telemarketing call he received from someone calling on behalf of Dish. Dish learned that the call came from SSN and violated both the do-not-call regulations and the contractual requirement that SSN scrub its lists with software to remove do-not-call numbers. Dish simply kicked the complaint over to SSN for handling. It didn’t ask for a recording, didn’t tell SSN to stop using its non-compliant call list, and didn’t investigate or monitor in any other respect. JA_[Jan.12Tr.at36]. Instead, Dish
+11
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 21 of 64
+rewarded SSN with “incentive trip[s]” because, as Dish’s compliance manager put it when considering these risks from SSN, “this is a business decision.” JA_[PX15at7995].
+Around the same time, Dish entered into an “Assurance of Voluntary Compliance” with 46 state Attorneys General. JA_[PX55]. The states asserted that Dish exercised control over retailers like SSN through its contracts, its ability to direct their telemarketing conduct, its business rules, its provision of training, its price-setting, its control over their interactions with consumers, and its insistence that they use the Dish logo and Dish scripts. JA_[PX55§1.6]. The Attorneys General further asserted that (1) they had received numerous complaints of do-not-call violations, (2) the retailers were acting on Dish’s “behalf as its agents,” and (3) thus, Dish “is responsible for the[ir] conduct.” JA_[PX55§§1.7-1.8].
+As part of this assurance, Dish agreed to “monitor” its marketers to ensure “compl[iance] with [the] do-not-call laws,” “affirmatively investigate complaints,” and “appropriately and reasonably discipline” any marketers who did not comply with telemarketing laws. JA_[PX55§§4.76-4.79]. Dish represented to the Attorneys General that it had the power and authority to do each of these things. In addition, the assurance compelled Dish to issue business rules to its OE retailers, “requiring them to comply” with the assurance. JA_[PX55§4.73]. If a retailer violated do-not-call laws, Dish agreed to discipline that retailer. JA_[PX55§4.79].
+12
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 22 of 64
+After signing the assurance, Dish’s co-founder testified that nothing changed: “This is how we operated even prior to the agreement as it related to telemarketing.” JA_[Jan.13Tr.at168-69].
+When Dish received a complaint from Richard Campbell in May 2010—after the assurance was in effect and at the very beginning of the class period here—Dish did the same thing it did for Dr. Krakauer. JA_[Jan.12Tr.at72-74]. With the same result: no effect on SSN’s ongoing violations. JA_[Jan.12Tr.at20-22].
+Eventually, the law caught up with Dish. Last year, the government’s enforcement action, brought by the FTC and the remaining four states on a parallel track with this private-enforcement action, resulted in the largest single civil fine ever assessed in the FTC’s century-long history. See FTC, Historic Decision Awarding $280 Million against Dish.
+The district court’s findings in that case were damning: DISH caused its telemarketers—including SSN—to violate do-not-call laws on a massive scale “over years and years of careless and reckless conduct.” United States v. Dish Network, LLC, 256 F. Supp. 3d 810, 858-59, 916, 983 (C.D. Ill. 2017), appeal pending, No. 17-3111 (7th Cir.). The court found that “Dish created a situation in which unscrupulous sales persons used illegal practices to sell Dish Network programming any way they could.” Id. at 978. Although Dish was “repeatedly put on notice” of these violations, id. at 929, it routinely looked the other way because, in its view, the risks “seem[ed] to be greatly
+13
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 23 of 64
+outweighed by the results.” Id. at 858. Through these aggressive telemarketing practices, the account “activations kept coming, and Dish Sales Department employees kept meeting their quotas and getting their bonuses, and Dish kept paying” its telemarketers to engage in unlawful conduct. Id. at 929.
+C.	Procedural background
+1.	Dr. Krakauer sues, and the district court certifies a class of all people whose numbers were on the do-not-call list and who received multiple calls over the class period.
+In April 2014, after Dr. Krakauer received at least ten more SSN-Dish calls following his 2009 complaint, JA_[PX16], he sued Dish for its serial violations of the TCPA. He sought to certify a class of all people who, like him, had “received telemarketing calls from [SSN] to promote the sale of Dish satellite television subscriptions from May 1, 2010 to August 1, 2011,” and whose numbers had been on the do-not-call registry for at least 30 days. JA_[Docs.47,48].
+To support certification, Dr. Krakauer relied on SSN’s call records (obtained from a software provider), which identified 20,450 phone numbers that (a) were on the registry as of April 1, 2010, and (b) received two or more connected calls in a 12-month period during the relevant time. JA_[Doc.48-2]. The call records identified whether each call was connected and when it was placed.
+To ensure that only received calls were counted, Dr. Krakauer’s data expert (Anya Verkhovskaya) used information in the call records to weed out any calls
+14
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 24 of 64
+logged as “No Answer,” “Abandon,” “Busy,” “Fax,” “Fax Machine,” “Internal Call,” “No Disposition,” “Operator Intercept,” “Inbound,” or “[Deleted],” and all calls with no recorded duration. JA_[Doc.48-2at8]; see JA_[Doc.110at6]. Each excluded call—over 1.4 million of them—was treated by Dr. Krakauer as unconnected, and the jury was never asked to impose liability for them. The data expert also excluded numbers identified as business-related or as existing Dish customers. JA_[Doc.48-2at10]. In the end, the total number of actionable calls made and connected during the class period was 57,900. Id. To identify likely class members and facilitate class notice, the data expert used the SSN call logs to obtain the names and addresses that SSN associated with the vast majority of numbers during the class period, and augmented this data with name and address information from LexisNexis. JA_[Doc.111at10-11].
+The district court rejected Dish’s proposal to limit the TCPA’s private cause of action to only telephone subscribers as inconsistent with the statute’s “plain language,” which authorizes suit by any “‘person who has received’” more than one unlawful call in a 12-month period—not any subscriber. JA_[Doc.111at12-14] (quoting 47 U.S.C. § 227(c)(5)). The court certified the following proposed class:
+All persons throughout the United States whose telephone numbers were listed on the federal Do Not Call registry for at least 30 days, but who received telemarketing calls from Satellite Systems Network, to promote the sale of Dish satellite television subscriptions from May 1, 2010 to August 1, 2011.
+15
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 25 of 64
+JA_[Doc.111at33-34]; JA_[Doc.47at1]. Under this definition, someone whose number was not listed on the registry, or who did not “receive” more than one call, is not a class member.
+Two years into the case, Dish moves to dismiss or decertify for lack of Article III standing, without success.
+In June 2016—over two years after the case was filed—Dish challenged Dr. Krakauer’s Article III standing. Doc. 197. The district court denied Dish’s motion. JA_[Doc.218]. By definition, all class members “received telemarketing calls” from SSN. “These calls,” the court held, “form concrete injuries” sufficient to create Article III standing because, in enacting the TCPA, Congress found that “unwanted telemarketing calls are a disruptive and annoying invasion of privacy.” JA_[Doc.218at3] (citing 137 Cong. Rec. 30,821 (1991)). The court noted that other courts “have consistently concluded that calls that violate the TCPA establish concrete injuries.” JA_[Doc.218at4]. Dish has yet to identify contrary authority.
+The jury finds Dish liable to each class member and awards $400 per call, with total liability and class membership to be determined later.
+In formulating the trial plan, the district court asked the jury to decide all classwide liability issues, including any affirmative defenses, while leaving individual membership determinations—that is, whether a particular person meets the class definition—to “be resolved post-trial using procedures to be determined later.”
+JA_[Doc.242at1].
+16
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 26 of 64
+The jury was asked to determine three things. First, whether SSN was “acting as Dish’s agent when it made the telephone calls at issue.” JA_[Doc.292]. Second, whether “SSN ma[d]e and class members receive[d] at least two telephone solicitations to a residential number in any 12-month period by or on behalf of Dish, when their telephone numbers were on the National Do Not Call Registry.” Id. Third, if the answer to both questions was yes, the amount per violation (from zero to $500 per call). Id. The jury also determined the validity of certain categorical defenses Dish asserted on subsets of the class, as stipulated by the parties. Id.; JA_[Docs.267,277]. The jury did not, however, “award a total amount of damages.” JA_[Doc.242at1]. Nor did it decide whether Dish acted knowingly or willfully. That question was determined by the court, post-trial, as Dish requested. Doc. 191.
+In the weeks before trial, the parties further narrowed the triable issues and size of the class to facilitate effective presentation of common proof. They excluded groups of people who presented individualized issues—for example, one group with whom Dish claimed to have an established business relationship (which would have made the calls lawful). JA_[Doc.248] (stipulation to exclude these members); JA[Docs.239,243] (another stipulation to refine class). This left 51,119 solicitations to 18,066 residential numbers on the National Do Not Call Registry.
+After a six-day trial, the jury found for “Dr. Krakauer and all class members” and awarded $400 “for each call made in violation of the TCPA.” JA_[Doc.292].
+17
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 27 of 64
+4.	The district court finds that Dish acted willfully.
+Reviewing the trial evidence, the district court concluded that Dish’s violations were willful and knowing. JA_[Doc.338]. The court “agree[d] with [the jury’s] factual finding” that “SSN was acting within the scope of its authority from Dish when it made the calls at issue,” and found that SSN had willfully and knowingly violated the TCPA and that “Dish is responsible for [those] willful and knowing violation[s]” under “the traditional rule” of agency. JA_[Doc.338at22]. Further, the court found that “[t]he result is the same even if one only looks at the willfulness of Dish’s conduct.” JA_[Doc.338at23].
+The court summarized: “Despite knowing that SSN had a history of TCPA violations and was calling lists of numbers that it had not ‘scrubbed’ against the [Do Not Call] Registry, Dish allowed SSN to continue to make telemarketing calls to sell Dish services.” JA_[Doc.338at1]. Worse, “[t]he evidence show[ed] that Dish’s TCPA compliance policy was decidedly two-faced.” JA_[Doc.338at28]. “While Dish promised forty-six state attorneys general in 2009 that it would enforce TCPA compliance by its marketers, Dish did nothing to monitor, much less enforce, SSN’s compliance with telemarketing laws. When it learned of SSN’s noncompliance, Dish repeatedly looked the other way.” JA_[Doc.338at1]. And “SSN, for its part, sent all complaints it received to Dish and ‘wait[ed] for Dish to tell [us] what to do.’ When individuals complained, Dish disclaimed responsibility,” and “made no effort to
+18
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 28 of 64
+determine whether SSN was complying with telemarketing laws, much less to enforce such compliance.” JA_[Doc.338at6].
+Exercising its discretion, the court determined that it was appropriate to treble the damages award “because of the need to deter Dish from future violations and the need to give appropriate weight to the scope of the violations” and Dish’s “sustained and ingrained practice of violating the law.” JA_[Doc.338at28-30].
+Around the same time, the court denied Dish’s motion for a new trial or for judgment as a matter of law. JA_[Doc.341]. It declined to overturn the jury’s findings on agency because “the evidence fully supports the jury’s verdict.” JA_[Doc.341at17]. The court also rejected Dish’s challenges to Dr. Krakauer’s expert, finding that she “provided clear, cogent testimony explaining her methodology and the bases for her opinions.” JA_[Doc.341at10-14]. “To the extent there was conflicting evidence that questioned the validity, credibility, and weight of [her] opinions, the jury weighed that evidence and rejected Dish’s evidence.” JA_[Doc.341at13-14].
+5.	The district court adopts a plan to identify class members, and eventually enters an aggregate class judgment.
+In July 2017, the court “outline[d] a process for entry of judgment in favor of those class members who are clearly identified and a general claims administration process for all other class members.” JA_[Doc.351at1]. This process, the court explained, would ensure that “only class members receive the damages awarded by
+the jury.” JA_[Doc.351at10]. The court agreed that Dish should have a “reasonable
+19
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 29 of 64
+opportunity to participate in the claims administration process,” and rejected Dr. Krakauer’s proposed approach of entering judgment for all class members “based on a total liability of $1,200 per call multiplied by 51,119.” JA_[Doc.351at10-11]. Although such an “aggregate damages award” would “no doubt [be] appropriate,” the court “conclude[d] in its discretion that the better course” at that point was to “require a claims process that gives Dish the opportunity to reasonably challenge individual claims to class membership.” JA_[Doc.351at11-15].
+The plaintiffs would be permitted “to move for judgment in favor of any such group of class members who are identified fully and consistently in the existing data, for whom there is no contradictory information, and as to whom the evidence is the same.” JA_[Doc.351at19]. For those class members, “receipt of a completed claim form will not be necessary.” Id. The other potential members, however, would have to submit a claim form, and could “attach a document, such as a phone bill, showing that they, or their household, paid for or used the phone number” during the class period, or “provide other documents that supports [their] claim.” JA_[Doc.351at18]; see JA_[Doc.361].
+Over the next nine months, as the district court worked to identify individual class members, it concluded that Dish was not participating in the process in good faith. JA_[Doc.407at9-10]. For example, when Dr. Krakauer moved for judgment on 11,471 people whose status as class members seemed beyond reproach, Dish “chose to
+20
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 30 of 64
+dump thousands of pages of new data on Dr. Krakauer and to make broad-brush claims of inconsistencies largely unsupported with specific citation to existing data.” Id. Dish’s expert had previously “identified 3,644 name inconsistencies within the existing data for the entire class of 18,066 members”—nearly all of whom Dr. Krakauer excluded from the list on which he sought judgment. JA_[Doc.407at7]. “One would logically think, then,” the district court observed, “that the identity and membership of only a few hundred class members might possibly be disputed as part of this motion.” JA_[Doc.407at7-8]. But not so. Dish’s expert “chang[ed] her opinion” and—based on new, unvetted data that Dish produced long after the discovery period closed—was “now stat[ing] that over 96% of the persons subject to Dr. Krakauer’s motion have a name inconsistency.” JA_[Doc.407at8].
+Still, the district court “carefully reviewed Dr. Krakauer’s evidence, sifted through Dish’s haystacks, and found a couple of needles.” JA_[Doc.407at11]. The court ultimately removed 191 people from the judgment list and those “identified only by first name or last name” (e.g., “Calhoun,” “Michael P,” “Miller,” “Theodora”). JA_[Doc.407at6,11]. It also removed someone named “Elia Batista, as to whom Dr. Krakauer believes there has been a surname change.” JA_[Doc.407at6]. The court said that it “expect[ed] to enter a partial judgment” for the other 11,000 or so people. JA_[Doc.407at11]. It concluded: “In making future decisions about an efficient and fair claims administration process, the Court will take into account Dish’s lack of
+21
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 31 of 64
+respect for the terms of the Court’s July 2017 Order, its continuing repetition of long-rejected arguments, and its attempt to obfuscate the issues, confuse the record, and shift arguments and facts. Resolving uncertainties as to the remaining 7000 or so class members need not consume an irrational amount of resources by the Court, the parties, and the Claims Administrator in order to make reasonable decisions.” JA_[Doc.407at12].
+A few months later, the district court “conclude[d] that the time has come to enter judgment in favor of the class.” JA_[Doc.438]. The court noted that, seven months before, it had held off on entering an aggregate judgment “to give Dish an opportunity to address issues it had with the identity of some class members.” JA_[Doc.438at2]. “Since that time,” however, “Dish has failed to suggest appropriate and efficient means for resolution of its purported identity issues, instead choosing to halfheartedly participate in meet-and-confer requirements, to bombard the Court with irrelevant and voluminous materials in connection with the plaintiff’s motion for judgment; to repeat arguments the Court has rejected many times; to seek a second bite at the apple when it loses on grounds it could have raised the first time the apple was presented; and to continue to offer only cumbersome and inefficient methods of resolving purported challenges to class member identity that go well beyond identity disputes.” Id. (citations omitted).
+22
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 32 of 64
+The court thus “enter[ed] final judgment on behalf of the class” under Rule 23(c)(3)(B). JA_[Doc.439at1]. Attached was a document that “describes the 18,066 class members to whom the Rule 23(c)(2) notice was directed, who have not requested exclusion, and whom the Court finds to be class members. It also lists the number of violative phone calls to each class member.” Id. “Consistent with the jury’s verdict and the Court’s Order awarding treble damages,” the aggregate award totaled $61,342,800. Id. The judgment explained that the court would “enter disbursement orders at appropriate times during and at the conclusion of the claims process.” JA_[Doc.439at2].
+6.	In the ongoing post-judgment claims process, Dish has an opportunity to contest individual class-membership determinations before a special master.
+Under the post-judgment order establishing the claims process, “[n]o claims form [would be] necessary” for the approximately 11,000 easily identifiable class members covered in the district court’s earlier order. JA_[Doc.441at2] (citing JA_[Doc.407]). The remaining 7,000 or so would have to confirm their status as class members by submitting a claims form and evidence, with any disputes being resolved by a special master, consistent with the procedures in the court’s order. JA_[Doc.441at2-11].
+Of these remaining people, 2,021 submitted claim forms. Dish did not object to the validity of over 80% (1,645 claims in all), and the claims administrator
+23
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 33 of 64
+“determined that each of the 1,645 claims is valid.” JA_[Doc.494-2]. Of the remaining 376, class counsel recommended that 26 claims submitted after the claims deadline be approved as valid. Id.; JA_[Doc.494-3].
+That left just 350 individual claims to which Dish objected. Many of its objections were based on a purely legal reason: “the claims do not survive death.” JA_[Doc.494at4]. The special master found this legally incorrect, and the district court agreed, so the claims were ruled valid. As for the other contested claims, however, the special master found that 38 were invalid because the claimants could not prove class membership or otherwise “sufficiently support” the claim with evidence. Id.; JA_[Doc.494-4]. Dish is now free to seek further review of these 350 individualized determinations.
+SUMMARY OF ARGUMENT
+I.A. The class definition is not overbroad. Section 227(c)(5) authorizes suit by any “person who has received” multiple unlawful calls in a year—not any “subscriber.” The class definition uses the same language. The zone-of-interests test does not authorize rewriting the statute to replace “person” with “subscriber.”
+B. Nor does the class lack Article III standing. Receiving repeated unsolicited calls is a cognizable injury under Spokeo because Congress identified this harm in creating section 227(c)(5), and it is analogous to harms traditionally recognized at
+24
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 34 of 64
+common law. Dish’s argument that some additional harm is necessary cannot be reconciled with Spokeo and has been rejected by every circuit to consider the question.
+II. The court correctly instructed the jury to decide all classwide liability issues but not the identities of individual class members. On the verdict form (which Dish
+does not challenge on appeal), the jury did just that. The instructions provide no basis for overturning the verdict. Deciding individual claims of class membership is
+the focus of the ongoing claims process and is not presented in this appeal.
+III.A. As for Dish’s insufficiency-of-the-evidence arguments, they too should
+be rejected. The jury’s factual finding that SSN was “acting as Dish’s agent” is based on substantial evidence in the record, as the court itself also found. The jury was not
+required to give dispositive weight to either Dish’s self-serving characterization of
+SSN as an “independent contractor,” or Dish’s “lip service to compliance.”
+B. The court’s finding that Dish acted knowingly and willfully is also amply
+supported by the record. Dish knew that SSN had repeatedly violated the TCPA and yet failed to do anything about it. Its conduct was both knowing and reckless.
+STANDARDS OF REVIEW
+1.	Class certification. “The law gives broad leeway to district courts in
+making class certification decisions,” which are reviewed “only for abuse of discretion.” Brown v. Nucor Corp., 785 F.3d 895, 902 (4th Cir. 2015).
+25
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 35 of 64
+Jury instructions. “The test for the adequacy of jury instructions is whether the jury charge, construed as a whole, adequately states the controlling legal principle without misleading or confusing the jury.” Chaudhry v. Gallezer, 174 F.3d 394, 408 (4th Cir. 1999). But “[e]ven if a jury was erroneously instructed,” this Court “will not set aside a resulting verdict unless the erroneous instruction seriously prejudiced the challenging party’s case.” Gentry v. E. W. Partners Club Mgmt. Co., 816 F.3d 228, 233 (4th Cir. 2016).
+Jury verdict and findings. This Court doesn’t weigh evidence or assess credibility. United States v. Saunders, 886 F.2d 56, 60 (4th Cir. 1989). It “cannot reverse a jury verdict except ‘when there is a complete absence of probative facts to support the conclusion reached.’” Sherrill White Const, Inc., v. S.C. Nat’l Bank, 713 F.2d 1047, 1050 (4th Cir. 1983); see Vodrey v. Golden, 864 F.2d 28, 30 n.4 (4th Cir. 1988). “[T]he existence and scope of agency relationships are factual matters” committed to the jury. Metco Prods., Inc. v. NLRB, 884 F.2d 156, 159 (4th Cir. 1989).
+ARGUMENT
+Neither of Dish’s two grounds for challenging classwide treatment has any merit or support in the case law.
+Dish challenges classwide treatment on two grounds. First, that the cause of action authorized by section 227(c)(5) contains an unstated requirement that the plaintiff be a telephone subscriber. And, second, that receiving unsolicited calls is not
+itself a cognizable Article III injury. Both arguments seek to erect a hurdle to TCPA
+26
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 36 of 64
+cases that no court has ever endorsed. Both ignore Congress’s findings. Both should be rejected.
+A.	By its plain terms, section 227(c)(5) authorizes suit by any “person” who received multiple calls in a year—the exact language in the class definition—not any “subscriber.”
+1. The class definition tracks the text of section 227(c)(5). Dish’s lead argument (at 21) is that section 227(c)(5) “creates a private right of action that may be brought by a ‘telephone subscriber,’” whereas the district court “certified a much broader class: people called by SSN who were ‘associated with’ a phone number on the Registry.” Dish even puts the terms “telephone subscriber” and “associated with” in quotation marks, as if that’s what the statute and class definition say. But that’s not what they say. They both say the same thing—covering any “person” who “receives” more than one unlawful call in a 12-month period. 47 U.S.C. § 227(c)(5); JA_[Doc.111at33-34]; JA_[Doc.47at1]. So Dish cannot be right that the “class definition encompasses numerous people who have no statutory claim” under section 227(c)(5). Dish Br. 28.
+Most of Dish’s first argument obfuscates this problem. Two dozen times, Dish quotes this “associated with” language, which it plucked from two instances in which the district court described the methodology of Dr. Krakauer’s expert. See JA_[Doc.111at11]; JA_[Doc407at5]. But only once does Dish mention the actual class definition, burying it in the statement of the case (at 10). That’s because the definition
+27
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 37 of 64
+is fatal to Dish’s argument. When a definition tracks the statutory text, it is not “much broader” than that text.
+2. The plain text of section 227(c)(5) is not limited to subscribers. Dish’s statutory argument is wrong because it is predicated on a reading of section 227(c)(5) that is unmoored from the text, which says nothing about “subscribers.” The text says: “A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation of the regulations prescribed under this subsection may” sue “to receive up to $500 in damages for each such violation.” 47 U.S.C. § 227(c)(5). The word “subscriber” is nowhere to be found. Instead, two questions are paramount: Is the plaintiff a “person who has received more than one” call in a 12-month period from the same entity? Did the calls violate the regulations? If the answer is yes to both—as it is for each class member here—they have a statutory cause of action.
+Dish resists this straightforward reading. It argues that because other provisions in the TCPA speak of subscribers, so too should section 227(c)(5). See Dish Br. 22-23 (citing sections 227(c)(1)-(3)). This argument inverts the usual rule that when a statute “has used one term in one place, and a materially different term in another, the presumption is that the different term denotes a different idea.” Scalia & Garner, Reading Law: The Interpretation of Legal Texts 170 (2012); see, e.g., Henson v. Santander Consumer USA Inc., 137 S. Ct. 1718, 1723 (2017) (“[U]sually at least, when we’re engaged
+28
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 38 of 64
+in the business of interpreting statutes we presume differences in language like this convey differences in meaning.”). Had Congress wanted to limit section 227(c)(5) to subscribers, it would have limited section 227(c)(5) to subscribers—by using that word rather than “person.” It chose not to.
+Dish’s argument is thus not a textual one, but a contextual appeal to this Court to engraft a limitation onto the plain words of the statute, based on what Dish characterizes (at 22) as its “zone of interests.” To support this argument, Dish relies on Lexmark International, Inc. v. Static Control Components, Inc., which clarified that “[w]hether a plaintiff comes within the ‘zone of interests’ is an issue that requires [courts] to determine, using traditional tools of statutory interpretation, whether a legislatively conferred cause of action encompasses a particular plaintiff’s claim.” 572 U.S. 118, 127 (2014).
+This principle offers no comfort to Dish because the starting point of any statutory-interpretation question is “what the statute says.’” Belmora, 819 F.3d at 708. And when the text is as clear as it is here, that is also the end point. See United States v. Otuya, 720 F.3d 183, 190 (4th Cir. 2013) (applying this “elementary” rule). As this Court has explained: “Given that Lexmark advises courts to adhere to the statutory language,” courts “lack authority to introduce a requirement into [the statute] that Congress plainly omitted.” See Belmora, 819 F.3d at 708-11. Yet that is what Dish is asking for here.
+29
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 39 of 64
+3. Section 227(c)(5)’s zone of interests is not limited to subscribers. Even if there were some ambiguity in the text, however, the zone-of-interests test still would pose no barrier. The test “is not meant to be especially demanding.” Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak, 567 U.S. 209, 225 (2012). Plaintiffs need only show that the interests they seek to vindicate are “‘arguably within the zone of interests’ that [the statute] protects.” Bank of Am. Corp. v. City of Miami, 137 S. Ct. 1296, 1301 (2017). The Supreme Court has “always conspicuously included the word ‘arguably’ in the test to indicate that the benefit of any doubt goes to the plaintiff.” Patchak, 567 U.S. at 225. “The test forecloses suit only when a plaintiff’s interests are so marginally related to or inconsistent with the purposes implicit in the statute that it cannot reasonably be assumed that Congress intended to permit the suit.” Id.
+This case does not remotely fit that description. “Identifying the interests protected” by the TCPA “requires no guesswork,” because Congress included a “detailed statement” of its findings and “the statute’s purposes.” See Lexmark, 572 U.S. at 131 (saying same about the Lanham Act). Congress passed the TCPA because of public “outrage[] over the proliferation of intrusive, nuisance calls to their homes from telemarketers.” Pub. L. No. 102-243, § 2(6), 105 Stat. 2394. In describing the people harmed by such calls, Congress’s findings mention the “receiving part[ies],” “consumers,” and “[i]ndividuals.” Id. § 2(5)-(6),(9),(11)-(12). They refer to “subscribers”
+30
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 40 of 64
+only once. Id. § 2(10). If Congress meant to give no protection to receiving parties and consumers who are not subscribers, its findings leave no indication of that.
+The legislative history further confirms that Congress had in mind more than just subscribers when passing the law. The Act’s sponsor, for instance, said this about telemarketing calls: “They wake us up in the morning; they interrupt our dinner at night; they force the sick and elderly out of bed; they hound us until we want to rip the telephone right out of the wall”—harms, in other words, to the recipients. 137 Cong. Rec. 30,821 (1991). Non-subscribers can suffer these harms just as much as subscribers. So it makes sense that Congress would write section 227(c)(5) to confer a cause of action on any “person” who “received” the unlawful calls.
+Although “not controlling,” Mims, 565 U.S. at 385, this history is confirmatory. It makes sense. And it echoes what the text already tells us: there is no “unstated requirement” that only subscribers may sue. See Belmora, 819 F.3d at 708. As the Third Circuit held in interpreting section 227(b)(3)’s neighboring cause of action, “the Act’s zone of interests encompasses” the actual recipient of the calls even if they were not “the subscriber and intended recipient.” Leyse, 804 F.3d at 326-27. To forbid them to sue “would disserve the very purposes Congress articulated in the text of the Act” because “[i]t is the actual recipient, intended or not, who suffers the nuisance and invasion of privacy.” Id. (noting that this was “by no means a close case”). Dish offers
+31
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 41 of 64
+no response. Even though this is the only appellate decision analyzing the TCPA’s zone of interests under Lexmark, Dish doesn’t mention it.
+4. Dish’s counterarguments for its subscribers-only limitation are unpersuasive. Lacking a foothold in the case law, statutory text, findings, or legislative history, Dish searches for support in FCC regulations interpreting different statutory provisions. These regulations use the word “subscriber,” prohibiting “initiat[ing] any telephone solicitation to” a “residential telephone subscriber who has registered his or her telephone number” on the registry. 47 C.F.R. § 64.1200(c). This provision carries out the statutory command that the regulations must “prohibit any person from making or transmitting a telephone solicitation to the telephone number of any subscriber” on the registry. 47 U.S.C. § 227(c)(3)(F).
+None of this language, however, supports Dish’s request that this Court impose an atextual subscribers-only restriction onto section 227(c)(5). Again, that section says “person,” not “subscriber.” And the “violation” it requires, id. § 227(c)(5), occurs when the telephone “number” is called, id. § 227(c)(3)(F). If Dish calls subscriber John Doe and reaches his wife Jane instead, it would surely try to sell her its wares. Does Dish contend that the statute doesn’t reach that conduct? Is Dish arguing that only the intended recipient of the call is within the TCPA’s zone of interests, not the actual recipient? The Third Circuit has squarely rejected that position, see Leyse, 804 F.3d at 326, and the FCC has effectively rejected it too. See In
+32
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 42 of 64
+the Matter of Rules and Regulations Implementing the Telephone Consumer Protection Act of 1991, 30 FCC Rcd. 7961, 8001 ¶ 74 (2015) (interpreting “called party,” as used in the TCPA, to include both “the subscriber and customary users,” because the subscriber and “non-subscriber customary user[s]” are the ones “whose privacy is interrupted by unwanted calls”). If “called part[ies]” include non-subscribers, and they too can suffer the injury Congress sought to protect against, then it logically follows that “recipient[s]” of calls include non-subscribers.
+For this Court to accept Dish’s argument, therefore, it would have to (i) devise a new limitation that is absent in the statutory text; (ii) split with a sister circuit, and (iii) adopt a radically narrower interpretation of the statute’s interests than the federal agency that is tasked with implementing it.
+Contra Dish’s claim (at 25), Lexmark supports no different interpretation of the word “person.” The statutory provision there (in the Lanham Act) authorizes suit by “any person who believes that he or she is likely to be damaged”—language that, if “[r]ead literally,” could cover any injury under the sun. 572 U.S. at 129. But what made that language potentially limitless wasn’t the word “person”; it was everything that follows: no particular kind of harm was specified in the text. The Supreme Court held that the statute protects only commercial harm, not all harm imaginable. Id. at 131-32. The TCPA is much more precise. It specifies the injury exactly: receiving more than one unlawful telemarketing call in a year. Anyone who suffers that specified
+33
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 43 of 64
+harm may sue, just as anyone who suffers commercial harm caused by a Lanham Act violation may sue. Put differently, there’s the question who can sue, and the question what kind of injury can support the suit. The TCPA is deliberately general as to the former, and exact as to the latter. Lexmark was about the latter.
+And even if one could imagine implicit limits that might be placed on the former, this case doesn’t present them. Dish’s statutory argument throughout the case has been all or nothing: section 227(c)(5) is limited to subscribers. If that reading is wrong, its argument must be rejected. Dish has neither pressed nor preserved any different, more modest argument.1
+
+Finally, even if non-subscribers were inarguably outside section 227(c)(5)’s zone of interests (as they would have to be for Dish to be right), that still would not provide a reason to decertify the class or disturb the jury’s verdict. The verdict will pay only those who meet the class definition. So what Dish really seems to be arguing is that the method for determining who satisfies the class definition—not the definition itself—
+1 In any event, the judgment here does not cover “a subscriber’s son visiting from college, or a houseguest,” nor “risk double recovery” against Dish, as Dish asserts (at 24). Dr. Krakauer’s expert ensured that all class members were at least regular users of a phone number that received multiple unlawful calls from SSN in a 12-month period, while the claims form asks that they “attach a document, such as a phone bill, showing that they, or their household, paid for or used the phone number” during the period. JA_[Doc.351at18]. That’s a far cry from Dish’s hypothetical horribles about houseguests or holiday homecomings. Nor is there any risk of double recovery. The total liability is limited to the number of violations, and the court-supervised claims process will weed out any duplicative claims.
+34
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 44 of 64
+is flawed because it allows non-subscribers to be included. But Dish makes this argument only in challenging the entry of final judgment (at 34-37), not in opposition to class certification or the jury verdict. At most, then, Dish’s atextual reading of section 227(c)(5), even if credited by this Court, would require revised post-verdict proceedings. It would not undo anything before then.
+B.	Because all class members, by definition, received multiple unlawful calls, and Congress specifically identified this harm as cognizable, they have suffered an Article III injury.
+Dish’s other attack on the class is even more novel. Dish claims (at 28) that the class “runs afoul of Article III because it includes people who suffered no concrete injury.” To agree, this Court would have to conclude that receiving repeated unsolicited telemarketing calls isn’t a concrete injury. But no cases so hold. The cases Dish cites (at 29) all hold the opposite—and compel the conclusion that there’s standing here. Although Dish contends that Article III requires plaintiffs to prove some additional injury beyond the one identified by Congress, no court has imposed such a heightened injury requirement of this sort. Such a requirement flatly contradicts the Supreme Court’s decision in Spokeo, which holds that plaintiffs “need not allege any additional harm beyond the one Congress has identified.” 136 S. Ct. at 1549. And it contradicts the traditional rule that “damages are available for privacy torts” regardless of whether the plaintiff can prove “any other loss caused thereby,”
+35
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 45 of 64
+Doe v. Chao, 540 U.S. 614, 621 n.3 (2004)—a rule that Congress emphatically endorsed by creating section 227(c)(5).
+1. Under Spokeo, “both history and the judgment of Congress play important roles” in the analysis. This case involves a classic intangible injury: the “invasion of privacy” and nuisance. Mims, 565 U.S. at 372.2 The Supreme Court has “confirmed in many of [its] previous cases that intangible injuries can nevertheless be concrete.” Spokeo, 136 S. Ct. at 1549. “In determining whether an intangible harm constitutes injury in fact, both history and the judgment of Congress play important roles.” Id. So if the “alleged intangible harm has a close relationship to a harm that has traditionally been regarded as providing a basis for a lawsuit in English or American courts”—or, put in fewer words, if “the common law permitted suit” in analogous circumstances—the plaintiff will have suffered concrete injury. Id.
+Further, Congress is empowered (and “well positioned”) “to identify intangible harms that meet minimum Article III requirements,” even if those harms “were previously inadequate in law.” Spokeo, 136 S. Ct. at 1549. “In exercising this power, however, Congress must at least identify the injury it seeks to vindicate and
+2 An illustration of this classic harm appears in the Restatement (Second) of Torts § 652B, cmt. b (1977): “A, a professional photographer, seeking to promote his business, telephones B, a lady of social prominence, every day for a month, insisting that she come to his studio and be photographed. The calls are made at meal times, late at night and at other inconvenient times, and A ignores B’s requests to desist. A has invaded B’s privacy.”
+36
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 46 of 64
+relate the injury to the class of persons entitled to bring the suit.” Massachusetts v. EPA, 549 U.S. 497, 516 (2007). If it does so, any plaintiff in that class has standing and “need not allege any additional harm beyond the one Congress has identified.” Spokeo, 136 S. Ct. at 1549. Hence Justice Scalia’s observation that standing’s “existence in a given case is largely within the control of Congress.” Scalia, The Doctrine of Standing as an Essential Element of the Separation of Powers, 17 Suffolk U. L. Rev. 881, 885 (1983).
+2. Dish’s argument conflicts with Spokeo and has been rejected by multiple circuits. Dish says nothing about any of this precedent. Not a word about history or the judgment of Congress. Nor any about Spokeo (which Dish does not directly cite). Nor the unbroken line of cases applying Spokeo and holding that recipients of unsolicited telemarketing calls or texts have standing to sue under the TCPA. And no wonder: they all doom Dish’s argument.
+The circuit cases in most obvious conflict with Dish’s position are Susinno v. Work Out World Inc., 862 F.3d 346 (3d Cir. 2017), and Van Patten v. Vertical Fitness Group, LLC, 847 F.3d 1037 (9th Cir. 2017). Susinno involved a plaintiff who “received an unsolicited call” from a telemarketer. 862 F.3d at 348. She “did not answer the call,” so the company left a message. Id. In an opinion by Judge Hardiman, the Third Circuit held that she had standing. Pointing to “[t]he congressional findings in support of the TCPA,” which showed that Congress “sought to prevent” the
+37
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 47 of 64
+“nuisance and invasion of privacy” caused by telemarketing calls, the court concluded that “Congress squarely identified this injury” as cognizable. Id. at 351.
+The court “turn[ed] next to the historical inquiry.” Id. It found that the closest analogue was the tort of intrusion upon seclusion. See id. (citing Restatement (Second) of Torts § 652B, cmt. d (1977)). Although the traditional rule would impose liability only for more than “two or three calls,” “Congress found that unsolicited telemarketing phone calls or text messages, by their nature, invade the privacy and disturb the solicitude of their recipients.” Id. at 351-52 (cleaned up). In doing so, “Congress was not inventing a new theory of injury.” Id. at 351. “Rather, it elevated a harm that, while previously inadequate in law, was of the same character of previously existing legally cognizable injuries. Spokeo addressed, and approved, such a choice by Congress.” Id. (cleaned up).
+The other circuit case that forecloses Dish’s argument is Van Patten, in which the Ninth Circuit held that a plaintiff who received text-message solicitations had standing. As Spokeo commands, the court looked to both history and Congress. It noted that “[a]ctions to remedy defendants’ invasions of privacy, intrusion upon seclusion, and nuisance have long been heard by American courts.” 847 F.3d at 1043. And it explained that Congress “sought to protect consumers from the unwanted intrusion and nuisance of unsolicited telemarketing phone calls and fax[es].” Id. Thus, a plaintiff alleging a violation under the TCPA ‘need not allege any additional
+38
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 48 of 64
+harm beyond the one Congress has identified.’” Id. Courts in this circuit have held the same. See Mey v. Got Warranty, Inc., 193 F. Supp. 3d 641, 645, 647 (N.D. W. Va. 2016) (explaining that the TCPA “liberaliz[es] and codif[ies]” the intrustion-upon-seclusion tort and also bears “a close relationship” to the trespass-to-chattels tort).3
+
+Under Spokeo, and the circuits’ uniform application of Spokeo, this is an easy case. This Court should affirm the district court’s decision that receiving repeated unsolicited and unlawful telemarketing calls is a cognizable injury.
+Dish’s complaint about the jury instructions is baseless and supplies no justification for overturning the verdict.
+After spending nearly twenty pages on its two lead arguments, Dish takes a quick swipe at the jury instructions before moving on to challenge the fact findings and sufficiency of the evidence. It asserts that the instructions were erroneous and that the error “affected the verdict to a near certainty,” so the “verdict must therefore be reversed.” Dish Br. 38-40. Neither assertion is correct.
+First, the district court was well within its discretion to keep the jury focused on class liability, and to reserve class-membership questions for the claims process
+3 Citing these cases (at 29-30), Dish says Dr. Krakauer has failed to make a “showing” of unspecified additional harm. But these cases stand for the opposite proposition—no such showing is necessary. And although Dish tries to convey the impression that this case involves unanswered calls akin to “trees falling in forests,” that is wrong. In reality, every unanswered call was screened out. JA_[Doc.110,Doc. 48-2]. And Van Patten and Susinno make clear that even text messages or calls answered by voicemail cause cognizable injury because, as Congress recognized, they invade our privacy, interfere with our phones, clog our inboxes, and take up our time.
+39
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 49 of 64
+(when claimants could “use a phone bill,” “call records,” or “other proof,” which Dish concedes is sufficient in an individual case, see Dish Br. 38). And Dish does not challenge the verdict form on appeal. The district court thus did not err by instructing that “[t]here is no issue for you to decide in connection with names and addresses or the identities of class members. That is something that may be decided down the road in other proceedings.” JA_[Doc.293at9].
+Second, Dish tries to make something of the fact that the district court instructed the jury “to decide whether the telephone numbers called were residential numbers on the Do Not Call list at the time of the call and if so, whether SSN made at least two solicitation calls to those numbers.” Id. This was no misstep, much less one that “affected the verdict to a near certainty.” Dish Br. 39. The jury heard expert testimony about the number of calls to each number and why the listed numbers were more likely than not residential, and on that basis, had ample factual support to act on the instruction. JA_[Doc.293at1-2]. The jury didn’t determine the “identities of class members,” JA_[Doc.293at9], and didn’t order Dish to pay money to any specific person other than Dr. Krakauer. So how would the jury’s verdict have been different had it been given instructions that did not contain the sentence to which Dish now objects? Dish’s brief doesn’t say. Nor does it say what the instructions, in its view, should have been.
+40
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 50 of 64
+To the extent that Dish speculates about claimants having invalid claims because “phone numbers change hands,” that hypothetical “problem” has nothing to do with the instructions, the verdict, or even the judgment (which simply “describes” class members, as Rule 23(c)(A) allows). See Dish Br. 39. It’s a concern best addressed in the claims process—when claims are made, membership is determined, and damages are distributed. This appeal involves no such determinations, “because the damages award has not yet been disbursed.” See Tyson Foods, 136 S. Ct. at 1050 (holding, in an appeal from an aggregate class judgment, that such questions were “premature” and not “yet fairly presented”).4
+
+But for what it is worth, the ongoing claims process is working. The district court has put in place safeguards to address Dish’s concerns. It has required claims forms for thousands of people and allowed Dish to object to the validity of any such claim, with a special master resolving any disputes in the first instance. And although Dish says (at 39) that this process must be flawed because it “allows multiple people to submit claims for calls to a single number,” that hasn’t been a problem in practice
+4 Seeking to discredit the court’s management of the post-trial claims process—which isn’t at issue in this appeal—Dish directs attention (at 36) to a few lines from 3,800 pages of single-spaced spreadsheets attached to one of its briefs below. It cites two phone numbers for which it says there is “conflicting evidence” that the court “refused to consider.” But, as the court explained at length, it “made every effort to evaluate and consider Dish’s arguments.” JA_[Doc.407at10]. The court “carefully reviewed [this] evidence, sifted through Dish’s haystacks, and found a couple of needles”—and removed them. Id.
+41
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 51 of 64
+(except as to Dr. Krakauer, whose number was made public), and if it were, the court could address the issue during the claims process. Duplicative claims have been submitted for Dr. Krakauer’s number and those claims have been screened out as fraudulent. In addition, recognizing that numbers can change hands, the claims form determined the period over which the claimant used the number and received the calls.
+Under this ongoing process, if Dish thinks that claimants have not satisfied the class definition, it is not without recourse. It can object to the validity of those claims (and has objected to some 350 claims). It can seek review of those determinations in the district court, and even appeal if it thinks the court makes the wrong call. What it cannot do is characterize these concerns as being about the jury instructions—or class certification, the verdict, or the judgment—solely so it can avoid having to compensate anyone.
+Dish does not come close to justifying vacatur of either the jury’s finding that SSN was “acting as Dish’s agent” or the district court’s finding that Dish’s conduct was knowing and willful.
+A.	There is no basis for overturning the jury’s finding that SSN was “acting as Dish’s agent” in making the unlawful calls.
+On agency, Dish’s plea for vacatur rests primarily on a single piece of evidence: contractual language characterizing SSN as an “independent contractor.” Dish spends pages upon pages strenuously resisting any possibility that the jury could
+credit any evidence beyond this self-serving language. But weighing evidence is what
+42
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 52 of 64
+juries do. So the only way Dish could prevail on this point is if contractual labels were dispositive of the question of agency as a matter of law.
+They aren’t. One “does not become an independent contractor simply because a contract describes him as such.” In re Shulman Transp. Enters., Inc., 744 F.2d 293, 295 (2d Cir. 1984). As this Court has noted, such language is “not dispositive.” Robb v. United States, 80 F.3d 884, 893 n.11 (4th Cir. 1996). The “determination whether a party is an agent or independent contractor is to be made, not by ‘self-serving characterizations,’ but rather by evidence of the alleged principal’s right of control.” Valenti v. Qualex, Inc., 970 F.2d 363, 367 (7th Cir. 1992); see McKee v. Brimmer, 39 F.3d 94, 98 (5th Cir. 1994) (“[A]n employer will not be allowed to escape liability by drafting a contract which labels its employee an independent contractor, but retains employer-like control over him.”). Provisions purporting to designate one party as independent “will not trump provisions that actually reserve the [principal’s] right to control” the agent’s actions. Huggins v. FedEx Ground Package Sys., Inc., 592 F.3d 853, 858-59 (8th Cir. 2010); see Restatement (Third) of Agency § 1.02 (2006) (such provisions are “not determinative”; instead, “the facts of the relationship” matter).
+Thus, even when a contract characterizes a party as an “independent contractor,” the “ultimate resolution” of agency is “appropriately left to the province of the jury in most instances.” Northern v. McGraw-Edison Co., 542 F.2d 1336, 1343 & n.7 (8th Cir. 1976). This is such an instance. As the district court summarized, “the
+43
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 53 of 64
+evidence at trial persuasively demonstrated that SSN was acting as Dish’s agent and was acting in the course and scope of that agency when it made the calls at issue, and the jury so found.” JA_[Doc.338at19]. The court expressly “agree[d] with that factual finding.” JA_[Doc.338at22]. So did the court in Dish Network, 256 F. Supp. 3d 810; federal regulators spanning the last two presidential administrations, id.; and the state Attorneys General. JA_[PX55§§1.7-1.8].
+Which is to say that Dish has yet to find a taker for its argument. But now, on appeal, its task has become truly insurmountable. It must show that all of these people— all of whom concluded that SSN acted as Dish’s agent—were not just wrong, but clearly wrong. Hence Dish’s dogged efforts to portray its argument as a “question of law.” Dish Br. 41. It can’t show insufficient evidence, and doesn’t even try.
+The basic problem for Dish is that, while the “independent contractor” language is a point in its favor, most evidence cuts the other way. The jury saw evidence showing that (1) other contractual provisions “gave Dish substantial control over SSN’s marketing and gave Dish unilateral power to impose additional requirements about telemarketing on SSN”; and (2) Dish represented to 46 state Attorneys General that “it had the authority to and would monitor compliance of all its marketers, including SSN, with telemarketing laws.” JA_[Doc.341at5]. Evidence also showed that SSN sold only Dish; had direct access to Dish’s computer system, JA_[PX334]; Dish allowed SSN to use its name and logo, JA_[Doc.303at24]; and
+44
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 54 of 64
+Dish wrote, approved, and monitored SSN scripts, JA_[PX1294]; JA_[Doc.327at68]. The jury had a surfeit of evidence on which to find that SSN was Dish’s agent. JA_[Doc.292at1].
+The same is true for its finding that SSN “acted as Dish’s agent” in making the calls. JA_[Doc.292at1]. This is a question about the scope of SSN’s authority as Dish’s agent. Like questions about the existence of an agency relationship, the scope of an agent’s authority can rarely be resolved as a matter of law. Rather, this Court has held that “where there is doubt as to the servant’s scope of authority the trial judge is required to resolve the doubt in favor of the plaintiff and submit the evidence to the jury, upon the ground that the employer had placed the servant in position to do the wrongful act.” Montgomery Ward v. Medline, 104 F.2d 485, 486 (4th Cir. 1939); accord Metco Prods., 884 F.2d at 159 (explaining that this is a “factual matter[]”).
+As with its “independent contractor” argument, Dish claims (at 54-56) that the jury was required to give controlling weight to Dish’s stated policy that SSN should follow the law, and “no reasonable jury could conclude otherwise.” But that is wrong. The two cases Dish cites are easily distinguishable. There was “no record evidence contradicting [the contractual] limitation” in either one, Jones v. Royal Admin. Servs., Inc., 887 F.3d 443, 449 (9th Cir. 2018)—much less substantial evidence of knowledge and acquiescence like we have here. See JA_[Doc.341at8] (distinguishing Bridgeview Health Care Ctr., Ltd. v. Clark, 816 F.3d 935 (7th Cir. 2016)). When a principal acquiesces
+45
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 55 of 64
+in a course of conduct (including prior noncompliance with stated policies), the agent may reasonably conclude that the principal wants the conduct to continue, and “will not demand compliance with the instructions to any degree greater than [it] has in the past.” Restatement (Third) of Agency § 2.02 cmts. e, f (2006). Thus, “[i]n determining whether an agent’s action reflected a reasonable understanding of the principal’s manifestations of consent”—a factual question—“it is relevant whether the principal knew of prior similar actions by the agent and acquiesced in them.” Id.
+Here, the jury had ample evidence before it to find (as the court itself found) that Dish knew of SSN’s serial violations and acquiesced in them, despite paying “lip service” via its “decidedly two-faced” compliance scheme. JA_[Doc.338at22,28]. Dish’s own compliance manager said that its continued relationship with SSN was “a business decision.” JA_[PX15at7995]. It’s no stretch to conclude that SSN got the message—if not in Dish’s words, then in its deeds. The court summarized the substantial evidence showing that Dish acquiesced in SSN’s misconduct, notwithstanding the toothless form letters it sent in response to complaints. JA_[Doc.341at6-10]. The jury credited this evidence and found for the class. “The evidence was well sufficient to support the jury’s finding.” JA_[Doc.341at8].
+B.	There is no basis for overturning the district court’s finding that Dish knowingly and willfully violated the TCPA.
+Finally, Dish seeks to wipe out the district court’s award of treble damages. Its
+argument on this score is limited: It challenges only the court’s finding that “Dish
+46
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 56 of 64
+willfully and knowingly violated the TCPA.” JA_[Doc.338at1-2]. Dish doesn’t challenge the finding that SSN willfully and knowingly violated the statute or the court’s discretionary decision to increase the damages.
+The district court identified two distinct justifications for its finding. The first was rooted in the “traditional rule” that “a principal is liable for the willful acts of his agent committed within the scope of the agent’s actual authority.” JA_[Doc.338at22]. The second focused only on the “willfulness of Dish’s conduct.” JA_[Doc.338at23]. The court reviewed the trial record, made several credibility determinations, and determined that “Dish knew or should have known that its agent, SSN, was violating the TCPA.” Id. The only way that Dish can succeed on this issue is by demonstrating that both independent justifications are impermissible. That is a tall order.
+1. Dish is liable for SSN’s willful or knowing violations. On the first ground, Dish claims (at 60) that the rule “for at least two centuries” has been that a “principal is not liable for ‘vindictive damages’” “for the willful acts of his agent” unless the principal was also at fault. But, nearly a century ago, the Supreme Court upheld a punitive-damages award against a principal even for an agent’s negligent acts. Louis Pizitz Dry Goods v. Yeldell, 274 U.S. 112 (1927). The Court explained that the “principle of respondeat superior” and “the rule of liability of corporations for the willful torts of their [agents]” had been “extended in some jurisdictions, without
+47
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 57 of 64
+legislative sanction, to liability for punitive damages.” Id. at 115. The Court cited numerous cases applying this common-law rule. Id.
+Some jurisdictions, to be sure, have applied a stricter rule. But there’s reason to believe that Congress wanted the more expansive rule to apply to do-not-call violations. Not only does that rule best effectuate the Act’s remedial purpose, but it also gives effect to Congress’s decision to add the words “on behalf of” to section 227(c)(5). That language doesn’t appear in the provision on robocalls, section 227(b). And it was unnecessary to signal that vicarious liability applies because such background common-law principles would apply anyway. See Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47, 69 (2007).
+The FCC, for its part, has recognized that section 227(c)’s “on behalf of” language may “provide a broader standard of vicarious liability for do-not-call violations,” and might even go “beyond agency principles.” In re Joint Pet. Filed by Dish Network, 28 FCC Rcd. 6574, 6585-86 (2013). And Commissioner Pai expressed his view that “the statutory phrase ‘on behalf of’ explicitly extends third-party liability” to “do-not-call violations whenever a telemarketer initiates a call on a seller’s behalf, even if that telemarketer is not under the seller’s control.” Id. at 6597.
+At any rate, the only two cases Dish cites for its preferred rule each recognize that principals may avoid punitive-damages liability for their agents’ willful acts only if “they engage in good faith efforts” to ensure compliance, Kolstad v. Am. Dental Ass’n,
+48
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 58 of 64
+527 U.S. 526, 544 (1999), and did not “countenance[]” the violations “in the slightest degree,” The Amiable Nancy, 16 U.S. (3 Wheat) 546, 558-59 (1818). That obviously did not happen here. Defendants who act in good faith can assert an affirmative defense under section 227(c)(5). But Dish did not even attempt to assert that defense below, and the district court independently found that Dish didn’t act in good faith.
+2. In finding that Dish acted knowingly and willfully, the district court did not apply a mere negligence standard. This leads to the court’s second independent ground—that Dish “knew or should have known that its agent, SSN, was violating the TCPA.” JA_[Doc.338at23]. Dish claims that this finding constitutes reversible error because (a) it applies the wrong legal standard, and (b) is clearly erroneous as a factual matter. Neither is correct.
+The standard “does not require any malicious or wanton conduct, but rather is satisfied by merely ‘knowing’ conduct.” Alea London Ltd. v. Am. Home Servs., Inc., 638 F.3d 768, 776 (11th Cir. 2011). It’s also satisfied by “willful” conduct—conduct that involves “an unjustifiably high risk of harm that is either known or so obvious that it should be known.” Safeco, 551 U.S. at 68. Dish argues (at 64) that the court misapplied these standards because it “use[d] the terminology” and “concepts” of negligence, and didn’t identify a “duty of care” owed by Dish. This is puzzling. The duty here is obvious: comply with the TCPA, and ensure that agents acting in the scope of their
+49
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 59 of 64
+agency do the same.5 And there’s simply no way to read the court’s order and think it was describing conduct that was “merely careless.” Safeco, 551 U.S. at 47. Sure, the court described Dish’s failures using words like “monitor” and “investigate.” Dish Br. 64. But that’s because those words also demonstrate recklessness, entailing an unjustifiably high risk of harm. When someone commits a seemingly negligent act, gets punished for it, promises never to do it again, and then keeps doing it, that’s evidence that the act is no longer negligent, but intentional, knowing, and willful. See United States v. Blankenship, 846 F.3d 663, 673 (4th Cir. 2017). So it is here.
+And so the district court found: “Dish would turn a blind eye to any recordkeeping lapses and telemarketing violations by SSN,” and “any lawsuits brought against SSN”; “Dish would not modify or terminate its contract with SSN as a result of TCPA violations, recordkeeping breaches, lawsuits, or complaints”; and Dish “simply did not care whether SSN complied with the law.” JA_[Doc.338at23-24]. The court also found that “Dish’s TCPA compliance policy was decidedly two-faced”—a “compliance department in name only”—and that “the testimony that Dish thought SSN was in compliance is not credible and is controverted by Dish’s own documents.” JA_[Doc.338at17,24-26,28].
+5 Equally puzzling: Dish stresses (at 62) that willfulness is inapt in the “typical” case. But its conduct led to the largest civil penalty in FTC history. That’s atypical. So is settling with 46 states, which Dish brushes off (at 53) as “commonplace.”
+50
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 60 of 64
+The district court’s conclusion? “This case does not involve an inadvertent or occasional violation. It involves a sustained and ingrained practice of violating the law.” JA_[Doc.338at29]. “Under these circumstances, what Dish calls a mistaken belief is actually willful ignorance.” JA_[Doc.338at27]. In other words: Dish was reckless.
+And this is to say nothing of the court’s separate finding that Dish “knew” of the sustained violations. Over and over—21 times—the court used this word: Dish “had received many complaints and knew of at least three lawsuits, one of which resulted in a money judgment and two of which resulted in injunctions. It knew SSN’s uncorroborated and conclusory explanations—that violations were inadvertent or the product of rogue employees—were not credible. It knew SSN was not scrubbing all its lists or keeping call records.” JA_[Doc.338at23].
+Willful, knowing, reckless—pick your descriptor. But don’t call it mere negligence. The district court applied the right standard to an unrepentant violator.
+3. The district court’s finding that Dish’s conduct was knowing and willful is not clearly erroneous. That leaves Dish’s argument that no reasonable factfinder could find that Dish acted willfully or knowingly. Dish says that “no court or agency” had squarely held, at the time of its calls, that a seller “could be liable under the TCPA for calls it did not place.” Dish Br. 66-67. Dish says that this lack of authority proves it had a “reasonable interpretation” of the statute, id. at 67, which
+51
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 61 of 64
+“falls well short of raising the ‘unjustifiably high risk’ of violating the statute necessary for reckless liability,” see Safeco, 551 U.S. at 70.
+That is mistaken. A lack of authority at the time of a violation “merely establishes that the issue [had] not been presented.” Cortez v. Trans Union, LLC, 617 F.3d 688, 722 (3d Cir. 2010) (finding willfulness). The company “whose conduct is first examined [in court] should not receive a pass because the issue has never been decided.” Id. In that scenario, “what matters under Safeco is the text of the Act.” Levine v. World Fin. Network Nat’l Bank, 554 F.3d 1314, 1319 (11th Cir. 2009).
+Here, “the statutory text indicates that [Dish’s] position is not objectively reasonable.” Lengel v. HomeAdvisor, Inc., 102 F. Supp. 3d 1202, 1211 (D. Kan. 2015). Section 227(c)(5) includes the phrase “on behalf of” (as do FCC regulations), which Dish doesn’t even mention. See 47 C.F.R. § 64.1200(d). When interpreting this text, as noted above, common-law principles apply. Safeco, 551 U.S. at 69. Those principles include vicarious liability. 28 FCC Rcd. at 6584-86 ¶ 28-32. If anything, the phrase “on behalf of” demonstrates Congress’s intent to expand on the background rule of vicarious liability—not eliminate it. Id. at 6597-98. And the substantive violations here were blatant and rampant. Dish doesn’t even pretend that there’s a “reasonable interpretation” that they were lawful.
+Ultimately, Dish has no choice but to attack the district court’s findings. It says it didn’t receive enough complaints about SSN’s telemarketing practices to put it on
+52
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 62 of 64
+
+notice, and that the promises it made to 46 state Attorneys General are irrelevant. Dish Br. 68-74. But, as the evidence overwhelmingly showed, Dish plainly knew all it needed to know about SSN’s penchant for violating the TCPA. On this point, we could hardly improve on the unguarded internal correspondence of Dish’s own employees and top brass. Over the years, Dish received so many complaints about SSN’s illegal telemarketing practices that its automatic response was to send consumers what it called “our standard go after SSN letter.” JA_[PX199]. And Dish’s own corporate counsel presciently warned top Dish executives that “SSN is a problem because we know what he is doing. ... Eventually, someone will try to use that against us.” JA_[PX194]. That time has long since arrived.
+CONCLUSION
+The district court’s judgment should be affirmed.
+Respectfully submitted,
+
+/s/ John W. Barrett	/s/ Deepak Gupta 
+JOHN W. BARRETT	DEEPAK GUPTA
+BRIAN A. GLASSER	JONATHAN E. TAYLOR
+BAILEY & GLASSER LLP	GUPTA WESSLER PLLC
+209 Capitol Street	1900 L Street, NW, Suite 312
+Charleston, WV 25301	Washington, DC 20036
+(303) 346-655	(202) 888-1741
+jbarrett(	deepak(
+
+
+December 17, 2018	Counsel for Plaintiff-Appellee
+53
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 63 of 64
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Federal Rule of Appellate Procedure 32(a)(7)(B) because this brief contains 12,997 words, excluding the parts of the brief exempted by Rule 32(a)(7)(B)(iii). This brief complies with the typeface requirements of Rule 32(a)(5) and the type-style requirements of Rule 32(a)(6) because this brief has been prepared in proportionally spaced typeface using Microsoft Word 2010 in 14 point Baskerville font.
+/s/ Deepak Gupta  Deepak Gupta
+Counsel for Plaintiff-Appellee
+
+USCA4 Appeal: 18-1518	Doc: 60	Filed: 12/17/2018	Pg: 64 of 64
+CERTIFICATE OF SERVICE
+I hereby certify that on December 17, 2018, I electronically filed the foregoing brief with the Clerk of the Court for the U.S. Court of Appeals for the Fourth Circuit by using the CM/ECF system. All participants are registered CM/ECF users, and will be served by the appellate CM/ECF system.
+/s/ Deepak Gupta  Deepak Gupta

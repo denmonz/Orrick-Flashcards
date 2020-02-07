@@ -1,0 +1,587 @@
+Case: 18-1559	Document: 123 Page: 1 Filed: 09/28/2018
+
+Nos. 2018-1559 (Lead), -1560, -1561, -1562, -1563, -1564, -1565
+United States Court of Appeals for the Federal Circuit
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+LSI CORPORATION, AVAGO
+TECHNOLOGIES U.S. INC.,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+(Lead) Appeal from the U.S. Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2017-01068
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+ERICSSON INC.,
+TELEFONAKTIEBOLAGET LM
+ERICSSON,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+Appeals from the U.S. Patent
+and Trademark Office, Patent
+Trial and Appeal Board in Nos.
+IPR2017-01186, IPR2017-
+01197, IPR2017-01200,
+IPR2017-01213, IPR2017-
+01214, and IPR2017-01219
+
+REPLY BRIEF OF APPELLANT
+REGENTS OF THE UNIVERSITY OF MINNESOTA
+September 28, 2018	Michael A. Albert
+Richard F. Giunta
+Charles T. Steenburg
+Gerald B. Hrycyszyn
+Stuart V. C. Duncan Smith
+WOLF, GREENFIELD & SACKS, P.C.
+600 Atlantic Avenue
+Boston, MA 02210
+Tel: (617) 646-8000
+Attorneys for Appellant
+
+Case: 18-1559	Document: 123 Page: 2 Filed: 09/28/2018
+CERTIFICATE OF INTEREST
+Counsel for Appellant certifies the following:
+	1.	The full name of every party represented by me is:
+Regents of the University of Minnesota
+	2.	The names of the real parties in interest represented by me are:
+Regents of the University of Minnesota
+	3.	All parent corporations and any publicly held companies that own 10
+percent of the stock of the parties represented by me are listed below.
+None. The Regents of the University of Minnesota is a State entity created by the constitution of the State of Minnesota.
+	4.	The names of all law firms and the partners and associates that have
+appeared for the party in the lower tribunal or are expected to appear for the party in this court and who are not already listed on the docket for the current case are:
+K&L GATES LLP: Patrick J. McElhinny, Mark G. Knedeisen
+FISH & RICHARDSON P.C.: W. Karl Renner, Lawrence K. Kolodney
+	5.	The title and number of any case known to counsel to be pending in
+this or any other court or agency that will directly affect or be directly affected by this court’s decision in the pending appeal:
+Regents of the University of Minnesota v. LSI Corporation, No. 5:18-cv-00821 (N.D. Cal.)
+i
+
+Case: 18-1559	Document: 123 Page: 3 Filed: 09/28/2018
+Regents of the University of Minnesota v. Gilead Sciences, Inc., No. 3:17-cv-06056 (N.D. Cal.)
+Regents of the University of Minnesota v. AT&T Mobility LLC, No. 0:14-cv-04666 (D. Minn.)
+Regents of the University of Minnesota v. Sprint Solutions, Inc., No. 0:14-cv-04669 (D. Minn.)
+Regents of the University of Minnesota v. T-Mobile USA, Inc., No. 0:14-cv-04671 (D. Minn.)
+Regents of the University of Minnesota v. Cellco Partnership, No. 0:14-cv-04672 (D. Minn.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-01753 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-01712 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-02004 (P.T.A.B.)
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, No. IPR2017-02005 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01186 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01197 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01200 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01213 (P.T.A.B.)
+ii
+
+Case: 18-1559	Document: 123 Page: 4 Filed: 09/28/2018
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01214 (P.T.A.B.)
+Ericsson Inc. v. Regents of the University of Minnesota, No. IPR2017-01219 (P.T.A.B.)
+LSI Corporation v. Regents of the University of Minnesota, No. IPR2017-01068 (P.T.A.B.)
+Date: September 28, 2018	/s/ Michael A. Albert
+Michael A. Albert
+
+Case: 18-1559	Document: 123 Page: 5 Filed: 09/28/2018
+TABLE OF CONTENTS
+CERTIFICATE OF INTEREST	i
+TABLE OF CONTENTS	iv
+TABLE OF AUTHORITIES	vi
+STATEMENT OF JURISDICTION	1
+INTRODUCTION	2
+ARGUMENT	4
+I.	SRMT Does Not Govern This Case Because Tribal and State
+Sovereign Immunity Are Materially Different.	4
+SRMT Expressly Limited Its Holding to Tribal Immunity. 	5
+SRMT’s Rationale that IPR Is Similar to a Suit by the United
+States Is Insufficient to Circumvent State Sovereign Immunity.	5
+II. States Did Not Consent to IPR	7
+IPR Against a State Was “Anomalous and Unheard of” at the Founding, Triggering the Hans Presumption that It Is Outside
+the Scope of States’ Consent.	7
+IPR Is Not a Suit by the United States, and So It Is Outside the
+Scope of States’ Consent.	8
+1. Suits by the United States Are Those that Are
+“Commenced and Prosecuted” by the United States.	8
+“Commenced and Prosecuted” by the United States Means that the United States Both Begins the Process
+and Directs Its Course.	8
+Suits that the United States Adjudicates Are Not
+“Commenced and Prosecuted” by the United States.	10
+An Agency’s Power to Dismiss a Suit Does Not Make It “Commenced and Prosecuted” by the United
+States.	10
+2. IPR Is “Commenced and Prosecuted” by the Petitioner,
+Not by the United States. 	11
+3. The Director’s Purported “Political Responsibility” Does
+Not Make IPR a Suit by the United States.	13
+iv
+
+Case: 18-1559	Document: 123 Page: 6 Filed: 09/28/2018
+4. Oil States Is Not Contrary.	14
+C. IPR Shares the Essential Features of Civil Litigation Found in
+FMC to Establish States’ Sovereign Immunity.	16
+Appellees Do Not Rebut that IPR and Civil Litigation Are
+Similar in the Ways that FMC Found Determinative.	16
+None of the Differences Concern Essential Features of Litigation Against Which State Sovereign Immunity
+Protects.	18
+IPR Has the Features that Vas-Cath Found Sufficient.	19
+D. Extending SRMT to State Sovereign Immunity Would
+Impermissibly Enlarge Congress’s Authority.	20
+III. SRMT Is Inapplicable Here for the Further Reason that Its Central
+Premise – the Institution Decision – Has Not Occurred Here.	21
+IV. Appellees’ Remaining Arguments are Unpersuasive.	22
+State Participation in IPR is Not “Voluntary.”	22
+Policy Arguments Are Misplaced and Cannot Supersede
+UMN’s Constitutional Rights.	23
+IPR Is Not an In Rem Proceeding, Nor Are Such Proceedings
+Categorically Exempted from State Sovereign Immunity.	24
+V. UMN Did Not Waive Its Immunity From Appellees’ IPRs by Filing
+an Infringement Action in District Court.	25
+Tegic and A123 Are Dispositive of the Waiver Question.	26
+An IPR Is a Separate Action that Is Outside the Scope of
+Waiver.	27
+Different Does Not Mean Unfair or Inconsistent.	30
+CONCLUSION	31
+CERTIFICATE OF COMPLIANCE WITH FED. R. APP. P 32(A) CERTIFICATE OF SERVICE AND FILING
+v
+
+Case: 18-1559	Document: 123 Page: 7 Filed: 09/28/2018
+TABLE OF AUTHORITIES
+CASES
+155030 Canada, Inc. v. Magnet 4U Co.,
+No. 04-1972, 2006 WL 543993 (D.D.C. Mar. 6, 2006)	23
+A123 Sys., Inc. v. Hydro-Quebec,
+626 F.3d 1213 (Fed. Cir. 2010)	passim
+Alden v. Maine,
+527 U.S. 706 (1999)	passim
+Biomedical Patent Mgmt. Corp. v. Cal., Dep’t of Health Servs.,
+505 F.3d 1328 (Fed. Cir. 2007)	24, 26, 27, 29
+Blatchford v. Native Vill. of Noatak & Circle Vill.,
+501 U.S. 775 (1991)	9
+California v. Deep Sea Research, Inc.,
+523 U.S. 491 (1998)	25
+Chao v. Va. Dep’t of Transp.,
+291 F.3d 276 (4th Cir. 2002)	9
+Click-To-Call Techs., LP v. Ingenio, Inc.,
+899 F.3d 1321 (Fed. Cir. 2018)	28
+Cohens v. Virginia,
+19 U.S. 264 (1821) 	 9, 12
+Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd.,
+527 U.S. 666 (1999)	20
+Covidien LP v. Univ. of Fla. Research Found. Inc., No. IPR2016-01274, Paper 21, 2017 WL 4015009
+(P.T.A.B. Jan. 25, 2017)	 14, 15, 16, 25
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131 (2016)	20, 28
+Eli Lilly & Co. v. Bd. of Regents of Univ. of Wash.,
+334 F.3d 1264 (Fed. Cir. 2003)	 10, 17, 20
+vi
+
+Case: 18-1559	Document: 123 Page: 8 Filed: 09/28/2018
+Fed. Mar. Comm’n v. S.C. State Ports Auth.,
+535 U.S. 743 (2002)	passim
+Fed. Power Comm’n v. Tuscarora Indian Nation,
+362 U.S. 99 (1960)	6
+Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank,
+527 U.S. 627 (1999)	3
+Genentech, Inc. v. Eli Lilly & Co.,
+998 F.2d 931 (Fed. Cir. 1993)	29
+Gunter v. Atl. Coast Line R.R. Co.,
+200 U.S. 273 (1906)	29
+Hans v. Louisiana,
+134 U.S. 1 (1890)	6
+Huster v. j2 Global Commc’n, Inc.,
+2014 WL 4699675 (N.D. Ill. Sept. 19, 2014)	25
+Idaho v. Coeur d’Alene Tribe of Idaho,
+521 U.S. 261 (1997)	24
+In re Magnum Oil Tools Int’l, Ltd.,
+829 F.3d 1364 (Fed. Cir. 2016)	 12, 13
+Int’l Rectifier Corp. v. IXYS Corp.,
+383 F.3d 1312 (Fed. Cir. 2004)	20
+Kiowa Tribe of Okla. v. Mfg. Techs., Inc.,
+523 U.S. 751 (1998)	5
+Michigan v. Bay Mills Indian Cmty.,
+134 S. Ct. 2024 (2014)	5
+Microsoft Corp. v. DataTern, Inc.,
+755 F.3d 899 (Fed. Cir. 2014)	25
+Naruto v. Slater,
+No. 16-15469, 2018 WL 3854051 (9th Cir. Apr. 13, 2018)	13
+vii
+
+Case: 18-1559	Document: 123 Page: 9 Filed: 09/28/2018
+Nat’l Labor Relations Bd. v. Little River Band of Ottawa Indians Tribal Gov’t,
+788 F.3d 537 (6th Cir. 2015)	6
+New Hampshire v. Louisiana,
+108 U.S. 76 (1883)	9
+Novartis AG v. Noven Pharm. Inc.,
+853 F.3d 1289 (Fed. Cir. 2017)	29
+Oil States Energy Servs., LLC v. Greene’s Energy Group, LLC,
+138 S. Ct. 1365 (2018) 	 13, 14, 15, 17
+P.R. Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc.,
+506 U.S. 139 (1993)	22
+Pennhurst State Sch. & Hosp. v. Halderman,
+465 U.S. 89 (1984)	 19, 26
+R.I. Dep’t of Envtl. Mgmt. v. United States,
+304 F.3d 31 (1st Cir. 2002)	 14, 18
+Reactive Surfaces LTD. v. Toyota Motor Corp.,
+No. IPR2016-01914, Paper 36 (P.T.A.B. July 13, 2017)	25, 27
+Regents of Univ. of California v. Eli Lilly & Co.,
+119 F.3d 1559 (Fed. Cir. 1997)	30
+Regents of Univ. of N.M. v. Knight,
+321 F.3d 1111 (Fed. Cir. 2003)	28, 29, 30
+S.C. State Ports Auth. v. Fed. Mar. Comm’n,
+243 F.3d 165 (4th Cir. 2001)	15
+Sage Prods., Inc. v. Devon Indus., Inc.,
+126 F.3d 1420 (Fed. Cir. 1997)	23
+Saint Regis Mohawk Tribe v. Mylan Pharm. Inc.,
+896 F.3d 1322 (Fed. Cir. 2018)	passim
+SAS Inst., Inc. v. Iancu,
+138 S. Ct. 1348 (2018)	passim
+viii
+
+Case: 18-1559	Document: 123 Page: 10 Filed: 09/28/2018
+Seminole Tribe of Fla. v. Florida,
+517 U.S. 44 (1996)	20
+Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys.,
+458 F.3d 1335 (Fed. Cir. 2006)	passim
+United States ex rel. Foulds v. Tex. Tech. Univ.,
+171 F.3d 279 (5th Cir. 1999)	 9, 11
+United States ex rel. Long v. SCS Bus. & Tech. Inst., Inc.,
+173 F.3d 870 (D.C. Cir. 1999), supplemented,
+173 F.3d 890 (D.C. Cir. 1999)	11
+United States ex rel. Rodgers v. Arkansas,
+154 F.3d 865 (8th Cir. 1998)	11
+Upper Skagit Indian Tribe v. Lundgren,
+138 S. Ct. 1649 (2018)	24
+Vas-Cath, Inc. v. Curators of Univ. of Mo.,
+473 F.3d 1376 (Fed. Cir. 2007)	passim
+Vermont v. MPHJ Tech. Invs., LLC,
+803 F.3d 635 (Fed. Cir. 2015)	28
+Vt. Agency of Nat. Res. v. United States ex rel. Stevens,
+529 U.S. 765 (2000)	 11, 21
+Xechem Int’l, Inc. v. Univ. of Tex. M.D. Anderson Cancer Ctr.,
+382 F.3d 1324 (Fed. Cir. 2004)	15
+Zerto, Inc. v. EMC Corp.,
+No. IPR2014-01254, Paper 15 (P.T.A.B. Nov. 25, 2014)	22
+STATUTES
+28 U.S.C. §§ 2201-02 	11
+31 U.S.C. § 3730(b)(1)	11
+31 U.S.C. § 3730(c)(2)(A)	11
+35 U.S.C. § 3(a)	14
+ix
+
+Case: 18-1559	Document: 123 Page: 11 Filed: 09/28/2018
+35 U.S.C. § 3(c)	14
+35 U.S.C. § 314(c)	18
+35 U.S.C. § 315	29
+35 U.S.C. § 315(a)(1)-(2)	12
+35 U.S.C. § 315(e)(2)	12
+35 U.S.C. § 6(a)	14
+5 U.S.C. § 7521	14
+5 U.S.C. §§ 7511-15	14
+OTHER AUTHORITIES
+Office Patent Trial Practice Guide,
+77 Fed. Reg. 48,756, 48,757 (Aug. 14, 2012)	 11, 13
+RULES
+Fed. R. App. P. 35	17
+Fed. R. Civ. P. 13(a)(1)	28
+Fed. R. Civ. P. 55(b)(2)	23
+REGULATIONS
+37 C.F.R. § 42.12	19
+37 C.F.R. § 42.2	12
+37 C.F.R. § 42.4(a)	14
+37 C.F.R. § 42.73(d)(3)	12
+46 C.F.R. § 502.64(a) (2001)	23
+x
+
+Case: 18-1559	Document: 123 Page: 12 Filed: 09/28/2018
+
+CONSTITUTIONAL PROVISIONS
+U.S. CONST., art. II, § 3	8
+
+xi
+
+Case: 18-1559	Document: 123 Page: 13 Filed: 09/28/2018
+
+STATEMENT OF JURISDICTION
+Appellee Ericsson Inc., Telefonaktiebolaget LM Ericsson (“Ericsson”)
+admits this Court has jurisdiction. Dkt. No. 79 (“Ericsson Br.”) at 2. No other Appellee1 addresses, let alone distinguishes, the overwhelming authority holding that denial of sovereign immunity is immediately appealable under the collateral order doctrine. See Dkt. No. 44 (“UMN Br.”) at 3-4.
+
+1 “Appellees” refers to Appellee LSI Corporation and Avago Technologies U.S. (“LSI”), Ericsson, and Intervenor Gilead Sciences, Inc. (“Gilead”), collectively.
+1
+
+Case: 18-1559	Document: 123 Page: 14 Filed: 09/28/2018
+INTRODUCTION
+IPR “allows private parties to challenge previously issued patent claims in
+an adversarial process before the Patent Office that mimics civil litigation.” SAS Inst., Inc. v. Iancu, 138 S. Ct. 1348, 1352 (2018). The proceeding is “sought” and “directed” by private parties. Id. at 1354-55.
+The Constitution prohibits the federal government from forcing a nonconsenting State to defend itself in such an adjudicative proceeding. In Alden v. Maine, 527 U.S. 706, 755 (1999), the Supreme Court found that sovereign immunity bars suits against States that are not “commenced and prosecuted” by the United States. Sovereign immunity thus bars IPRs against a State commenced and prosecuted by private parties such as Appellees, and adjudicated by a federal agency. Fed. Mar. Comm’n v. S.C. State Ports Auth. (“FMC”), 535 U.S. 743, 760 (2002). Indeed, this Court in Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376, 1382 (Fed. Cir. 2007), held that USPTO interferences meet FMC’s criteria for State sovereign immunity to apply. Its reasoning is indistinguishable here.
+Appellees’ reliance on Saint Regis Mohawk Tribe v. Mylan Pharm. Inc. (“SRMT”), 896 F.3d 1322 (Fed. Cir. 2018), is misplaced. SRMT concerned common-law tribal immunity, which Congress may amend, not the constitutional immunity of a State – which is a co-equal sovereign in our federal system. The distinction is material because (unlike tribes) States are subject only to the types of
+2
+
+Case: 18-1559	Document: 123 Page: 15 Filed: 09/28/2018
+suits which existed, and to which they consented, at the founding – which do not include IPRs. Indeed, the SRMT panel expressly declined to reach the issue of State immunity. Id. at 1329.
+SRMT turned on the Director’s discretion whether to institute IPR, finding that this “gatekeeper” function made IPR similar enough to a proceeding brought by the United States that tribal immunity does not apply. Id. But even if such purported similarity sufficed to conclude that Congress intended IPR to abrogate tribal immunity, the mere presence of a “gatekeeper” cannot avoid State sovereign immunity, which is not within the purview of Congress to abrogate.2 Indeed, the Supreme Court has repeatedly struck down such attempts to end-run State sovereign immunity. See Section II.D infra. Numerous proceedings in Article III courts and agencies such as the USPTO, for which State sovereign immunity is well-established, have a gatekeeping stage, including interferences (PTO has discretion whether to declare), declaratory judgment actions (district courts have a similar gatekeeping power), qui tam actions (same), and countless others. As a matter of both the IPR statute and its governing regulations, the Board does not commence or prosecute IPRs on behalf of the United States.
+2 A limited exception to this rule, not applicable here, exists for Fourteenth Amendment violations. Fla. Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank, 527 U.S. 627, 639-40 (1999).
+3
+
+Case: 18-1559	Document: 123 Page: 16 Filed: 09/28/2018
+SRMT is further off-point because its central premise – that “a politically accountable, federal official has authorized the institution”3 – does not apply here; the IPRs against UMN have not been instituted.
+Appellees’ remaining arguments fare no better. Their theory that participation in IPR is “voluntary” would, as FMC noted, require us “to blind ourselves to reality.” 535 U.S. at 763-64. Their theories about in rem jurisdiction and public policy have been rejected by the Supreme Court, this Court, and the Board. As to waiver, Appellees raise no new issues, and ignore this Court’s clear instruction: “[W]here a waiver of immunity occurs in one suit, the waiver does not extend to an entirely separate lawsuit, even one involving the same subject matter and the same parties.” A123 Sys., Inc. v. Hydro-Quebec, 626 F.3d 1213, 1219 (Fed. Cir. 2010).
+ARGUMENT
+I.	SRMT Does Not Govern This Case Because Tribal and State Sovereign Immunity Are Materially Different.
+State sovereign immunity is a constitutional limit on federal authority that was established when the States joined the Union. Tribal immunity is a common-
+
+3 896 F.3d at 1327. Citations omitted and emphasis added in this reply, unless otherwise stated.
+4
+
+Case: 18-1559	Document: 123 Page: 17 Filed: 09/28/2018
+law doctrine whose scope is subject to Congress’s plenary control. These differences render SRMT’s holding and reasoning inapplicable here.
+SRMT Expressly Limited Its Holding to Tribal Immunity. “[T]he precise contours of tribal sovereign immunity differ from those of
+state sovereign immunity.” SRMT, 869 F.3d at 1326. Accordingly, SRMT “only decid[ed] whether tribal immunity applies in IPR” and left State immunity “for another day.” Id. at 1326, 1329; see also Kiowa Tribe of Okla. v. Mfg. Techs., Inc., 523 U.S. 751, 756 (1998) (tribal and State immunity are “not coextensive”).
+SRMT’s Rationale that IPR Is Similar to a Suit by the United States Is Insufficient to Circumvent State Sovereign Immunity.
+Under a test held to be applicable to tribal immunity, SRMT found IPRs to be sufficiently “similar” to actions by the government such that Congress could be deemed to have intended to subject tribes to them. 896 F.3d at 1326-27. That is not the test for State immunity.
+States “entered the Union with their sovereignty intact.” FMC, 535 U.S. at 751. By ratifying the Constitution, “States consented to suits brought by other States or by the Federal Government,” but not by private parties. Alden, 527 U.S. at 755; FMC, 535 U.S. at 751-52. Tribes, on the other hand, possess only “common-law immunity from suit” that is “subject to plenary control by Congress.” Michigan v. Bay Mills Indian Cmty., 134 S. Ct. 2024, 2030 (2014).
+
+5
+
+Case: 18-1559	Document: 123 Page: 18 Filed: 09/28/2018
+Thus, while Congress has the power to subject tribes to novel proceedings such as IPRs, Congress cannot subject States to such proceedings which were not within the scope of States’ consent when “ratifying the Constitution.” Alden, 527 U.S. at 755; FMC, 535 U.S. at 752; Hans v. Louisiana, 134 U.S. 1, 16 (1890). Because the States could not have consented to unknown proceedings, the Supreme Court applies the so-called “Hans presumption” that sovereign immunity bars “any proceedings against the States that were ‘anomalous and unheard of when the Constitution was adopted.’” FMC, 535 U.S. at 755 (quoting Hans, 134 U.S. at 18).
+No such presumption applies to tribal immunity. The Supreme Court has held that “general Acts of Congress apply to Indians.” Fed. Power Comm’n v. Tuscarora Indian Nation, 362 U.S. 99, 120 (1960); id at. 116.4 In other words, the presumption is reversed with respect to tribal immunity. SRMT, 896 F.3d at 1329.
+Accordingly, even if SRMT’s finding that IPR is similar to an agency enforcement action were sufficient in the tribal context, where the presumption is against immunity from a general act of Congress, such similarity would provide no rationale for circumventing States’ immunity. For States, the analysis must consider whether they actually consented, and must apply the Hans presumption.
+4 There are exceptions to Tuscarora, but none appear to apply here. E.g., Nat’l Labor Relations Bd. v. Little River Band of Ottawa Indians Tribal Gov’t, 788 F.3d 537, 541-42 (6th Cir. 2015).
+6
+
+Case: 18-1559	Document: 123 Page: 19 Filed: 09/28/2018
+Further, the notion on which SRMT relied – that the United States is a “superior sovereign” (id.) – is relevant only to tribes, not to States, which have coequal sovereignty with the United States. Alden, 527 U.S. at 714; FMC, 535 U.S. at 751.
+II.	States Did Not Consent to IPR
+States consented only to suits against States that were known at the founding
+– i.e., those brought by the United States, not merely ones that involve the United States in some way, as appellees suggest (e.g., Dkt. No. 95 (“Gilead Br.”) at 8-9). IPR against a State was unknown at the founding, and the statute and recent precedent confirm that IPR is not brought by the United States.
+A.	IPR Against a State Was “Anomalous and Unheard of” at the Founding, Triggering the Hans Presumption that It Is Outside the Scope of States’ Consent.
+Applying the Hans presumption, FMC found that States “were not subject to private suits in administrative adjudications at the time of the founding or for many years thereafter.” 535 U.S. at 755. IPR is such a case; it was “anomalous and unheard of when the Constitution was adopted” and therefore is presumptively outside the scope of States’ consent. Id.
+7
+
+Case: 18-1559	Document: 123 Page: 20 Filed: 09/28/2018
+The existence of the Privy Council does not prove that private patent adjudications against States were known at the founding. Contra Gilead Br. at 19-20; Ericsson Br. at 37. Appellees make no showing that the Privy Council ever conducted proceedings against sovereigns.
+B.	IPR Is Not a Suit by the United States, and So It Is Outside the Scope of States’ Consent.
+1.	Suits by the United States Are Those that Are “Commenced and Prosecuted” by the United States.
+Suits by the United States are those “commenced and prosecuted against a State in the name of the United States by those who are entrusted with the constitutional duty to ‘take Care that the Laws be faithfully executed.’” Alden, 527 U.S. at 755 (quoting U.S. CONST., art. II, § 3). States were willing to consent to suits by the United States because a federal official would have “political responsibility for each suit prosecuted” against a State, a “control which is absent” when a private party brings the suit. Id. at 755-56.
+a.	“Commenced and Prosecuted” by the United States Means that the United States Both Begins the Process and Directs Its Course.
+The established meanings of the terms “commenced” and “prosecuted,” which appear in the Eleventh Amendment, focus on the party asserting a claim: “[t]o commence a suit, is to demand something by the institution of process in a Court of justice; and to prosecute the suit, is, according to the common acceptation
+8
+
+Case: 18-1559	Document: 123 Page: 21 Filed: 09/28/2018
+of language, to continue that demand.” Cohens v. Virginia, 19 U.S. 264, 408 (1821); see Blatchford v. Native Vill. of Noatak & Circle Vill., 501 U.S. 775, 785 (1991) (States consented to suits “at the instance and under the control of responsible federal officers”); United States ex rel. Foulds v. Tex. Tech. Univ., 171 F.3d 279, 293-95 (5th Cir. 1999) (finding that state sovereign immunity applies where the United States does not commit its own resources, under its own authority and control, to commence and prosecute a qui tam case).
+States did not consent to suits where the United States has any lesser control or involvement than commencement and prosecution. See Blatchford, 501 U.S. at 785 (United States cannot delegate its exception from State sovereign immunity); Foulds, 171 F.3d at 289 (whether the United States commences a suit is not the same as whether it is a real party in interest). Even suits against a State in the name of another State – where sovereign immunity normally would not apply – are barred when the claim is “under the actual control of individual citizens” and “prosecuted . . . by and for them.” New Hampshire v. Louisiana, 108 U.S. 76, 89 (1883). Cf. Chao v. Va. Dep’t of Transp., 291 F.3d 276, 281 (4th Cir. 2002) (distinguishing New Hampshire: “The case is being litigated by lawyers within, and is under the full control of, the Executive Branch.”). In contrast, no government lawyer makes an appearance or advocates for a position in IPRs.
+9
+
+Case: 18-1559	Document: 123 Page: 22 Filed: 09/28/2018
+Suits that the United States Adjudicates Are Not “Commenced and Prosecuted” by the United States.
+FMC explained that suits by the United States do not include suits that private parties bring to be adjudicated by a federal agency – even if the agency has the power to decide whether to proceed. Indeed, the majority in FMC rejected precisely the theory underlying SRMT's holding: a dissent in FMC suggested that, because the federal agency could launch its own investigation, it must therefore have the power to use its “adjudicative processes” to adjudicate a private party's complaint. 535 U.S. at 776-77 (Breyer, J., dissenting). The majority rejected that view. Much like the USPTO here (which can initiate a reexamination), the Federal Maritime Commission was free “to institute its own administrative proceeding against a state [entity],” but it may not “adjudicate a dispute between a private party and a nonconsenting State.” FMC, 535 U.S. at 768; id. at 768 n.19.
+An Agency’s Power to Dismiss a Suit Does Not Make It “Commenced and Prosecuted” by the United States.
+The existence of agency discretion to terminate a proceeding does not turn it into one “commenced” or “prosecuted” by the United States. For example, State sovereign immunity applies to interferences, even though the Director has “discretion to begin or discontinue” that proceeding. Eli Lilly & Co. v. Bd. of Regents of Univ. of Wash., 334 F.3d 1264, 1267 (Fed. Cir. 2003); see Vas-Cath, 473 F.3d at 1382. State sovereign immunity applies to declaratory judgment
+10
+
+Case: 18-1559	Document: 123 Page: 23 Filed: 09/28/2018
+actions, although federal judges have discretion not to exercise jurisdiction. 28 U.S.C. §§ 2201-02; A123, 626 F.3d at 1221-22. State sovereign immunity applies to qui tam actions, although a federal official has the discretion to dismiss such cases against States. 31 U.S.C. § 3730(b)(1), (c)(2)(A); Foulds, 171 F.3d at 29394; see United States ex rel. Long v. SCS Bus. & Tech. Inst., Inc., 173 F.3d 870, 885 (D.C. Cir. 1999), supplemented, 173 F.3d 890 (D.C. Cir. 1999); Vt. Agency of Nat. Res. v. United States ex rel. Stevens, 529 U.S. 765, 787 (2000) (expressing “serious doubt” that State sovereign immunity permits qui tam suits against States).5 Discretion to end a case does not avoid State sovereign immunity.
+2.	IPR Is “Commenced and Prosecuted” by the Petitioner, Not by the United States.
+“Inter partes” means “between parties.” As those words suggest, IPRs are proceedings between parties that are adjudicated (not brought) by the Board.
+The petitioner, not the United States, “commence[s]” IPR with the petition. SAS noted that the AIA “doesn’t authorize the Director to start proceedings on his own initiative.” 138 S. Ct. at 1355. Rather, “the proceedings begin with the filing of a petition.” Office Patent Trial Practice Guide, 77 Fed. Reg. 48,756, 48,757 (Aug. 14, 2012); SAS, 138 S. Ct. at 1353. The petition is how a party “demand[s]
+5 Before Stevens, several courts allowed qui tam cases against States because the United States was the “real party in interest.” E.g., United States ex rel. Rodgers v. Arkansas, 154 F.3d 865, 868 (8th Cir. 1998). None appear to have done so since Stevens.
+11
+
+Case: 18-1559	Document: 123 Page: 24 Filed: 09/28/2018
+something by the institution of process.” Cohens, 19 U.S. at 408. The
+“institution” decision just marks the transition from the “Preliminary Proceeding” to the “Trial,” which are the two phases of an IPR “Proceeding.” 37 C.F.R.
+§ 42.2.6 Indeed “institution” is a misnomer, or at least potentially confusing: What is being “instituted” by that decision is not the proceeding itself – which the private party had already commenced by filing the petition – but rather the Trial phase.
+The petitioner, not the United States, also “prosecute[s]” IPR. SAS
+explained that IPR is “a party-directed, adversarial process,” and rejected the idea that the Board’s discretion made IPR “(another) agency-led, inquisitorial process.” 138 S. Ct. at 1355. Although the Board has “discretion on the question whether to institute review” (i.e., the trial phase), SAS explained, “the petitioner’s petition, not the Director’s discretion, . . . guide[s] the life of the litigation.” Id. at 1356.
+The Board adjudicates the parties’ dispute based “on arguments that were advanced by a party”; it cannot “raise, address, and decide unpatentability theories never presented by the petitioner.” In re Magnum Oil Tools Int’l, Ltd. (“Magnum Oil”), 829 F.3d 1364, 1380-81 (Fed. Cir. 2016). After IPR, the parties, not the Board, may be subject to estoppel. 35 U.S.C. § 315(a)(1)-(2); § 315(e)(2); 37 C.F.R. § 42.73(d)(3).
+6 The “Preliminary Proceeding” was not at issue in SRMT, as the tribe asserted its sovereign immunity only after institution. That case thus does not resolve the issue presented here.
+12
+
+Case: 18-1559	Document: 123 Page: 25 Filed: 09/28/2018
+The Board’s authority to either “terminate the proceeding or issue a final written decision” upon settlement does not empower the Board to take over “prosecution” of the IPR. Oil States Energy Servs., LLC v. Greene’s Energy Group, LLC, 138 S. Ct. 1365, 1371 (2018). Even after settlement, the Board can still only adjudicate the parties’ arguments, not raise its own. See Magnum Oil, 829 F.3d at 1380-81; 77 Fed. Reg. at 48,768 (USPTO “expects that a proceeding will terminate after the filing of a settlement agreement, unless the Board has already decided the merits of the proceeding”). Thus, the Board’s authority is akin to this or other Circuit Courts’ ability to resolve an appeal even after the parties jointly request dismissal. E.g., Naruto v. Slater, No. 16-15469, 2018 WL 3854051, at *2 (9th Cir. Apr. 13, 2018) (federal appellate court retains power to decide case even after settlement and Fed. R. App. P. 42 motion to dismiss).
+3.	The Director’s Purported “Political Responsibility” Does
+Not Make IPR a Suit by the United States.
+Although Alden noted that “political responsibility” helped explain why States, at the founding, consented to suits “commenced and prosecuted” by the United States (527 U.S. at 755-56), that historical explanation does not expand States’ consent to encompass any situation in which the United States has some “political responsibility.” Nothing in Alden suggests that State sovereign immunity to suits brought by private parties is abrogated whenever a federal adjudicator’s responsibility is arguably “political.” Indeed, federal officials have discretion to
+13
+
+Case: 18-1559	Document: 123 Page: 26 Filed: 09/28/2018
+halt an interference or qui tam action, i.e., “political responsibility” under Appellees’ theory, and yet State sovereign immunity applies to those proceedings. See Section II.B.1.c supra.
+Moreover, no federal official has “political responsibility” for commencing or prosecuting IPR. Private parties file petitions, not the Board. The Board, rather than the Director, decides only whether to institute an IPR trial. 37 C.F.R.
+§ 42.4(a); see SAS, 138 S. Ct. at 1353. Rather than being politically responsible, Board members are intentionally insulated from political influence. Covidien LP v. Univ. of Fla. Research Found. Inc., IPR2016-01274, Paper 21, 2017 WL 4015009, at *10 (P.T.A.B. Jan. 25, 2017) (Board members are “impartial officers”); id. at *7 (rejecting the argument that IPR is “brought by the federal government”); 35 U.S.C. §§ 3(a), 3(c), 6(a); 5 U.S.C. §§ 7511-15, 7521 (Board members are removable only for cause); see R.I. Dep’t of Envtl. Mgmt. v. United States, 304 F.3d 31, 53 (1st Cir. 2002) (review board’s appointment by the Secretary of Labor was “insufficient to defeat sovereign immunity”).
+4.	Oil States Is Not Contrary.
+Appellees mistakenly rely on Oil States, which concerned whether Congress
+could allocate a power to review issued patents to the executive branch (USPTO), or whether that power was limited to courts. By contrast, this case concerns a limit
+14
+
+Case: 18-1559	Document: 123 Page: 27 Filed: 09/28/2018
+on federal authority that applies regardless of which branch Congress assigns to exercise it.
+Appellees miscite Oil States as holding that “inter partes review ‘is a matter arising between the government and others.’” Gilead Br. at 1 (quoting Oil States, 138 S. Ct. at 1373); see also Ericsson Br. at 30. Rather, Oil States held that patents are public rights that “aris[e] between the government and others.” 138 S. Ct. at 1373. But IPRs are “adjudication[s] of [those] public rights” between two parties. Id. Adjudications over public rights are not exempt from State sovereign immunity. S.C. State Ports Auth. v. Fed. Mar. Comm’n, 243 F.3d 165, 175 n.* (4th Cir. 2001), aff’d, FMC, 535 U.S. 743 (2002); see also Covidien, 2017 WL 4015009, at *6, *11 (no “public rights exception” to State sovereign immunity).
+Oil States’ description of IPR as a “second look” and “reconsideration” of issued patents, 138 S. Ct. at 1373-74, does not enlarge the federal government’s authority vis-à-vis the States. Other proceedings that are subject to State sovereign immunity also reconsider issued patents. A123, 626 F.3d at 1219-20 (declaratory judgment actions); Xechem Int’l, Inc. v. Univ. of Tex. M.D. Anderson Cancer Ctr., 382 F.3d 1324, 1329-30 (Fed. Cir. 2004) (inventorship actions); Vas-Cath, 473 F.3d at 1382 (interferences). The United States’ role in granting a patent right does not give the United States the authority to adjudicate a private party’s action against a State concerning that right.
+15
+
+Case: 18-1559	Document: 123 Page: 28 Filed: 09/28/2018
+C.	IPR Shares the Essential Features of Civil Litigation Found in FMC to Establish States’ Sovereign Immunity.
+IPRs meet FMC’s criteria for finding State sovereign immunity to apply. FMC noted that “the role of the [ALJ]” – which is like that of the Board here – was “functionally comparable to that of a judge,” FMC, 535 U.S. at 756.
+1.	Appellees Do Not Rebut that IPR and Civil Litigation Are Similar in the Ways that FMC Found Determinative.
+To determine whether the Commission’s adjudications were “the type of proceedings from which the Framers would have thought the States possessed immunity when they agreed to enter the Union,” FMC compared the
+Commission’s proceedings with private civil litigation, which State sovereign immunity indisputably barred. 535 U.S. at 756-57. IPR is similar to civil litigation in the ways FMC found determinative. UMN Br. at 30-36; Covidien, 2017 WL 4015009, at *8-*10.
+Appellees largely concede that IPR has the features FMC found determinative, although Ericsson tries to distinguish FMC on several irrelevant points (Ericsson Br. at 21-26):
+ Ericsson suggests Board members may be subject to political influence. But see Vas-Cath, 473 F.3d at 1382 (Board members are “impartial federal adjudicators”); Covidien, 2017 WL 4015009, at *10 (“APJs serve as impartial officers”).
+16
+
+Case: 18-1559	Document: 123 Page: 29 Filed: 09/28/2018
+Ericsson argues that APJs, unlike Article III judges, lack lifetime appointments. But the ALJs in FMC also lacked life tenure.
+Ericsson notes the Board’s power to expand the panel by adding additional ALJs. But this Court similarly has power to meet en banc (Fed. R. App. P. 35). Nothing about this unremarkable power affects whether sovereign immunity applies.
+Ericsson’s argument that IPR discovery is “not at all similar” to civil litigation and that the petition “operates differently” than a civil complaint is contrary to SAS. 138 S. Ct. at 1355 (“Much as in the civil litigation system it mimics, in an inter partes review the petitioner is master of its
+complaint. . . .”); id. at 1353-54 (“[T]he matter proceeds before the Board with many of the usual trappings of litigation. The parties conduct discovery and join issue in briefing and at an oral hearing.”); see also Oil States, 138 S. Ct. at 1371 (describing the litigation-like elements in IPR, including discovery, memoranda, oral hearing, etc.).
+Nor does the Board’s discretion to deny institution undermine FMC’s
+applicability. Vas-Cath applied FMC, even though the Director had “discretion to begin or discontinue” the interferences that were the subject of that case. Eli Lilly, 334 F.3d at 1267. Indeed, FMC reasoned that the agency’s obligation to explain its exercise of discretion makes the adjudication more like civil litigation. 535 U.S. at
+17
+
+Case: 18-1559	Document: 123 Page: 30 Filed: 09/28/2018
+757. Similarly, 35 U.S.C. § 314(c) requires a written opinion explaining the IPR institution decision, including the exercise of discretion.
+2.	None of the Differences Concern Essential Features of Litigation Against Which State Sovereign Immunity Protects.
+Appellees’ emphasis on the differences that do exist between IPR and civil litigation misunderstands FMC. Under FMC, whether a proceeding is adjudicatory does not turn on tallying similarities to, or differences from, litigation. FMC cited similarities merely to “confirm” that the proceeding is adjudicatory – i.e., decided on the evidence and arguments that adversarial parties develop. 535 U.S. at 75759. No court has required that proceedings be identical to litigation for FMC to apply. Id. at 761-67 (certain differences irrelevant to the analysis); Vas-Cath, 473 F.3d at 1382 (differences between interferences and civil litigation insufficient to prevent the application of FMC); R.I. Dep’t of Envtl. Mgmt., 304 F.3d at 46 (rules that “roughly conform[]” to those of civil litigation suffice under FMC).
+IPRs are decided based on the evidence and arguments that adversarial parties develop. That makes them adjudicatory under FMC. The material similarities with litigation “confirm” that conclusion; but even if there were more differences than similarities, the conclusion would not change.7 IPRs were
+7 As FMC explained, proceedings lacking features of court litigation are arguably an even “greater insult to a State’s dignity.” 535 U.S. at 760 n.11.
+18
+
+Case: 18-1559	Document: 123 Page: 31 Filed: 09/28/2018
+“anomalous and unheard of when the Constitution was adopted,” and are thus presumptively barred under Hans. FMC, 535 U.S. at 755, 760 n. 11.
+Alden also identified features of a proceeding that impermissibly impair States’ dignity and support applying immunity. Examples include subjecting States to proceedings outside federal courts, threatening the States’ fisc, and impacting their ability to govern themselves. Alden, 527 U.S. at 749-52. IPR implicates all of these concerns. As to the venue and self-government issues, see Pennhurst State Sch. & Hosp. v. Halderman, 465 U.S. 89, 99 (1984) (noting States’ right to control “whether,” when, and “where” they are sued); Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Tex. Sys., 458 F.3d 1335, 1342 (Fed. Cir. 2006) (same). As to impact on the state fisc, see 37 C.F.R. § 42.12 (potential monetary sanctions); AIPLA, 2017 Report of the Economic Survey (June 2017) (noting $324,000 mean cost of defending an IPR through oral hearing). Alden thus confirms the result compelled by FMC and Hans.
+3.	IPR Has the Features that Vas-Cath Found Sufficient. Vas-Cath – a binding and on-point precedent of this Court – determined that
+interference proceedings meet FMC’s criteria for finding State sovereign immunity applicable. It did so based on features that IPR also has: “adverse parties, examination and cross-examination by deposition of witnesses, production of documentary evidence, findings by an impartial federal adjudicator, and power to
+19
+
+Case: 18-1559	Document: 123 Page: 32 Filed: 09/28/2018
+implement the decision.” Vas-Cath, 473 F.3d at 1382; see also Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2145 (2016) (interferences, like IPR, “resemble district court litigation”); cf., SAS, 138 S. Ct. at 1355 (IPR is “a party-directed, adversarial process”); UMN Br. at 30-36. Moreover, sovereign immunity applied even though, as in IPR, the Director had “discretion to begin or discontinue” interferences. Eli Lilly, 334 F.3d at 1267.
+Appellees seek to apply Vas-Cath narrowly (to its holding about waiver), and disregard its reasoning (about whether interferences meet FMC’s criteria). Gilead Br. at 24 n.7; Ericsson Br. at 27-28. But SRMT also has a narrow holding (expressly limited to tribal immunity) – yet Appellees argue SRMT’s reasoning is binding here. Appellees cannot have it both ways: If SRMT’s reasoning is binding, so too is Vas-Cath’s. And although the two cases need not be read to be in conflict, if and to the extent they do conflict, Vas-Cath controls since it is “the earlier-issued decision[].” Int’l Rectifier Corp. v. IXYS Corp., 383 F.3d 1312, 1317 (Fed. Cir. 2004).
+D.	Extending SRMT to State Sovereign Immunity Would Impermissibly Enlarge Congress’s Authority.
+Congress lacks Article I authority to subject States to private suits, Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 65 (1996). The Supreme Court has consistently rejected Congressional attempts to enact legislative workarounds to State sovereign immunity. E.g., Coll. Sav. Bank v. Fla. Prepaid Postsecondary
+20
+
+Case: 18-1559	Document: 123 Page: 33 Filed: 09/28/2018
+Educ. Expense Bd., 527 U.S. 666, 683 (1999) (barring constructive waivers). Extending SRMT’s “gatekeeper” rationale to States would enable such a workaround. Indeed, Stevens expressed “serious doubt” that Congress could permit qui tam actions against States, which also have a federal gatekeeper. Vt. Agency of Nat. Res., 529 U.S. at 787. Alden and FMC further establish that Congress cannot do through a different tribunal (e.g., State court or agency) what it could not do in federal court. Alden, 527 U.S. at 752; FMC, 535 U.S. at 760-61.
+The theory that merely having a “gatekeeper” with discretion to decide which cases go forward allows Congress to end-run sovereign immunity flies in the face of the above Supreme Court precedent and endangers a State’s Constitutional status and protections.
+III. SRMT Is Inapplicable Here for the Further Reason that Its Central Premise – the Institution Decision – Has Not Occurred Here.
+Moreover, no “gatekeeper” decided that Appellees could file IPR petitions, and subject UMN to substantial defense costs, prior to institution. In SRMT, institution had already occurred when tribal immunity was first asserted. SRMT relied on the fact that a “federal official has authorized the institution of that proceeding,” and that the Board had limited authority to continue an instituted IPR after settlement. 896 F.3d at 1327. It cited other features that also exist only after institution, such as patent owners’ option to seek amendment. Id.
+21
+
+Case: 18-1559	Document: 123 Page: 34 Filed: 09/28/2018
+The IPRs that UMN seeks to dismiss have not been instituted, and so SRMT’s rationale does not apply.
+UMN challenges here the violation of its sovereignty during the pre-institution “Preliminary Proceeding,” which involves pleadings (including a responsive preliminary patent owner response), discovery, protective orders, and potential sanctions. UMN Br. at 25-26; see also Zerto, Inc. v. EMC Corp., No. IPR2014-01254, Paper 15 (P.T.A.B. Nov. 25, 2014) (ordering document requests and a deposition before institution). A State’s sovereign immunity is violated by a pre-institution “Preliminary Proceeding,” just as sovereign immunity “is for the most part lost as litigation proceeds past motion practice.” P.R. Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc., 506 U.S. 139, 145 (1993); see SAS, 138 S. Ct. at 1355 (likening the petition to a complaint).
+IV.	Appellees’ Remaining Arguments are Unpersuasive.
+A.	State Participation in IPR is Not “Voluntary.”
+Gilead is wrong that State participation in IPR is “voluntary” and thus not
+subject to sovereign immunity. Gilead Br. at 12-14. When a State is faced with a choice of appearing in the adjudication or “stand[ing] defenseless,” “[t]o conclude that this choice does not coerce a State to participate . . . would be to blind
+22
+
+Case: 18-1559	Document: 123 Page: 35 Filed: 09/28/2018
+ourselves to reality.” FMC, 535 U.S. at 763-64; see also Alden, 527 U.S. at 749 (explaining that a State must either “defend or default”).8
+
+IPR is no different from civil litigation or Commission proceedings in this respect. Cf. Gilead Br. at 15-16; Ericsson Br. at 24-25. Like the Board, in case of default, a district court may “conduct hearings or make referrals” to “establish the truth of any allegation by evidence” before ordering a non-quantifiable remedy (e.g., invalidity of a patent). Fed. R. Civ. P. 55(b)(2); e.g., 155030 Canada, Inc. v. Magnet 4U Co., No. 04-1972, 2006 WL 543993 (D.D.C. Mar. 6, 2006). Likewise, in the Commission, “the presiding officer may . . . require such proof as he or she may deem proper” before ruling against an absent defendant. 46 C.F.R.
+§ 502.64(a) (2001). Yet sovereign immunity still applies.
+B.	Policy Arguments Are Misplaced and Cannot Supersede UMN’s Constitutional Rights.
+Appellees’ and their amici’s public policy arguments are irrelevant to the constitutional issues before this Court, and are more properly directed at Congress.9 E.g., Ericsson Br. at 16; Gilead Br. at 2; Dkt. No. 78 (“LSI Br.”) at 9;
+8 Gilead’s argument is, in any event, waived as Gilead raised it for the first time on appeal. Sage Prods., Inc. v. Devon Indus., Inc., 126 F.3d 1420, 1426 (Fed. Cir. 1997) (generally, arguments first raised on appeal are waived).
+9 Gilead admits the Court cannot address the purported “additional questions” concerning due process, equal protection and international treaties as those issues are not ripe. See Gilead Br. at 25-26.
+23
+
+Case: 18-1559	Document: 123 Page: 36 Filed: 09/28/2018
+Dkt. No. 97 at 7, 15-20; Dkt. No. 98 at 4-14; Dkt. No. 115 at 12-17. Even if this were one of the limited circumstances in which Congress, through appropriate findings and express statement, could abrogate State sovereign immunity (which it is not, see supra note 2), Congress has not done so. FMC explained that State sovereign immunity does not yield to the federal government’s “important interest in regulating maritime commerce,” because State sovereign immunity “is not so ephemeral as to dissipate when the subject of the suit is an area that is under the exclusive control of the Federal Government.” 535 U.S. at 767-68. Similarly, State sovereign immunity does not yield to IPRs merely because they are “beneficial” or “efficient.” Id. at 769 (“[O]ur system of dual sovereignty is not a model of administrative convenience.”).
+C.	IPR Is Not an In Rem Proceeding, Nor Are Such Proceedings Categorically Exempted from State Sovereign Immunity.
+No exception from State sovereign immunity exists for in rem cases. Idaho v. Coeur d’Alene Tribe of Idaho, 521 U.S. 261, 281-82 (1997) (State sovereign immunity applies to a quiet title action); see Upper Skagit Indian Tribe v. Lundgren, 138 S. Ct. 1649, 1652 (2018) (recognizing a quiet title action as a type of in rem proceeding). Appellees’ bankruptcy cases (Hood and Katz) are not contrary. Biomedical Patent Mgmt. Corp. v. Cal., Dep’t of Health Servs. (“BPMC”), 505 F.3d 1328, 1343 (Fed. Cir. 2007) (Supreme Court’s bankruptcy cases are not relevant to patent cases). Further, Appellees’ admiralty case (Deep
+24
+
+Case: 18-1559	Document: 123 Page: 37 Filed: 09/28/2018
+Sea) turned on the property not being “in the possession of the State,” California v. Deep Sea Research, Inc., 523 U.S. 491, 504 (1998), while here there is no dispute that UMN is the patent owner.
+Even if in rem proceedings were exempt from State sovereign immunity, IPR is not an in rem proceeding. The Board properly reached that conclusion in Reactive Surfaces LTD. v. Toyota Motor Corp., No. IPR2016-01914, Paper 36 at 7-8 (P.T.A.B. July 13, 2017) and Covidien, 2017 WL 4015009, at *6-7. Indeed, as discussed in Section II.B above, IPR is statutorily defined as a proceeding between parties, not against “the patent.” See also Huster v. j2 Global Commc’n, Inc., 2014 WL 4699675, at *3 (N.D. Ill. Sept. 19, 2014) (proceedings regarding patents are not in rem).
+V.	UMN Did Not Waive Its Immunity From Appellees’ IPRs by Filing an Infringement Action in District Court.
+Appellees10 attempt to “extend” UMN’s waiver in federal court to IPR. LSI Br. at 13, 21; Ericsson Br. at 45, 52. But as this Court has repeatedly explained, “waiver of immunity generally does not extend to a separate or re-filed lawsuit” in a different forum – even if the separate lawsuit involves the same parties and the
+10 Only Ericsson and LSI assert that UMN waived its immunity. Gilead purports to incorporate LSI’s and Ericsson’s waiver arguments to “limit this brief to 7,000 words.” Gilead Br. at 5 n.1. But “incorporation cannot be used to exceed word count.” Microsoft Corp. v. DataTern, Inc., 755 F.3d 899, 910 (Fed. Cir. 2014). Gilead thus waived any waiver argument.
+25
+
+Case: 18-1559	Document: 123 Page: 38 Filed: 09/28/2018
+same subject matter. BPMC, 505 F.3d at 1339-40; also A123, 626 F.3d at 1219; Tegic, 458 F.3d at 1343. Appellees and their amici fail to identify any case
+holding that a State, having voluntarily appeared in federal court, waived immunity to an action filed separately in a different court, let alone with an agency.
+The Board and Appellees ignore the limits the Court has properly put on the scope of waiver by litigation. See Tegic, 458 F.3d at 1342 (quoting Pennhurst, 465 U.S. at 99, in its discussion of waiver by litigation). Contra Ericsson Br. at 54-55 (arguing that Pennhurst does not apply to waiver by litigation).
+UMN chose to litigate against Appellees in an Article III court. The Board’s decision would compel UMN to appear in a different forum. The decision is contrary to precedent enforcing the limits federalism places on actions against a State.
+A.	Tegic and A123 Are Dispositive of the Waiver Question.
+Appellees attempt to distinguish Tegic and A123, but none of their purported
+distinctions support the Board’s finding of waiver.
+Tegic did not turn on the fact that Tegic was a non-party to the litigation commenced by the university. Rather, the Court found no waiver because: (1) a State controls “not merely whether it may be sued, but where it may be sued,” 458 F.3d at 1342 (quoting Pennhurst, 465 U.S. at 99), and (2) waiver applies only so far as needed for a “complete determination” of “that litigation” (or “that claim” or
+26
+
+Case: 18-1559	Document: 123 Page: 39 Filed: 09/28/2018
+“the case at hand”) “in the same forum,” id. at 1342-43. The Court addressed Tegic’s status as a non-party to reject arguments about the customer suit exception and foreseeability. Id. at 1343; see generally [JMN Br. at 57-59. Indeed, both A123 and BPMC cited Tegic as controlling precedent that waiver does not extend to a separate action even though neither case concerned a non-party. A123, 626 F.3d at 1219; BPMC, 505 F.3d at 1339.
+Nor can A123 be limited to claims of “retroactive waiver,” which the Court mentioned only once when describing the parties’ arguments. A123, 626 F.3d at 1219. A123 relied on BPMC and cited Tegic for the general rule that decides this case: “where a waiver of immunity occurs in one suit, the waiver does not extend
+to an entirely separate lawsuit, even one involving the same subject matter and the same parties.” Id.11 Neither BPMC nor Tegic involved “retroactive waiver.”
+B.	An IPR Is a Separate Action that Is Outside the Scope of Waiver.
+To distinguish Tegic and A123, which concerned separate declaratory
+judgment actions, Appellees assert that IPR is a compulsory counterclaim to and “an integral part of” the parties’ underlying litigation. LSI Br. at 13; Ericsson Br.
+11 Contrary to the Board’s reasoning, [JMN did not “acknowledge[]” that suing in federal court waives immunity to an IPR. Appx8. Reactive Surfaces, No. IPR2016-1914, did not concern waiver; and if [JMN’s statements there were nonetheless construed as having been about the circumstances here, the assertion there was wrong and has no estoppel effect here.
+27
+
+Case: 18-1559	Document: 123 Page: 40 Filed: 09/28/2018
+at 57-60. Appellees are wrong. IPR is a separate proceeding (much like a separate declaratory judgment action):
+IPR is an optional proceeding that, if brought, proceeds in a different forum subject to different rules. By contrast, compulsory counterclaims must be brought in the same action as the initial claims. See Fed. R. Civ. P. 13(a)(1); Vermont v. MPHJ Tech. Invs., LLC, 803 F.3d 635, 644 (Fed. Cir. 2015); see Regents of Univ. of N.M. v. Knight, 321 F.3d 1111, 1126 (Fed. Cir. 2003) (waiver applies to compulsory counterclaims “in the same forum”).
+Unlike a compulsory counterclaim, IPR can be filed without parallel litigation, and vice versa. Unlike with counterclaims, a one-year window to petition for IPR after being served with a complaint exists regardless of whether the court case is dismissed. Click-To-Call Techs., LP v. Ingenio, Inc., 899 F.3d 1321 (Fed. Cir. 2018).
+IPR must be filed separately with the Board and cannot be joined with a civil litigation. The cases have different records, docket numbers, and captions. The cases also proceed separately, with different schedules, burdens, governing rules, and adjudicators. These “different tracks—one in the Patent Office and one in the courts” can reach different results, and are reviewed through different appeals. Cuozzo, 136 S. Ct. at 2146.
+28
+
+Case: 18-1559	Document: 123 Page: 41 Filed: 09/28/2018
+35 U.S.C. § 315, titled “Relation to other proceedings or actions,” distinguishes between IPR and other “civil actions” and “counterclaims” filed by the infringer or patent owner.
+Rulings of law in one proceeding do not make binding law for the other. See e.g., Novartis AG v. Noven Pharm. Inc., 853 F.3d 1289, 1293-94 (Fed. Cir. 2017).
+In sum, IPR is not a compulsory counterclaim. Indeed, the Board agrees. Appx7.
+The cases Appellees cite do not support their argument. Vas-Cath and Gunter v. Atl. Coast Line R.R. Co., 200 U.S. 273 (1906), both concern waiver in one “continuous” action. BPMC, 505 F.3d at 1336-37. Further, Appellees mischaracterize Vas-Cath as extending waiver to an entire “statutory system.” Ericsson Br. at 52. On that view, the waiver would extend to a separate suit seeking a declaration of the patent’s invalidity. Tegic holds otherwise. Vas-Cath only held that a public university that “invoked the statutory system of agency adjudication” also waived as to appeal of that agency decision in court. 473 F.3d at 1383.
+Knight and Genentech, Inc. v. Eli Lilly & Co., 998 F.2d 931 (Fed. Cir. 1993) both limit waiver to the forum in which the State filed the suit. Genentech, 998 F.2d at 946 (waiver by litigation applies to federal and State law defenses raised in
+29
+
+Case: 18-1559	Document: 123 Page: 42 Filed: 09/28/2018
+the forum where State entity filed patent suit); Knight, 321 F.3d at 1126 (when filing suit in court, “the state shall be considered to have consented to have litigated in the same forum all compulsory counterclaims”). No court has held that waiver goes further.
+And Regents of Univ. of California v. Eli Lilly & Co. concerns whether a public university’s infringement suit can be transferred to another district court, not whether filing a suit waives as to another action. 119 F.3d 1559, 1564 (Fed. Cir. 1997). Indeed, the decision noted that it “need not determine whether UC waived its immunity,” because the case did not concern any claims against the State. Id. at 1564-65; see Tegic, 458 F.3d at 1342 (concluding that Regents is “inapposite because there was no claim or counterclaim against the University”).
+C.	Different Does Not Mean Unfair or Inconsistent.
+Appellees and their amici complain that it is unfair to deprive infringers of
+the advantages of IPRs when they are accused of infringing State-owned patents. E.g., Ericsson Br. at 58-59. But again, policy questions should be directed to Congress. Moreover, this Court rejected a similar argument in Tegic (that it would be unfair to deprive a private party of a declaratory judgment remedy). Permitting a State to consider potential differences in substantive and procedural features between forums is a fundamental aspect of permitting States to decide when and where they can be sued. See UMN Br. at 56. For example, States may waive
+30
+
+Case: 18-1559	Document: 123 Page: 43 Filed: 09/28/2018
+immunity to claims in State courts without waiving immunity from suit in federal court, which may provide different substantive or procedural safeguards.
+Courts have never held such differences “unfair,” nor is that the test of what is constitutional. In the cases cited by Appellees and their amici where the courts find “unfairness” and “inconsistency,” it is always in the context of a State invoking the jurisdiction of a particular forum but then trying to avoid unfavorable results in the same action. No authority makes IPR part of the same action as a court case.
+CONCLUSION
+The Board’s decisions denying dismissal should be reversed, and this case
+remanded with instructions to dismiss the IPRs.
+Respectfully submitted,
+Date: September 28, 2018	/s/ Michael A. Albert 
+Michael A. Albert
+Richard F. Giunta
+Charles T. Steenburg
+Gerald B. Hrycyszyn
+Stuart V. C. Duncan Smith
+WOLF, GREENFIELD & SACKS, P.C.
+600 Atlantic Avenue
+Boston, MA 02210
+Tel: (617) 646-8000
+Attorneys for Appellant
+Regents of the University of Minnesota
+31
+
+Case: 18-1559	Document: 123 Page: 44 Filed: 09/28/2018
+CERTIFICATE OF COMPLIANCE WITH FED. R. APP. P 32(A) 
+I, Michael A. Albert, counsel for Appellants, certify that the foregoing Brief complies with the length limits set forth in Federal Circuit Rule 32(a).
+Specifically, this brief contains 6,969 words (excluding the parts of the motion exempted by Federal Rule of Appellate Procedure 32(f) and Federal Circuit Rule 32(b)) as determined by the word count feature of the word processing program used to create this brief.
+I further certify that the foregoing brief complies with the typeface requirements set forth in Federal Rule of Appellate Procedure 32(a)(5) and the type style requirements of Federal Rule of Appellate Procedure 32(a)(6). Specifically, this brief has been prepared using a proportionally spaced typeface using Microsoft Word 2013, in 14-point Times New Roman font.
+Date: September 28, 2018	/s/ Michael A. Albert
+Michael A. Albert
+
+Case: 18-1559	Document: 123 Page: 45 Filed: 09/28/2018
+CERTIFICATE OF SERVICE AND FILING
+I, Michael A. Albert, hereby certify that a true and correct copy of the
+foregoing has been filed using the Court’s CM/ECF system. All counsel of record
+were served via CM/ECF on the 28th day of September, 2018.
+Date: September 28, 2018	/s/ Michael A. Albert
+Michael A. Albert

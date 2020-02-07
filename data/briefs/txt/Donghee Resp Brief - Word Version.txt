@@ -1,0 +1,745 @@
+Case: 18-2087	Document: 26 Page: 1	Filed: 11/26/2018
+No. 18-2087
+IN THE
+United States Court of Appeals for the Federal Circuit
+PLASTIC OMNIUM ADVANCED INNOVATION AND
+RESEARCH,
+Plaintiff-Appellant,
+v.
+DONGHEE AMERICA, INC. AND DONGHEE ALABAMA, LLC,
+Defendants-Appellees.
+On Appeal from the United States District Court
+for the District of Delaware
+No. 16-0187-LPS
+Hon. Leonard P. Stark
+RESPONSE BRIEF OF APPELLEES
+DONGHEE AMERICA, INC. AND
+DONGHEE ALABAMA, LLC
+
+Counsel for Appellees
+November 26, 2018
+
+Case: 18-2087	Document: 26 Page: 2 Filed: 11/26/2018
+FORM 9. Certificate of Interest	Form 9
+Rev. 10/17
+
+ii
+
+Case: 18-2087	Document: 26 Page: 3 Filed: 11/26/2018
+
+FORM 9. Certificate of Interest	Form 9
+Rev. 10/17
+
+
+iii
+
+Case: 18-2087	Document: 26 Page: 4 Filed: 11/26/2018
+
+FORM 9. Certificate of Interest
+5. The title and numbers of any case known to counsel to be pending in this or any other court or agency that will directly affect or be directly affected by this court’s decision in the pending appeal.
+Plastic Omnium Advanced Innovation and Research v. Donghee America, Inc and Donghee Alabama, LLP, U.S. District Court for District of Delaware, No. 16-0178
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01945
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01890
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01654
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01647
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01633
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01605
+Donghee America, Inc. and Donghee Alabama, LLC v. Plastic Omnium Advanced Innovation and
+Research, U.S. Patent and Trademark Office, Before the Patent Trial and Appeal Board,
+Case IPR2017-01602
+
+iv
+
+Case: 18-2087	Document: 26 Page: 5 Filed: 11/26/2018
+TABLE OF CONTENTS
+Page
+CERTIFICATE OF INTEREST	ii
+TABLE OF AUTHORITIES	vii
+STATEMENT OF RELATED CASES	xi
+INTRODUCTION	1
+STATEMENT OF ISSUES	5
+STATEMENT OF THE CASE	6
+Plastic Fuel Tanks Have Long Been Produced By Blow
+Molding	6
+Plastic Omnium Patents A Process For Producing Fuel Tanks That Adds A Step Between Extrusion And Blow
+Molding	12
+Donghee Licenses Kautex’s Distinct Process For Producing
+Fuel Tanks	18
+Plastic Omnium Accuses Donghee Of Infringement	22
+The District Court Grants Summary Judgment Of Non-
+
+Infringement	26
+SUMMARY OF ARGUMENT	28
+STANDARD OF REVIEW	33
+ARGUMENT	34
+I.	The District Court Properly Granted Summary Judgment Of No Literal Infringement On The Parison
+Claims.	 34
+The Parison Claims require cutting as or after
+the plastic exits the die.	35
+The patents define the die as distinct from the
+extrusion head.	43
+v
+
+Case: 18-2087	Document: 26 Page: 6 Filed: 11/26/2018
+II.	The District Court Properly Granted Summary Judgment That The Parison Claims Are Not Infringed
+Under The Doctrine Of Equivalents.	48
+Plastic Omnium failed to provide particularized testimony that the differences between the Parison Claims and Donghee’s process are
+insubstantial.	49
+Plastic Omnium’s theory of equivalence would
+impermissibly vitiate the post-die cutting
+limitation of the Parison Claims.	 57
+III. The District Court Properly Granted Summary Judgment Of Noninfringement With Respect To The
+’253 Patent.	 61
+Plastic Omnium clearly and unequivocally
+disclaimed the construction that it advances here.	 63
+The district court correctly held that a “preassembled structure” requires “multiple parts
+previously joined into a single arrangement.”	68
+CONCLUSION	75
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+Case: 18-2087	Document: 26 Page: 7 Filed: 11/26/2018
+TABLE OF AUTHORITIES
+Page(s)
+FEDERAL CASES
+Altiris, Inc. v. Symantec Corp.,
+318 F.3d 1363 (Fed. Cir. 2003)	36
+American Piledriving Equip., Inc. v. Geoquip, Inc.,
+637 F.3d 1324 (Fed. Cir. 2011)	38, 39, 45, 67
+Andersen Corp. v. Fiber Composites, LLC,
+474 F.3d 1361 (Fed. Cir. 2007)	67, 68
+AquaTex Indus., Inc. v. Techniche Sols.,
+479 F.3d 1320 (Fed. Cir. 2007)	31, 49, 50
+Augme Techs., Inc. v. Yahoo! Inc.,
+755 F.3d 1326 (Fed. Cir. 2014)	31, 50, 57, 58, 61
+Aylus Networks v. Apple Inc.,
+856 F.3d 1353 (Fed. Cir. 2017)	64, 67
+Biogen Idec, Inc. v. GlaxoSmithKline LLC,
+713 F.3d 1090 (Fed. Cir. 2013)	64
+C.R. Bard, Inc. v. U.S. Surgical Corp.,
+388 F.3d 858 (Fed. Cir. 2004)	38
+Cambrian Sci. Corp. v. Cox Commc’ns, Inc.,
+617 F. App’x 989 (Fed. Cir. 2015)	50, 57
+Chicago Bd. Options Exch., Inc. v. Int’l Sec. Exch., LLC,
+677 F.3d 1361 (Fed. Cir. 2012)	44, 45
+Crown Packaging Tech., Inc. v. Rexam Beverage Can Co.,
+559 F.3d 1308 (Fed. Cir. 2009)	34
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131 (2016)	67
+vii
+
+Case: 18-2087	Document: 26 Page: 8 Filed: 11/26/2018
+Dana Corp. v. NOK, Inc.,
+882 F.2d 505 (Fed. Cir. 1989)	66
+Dolly, Inc. v. Spalding & Evenflo Cos.,
+16 F.3d 394 (Fed. Cir. 1994)	58
+Eastman Kodak Co. v. Goodyear Tire & Rubber Co.,
+114 F.3d 1547 (Fed. Cir. 1997)	58, 61
+Ecolab, Inc. v. FMC Corp.,
+569 F.3d 1335 (Fed. Cir. 2009)	47
+Empresa Cubana Del Tabaco v. Gen. Cigar Co.,
+753 F.3d 1270 (Fed. Cir. 2014)	66
+Frolow v. Wilson Sporting Goods Co.,
+710 F.3d 1303 (Fed. Cir. 2013)	33
+Function Media, L.L.C. v. Google, Inc.,
+708 F.3d 1310 (Fed. Cir. 2013)	66
+GE Lighting Sols., LLC v. AgiLight, Inc.,
+750 F.3d 1304 (Fed. Cir. 2014)	69
+Genentech, Inc. v. Chiron Corp.,
+112 F.3d 495 (Fed. Cir. 1997)	66
+Honeywell Int’l, Inc. v. ITT Indus., Inc.,
+452 F.3d 1312 (Fed. Cir. 2006)	38
+Luminara Worldwide, LLC v. Liown Elecs. Co.,
+814 F.3d 1343 (Fed. Cir. 2016)	38
+Mformation Techs., Inc. v. Research in Motion Ltd.,
+764 F.3d 1392 (Fed. Cir. 2014)	36
+Microsoft Corp. v. GeoTag, Inc.,
+817 F.3d 1305 (Fed. Cir. 2016)	34
+Moore, U.S.A., Inc. v. Standard Register Co.,
+229 F.3d 1091 (Fed. Cir. 2000)	58, 61
+viii
+
+Case: 18-2087	Document: 26 Page: 9 Filed: 11/26/2018
+Mylan Institutional LLC v. Aurobindo Pharma Ltd.,
+857 F.3d 858 (Fed. Cir. 2017)	49
+Network Commerce, Inc. v. Microsoft Corp.,
+422 F.3d 1353 (Fed. Cir. 2005)	49
+Omega Eng’g, Inc. v. Raytek Corp.,
+334 F.3d 1314 (Fed. Cir. 2003)	63, 64
+Panduit Corp. v. HellermannTyton Corp.,
+451 F.3d 819 (Fed. Cir. 2006)	58
+PC Connector Sols. LLC v. SmartDisk Corp.,
+406 F.3d 1359 (Fed. Cir. 2005)	50
+Phillips v. AWH Corp.,
+415 F.3d 1303 (Fed. Cir. 2005)	36, 47, 68, 74
+Planet Bingo, LLC v. GameTech Int’l,
+472 F.3d 1338 (Fed. Cir. 2006)	61
+Ruckus Wireless, Inc. v. Innovative Wireless Sols., LLC,
+824 F.3d 999 (Fed. Cir. 2016)	34
+Sage Prods., Inc. v. Devon Indus., Inc.,
+126 F.3d 1420 (Fed. Cir. 1997)	59
+SciMed Life Sys., Inc. v. Advanced Cardiovascular Sys.,
+242 F.3d 1337 (Fed. Cir. 2001)	58, 59
+Sinorgchem Co., Shandong v. ITC,
+511 F.3d 1132 (Fed. Cir. 2007)	37
+SmithKline Beecham Corp. v. Apotex Corp.,
+439 F.3d 1312 (Fed. Cir. 2006)	62
+Snow v. Lake Shore & M.S. Ry. Co.,
+121 U.S. 617 (1887)	74
+Southwall Techs., Inc. v. Cardinal IG Co.,
+54 F.3d 1570 (Fed. Cir. 1995)	64
+ix
+
+Case: 18-2087	Document: 26 Page: 10 Filed: 11/26/2018
+
+Sunovion Pharm., Inc. v. Teva Pharm. USA, Inc.,
+731 F.3d 1271 (Fed. Cir. 2013)	38
+Texas Instruments Inc. v. Cypress Semiconductor Corp.,
+90 F.3d 1558 (Fed. Cir. 1996)	49, 50
+VirtualAgility , Inc.,
+759 F.3d 1307 (Fed. Cir. 2014)	66
+Vitronics Corp. v. Conceptronic, Inc.,
+90 F.3d 1576 (Fed. Cir. 1996)	37, 69
+Warner-Jenkinson Co. v. Hilton Davis Chem. Co.,
+520 U.S. 17 (1997)	58
+Zelinski v. Brunswick Corp.,
+185 F.3d 1311 (Fed. Cir. 1999)	50, 57
+OTHER AUTHORITIES
+Oxford English Dictionary (3d ed. 2011)	69
+Manual of Patent Examining Procedure	70
+
+x
+
+Case: 18-2087	Document: 26 Page: 11	Filed: 11/26/2018
+STATEMENT OF RELATED CASES
+No appeal in or from the same civil action in the district court was
+previously before this or any other appellate court.
+This appeal concerns U.S. Patent Nos. 6,814,921; 6,866,812; 7,166,253; and 9,399,327. The Patent Trial and Appeal Board has instituted inter partes reviews of these and other patents held by Appellant Plastic Omnium. Final written decisions are expected between December 2018 and February 2019. Those proceedings, which may directly affect or be directly affected by the Court’s decision in this appeal, are Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01602 (PTAB); Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01605 (PTAB) (’253 patent); Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01633 (PTAB) (’812 patent); Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01647 (PTAB) (’921 patent); Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01654 (PTAB); Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01890 (PTAB) (’327 patent); and
+xi
+
+Case: 18-2087	Document: 26 Page: 12 Filed: 11/26/2018
+Donghee America, Inc. v. Plastic Omnium Advanced Innovation and Research, IPR2017-01945 (PTAB).
+
+Case: 18-2087	Document: 26 Page: 13 Filed: 11/26/2018
+INTRODUCTION
+This case is a patent tale as old as time. There’s a recognized
+problem: How do you get large accessories into a plastic fuel tank with a narrow opening?—a modern-day variant on “how do you get a ship in a bottle”? There are competitors: Appellant Plastic Omnium on one side, Appellee Donghee and its licensor Kautex on the other. They approach the problem in different ways, and they acquire patents. One company (Plastic Omnium) stretches and strains its patents to wield them against its competitor. The simple result: The district court properly recognized that Plastic Omnium’s patents don’t cover Donghee’s very different process. This Court should affirm.
+Start with the problem: How do you install large accessories inside an automotive fuel tank being formed by blow molding? The ship-in-a-bottle solution won’t work. A hobbyist can fold masts and sails against the hull of a tiny ship to get them into a bottle, but that won’t work for large accessories that need to be attached to the interior of a fuel tank. The problem was particularly acute because of the limitations of conventional blow molding, which forms fuel tanks in two steps. In the first step, “extrusion,” molten plastic is smoothed in an
+1
+
+Case: 18-2087	Document: 26 Page: 14 Filed: 11/26/2018
+extrusion “head,” then forced through an attached “die” to create a specific plastic shape—typically a hollow tube, or “parison.” The second step is blow molding: inflating the parison with air until it takes the shape of a surrounding mold. Small accessories can be positioned within the tube’s narrow opening and attached internally while the tank is being formed in the mold, but large accessories won’t fit.
+One promising concept, known in the art, was to produce two plastic sheets that could be fused together around large accessories. Plastic Omnium and Kautex took very different approaches to doing so.
+Plastic Omnium was one of several companies that retained the two steps of conventional blow molding, while retrofitting a “cutting” step in-between. As claimed in the ’921, ’812, and ’327 patents, Plastic Omnium’s process uses a traditional extrusion head and die to produce a hollow, tubular parison. It then adds a cutting implement after the die (but before molding the plastic) to slice the tubular parison into two parallel sheets, which can be molded around larger accessories.
+Donghee went an entirely different direction. Rather than add a new step after extrusion, it changed the extrusion process itself. Donghee uses a new die—a “double flat die” (or “flat die” for short)—
+2
+
+Case: 18-2087	Document: 26 Page: 15 Filed: 11/26/2018
+that attaches to the extrusion head and extrudes two plastic sheets. Its process doesn’t need the intermediate step of extruding a parison, and so (unlike Plastic Omnium) doesn’t have to cut a parison and hold the plastic sheets steady as they’re being formed. The sheets themselves are extruded directly from the machinery. Its process therefore yields sheets of far higher quality, which can be produced more consistently.
+Plastic Omnium now wants to capture Donghee’s innovative process. It seeks to rewrite its claims to capture the formation of plastic sheets during, rather than after, extrusion. It says its claims cover a process, like Donghee’s, for splitting plastic that hasn’t yet passed through the die. But as the district court recognized, Plastic Omnium’s construction is foreclosed by the meaning of the term “parison,” the patents’ description of the invention, and common usage.
+Elsewhere, Plastic Omnium argues that if its claims do require a parison to pass through the die before cutting, then Donghee’s extrusion head (which smooths plastic and feeds it into the die) could itself be the “die” required by the claims. But the patents are clear that the extrusion head and the die are two different things. They
+3
+
+Case: 18-2087	Document: 26 Page: 16 Filed: 11/26/2018
+unambiguously require the parison to pass through the die mounted on—not synonymous with—the extrusion head.
+Plastic Omnium’s last refuge is the doctrine of equivalents. It argues that, even if the claims require the sheets to be cut outside the extrusion equipment, cutting them inside is really the same thing. That’s just claim vitiation—trying to recapture through the doctrine of equivalents the very construction it lost. But Plastic Omnium’s own witnesses acknowledged that splitting the plastic inside the extrusion equipment is a different process that produces different results than cutting plastic outside that equipment. And Plastic Omnium failed to show that those differences are insignificant.
+That just leaves Plastic Omnium’s challenge to the district court’s grant of summary judgment on the ’253 patent, which turns on the construction of the term “preassembled structure.” Plastic Omnium’s construction is flatly contrary to the ordinary meaning of the word “preassembled”; it would require neither assembly, nor assembly ahead of time. And Plastic Omnium has made the exact opposite argument to the Patent Trial and Appeal Board.
+4
+
+Case: 18-2087	Document: 26 Page: 17 Filed: 11/26/2018
+Plastic Omnium’s patents just don’t reach as far is it needs them to go. This Court should affirm summary judgment of non-infringement.
+STATEMENT OF ISSUES
+The asserted claims of the ’921, ’812, and ’327 patents require
+the cutting of a plastic parison, which does not form until (and thus cannot not be cut until after) it passes through both the extrusion head and the extrusion die attached to that head. Did the district court properly hold that Donghee’s process does not literally infringe, given that it splits the plastic before that plastic exits the extrusion die?
+Did the district court properly hold as a matter of law that Donghee’s process of splitting plastic before it exits the extrusion die does not infringe the “parison” claims of the ’921, ’812, and ’327 patents under the doctrine of equivalents?
+Did the district court properly construe the term “preassembled structure” in the ’253 patent to require “multiple parts” (without which there cannot be “assembly”) that were assembled “previously” (i.e., “pre”)?
+5
+
+Case: 18-2087	Document: 26 Page: 18 Filed: 11/26/2018
+STATEMENT OF THE CASE
+Plastic Fuel Tanks Have Long Been Produced By Blow Molding
+This case is about manufacturing fuel tanks for automobiles.
+Until the 1980s, fuel tanks generally were made from steel, but since that time, they’ve typically been made out of plastic. Appx3482, 2:09-20 (Donghee tutorial). Plastic tanks may be manufactured using a process called “blow molding.” Appx447 (Koch rebuttal report1); Appx3482, 2:21-25 (Donghee tutorial). Blow molding has been used to make numerous types of hollow plastic bodies—initially, small bottles for things like shampoo; then larger bottles; and ultimately, storage containers. Appx447.
+The conventional blow-molding process has two basic stages: extrusion, in which a shapeable plastic form is created; and blow molding, in which air is blown into the soft plastic form to cause it to expand into the shape of a mold. (This process is illustrated in the
+1 Plastic Omnium’s expert, Dr. Tim Osswald, submitted an initial
+expert report (Appx226 et seq.) and a reply expert report (Appx370 et seq.) evaluating the parties’ competing processes for creating plastic fuel tanks, as well as a declaration (Appx1052 et seq.) on claim construction. Donghee’s expert, Dr. Paul Koch, submitted a rebuttal expert report (Appx434 et seq.).
+6
+
+Case: 18-2087	Document: 26 Page: 19 Filed: 11/26/2018
+tutorial submitted by Donghee to the district court. See Appx3482, 0:54-2:07; see also Appx239-240 (Osswald report).)
+Extrusion is the “process of forming continuous shapes by forcing a molten plastic material through a die” that shapes the plastic. Appx1439 (Plastic Omnium answering claim construction brief (quoting Appx1213)); accord id. (“A process in which a hot or cold semisoft solid material, such as metal or plastic, is forced through the orifice of [a] die to produce a continuously formed piece in the shape of the desired product.” (quoting Appx1219)); see Appx77, 2:35-38 (’812 patent) (plastic is “extruded” after “passing ... through a die”). The process is described in greater detail below, and illustrated in this diagram:
+
+Appx3482, 1:30 (Donghee tutorial); see Appx239 Fig. 1 (Osswald report).
+7
+
+Case: 18-2087	Document: 26 Page: 20 Filed: 11/26/2018
+Conventional extrusion begins when plastic pellets are melted to form the semisoft plastic material. Appx1232. The softened plastic then is forced into a piece of equipment called an “extruder,” where it flows to the “extruder head,” a cylindrical component that smooths and “evenly distribute[s]” the plastic in preparation for shaping it. Appx1057 (Osswald declaration). Sometimes the end product requires multiple layers made of different types of plastic; when that’s the case, at this stage multiple extruders will carry different types of plastic to a “coextrusion head.” Appx77, 2:23:27 (’812 patent); Appx385 (Osswald reply report); Appx454 (Koch rebuttal report).
+Next, the plastic is shaped. This is done with a “die,” which is typically located at the end of the extrusion head. Appx1057; see Appx1752. The molten plastic that was smoothed in the extruder head is forced through the die, thereby producing a plastic shape. As Plastic Omnium’s counsel explained at the claim construction hearing, “The die is at the end of the circular extrusion head, so the die is what gives it a shape. It’s like Play-Doh. So if you want to have a square, you put the square piece in front of the little presser and you press out a square.” Appx1523. The plastic that is extruded out of the die is called a
+8
+
+Case: 18-2087	Document: 26 Page: 21	Filed: 11/26/2018
+
+parison. Appx1438; see also Appx77, 2:35-38 (’812 patent) (“The term ‘extruded parison’ is understood to mean the product obtained by passing, through a die, a composition of at least one thermoplastic melt homogenized in an extruder whose head is terminated by the die.”). In the conventional process, as illustrated above, the parison is a simple cylinder.
+Next comes blow molding, during which the parison is formed into the shape of the end product. Conventional blow molding begins with a single, hollow parison that is open at one end. Two halves of a mold close around the parison, “surrounding [it] with the hollow mold cavity and pinching the bottom of the parison shut.” Appx1057 (Osswald declaration). “Compressed air is then blown into the parison, inflating the parison into the mold cavity.” Id. After that, the halves of the mold open to reveal a hollow plastic body in the shape of the mold (here, a soda bottle):
+
+9
+
+Case: 18-2087	Document: 26 Page: 22 Filed: 11/26/2018
+
+Appx3482, 1:43-55 (Donghee tutorial); see Appx239 (Osswald report).
+Conventional blow molding has long been used to make plastic fuel tanks, but it has a shortcoming. Modern automotive fuel tanks aren’t just empty canisters that hold gasoline. Attached to the inside of the tanks are various accessories for improving safety and performance—for instance, “ventilation devices” to manage fumes and “baffles” to prevent fuel from sloshing around. Appx78, 4:1-3 (’812 patent). The trick is how to get those accessories on the inside—that is, the “ship in a bottle problem,” OB8.
+One approach is to cut holes in the walls of the tank, insert the accessories, and re-seal the tank. Appx240 (Osswald report); see Appx3482, 3:34-49 (Donghee tutorial). That can be done after the
+10
+
+Case: 18-2087	Document: 26 Page: 23 Filed: 11/26/2018
+molding process is complete, but it compromises the integrity of the tank walls and can allow pollutants to leak. Appx77, 1:12-23 (’812 patent); see Appx3482, 3:34-49 (Donghee tutorial).
+In conventional blow molding, therefore, the solution was to squeeze accessories into the parison at the outset of the molding process, then fuse them to the walls from the inside as those walls are forming in the mold. Appx77, 1:24-28 (’812 patent); see Appx3482, 3:514:42 (Donghee tutorial). That avoids cutting the finished walls, and so preserves their integrity. See Appx241 (Osswald report). But, because the parison is typically narrow, only very small accessories can be placed inside it before it expands. See Appx77, 1:29-33 (’812 patent). Larger accessories are too “bulky,” id. at 1:30, and so must be installed after molding is complete—with the attendant leakage of pollutants.
+This limitation of conventional blow molding became a bigger problem as global emissions standards tightened. Id. at 1:11-20. Fuel-tank manufacturers therefore sought new techniques that would permit a greater range of accessories to be placed inside the mold and fused to the tank walls as they form. According to Plastic Omnium, an early approach (described in the “Kasugai patent” issued in 1990) was to use
+11
+
+Case: 18-2087	Document: 26 Page: 24 Filed: 11/26/2018
+two separate sets of extrusion equipment to simultaneously extrude two parallel plastic sheets that would hang near each other. Larger accessories could be placed between the sheets. A mold would then close around the sheets and join them into a single fuel tank, with the accessories installed from within. See Appx77, 1:34-41 (’812 patent) (discussing U.S. Patent No. 4,952,347). This technique created more space for accessories. But it too had a “drawback”—it was difficult to coordinate the two sets of extrusion equipment so that the sheets were uniform. Id. at 1:42-47. As a result, the Kasugai process could not be “scaled or industrialized to make tanks for automobiles.” OB3.
+Manufacturers sought to produce parallel plastic sheets without the shortcomings of Kasugai. They took fundamentally different approaches. Some companies, including Plastic Omnium, altered what happens after extrusion. Donghee instead used a process that revolutionized what happens during extrusion.
+Plastic Omnium Patents A Process For Producing Fuel Tanks That Adds A Step Between Extrusion And Blow Molding
+Plastic Omnium’s patented process retains the extrusion equipment used in conventional blow molding. (Indeed, the ability to “retrofit” existing equipment was a claimed benefit. OB11.) As noted
+12
+
+Case: 18-2087	Document: 26 Page: 25 Filed: 11/26/2018
+above (at 9), such equipment extrudes a tubular parison. Rather than proceed directly to blow molding, however, Plastic Omnium’s patents add an intervening step. After the parison is extruded from the die, it is “cut” so that it forms “two portions,” Appx79, 5:46 (’812 patent claim 1), or “sheets” of plastic, Appx78, 3:24. As the specifications put it, “at least one cut is made in the parison leaving the die mounted on the extrusion head.” Appx77, 2:47-48; accord, e.g., Appx72, 3:8-10 (’921 patent) (“the sheet is obtained ... by cutting and opening an extruded parison”). Like in the Kasugai process, accessories may be positioned between the sheets and then attached to the inside of the fuel tank as it forms. Appx78, 3:31-40. But Plastic Omnium’s patents purport to “avoid[] the drawbacks” of the Kasugai process regarding the uniformity of sheet thickness. Appx77, 1:48-53.
+Two groups of claims are at issue in this appeal. One relates to creating and cutting a parison. (For simplicity’s sake, we refer to these as the “Parison Claims.”) The other claims pertain to the method of attaching accessories during molding (the “Preassembled Structure Claims”).
+13
+
+Case: 18-2087	Document: 26 Page: 26 Filed: 11/26/2018
+The Parison Claims. Plastic Omnium claimed its process for producing and splitting a parison in U.S. Patent Nos. 6,866,812, 6,814,921, and 9,399,327.2 The specifications of the ’812 and ’921 patents explain that “the invention relates to a process for manufacturing hollow plastic bodies from an extruded parison of closed cross section.” Appx77, 1:54-56; see Appx72, 3:8-11. The ’327 patent incorporates by reference the method for splitting a parison described in the ’812 and ’921 patents. Appx107, 4:47-54.3 All three patents claim a process for molding plastic containers from a single parison that has been split after extrusion; Plastic Omnium has not alleged any material differences in how the patents describe that process.
+The critical first step in Plastic Omnium’s process is extruding a single parison from conventional extrusion equipment. The ’812 patent
+2 Here, Plastic Omnium asserts claims 2, 3, 4, and 8 of the ’921 patent; claims 39, 41, and 45 of the ’812 patent; and claims 1, 7, 9, and 15 of the ’327 patent. Appx629.
+3 The ’327 patent expressly incorporates “application WO 01/60592,” which is the PCT parent of—and shares its specification with—the ’921 patent. Appx107, 4:47-50. The ’327 patent also expressly incorporates “Patent Application EP 1110697,” which is the European counterpart of—and shares its specification with—the ’812 patent. Appx107, 4:5154.
+14
+
+Case: 18-2087	Document: 26 Page: 27 Filed: 11/26/2018
+expressly defines the term “extruded parison” as “the product obtained by passing, through a die, a composition of at least one thermoplastic melt homogenized in an extruder whose head is terminated by the die.” Appx77, 2:35-40. In short, once the melted plastic has been smoothed in an extruder head and forced through the die, what results is an extruded parison.
+The second step—an addition to the conventional approach—is to cut the extruded parison. The patents specify that once the parison leaves the die, “at least one cut is made in the parison.” Appx77, 2:4748; accord Appx72, 3:25-27 (“the sheet is advantageously obtained by cutting and opening a parison of closed cross section leaving the die mounted on the extrusion head”). Cutting the parison forms the two sheets of plastic, Appx78, 3:24, which then are separated from each other, or “opened,” by guiding devices such as rollers, Appx72, 3:35-38.
+In the final step, the two sheets of plastic are molded together to form a single hollow body. Appx77-78, 2:55-3:48; Appx72, 3:47-57. The ’812 patent illustrates the process in this side view that shows the plastic (the dark black lines, element 1) descending between the molds (element 7):
+15
+
+Case: 18-2087	Document: 26 Page: 28 Filed: 11/26/2018
+
+Appx76 (’812 patent); see also Appx70 (’921 patent). Specifically, the plastic is forced through element 2, “the circular die mounted on the extrusion head.” Appx79, 5:29-30. After the “tubular multilayer extrudate” (the parison) “leaves” the die, it is “separated into two sheets” by two blades (element 3), which are “placed at 180° to each other, at the exit of the circular die mounted on the extrusion head.” Appx79, 5:23-30. The plastic sheets then pass over “rollers” (element 4)
+16
+
+Case: 18-2087	Document: 26 Page: 29 Filed: 11/26/2018
+and hang between two halves of a mold (element 7). Before the mold closes, a “structure” (element 5) that supports “accessories” is placed between the sheets of plastic. Once the mold closes, a nozzle (element 6) injects air to blow-mold the sheets into the shape of the mold. Appx79, 5:31-41.
+The asserted Parison Claims of the ’921, ’812, and ’327 patents all require a parison as defined in the specifications. In particular, the Parison Claims of the ’921 patent require “cutting and opening an extruded parison of closed cross section.” Appx73, 5:43-6:6. The ’812 claims require “extruding” and then “cutting” a “parison.” Appx80, 7:14-23. And the ’327 claims require “a split or at least two-part parison.” Appx109, 7:19-39, 8:8-31.
+The Preassembled Structure Claims. Plastic Omnium also obtained patent claims relating to a process for physically attaching accessories to a blow-molded plastic body. U.S. Patent No. 7,166,253 claims a process for attaching accessories inside “a hollow plastic body” during the molding process. Doing so “eliminates any interface between” the accessories and the outside environment from which pollutants could leak. Appx86, 6:2-15. Relevant here, this process
+17
+
+Case: 18-2087	Document: 26 Page: 30 Filed: 11/26/2018
+requires the use of a “preassembled structure” that supports the accessory inside the tank and anchors it to the tank wall. Specifically, claim 1 of the ’253 patent, from which the asserted claims depend, requires that the
+accessory ... is supported by a preassembled structure which comprises at least one device configured to anchor said preassembled structure to an internal wall of the hollow body.
+Appx86, 6:10-15.4 The “preassembled structure” makes it possible to “support[] all or at the very least several accessories to be introduced into the hollow body.” Appx85, 4:15-18.
+Donghee Licenses Kautex’s Distinct Process For Producing Fuel Tanks
+Plastic Omnium’s patented process had significant shortcomings. As one of Plastic Omnium’s lead blow-molding engineers, Bjorn Criel, put it, Plastic Omnium “knew from the beginning” that cutting a parison with blades as it leaves the extrusion die (the technique illustrated in the patents), rather than extruding two different sheets,
+4 Claim 41 of the ’812 patent includes the same “preassembled structure” limitation, but Plastic Omnium on appeal has not challenged the court’s order granting summary judgment of non-infringement on that claim. See OB42-48.
+18
+
+Case: 18-2087	Document: 26 Page: 31	Filed: 11/26/2018
+“would not be the way to manufacture a tank in production.” Appx462 (Koch rebuttal report (quoting Criel deposition)); id. (this “was not an industrial way to manufacture a tank”). The “complexity ... of the process” meant that “[i]t was not repeatable.” Appx461-62. In particular, it was challenging “to manage the sheets, to position the sheets at the correct place.” Appx462.
+Kautex Textron GmbH & Co. KG invented its own molding process for automotive fuel tanks that avoided these shortcomings. Ultimately, the Donghee appellees licensed that technology to manufacture their fuel tank assemblies.
+Recall that a key feature of Plastic Omnium’s process was that it didn’t require new extrusion machinery; according to Plastic Omnium, the asserted patents “allow conventional extrusion equipment to be retrofitted to practice [Plastic Omnium’s] inventions.” OB11. That included the use of a “die mounted on the extrusion head” that would produce a tubular “parison.” Appx77, 1:54-57, 2:47-48; Appx72, 3:8-11, 3:26-27. Kautex took a fundamentally different approach: It altered the extrusion equipment itself, affixing a new type of “flat” die directly
+19
+
+Case: 18-2087	Document: 26 Page: 32 Filed: 11/26/2018
+to a single coextrusion head. Appx262-263 (Osswald report); Appx457 (Koch rebuttal report).
+As a result, the plastic in the Kautex process is formed in a very different fashion. The flat die receives molten plastic from the coextrusion head. Thanks to its unique design, the flat die then extrudes two sheets of plastic, rather than extruding a tubular parison that must then be cut. Specifically, the die forces the molten plastic flow into two flat channels and then manipulates their thickness before they separately exit the die. In this cutaway depiction, the plastic enters through the circular gap between the blue and yellow pieces at the top of the die:
+
+Appx451.
+20
+
+Case: 18-2087	Document: 26 Page: 33 Filed: 11/26/2018
+The Kautex process does not cut the sheets after they are extruded. Instead, it feeds the sheets directly into a mold, where they are formed into a single fuel tank. See Appx449-450. Accessories are positioned between the sheets during molding and then attached while the tank is forming. Appx467-482.
+Extruding sheets of plastic yields several advantages over Plastic Omnium’s process of cutting a tubular parison as it leaves the die. First, as Mr. Criel acknowledged, when “everything” related to creating the sheets is part of the extrusion process itself, the process is “easy ... to manage.” Appx462. The sheets “come[] out nicely,” and unlike in the Plastic Omnium process, there is no “need to manage [them]” by positioning them for post-die cutting. Id. Extruding sheets also “increase[s] the capability” of controlling the “quality” of their “thicknesses.” Appx463. In particular, it enables “independent wall thickness manipulation”—that is, the capacity to vary the thickness of each sheet. That feature, in the words of Plastic Omnium’s expert, could not have been incorporated into Plastic Omnium’s patented process without a distinct “invention.” Appx430-31, 164:4-9; Appx387 (Osswald report).
+21
+
+Case: 18-2087	Document: 26 Page: 34 Filed: 11/26/2018
+Plastic Omnium Accuses Donghee Of Infringement
+Faced with Donghee’s improved blow-molding process,5 Plastic
+Omnium sued Donghee in 2016. It alleged that Donghee infringed no fewer than 103 claims of eight different patents. See generally Appx110-142. Most of that complaint has fallen by the wayside. Plastic Omnium dropped U.S. Patent No. 8,122,604 from the case prior to the district court’s Markman order, and it dropped U.S. Patent No. 8,163,228 on the eve of the summary judgment hearing. Appx1. It stipulated to dismissal of U.S. Patent No. 9,399,326. Appx2. And it now has chosen not to appeal the district court’s order granting summary judgment of non-infringement of U.S. Patent No. 9,079,490. See generally OB5-6.
+What remains are the Parison Claims of the ’921, ’812, and ’327 patents and the Preassembled Structure Claims of the ’253 patent. As noted above (at 14-18), the Parison Claims all claim processes for producing a blow-molded plastic body from an extruded “parison.” The Preassembled Structure Claims claim a process for attaching
+5 In the interest of simplicity, we refer to Appellee Donghee rather than its licensor Kautex for the remainder of the brief.
+22
+
+Case: 18-2087	Document: 26 Page: 35 Filed: 11/26/2018
+accessories to a blow-molded plastic body through the use of a “preassembled structure” that attaches to both the accessory and the tank. The district court construed both “parison” and “preassembled structure” in ways that are relevant here. See Appx946-949, 952-953.
+Parison. The parties agreed that “parison” means the same thing in the ’812, ’921, and ’327 patents, but disagreed about what it means. Donghee explained that a “parison” is the object that forms after plastic passes through the die attached to the extrusion head. Appx1185. That is clear from language in the patents indicating that the extruded parison must have passed “through a die.” Appx1185-1186 (quoting Appx77, 2:35-38). It is consistent with the ordinary meaning of the term in the blow-molding field. See Appx1186-1187 (citing technical dictionaries and treatises). And the patents’ description of the parison as “extruded” confirms that the parison must have passed through a die, since that is the culmination of the extrusion process. Appx1185-1186.
+Plastic Omnium could not agree to that construction without admitting that Donghee’s process—which splits plastic before it has been extruded through the die, not after—does not literally infringe. So
+23
+
+Case: 18-2087	Document: 26 Page: 36 Filed: 11/26/2018
+Plastic Omnium advanced two broader constructions. First, it argued that a “parison” need not pass through the die, but includes molten plastic that still is located within “the extrusion head/die.” Appx1034. Second, it argued that even if a “parison” must pass through a die, the operative die need not be located at the end of the extrusion head, but may instead be located “anywhere”—including “inside the extrusion head.” Appx1548 (24:5-14) (statement of Plastic Omnium’s counsel) (emphasis added); see Appx1439.
+The court agreed with Donghee that the ’921, ’812, and ’327 patents define a “parison” as plastic that has passed through a die. It held that Plastic Omnium, acting as its own lexicographer, had expressly defined “the term ‘parison’ as referring to a plastic tube with a closed cross section[6] that is shaped by—and has reached the end of—a die, and is split either immediately upon exiting the die or at some point thereafter.” Appx948. That meant the term “parison” excluded “molten plastic (or a tubular preform) present inside the die/extrusion head.” Appx948. The court emphasized that “[t]here is no disclosure in the
+6 An object has a “closed cross section” if the exterior of its cross section is unbroken—in this context, if it is “tubular.” OB11.
+24
+
+Case: 18-2087	Document: 26 Page: 37 Filed: 11/26/2018
+patents’ specifications that contemplates the splitting of the tubular preform at any stage earlier than right as the previously tubular structure leaves the die/extrusion head.” Id.
+The court also rejected Plastic Omnium’s argument that the die can be located “anywhere.” Rather, the patents expressly require the die to be located at the end of the extrusion head. Id. In so holding, the court noted that the ’812 patent defines an “extruded parison” as having passed through an “extruder whose head is terminated by the die.” Id. (quoting Appx77, 2:37-38) (emphasis added).
+Preassembled structure. The parties also disputed the meaning of “preassembled structure” in the ’253 patent. As relevant here, Donghee urged the common meaning of the term—“a set of multiple parts previously joined into a single arrangement.” Appx952. Plastic Omnium argued that it means “a premade structure.” Appx952. The district court agreed with Donghee. It explained that “the term ‘preassembled structure’ here refers to a structural feature comprising at least two parts, which is initially distinct from the accessory or accessories that it ‘supports’ and can then be joined with the relevant accessor(ies).” Appx952. “This is consistent with the patents’ disclosure
+25
+
+Case: 18-2087	Document: 26 Page: 38 Filed: 11/26/2018
+that the structure ... is ‘preassembled,’” which does not “merely mean ‘premade,’ as Plastic [Omnium] suggests.’” Appx952-53 (emphases added). Thus, the term “preassembled structure” means (in relevant part) “a set of multiple parts previously joined into a single arrangement.” Appx960.
+The District Court Grants Summary Judgment Of Non-Infringement
+In view of the district court’s claim construction, summary judgment of noninfringement followed from the undisputed evidence.
+The court first held that Donghee’s manufacturing process does not literally infringe the Parison Claims. Those claims require the formation and subsequent cutting of a single, tubular parison—all of which must happen after the plastic exits the die attached to the extrusion head. Donghee’s process never performs those steps. Instead, it is “undisputed” that Donghee’s extrusion equipment culminates in a flat die that extrudes two sheets of plastic rather than a single parison, with no subsequent cutting. Appx20 (citing Appx3406, 3411, 34153416). Thus, the court held, “there is no genuine issue of fact” as to literal infringement. Id.
+26
+
+Case: 18-2087	Document: 26 Page: 39 Filed: 11/26/2018
+Next, the court held that Donghee’s process does not infringe the Parison Claims under the doctrine of equivalents. It noted that Plastic Omnium’s own expert, Dr. Osswald, “acknowledges differences between Donghee’s flat die tool and the patented invention.” Appx21 (citing Appx387; Appx431). In light of those undisputed differences, “a reasonable jury could not find cutting the parison while it is extruding within extrusion equipment is insubstantially different than cutting the extruded parison outside the extrusion equipment.” Appx21.
+Finally, the district court turned to the asserted claims of the ’253 patent. They each require that “at least one ... accessory is supported by a preassembled structure.” Supra 18. Under the court’s claim construction, a “preassembled structure” requires “multiple parts” “joined together.” But Plastic Omnium presented no evidence (and there is none) that Donghee’s multipart support structures are preassembled prior to attaching the accessory. Appx24. Instead, Plastic Omnium sought to relitigate claim construction. It argued that it didn’t have to produce evidence about when the structures in Donghee’s process were assembled because, it said, the claims didn’t require preassembly. See Appx643-645; Appx24. But that is just what
+27
+
+Case: 18-2087	Document: 26 Page: 40 Filed: 11/26/2018
+the court’s claim construction required. Because the “record d[id] not contain evidence of the attachment order of the parts,” “no reasonable jury could find infringement.” Appx24.
+Plastic Omnium now appeals.
+SUMMARY OF ARGUMENT
+I. The district court properly held, based on its claim construction
+and the undisputed facts, that Donghee’s process does not literally infringe the Parison Claims of the ’921, ’812, and ’327 patents. The district court correctly construed the Parison Claims to claim a process in which plastic first is extruded to form a parison—that is, in which the plastic passes through the die mounted on the extrusion head—and only then is cut. There is no dispute that Donghee’s process operates in the opposite fashion—the plastic is split during the process of extrusion, before it has passed through the flat die mounted on the extrusion head.
+In an effort to capture Donghee’s process, Plastic Omnium now makes two different (and sometimes conflicting) claim-construction arguments concerning the Parison Claims. Both are foreclosed by the claim language read in light of the specifications’ definition of “parison” and the prosecution history.
+28
+
+Case: 18-2087	Document: 26 Page: 41	Filed: 11/26/2018
+First, Plastic Omnium argues that the Parison Claims impose no “cutting-location requirement” at all. OB34. Plastic Omnium says that the plastic can be cut anywhere in the “manufacturing process.” OB32. The patents, however, expressly require the plastic to be cut at or after the point at which it exits “the die mounted on the extrusion head.” Appx77, 2:46-48 (’812 patent); Appx72, 3:24-27 (’921 patent). Indeed, given the clarity of the patents, even Plastic Omnium effectively concedes this cutting-location requirement elsewhere in its brief.
+Elsewhere, rather than denying the existence of a cutting-location requirement, Plastic Omnium seeks to achieve its desired result a different way—by redefining terms in the patents. The patents are clear that a parison is not formed until after it has exited the die that shapes it. The patents also are clear that it is a parison that is cut. The evidence is undisputed, however, that Donghee’s process operates differently. After the plastic goes through the coextrusion head, it is first split into two channels, and only then does it go through the die. In short, cutting happens before the die.
+Attempting to capture that process, Plastic Omnium argues that the operative “die” in the Parison claims is not the die mounted at the
+29
+
+Case: 18-2087	Document: 26 Page: 42 Filed: 11/26/2018
+end of the coextrusion head, but rather the coextrusion head itself. Thus, it refers repeatedly to a “coextrusion die,” a term that never appears in the patents, and it conflates Donghee’s coextrusion head with the die referred to in the patents. It would be strange if the patents used the word “die” to refer not to a die, but to a separate feature, the coextrusion head. To the contrary, the patents refer to the extrusion head and the die mounted on it as distinct items, and require the parison to pass through both before being cut.
+II. The district court also correctly held that Donghee’s process does not infringe the Parison Claims under the doctrine of equivalents. Donghee’s theory of equivalence fails for two reasons.
+First, the doctrine of equivalents is implicated only if there is no literal infringement, which here would mean that the Court would have rejected Plastic Omnium’s claim construction argument. In other words, the doctrine of equivalents matters only if the patents contain a cutting-location requirement such that cutting must occur after the extruded plastic has exited the die. Thus, to avoid summary judgment on the doctrine of equivalents, Plastic Omnium was required to provide “particularized testimony” about the “insubstantiality of the
+30
+
+Case: 18-2087	Document: 26 Page: 43 Filed: 11/26/2018
+differences” between its method of cutting plastic into sheets outside the die (after extrusion) and Donghee’s method of splitting plastic into sheets within the die (during extrusion). E.g., AquaTex Indus., Inc. v. Techniche Sols., 479 F.3d 1320, 1328 (Fed. Cir. 2007). Plastic Omnium failed to carry that burden. It conceded that the two methods for splitting plastic differ in several respects, and offered only conclusory testimony that the differences are insubstantial.
+Second, Plastic Omnium’s theory of equivalence fails because it would impermissibly vitiate a limitation of the Parison Claims. Those claims require plastic to be split after it exits the die. Donghee’s process does the opposite, splitting plastic before it exits the die. Plastic Omnium is legally foreclosed from capturing, through the doctrine of equivalents, “a structural feature that is the opposite of, or inconsistent with, the recited limitation.” Augme Techs., Inc. v. Yahoo! Inc., 755 F.3d 1326, 1335 (Fed. Cir. 2014).
+III. Finally, the district court correctly held that Donghee does not infringe the ’253 patent because its process for placing accessories inside the accused fuel tank does not use a “preassembled structure” within the meaning of the ’253 patent. Appx84, 1:56-60. On appeal,
+31
+
+Case: 18-2087	Document: 26 Page: 44 Filed: 11/26/2018
+Plastic Omnium challenges only the district court’s construction of “preassembled structure” as requiring “a set of multiple parts previously joined into a single arrangement that is capable of attachment to at least one accessory.”
+Plastic Omnium’s argument fails at the outset because Plastic Omnium has disclaimed the broader construction it seeks here. In a pending inter partes review of the ’253 patent, Plastic Omnium argued that “the district court[’s] ... construction should be controlling.” Donghee Am. Inc. v. Plastic Omnium Advance Innovation and Research, No. IRP2017-01605, Paper 12 at 22 (PTAB Mar. 28, 2018) (Patent Owner’s Response). That clear and unambiguous prosecution disclaimer bars Plastic Omnium’s current attempt to seek a broader construction.
+In addition, the district court correctly construed “preassembled structure.”
+Two aspects of that term are relevant here. First, the structure must be “assembled.” And for it to be “assembled,” it must be made of multiple parts; otherwise, there is nothing to assemble. Nothing in the claim language or the specification contradicts this ordinary meaning.
+32
+
+Case: 18-2087	Document: 26 Page: 45 Filed: 11/26/2018
+Plastic Omnium’s principal response is that the full claim term— “preassembled structure comprising at least one device designed to anchor said preassembled structure”—means that there need only be one part, specifically, the “at least one device.” That argument simply misreads the claim language. That language says nothing about the total number of pieces a preassembled structure must have. It simply requires that one of them be an anchoring device.
+Second, the structure must be “preassembled.” The court properly construed the term to mean that the multiple parts must be “previously joined into a single arrangement.” Appx960 (emphasis added). That temporal requirement reflects the ordinary meaning of the prefix “pre.” To predraft is to draft ahead of time. To prejudge is to judge ahead of time. And to preassemble is to assemble ahead of time. The patent makes clear that this preassembly must occur before the preassembled structure “supports” the accessory.
+STANDARD OF REVIEW
+This Court reviews summary judgment de novo. Frolow v. Wilson
+Sporting Goods Co., 710 F.3d 1303, 1308 (Fed. Cir. 2013) (applying Third Circuit law). When, as here, “the district court’s claim
+33
+
+Case: 18-2087	Document: 26 Page: 46 Filed: 11/26/2018
+construction relies only on intrinsic evidence, the construction is a legal determination reviewed de novo.” Ruckus Wireless, Inc. v. Innovative Wireless Sols., LLC, 824 F.3d 999, 1002 (Fed. Cir. 2016). “‘[O]n appeal from a grant of summary judgment of noninfringement, [the Court] must determine whether ... the district court correctly concluded that no reasonable jury could find [literal] infringement’ or infringement under the doctrine of equivalents.” Microsoft Corp. v. GeoTag, Inc., 817 F.3d 1305, 1313 (Fed. Cir. 2016) (quoting Crown Packaging Tech., Inc. v. Rexam Beverage Can Co., 559 F.3d 1308, 1312 (Fed. Cir. 2009)).
+ARGUMENT
+I.	The District Court Properly Granted Summary Judgment Of No Literal Infringement On The Parison Claims.
+The district court correctly held that, under its claim construction and the undisputed facts, Donghee’s process does not literally infringe the Parison Claims. The court correctly construed the claim term “parison” to mean plastic that has passed through both the extrusion head and the die attached to the head. And it correctly held that the Parison Claims involve cutting a parison at or after the point at which it has exited the die. Here, however, there is no dispute that Donghee’s process splits plastic within—not after—the die mounted on the
+34
+
+Case: 18-2087	Document: 26 Page: 47 Filed: 11/26/2018
+extrusion head. What exits the die, therefore, is not a parison, but two plastic sheets. Accordingly, Donghee’s process does not literally infringe the Parison Claims, as it never forms a single parison or performs post-die cutting.
+A.	The Parison Claims require cutting as or after the plastic exits the die.
+Plastic Omnium’s lead argument is that the Parison Claims contain no “cutting-location requirement.” E.g., OB34, 35, 38. For instance, it argues that “[t]he claims do not limit the point in the manufacturing process at which [the] parison is cut.” OB33. Accordingly, Plastic Omnium contends, “nothing ... excludes from the scope of the patents splitting a parison inside any of the extrusion head/die equipment.” OB38 (quotation marks omitted; emphasis added).
+That is incorrect. The claims are explicit that it is the “parison” that must be cut. And the patents are equally clear that a parison doesn’t exist—that is, the molten plastic doesn’t become a “parison”— until it is exiting the die. Therefore, the patents do impose a “cutting-location requirement”: The parison cannot be cut until after the plastic
+35
+
+Case: 18-2087	Document: 26 Page: 48 Filed: 11/26/2018
+is extruding from the die because, by definition, there is no parison until that point.
+Start with the claim language. See generally Phillips v. AWH Corp., 415 F.3d 1303, 1314 (Fed. Cir. 2005). Claim 1 of the ’921 patent explains that a shell of a fuel tank “will be produced ... by the cutting and opening [of] an extruded parison.” Appx73, 6:4-5. The parison must be extruded—past tense—before it is cut.
+Similarly, the ’812 patent claims the method of (among other steps) “extruding a parison,” and then “cutting through said parison so as to form two portions separated by a cut.” Appx79, 5:45-47. Steps in a method must be performed in order when, as here, “logic” requires it. See Mformation Techs., Inc. v. Research in Motion Ltd., 764 F.3d 1392, 1398 (Fed. Cir. 2014); see also Altiris, Inc. v. Symantec Corp., 318 F.3d 1363, 1369-70 (Fed. Cir. 2003) (steps must be performed in order when a subsequent step references something from a prior step). And the logic here is plain: You can’t cut a thing that doesn’t exist. The parison must first be formed before being cut.
+The fact that cutting does not occur until after the parison is formed is critical, because the term “parison” in these patents is defined
+36
+
+Case: 18-2087	Document: 26 Page: 49 Filed: 11/26/2018
+by reference to its location. From the word “parison,” we know when and where cutting can occur. As Plastic Omnium itself has argued, Appx1438, the patents expressly define the term “parison.” See Sinorgchem Co., Shandong v. ITC, 511 F.3d 1132, 1136 (Fed. Cir. 2007) (“The specification acts as a dictionary when it expressly defines terms used in the claims or when it defines terms by implication.” (quoting Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed. Cir. 1996))). Specifically, the ’812 patent provides:
+The term “extruded parison” is understood to mean the product obtained by passing, through a die, a composition of at least one thermoplastic melt homogenized in an extruder whose head is terminated by the die.
+Appx77, 2:35-38 (emphasis added). In short, a parison does not exist until the “composition” (the plastic) has passed “through a die.” Plastic Omnium may be correct that “[t]he claims simply require a parison and they require that parison to be split.” OB36. But Plastic Omnium is incorrect that this reveals nothing about location. E.g., OB34 (arguing that the specification “is silent on where the parison exists”); OB35-36 (same). On the contrary, the definition of the term “parison” itself denotes location—i.e., after extrusion from the die.
+37
+
+Case: 18-2087	Document: 26 Page: 50 Filed: 11/26/2018
+That understanding is confirmed by statements in the specifications that “describe[] the invention as a whole.” American Piledriving Equip., Inc. v. Geoquip, Inc., 637 F.3d 1324, 1334 (Fed. Cir. 2011) (citing C.R. Bard, Inc. v. U.S. Surgical Corp., 388 F.3d 858, 864 (Fed. Cir. 2004)). Statements in the specification that expressly describe the boundaries of “the invention”—not just a particular embodiment—are important in understanding the claims. See, e.g., Sunovion Pharm., Inc. v. Teva Pharm. USA, Inc., 731 F.3d 1271, 1277 (Fed. Cir. 2013); Honeywell Int’l, Inc. v. ITT Indus., Inc., 452 F.3d 1312, 1318 (Fed. Cir. 2006); see also Luminara Worldwide, LLC v. Liown Elecs. Co., 814 F.3d 1343, 1353 (Fed. Cir. 2016) (claims are construed in light of “clear and unmistakable statements” about what “the present invention includes”).
+And here, Plastic Omnium’s patents expressly describe “the invention” as a process for cutting a parison that has been extruded by passing through the die. The ’812 patent specifies that “according to the invention, at least one cut is made in the parison leaving the die mounted on the extrusion head.” Appx77, 2:46-48 (’812 patent) (emphasis added); see also Appx107, 4:51-54 (’327 patent). Similarly,
+38
+
+Case: 18-2087	Document: 26 Page: 51	Filed: 11/26/2018
+
+the ’921 patent states that “according to the invention, the sheet is advantageously obtained by cutting and opening a parison ... leaving the die mounted on the extrusion head.” Appx72, 3:24-27 (’921 patent) (emphasis added). It further specifies that “[a]ccording to the invention,” the object that is cut is an “extruded parison.” Appx72, 3:1011 (emphasis added); see also Appx107, 4:47-50 (’327 patent). These statements define the invention as a whole to include a process for cutting a parison formed at or after the plastic exits the die.
+Those features of the invention are “especially” clear because they are consistently reiterated in “other statements and illustrations in the patent.” American Piledriving, 637 F.3d at 1334. Throughout the specifications, every description of Plastic Omnium’s process requires a parison to form and be cut after passing through the die. When the ’812 patent illustrates the process, it depicts a cutting instrument (the “steel blades” labeled as element 3) outside “the exit of the circular die”:
+
+39
+
+Case: 18-2087	Document: 26 Page: 52 Filed: 11/26/2018
+Appx76; Appx79, 5:28-30; see Appx107, 4:51-54. The ’921 patent does the same. See Appx70; Appx73, 5:25-27; see also Appx107, 4:47-50 (’327 patent). Elsewhere, the ’812 patent notes that a “knife blade” may be used to cut “transversely, at regular intervals, the extrudate leaving the die.” Appx78, 3:11-14 (emphasis added). Thus, as the district court explained, “[t]here is no disclosure in the patents’ specifications that contemplates the splitting of the tubular preform at any stage earlier than right as the previously tubular structure leaves the die/extrusion head.” Appx948.
+40
+
+Case: 18-2087	Document: 26 Page: 53 Filed: 11/26/2018
+This understanding of “extruded parison” is consistent with the customary use of this term in the blow-molding field. The terms “extrude” and “parison” both denote material that has exited a die, as numerous dictionaries confirm. “Extrusion” is “[t]he process of forming continuous shapes by forcing a molten plastic material through a die.” Appx1213 (Tool and Manufacturing Engineers Handbook (1996)) (emphasis added); see also Appx1219 (McGraw-Hill Dictionary of Scientific and Technical Terms (1994)); Appx1253 (Merriam Webster’s Collegiate Dictionary (1995)); Appx1262 (Webster’s II New College Dictionary (2001)); Appx1270 (Random House Webster’s Unabridged Dictionary (1998)). “Parison,” similarly, is defined in relevant part as the “hollow tube of melt exiting the extruder die.” Appx1208 (Concise Encyclopedia of Plastics (2000)) (emphasis added); accord Appx1247 (Plastics Engineering Handbook of the Society of the Plastics Industry (1991)) (plastic “melt is forced through the die to make the parison(s)”); Appx1225 (Blow Molding Design Guide (1998)); Appx1232 (Hollow Plastic Parts (2004)).7
+
+7 For all of these reasons, the graphic that Plastic Omnium created solely for purposes of its appellate brief, see OB23, 24, 39 (graphic), is
+41
+
+Case: 18-2087	Document: 26 Page: 54 Filed: 11/26/2018
+The district court’s construction of “parison,” and its concomitant understanding of where cutting must occur, therefore were correct. At the Markman stage, the court explained that “the construction of the ‘extruded parison’ terms should not include molten plastic (or a tubular preform) present inside the die/extrusion head.” Appx948. Instead, a parison exists (and may be cut) only after the plastic reaches “the exit of the extrusion head/die.” Id. The Markman order thus construed the Parison Claims to require “a tubular preform with a closed cross-section that has been forced through a die, and is cut or split as it exits the die or at some time thereafter.” Appx946 (emphases added). The summary judgment order likewise reiterated that “the splitting of the molten plastic must not occur inside any of the extrusion head/die equipment.” Appx20.8
+
+incorrect insofar as it labels various features as being parison-related prior to the point at which the plastic has been extruded through the die. No “parison” exists before that point.
+8 Plastic Omnium is thus incorrect to argue (OB35) that the district court’s summary judgment order “deviated from its Markman claim construction by adding a cutting-location limitation to the ‘parison’ claims.” The two decisions applied the same post-die cutting requirement.
+42
+
+Case: 18-2087	Document: 26 Page: 55 Filed: 11/26/2018
+The district court’s construction was well-supported by the inventor’s definition and by the ordinary understanding of the term “parison.”
+B.	The patents define the die as distinct from the
+extrusion head.
+Elsewhere, Plastic Omnium makes a contradictory argument. It acknowledges—contrary to its argument that there is “no cutting location requirement”—that “[t]he parison must ... exit the die that shaped it before being split.” OB37 (emphases added). Even so, it suggests, an extrusion head is also a “die” as that term is used in Plastic Omnium’s patents. And it therefore asserts that there is literal infringement because “a plastic tube is created by Donghee’s coextrusion die.” OB40 (emphasis added). The implication is that forcing plastic through the coextrusion head satisfies the requirement of creating a parison—which could be true only if the coextrusion head were the requisite die, see supra § I.A.
+As the district court held, the patents foreclose this argument. They make clear that an extrusion head and a die are two different components. See Appx20; Appx948. This Court presumes that “different terms” in a patent “have different meanings,” absent evidence
+43
+
+Case: 18-2087	Document: 26 Page: 56 Filed: 11/26/2018
+that they “are used interchangeably.” Chicago Bd. Options Exch., Inc. v. Int’l Sec. Exch., LLC, 677 F.3d 1361, 1369 (Fed. Cir. 2012). And here, the patents never suggest that the extrusion “head” and “die” might be interchangeable. Quite the contrary: Their express definition of “parison” unambiguously refers to the extrusion head and the die as separate and discrete items, and requires a parison to pass through both before being cut. The plastic first is homogenized in the head, then it passes through the die, a separate component that is located at the end of the extrusion head. Supra 8-9. So, for instance, the ’812 patent defines an “extruded parison” as “the product obtained by passing, through a die, a composition of at least one thermoplastic melt homogenized in an extruder whose head is terminated by the die.” Appx77, 2:35-38 (emphasis added).
+The patents’ descriptions of “the invention” as a whole draw the same distinction. Supra 38-39 (discussing cases where the specification describes “the invention”). They specify that “the process according to the invention” requires making a cut “in the parison leaving the die mounted on the extrusion head.” Appx77, 2:46-48 (emphasis added);
+44
+
+Case: 18-2087	Document: 26 Page: 57 Filed: 11/26/2018
+Appx72, 3:24-27; see Appx107, 4:47-54. The die and the extrusion head are separate, and one is “mounted on” the other.
+Once more, this feature of the invention is consistently reiterated in “other statements and illustrations in the patent.” American Piledriving, 637 F.3d at 1334. When the ’812 patent illustrates the process, it specifies that the plastic “extrudate” is cut “at the exit of the circular die mounted on the extrusion head.” Appx79, 5:23-30 (emphasis added). The die is separate from the extrusion head, on which it is mounted. Similarly, the ’912 patent illustrates the process as cutting the “extrudate ... leaving the circular die, which is mounted on the extrusion head.” Appx73, 5:24-25 (emphasis added); see also Appx72, 3:3-5 (offering “example” of “an extruder placed vertically, the extrusion head which includes the die being located at the lowest point”); Appx948. In short, every indication in the patents is that plastic passes through both the extrusion head and the die mounted on it before being cut.
+Plastic Omnium cites no countervailing “evidence” that the terms head and die “are used interchangeably.” Chicago Bd., 677 F.3d at 1369. It quotes no language to that effect from the patents or even from
+45
+
+Case: 18-2087	Document: 26 Page: 58 Filed: 11/26/2018
+the prosecution history. It ignores the rule that different terms are presumed to have different meanings. Instead, it simply paraphrases the patents in a way that masks the distinction between the extrusion head and the die—for instance, by referring to the coextrusion head in Donghee’s machine as a “coextrusion die.” E.g., OB7, 11, 19 (emphasis added). Elsewhere, similarly, it describes the figures in the ’812 and ’921 patents as follows:
+In these figures, the tubular parison is formed using a coextrusion head (component 2). As the parison exits the coextrusion head, a blade (component 3) located at the exit of the coextrusion head splits the parison.
+OB11 (emphases added). But this subtle rewording of the specification writes the die out of the invention. The blade is not located at “the exit of the co-extrusion head”; it is located “at the exit of the circular die mounted on the extrusion head.” Appx79, 5:29 (’812 patent) (emphasis added); see Appx73, 5:24-27 (’921 patent).
+Plastic Omnium’s expert, Dr. Osswald, acknowledged this difficulty more directly. He conceded that the specifications require “a die mounted on the extrusion head.” Appx1926 (152:2-5). Recognizing that this language plainly distinguishes between the die and the head, his only response was that it “may just be a poor choice of words” on the
+46
+
+Case: 18-2087	Document: 26 Page: 59 Filed: 11/26/2018
+part of the inventor. Appx1926 (152:15). Bedrock patent law, however, forecloses this effort to rewrite the patents. Claim terms “are construed with the meaning with which they are presented in the patent document”—not the meaning that later serves the patentee’s litigation interests. Phillips, 415 F.3d at 1316 (emphasis added); see Ecolab, Inc. v. FMC Corp., 569 F.3d 1335, 1344 (Fed. Cir. 2009) (“It is likewise well-settled that courts generally may not re-draft claims; we must construe the claims as written.”).9
+
+The asserted patents define the extrusion head and the die as distinct items and require a parison to pass through both before it is cut. Donghee’s process works differently. Donghee’s process undisputedly uses a “coextrusion head” attached to a “flat die.” OB19. It also is undisputed that Donghee’s process splits plastic before, not after, the exit of the flat die, so that the die extrudes two sheets. OB19-20. There is thus no tubular parison that passes through both the coextrusion head and the flat die, as the Parison Claims require. Nor is
+9 Plastic Omnium is therefore simply incorrect that it is “undisputed” that Donghee’s process uses a “coextrusion die” to produce a parison. OB19; see OB30. Donghee absolutely disputes this.
+47
+
+Case: 18-2087	Document: 26 Page: 60 Filed: 11/26/2018
+there cutting (of any kind) after the exit of the die—another requirement of the claims. That means Donghee’s process cannot literally infringe the Parison Claims.
+II.	The District Court Properly Granted Summary Judgment That The Parison Claims Are Not Infringed Under The Doctrine Of Equivalents.
+Alternatively, Plastic Omnium argues that even if its claim-construction arguments are incorrect—that is, even if a parison forms, and may be cut, only outside the die mounted on the extrusion head— Donghee’s method nonetheless infringes the Parison Claims under the doctrine of equivalents. OB41-42. That is so, Plastic Omnium contends, because its process of cutting a parison into sheets “outside of the extrusion equipment” is equivalent to Donghee’s method of “splitting a tube of plastic within the extrusion equipment, but below the exit” of the coextrusion head. OB41 (emphases added). On the contrary, the strict requirements of the doctrine of equivalents are not nearly satisfied, as the district court properly recognized in rejecting this argument as a matter of law.
+First, Plastic Omnium failed to meet its burden of providing “particularized testimony” that the two methods are equivalent.
+48
+
+Case: 18-2087	Document: 26 Page: 61	Filed: 11/26/2018
+AquaTex, 479 F.3d at 1328. It thus failed to raise a genuine issue of fact regarding infringement. Infra § II.A. Second, Plastic Omnium’s theory of equivalence would vitiate a limitation of the Parison Claims— that plastic may be split only outside the die, when a parison has formed. Its argument therefore fails as a matter of law. Infra § II.B.
+A.	Plastic Omnium failed to provide particularized testimony that the differences between the Parison Claims and Donghee’s process are insubstantial.
+As the party asserting infringement under the doctrine of equivalents, Plastic Omnium bore an important evidentiary burden: To avoid summary judgment, it was required to “provide particularized testimony and linking argument as to the ‘insubstantiality of the differences’ between the claimed invention and the accused device or process, or with respect to the function, way, result test.” AquaTex, 479 F.3d at 1328 (quoting Texas Instruments Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1567 (Fed. Cir. 1996)); Network Commerce, Inc. v. Microsoft Corp., 422 F.3d 1353, 1363 (Fed. Cir. 2005); see also Mylan Institutional LLC v. Aurobindo Pharma Ltd., 857 F.3d 858, 866 (Fed. Cir. 2017) (“function, way, result” test requires a party to show that the
+49
+
+Case: 18-2087	Document: 26 Page: 62 Filed: 11/26/2018
+two processes perform the same function, in the same way, to achieve the same result).
+This evidence must be presented “on a limitation-by-limitation basis.” AquaTex, 479 F.3d at 1328-29. And it is legally insufficient to merely assert that there is “no substantial difference” between a limitation and its purported equivalent. Augme, 755 F.3d at 1335-36. Such “conclusory statements regarding equivalence ... do not raise any genuine issues of material fact.”10 “These evidentiary requirements” serve a critical function; they “assure that the fact-finder does not, ‘under the guise of applying the doctrine of equivalents, erase a plethora of meaningful structural and functional limitations of the claim on which the public is entitled to rely in avoiding infringement.’” Texas Instruments, 90 F.3d at 1567.
+Plastic Omnium did not carry this burden. At issue here is the limitation discussed above—that, under the Parison Claims, plastic
+10 PC Connector Sols. LLC v. SmartDisk Corp., 406 F.3d 1359, 1364 (Fed. Cir. 2005); see also Augme, 755 F.3d at 1337 (affirming summary judgment of noninfringement under doctrine of equivalents where expert testimony was “conclusory”); Cambrian Sci. Corp. v. Cox Commc’ns, Inc., 617 F. App’x 989, 994 (Fed. Cir. 2015); Zelinski v. Brunswick Corp., 185 F.3d 1311, 1317 (Fed. Cir. 1999).
+50
+
+Case: 18-2087	Document: 26 Page: 63 Filed: 11/26/2018
+must be cut post-extrusion, after passing through the die that terminates the extrusion head. Donghee’s process does not literally infringe that limitation because it splits plastic within the die, before a parison has formed. Supra § I. The evidence is clear—including from Plastic Omnium’s own expert—that there are differences in the way those two methods split plastic into sheets and the results that follow. And Plastic Omnium offered only conclusory testimony that those differences are insubstantial.
+1. Start with the differences in the way plastic is split. Dr. Paul Koch provided unrebutted testimony that a die shapes plastic by using “high pressure” to force a “melt flow” into channels “inside of the [extrusion] machinery.” Appx460-461. When it is a die that splits plastic into sheets, therefore, the plastic remains under high pressure throughout the process of being split. In the method and process claimed by the Plastic Omnium patents, by contrast, the plastic is divided after it has been extruded, when it “exists at normal atmospheric pressure” and is no longer confined to “the shape of the channel.” Appx461.
+51
+
+Case: 18-2087	Document: 26 Page: 64 Filed: 11/26/2018
+This leads to important differences in the inventions’ ability to shape the plastic. As Dr. Koch further testified, because the Donghee process splits plastic within the die, it can separately adjust the thickness of each extruded sheet by varying the width of the channels inside the machinery. See Appx464 (Donghee uses “precise flow control valves” within the die that “allow for very small adjustments in the flat die lips, which changes the wall thickness of [each] sheet”). Plastic Omnium’s expert, Dr. Osswald, referred to this feature as “independent wall thickness manipulation.” Appx387, Appx431.
+Plastic Omnium’s process works differently. It extrudes a single parison, and any changes to that parison’s thickness during extrusion necessarily affect the entire parison. Appx465. Indeed, Plastic Omnium’s opening brief affirmatively touts this feature of its process, noting that its use of a single “parison”—unlike the prior-art Kasugai process—“results in consistent and uniformly thick tank walls.” OB12 (emphasis added); see OB11.
+Plastic Omnium’s expert, Dr. Osswald, did not dispute this distinction. To the contrary, he grudgingly acknowledged that Donghee’s flat die “may offer improvements (e.g., independent wall
+52
+
+Case: 18-2087	Document: 26 Page: 65 Filed: 11/26/2018
+thickness manipulation) over the blade and roller cutting system of the Asserted Patents.” Appx387 (reply report). And he later testified that Plastic Omnium’s patented process could not independently adjust the thickness of each sheet, absent a distinct “invention.” Appx431 (164:49). Thus, as the district court recognized, “Plastic [Omnium]’s expert, Dr. Osswald, acknowledge[d] differences between Donghee’s flat die tool and the patented invention.” Appx21. Plastic Omnium has not challenged that holding on appeal, either directly or by contesting the legal significance of this finding.
+2. These differences in the way the patented claims and the accused process split plastic yield a variety of different results. Bjorn Criel, Plastic Omnium’s lead engineer, testified about several of those differences. He revealed that Plastic Omnium was “aware ... from the beginning” that the post-extrusion cutting process in its patents “would not be the way to manufacture a tank in production.” Appx462. That was because “cutting ... at the exit of the die” created a “[p]roblem”— the “need to manage the sheets, to position the sheets at the correct place.” Id. The “complexity” of that process meant that it “was not repeatable.” Appx461; see also Appx462.
+53
+
+Case: 18-2087	Document: 26 Page: 66 Filed: 11/26/2018
+Splitting plastic within the extrusion equipment changed the results substantially. Mr. Criel testified that when the splitting process is “extrusion related” (as in the Donghee process) the plastic “comes out nicely,” without the “need to manage the[] sheets” that arises when the plastic is cut after extrusion from the die. Appx462; see also Appx463 (Koch rebuttal report) (discussing “quality control” problems with a process like Plastic Omnium’s). Splitting the plastic within the die was a significant “advantage” in the “industrial aspect of the invention.” Appx462.
+In addition to improving the quality of the sheets, Mr. Criel acknowledged that splitting plastic within the extrusion equipment made it “easy ... to start up and end ... the manufacturing or prototyping.” Id. Or, as Dr. Koch put it:
+I agree with Mr. Criel that the process of extruding sheets is significantly simpler to control than the axial cutting and opening of a parison in the open atmosphere. Cutting an extruded parison introduces a number of uncontrolled
+variables, including temperature variations, wind currents, and process parameters. These differences may appear small, in most cases, but they have a large impact and
+contribute significantly to the downtime of a manufacturing process, thus negatively affecting productivity. The devil is in the details, and the details are much more significant when you are cutting and opening in the open atmosphere.
+54
+
+Case: 18-2087	Document: 26 Page: 67 Filed: 11/26/2018
+Appx463. As Plastic Omnium later acknowledged, Criel testified that “there may be advantages to cutting inside of the extrusion equipment.” Appx641.
+Dr. Koch testified about yet another difference that results from splitting plastic within the die. Donghee’s process makes it possible to vary the thickness of each sheet independently, and therefore to produce two sheets with “small adjustments of the sheet thickness” over “each incremental width of the sheet.” Appx464; supra 52-53. Accordingly, Donghee’s method—unlike Plastic Omnium’s process—can alter the thickness of each sheet to “put” plastic “into specific areas of the final product” or compensate for “variations in the viscosity” of the plastic, creating a unique type of fuel tank. Appx464-465. Mr. Criel confirmed that splitting plastic within the extrusion equipment “increased” the “quality ... of the thicknesses” compared to the post-die cutting illustrated in Plastic Omnium’s patents. Appx463.
+3. Plastic Omnium points to no particularized testimony that any of these differences is insubstantial, let alone all of them, as it was required to do. Supra 49-50 (citing cases). The cursory argument in its opening brief relies on two conclusory paragraphs from Dr. Osswald’s
+55
+
+Case: 18-2087	Document: 26 Page: 68 Filed: 11/26/2018
+initial expert report. OB42 (citing Appx265-266, ¶¶ 64-65). The first paragraph asserts that when plastic is forced “into Donghee’s ‘flat die tool’ so that it can be split,” “[t]his is no different than what is depicted/described in the ’921 patent, which shows a coextrusion die forcing an extruded parison onto a blade at the exit of the coextrusion die so that the parison can be split.” Appx265. The second paragraph asserts, in similarly conclusory fashion, that “the flat die tool” works by “splitting the parison, just as shown in Fig. 1 of the ’921 patent.” Appx266.
+These bare assertions are legally insufficient to avoid summary judgment. Dr. Osswald does not analyze the specific way plastic is split in each process or the specific result; he simply describes the processes in general terms and says that they are the same. He never explains whether or how any differences matter. He does not mention independent wall thickness adjustment, the quality of the sheets, the repeatability of the process, or any of the other differences noted above. Nowhere does he explain why those differences are insubstantial. This Court has consistently disregarded such conclusory remarks when affirming summary judgment under the doctrine of equivalents. E.g.,
+56
+
+Case: 18-2087	Document: 26 Page: 69 Filed: 11/26/2018
+Augme, 755 F.3d at 1335-37; Cambrian Sci. Corp., 617 F. App’x at 994; Zelinski, 185 F.3d at 1317. It should do likewise here.
+That is especially true because after issuing his initial report, Dr. Osswald was confronted with and conceded the “improvements” offered by Donghee’s process, including independent wall thickness manipulation. Supra 53. Thus, the district court properly recognized that he “acknowledges differences between Donghee’s flat die tool and the patented invention.” Appx21. Plastic Omnium does not acknowledge, let alone address, Dr. Osswald’s subsequent concessions or the district court’s corresponding finding.
+B.	Plastic Omnium’s theory of equivalence would
+impermissibly vitiate the post-die cutting limitation of the Parison Claims.
+Plastic Omnium’s theory of equivalence suffers from a second legal flaw: It would impermissibly vitiate a claim limitation. If this Court is reaching the doctrine of equivalents, it is only because Plastic Omnium has lost on its claim-construction argument concerning literal infringement. The Parison Claims require plastic to be split after passing through the die, supra § I, and Plastic Omnium’s doctrine-of-equivalents argument would vitiate that claim limitation.
+57
+
+Case: 18-2087	Document: 26 Page: 70 Filed: 11/26/2018
+This Court has long held that “the doctrine of equivalents does not apply if applying the doctrine would vitiate an entire claim limitation.” Panduit Corp. v. HellermannTyton Corp., 451 F.3d 819, 830 (Fed. Cir. 2006) (citing Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 29 (1997)). Thus, the Court repeatedly has held the doctrine of equivalents inapplicable as a matter of law “where the patentee seeks to encompass a structural feature that is the opposite of, or inconsistent with, the recited limitation.”11 That is because “the concept of equivalency cannot embrace a structure that is specifically excluded from the scope of the claims.” Dolly, Inc. v. Spalding & Evenflo Cos., 16 F.3d 394, 400 (Fed. Cir. 1994).
+The claim-vitiation rule embodies bedrock public-notice principles. When a patentee’s invention contains a particular structure, it makes “a clear and binding statement to the public” that inconsistent structures “are excluded from the protection of the patent.” SciMed Life Sys., Inc. v. Advanced Cardiovascular Sys., 242 F.3d 1337, 1347 (Fed. Cir. 2001).
+11 Augme, 755 F.3d at 1335; see, e.g., Moore, U.S.A., Inc. v. Standard Register Co., 229 F.3d 1091, 1106 (Fed. Cir. 2000); Eastman Kodak Co. v. Goodyear Tire & Rubber Co., 114 F.3d 1547, 1560-61 (Fed. Cir. 1997).
+58
+
+Case: 18-2087	Document: 26 Page: 71	Filed: 11/26/2018
+The patentee cannot later invoke the doctrine of equivalents to escape the consequences of such a statement. “[A]s between the patentee who had a clear opportunity to negotiate broader claims but did not do so, and the public at large, it is the patentee who must bear the cost of its failure to seek protection for [a] foreseeable alteration of its claimed structure.” Sage Prods., Inc. v. Devon Indus., Inc., 126 F.3d 1420, 1425 (Fed. Cir. 1997).
+These precedents foreclose Plastic Omnium’s theory of equivalence. Plastic Omnium’s patents involve splitting plastic after extrusion, when it has exited the die mounted on the extruder head. The patents contain multiple “clear and binding statement[s]” to that effect. SciMed, 242 F.3d at 1347; supra 37-41. They expressly define the “parison” as being cut only after it “pass[es] ... through a die.” Appx77, 2:35-38 (’812 patent). They describe “the invention” as cutting a parison that is “leaving the die mounted on the extrusion head.” Appx77, 2:46-48 (’812 patent); Appx72, 3:24-27 (’921 patent). And they repeatedly note that the parison must be “extruded” before it is cut—in both the specifications, Appx72, 3:10-11 (’921 patent); Appx107, 4:47-50
+59
+
+Case: 18-2087	Document: 26 Page: 72 Filed: 11/26/2018
+(’327 patent), and many of the claims, Appx79, 5:45-47 (’812 patent); Appx73, 6:4-5 (’921 patent).
+Plastic Omnium itself emphasized the distinction between pre-and post-extrusion when prosecuting the ’812 patent. The examiner initially rejected that patent’s Parison Claims in view of the prior-art Kasugai patent, see Appx979, which claimed a process for simultaneously extruding two plastic sheets for molding, see supra 12; Appx77, 1:34-41. In response, Plastic Omnium distinguished the Kasugai patent as splitting plastic during, rather than after, the extrusion phase of the molding process. It emphasized that the Kasugai patent required “two separately extruded sheets,” whereas Plastic Omnium’s process requires “cutting through an extruded parison so as to form two portions separated by a cut.” Appx979.
+Plastic Omnium’s theory of equivalence would improperly vitiate this limitation. It would extend the Parison Claims to cover their structural opposite: Donghee’s process of splitting plastic before, not after, it reaches the exit of the die mounted on the extrusion head. In doing so, Plastic Omnium would render the term “extruded” in the claims a dead letter. This Court repeatedly has rejected arguments just
+60
+
+Case: 18-2087	Document: 26 Page: 73 Filed: 11/26/2018
+like this one. Determining the winning bingo call “before” a game begins isn’t equivalent to doing so “after.” Planet Bingo, LLC v. GameTech Int’l, 472 F.3d 1338, 1345 (Fed. Cir. 2006). A “majority” of certain things isn’t equivalent to a “minority.” Moore, 229 F.3d at 1095. A process for crystallizing a substance “under an inert gas atmosphere” isn’t equivalent to doing so using a gas that is reactive rather than inert. Eastman Kodak, 114 F.3d at 1551, 1561. And here, “it would defy logic to conclude that” cutting before extrusion is complete “could be insubstantially different from” cutting after extrusion is complete, given that one is “the very antithesis” of the other. Moore, 229 F.3d at 1106. “[N]o reasonable juror could find otherwise.” Id. A party may not use the doctrine of equivalents to recycle its unsuccessful “claim construction arguments,” hoping to “encompass a structural feature that is the opposite of, or inconsistent with, the recited limitation.” Augme, 755 F.3d at 1335. Summary judgment should be affirmed.
+III. The District Court Properly Granted Summary Judgment Of Noninfringement With Respect To The ’253 Patent.
+Finally, the district court correctly held that Donghee does not infringe the ’253 patent because Donghee’s process for placing accessories inside a fuel tank does not use a “preassembled structure”
+61
+
+Case: 18-2087	Document: 26 Page: 74 Filed: 11/26/2018
+that anchors to an internal wall of the tank, as the ’253 patent requires. Claim 1, from which all of the asserted claims depend, requires that
+at least one of said accessory or said duct is supported by a preassembled structure which comprises at least one device configured to anchor said preassembled structure to an internal wall of the hollow body.
+Appx86, 6:10-14. Relying on the ordinary meaning of the word “preassembled”—which requires something to already (“pre”) have been put together (“assembled”)—the district court construed “preassembled structure” to mean “a set of multiple parts previously joined into a single arrangement that is capable of attachment to at least one accessory.” Appx952.
+Plastic Omnium doesn’t deny that, under this construction, there is no infringement; Donghee’s fuel tanks undisputedly contain no such “preassembled structure.” See generally SmithKline Beecham Corp. v. Apotex Corp., 439 F.3d 1312, 1320 (Fed. Cir. 2006) (an argument not made in the opening brief is waived). Instead, Plastic Omnium argues that the district court got the meaning of “preassembled structure” wrong by requiring (1) “a set of multiple parts” and (2) that the parts be “previously joined into a single arrangement.” OB43, 47.
+62
+
+Case: 18-2087	Document: 26 Page: 75 Filed: 11/26/2018
+The district court’s ruling should be affirmed for two reasons. First, in a recent filing in the inter partes review of the ’253 patent, Plastic Omnium told the Patent Trial and Appeal Board that this district court’s “construction should be controlling.” Donghee Am. Inc. v. Plastic Omnium Advance Innovation and Research, No. IRP2017-01605, Paper 12 at 22 (PTAB Mar. 28, 2018). That clear and unambiguous disclaimer of the broader construction now sought by Plastic Omnium is binding. Infra § III.A. Second, the district court got it right. The claim’s plain language and the specification both make clear that a “preassembled structure” means exactly what it says—“a set of multiple parts previously joined into a single arrangement.” Infra § III.B.
+A.	Plastic Omnium clearly and unequivocally disclaimed the construction that it advances here.
+The doctrine of prosecution disclaimer ensures that patentees can’t have things both ways. It “preclud[es] patentees from recapturing through claim interpretation specific meanings disclaimed during prosecution.” Omega Eng’g, Inc. v. Raytek Corp., 334 F.3d 1314, 1323 (Fed. Cir. 2003). Thus, “when the patentee unequivocally and unambiguously disavows a certain meaning to obtain a patent, the doctrine of prosecution history disclaimer narrows the meaning of the
+63
+
+Case: 18-2087	Document: 26 Page: 76 Filed: 11/26/2018
+claim consistent with the scope of the claim surrendered.” Biogen Idec, Inc. v. GlaxoSmithKline LLC, 713 F.3d 1090, 1095 (Fed. Cir. 2013).
+This “fundamental precept,” Omega Eng’g, 334 F.3d at 1323-24, applies with equal force to statements made in pre- and post-issuance proceedings, including to statements made during inter partes review. Aylus Networks v. Apple Inc., 856 F.3d 1353, 1360 (Fed. Cir. 2017). And for good reason. It “ensures that claims are not argued one way in order to maintain their patentability and in a different way against accused infringers.” Id. at 1360; accord Southwall Techs., Inc. v. Cardinal IG Co., 54 F.3d 1570, 1576 (Fed. Cir. 1995). Thus, in Aylus Networks, this Court held that a patentee who urged one construction in an inter partes review, in an effort to prevent the Board from invalidating its patent, was barred by prosecution disclaimer from urging a broader construction in infringement litigation. 856 F.3d at 1363-64.
+That is precisely what Plastic Omnium is doing here. In an inter partes review of the ’253 patent, Plastic Omnium has urged the Board to adopt the district court’s construction of “preassembled structure”— the very construction that, in this appeal, it claims “is inconsistent with the ’253 patent’s claims.” OB43. Plastic Omnium took this position
+64
+
+Case: 18-2087	Document: 26 Page: 77 Filed: 11/26/2018
+repeatedly and unambiguously. It argued that “the district court[’s] ... construction should be controlling.” Donghee Am. Inc. v. Plastic Omnium Advance Innovation and Research, No. IPR2017-01605, Paper 12 at 22 (PTAB Mar. 28, 2018) (Patent Owner’s Response). Specifically, it urged the Board to “construe the term ‘preassembled structure’ as ‘a set of multiple parts previously joined into a single arrangement that is capable of attachment to at least one accessory.’” Id. at 23.
+Especially telling, Plastic Omnium made these arguments for the express purpose of overcoming prior art and preserving its patent’s validity. It told the Board that “there is nothing in [the prior-art] Linden [reference] that demands its holding means to be made of multiple parts instead of, for example, a single injection molded piece.” Id. at 25 (emphasis added); see also id. at 26 (“[T]here is nothing in Linden (or the art in general) to suggest that a duct incorporated in Linden’s tank would be supported by a set of multiple parts previously joined into a single arrangement that is capable of attachment to at least one accessory (i.e., a ‘preassembled structure.)’” (emphasis added)).
+Plastic Omnium advanced its inconsistent position before the Board many months after the district court issued its claim construction
+65
+
+Case: 18-2087	Document: 26 Page: 78 Filed: 11/26/2018
+ruling. That is no impediment to this Court addressing the argument in the first instance. The “record before the Board” is subject to “judicial notice” because it “is a public record ... and thus capable of accurate and ready determination.” Genentech, Inc. v. Chiron Corp., 112 F.3d 495, 497 n.1 (Fed. Cir. 1997); see also VirtualAgility , Inc., 759 F.3d 1307, 1312-13 (Fed. Cir. 2014); Function Media, L.L.C. v. Google, Inc., 708 F.3d 1310, 1316 n.4 (Fed. Cir. 2013). Prosecution disclaimer raises a pure question of law that is properly considered in the first instance on appeal. See Dana Corp. v. NOK, Inc., 882 F.2d 505, 507 (Fed. Cir. 1989) (no reason that estoppel argument “cannot ... be timely made at any stage of the affected proceedings” after the inconsistency arises); see also Empresa Cubana Del Tabaco v. Gen. Cigar Co., 753 F.3d 1270, 1276 (Fed. Cir. 2014) (“This court has recognized its authority to resolve questions of law not addressed below as long as such a ruling would not be clearly unfair ....”).
+Plastic Omnium may argue, as it has before, that it is just trying to prevent the Board from adopting a broader claim construction than the district court did here. E.g., Patent Owner’s Response at 22-23. That argument is mistaken three times over. First, there’s nothing
+66
+
+Case: 18-2087	Document: 26 Page: 79 Filed: 11/26/2018
+wrong with the Board adopting a broader claim construction. See generally Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2145 (2016) (The “use of the broadest reasonable construction standard increases the possibility that the [Board] will find the claim too broad.”). Second, Plastic Omnium is not simply seeking to have the same construction apply in both places. The combined effect of its arguments there and here would be to have a broader construction apply in the district court—i.e., to argue the claims “one way in order to maintain their patentability and in a different way against accused infringers.” Aylus Networks, 856 F.3d at 1360. That is what prosecution disclaimer prohibits.
+Third, and relatedly, Plastic Omnium as the patentee bears a special burden of being clear, honest, and consistent. Given the public-notice values of the patent system, it has to tell the world what its patent means. That is why disclaimer occurs at the time a patentee makes a representation, regardless of whether the Board or the examiner embraces it. E.g., American Piledriving, 637 F.3d at 1336 (disclaimer applies “regardless of whether the examiner agreed”); Andersen Corp. v. Fiber Composites, LLC, 474 F.3d 1361, 1374 (Fed.
+67
+
+Case: 18-2087	Document: 26 Page: 80 Filed: 11/26/2018
+Cir. 2007) (“An applicant’s invocation of multiple grounds for distinguishing a prior art reference does not immunize each of them from being used to construe the claim language.”). Plastic Omnium’s unambiguous argument that the Board should construe the patent to require “multiple parts previously joined into a single arrangement” bars it from arguing the contrary here.
+B.	The district court correctly held that a “preassembled structure” requires “multiple parts previously joined into a single arrangement.”
+The judgment also must be affirmed because the district court correctly construed “preassembled structure” consistent with that term’s ordinary meaning and the specification of the ’253 patent.
+1.	A “preassembled structure” is made up of
+multiple parts.
+That a “preassembled structure” must have “multiple parts” follows from “little more than the application of the widely accepted meaning of commonly understood words.” Phillips, 415 F.3d at 1314; see Vitronics, 90 F.3d at 1582 (the words of a claim “are generally given their ordinary and customary meaning.”). Where, as here, a word has a common meaning, that meaning governs absent “lexicography [or]
+68
+
+Case: 18-2087	Document: 26 Page: 81	Filed: 11/26/2018
+disavowal.” GE Lighting Sols., LLC v. AgiLight, Inc., 750 F.3d 1304, 1309 (Fed. Cir. 2014).
+The word “preassembled” has a simple, common meaning: “to fit together the parts of” “in advance.” Appx1252, 1255 (Assembled, Pre, Merriam-Webster’s Collegiate Dictionary (1995)). And for a structure to be assembled, there must be something to assemble, i.e., “multiple parts.”12 You have to “assemble” Ikea furniture because it comes in multiple parts, but not a sofa labeled “no assembly required.” You have to assemble Legos, but not a baseball bat or a light bulb. As the district court explained, “preassembled” does not “merely mean ‘premade.’” Appx953 (emphases added).
+Nothing in the specification contradicts this plain meaning, see Appx85, 4:12-49, and Plastic Omnium doesn’t argue otherwise. Instead,
+12 Appx1252 (Merriam-Webster’s Collegiate Dictionary (defining “assemble” as “to fit together the parts of”); Appx1261 (Assemble, Webster’s II New College Dictionary (2001)) (“To fit or join together the parts of.”); Appx1269 (Assemble, Random House Webster’s Unabridged Dictionary (1998)) (“to put or fit together; put together the parts of”). Contemporary definitions are likewise. E.g., Assemble, Oxford English Dictionary (3d ed. 2011) (“To put together (the separately manufactured parts of a composite machine or mechanical appliance)”; “To join together, unite (two things)”).
+69
+
+Case: 18-2087	Document: 26 Page: 82 Filed: 11/26/2018
+it focuses on other language in the claim. Here, again, is the key language:
+at least one of said accessory or said duct is supported by a preassembled structure which comprises at least one device configured to anchor said preassembled structure to an  internal wall of the hollow body.
+
+Appx86, 6:10-14 (italics and underlining added). Plastic Omnium argues that the preassembled structure “compris[es] at least one device”; that “at least one” means “one device or more”; that “that language modifies the claimed preassembled structure”; and, therefore, that the preassembled structure is made up of just one part. OB43-44 (quotation marks omitted).
+This argument is not faithful to ordinary rules of claim construction. Plastic Omnium’s theory appears to be that, because there could be just one anchoring device, the preassembled structure may also be limited to a single component. But the anchoring device doesn’t define the nature or scope of the preassembled structure. The preassembled structure simply includes an anchoring device. See Manual of Patent Examining Procedure (MPEP) § 2111.03(I) (the word “comprises” is “synonymous with ‘including’”) (citing cases). There might be just one anchoring device, and there might be 50. But that’s a
+70
+
+Case: 18-2087	Document: 26 Page: 83 Filed: 11/26/2018
+wholly separate question from the meaning of “preassembled structure”—which, for the reasons set forth above, means a structure with multiple components.
+Read in context, moreover, the clause leaves no doubt that there must be more to the “preassembled structure” than just the anchoring device. That is because the claim requires that the anchoring device “anchor said preassembled structure” (emphasis added). And in order for one thing (the anchoring device) to anchor another (the preassembled structure), the thing being anchored must have some feature that can be anchored. It would make no sense to read “a boat comprising at least one device to anchor said boat” to mean an anchor lying untethered at the bottom of the ocean. Likewise, it makes no sense to interpret a “preassembled structure, comprising at least one device to anchor said preassembled structure” to include an anchor and nothing more.
+Thus, this language reinforces the conclusion that a preassembled structure contains multiple parts, including a second piece that anchors the structure itself. See also Appx85, 4:33-35 (the “preassembled structure supports an anchoring device”).
+71
+
+Case: 18-2087	Document: 26 Page: 84 Filed: 11/26/2018
+2.	A “preassembled structure” is assembled ahead of time.
+Finally, Plastic Omnium briefly challenges the district court’s construction of “preassembled structure” as containing a temporal limitation on the assembly of the structure’s components. OB47-48. The court construed the term to mean “a set of multiple parts previously joined together into a single arrangement that is capable of attachment to at least one accessory.” Appx952 (emphasis added).13 Initially, Plastic Omnium argued that there was no “‘temporal limitation’” at all. Appx24 (summary judgment order). That is plainly wrong. The ordinary meaning of “pre” is “earlier than” or “before.” Appx1255 (Merriam-Webster’s Collegiate Dictionary); accord Appx1264, 1272. Clearly a “preassembled structure” must be assembled ahead of time.
+At the summary judgment hearing and now on appeal, Plastic Omnium takes a different approach. It no longer denies that there is a temporal limitation; rather, it concedes that preassembly must occur
+13 See also id. (“the term ‘preassembled structure’ here refers to a structural feature comprising at least two parts, which is initially distinct from the accessory or accessories that it ‘supports’ and can then be joined with the relevant accessor(ies)”).
+72
+
+Case: 18-2087	Document: 26 Page: 85 Filed: 11/26/2018
+before the preassembled structure is attached to the wall of the tank, but not necessarily before the preassembled structure is attached to the accessory it supports. OB48 (proposing the construction “a support structure that exists prior to assembly of an accessory to the fuel tank’s wall”); accord Appx24.
+But that is not what the claim language says. The claim says that the accessory “must be supported by a preassembled structure.” Appx86, 6:11 (emphasis added). For a “preassembled structure” to support something, the structure must be assembled before being attached to the thing it supports. Otherwise, you’d never call it a “preassembled structure”; it would just be a “structure.” If (as Plastic Omnium argues) the inventor meant to permit the accessory to be supported by a structure that is not assembled before it is attached to the accessory, the current claim language would be a positively unnatural way to convey that meaning.
+Nor does anything in the specification support Plastic Omnium’s construction. On the contrary, each example in the specification is consistent with assembling the structure before attaching an accessory. The patent repeatedly describes (including in a preferred embodiment)
+73
+
+Case: 18-2087	Document: 26 Page: 86 Filed: 11/26/2018
+
+making the preassembled structure separate from the accessory. E.g., Appx85, 4:17-18 (“This has the advantage of being able to produce the preassembled structure ... in a separate process ....”); accord Appx85, 4:35-49. In another example, it refers to a “preassembled structure” that is “used only later for fastening an accessory.” Appx85, 4:34-35. These examples are illustrative of what is clear from the claim language: The structure must be assembled before attaching the accessory. See Phillips, 415 F.3d at 1324 (relying on embodiments where there was “nothing in the context to indicate that the patentee contemplated any alternative” to the one presented (citing Snow v. Lake Shore & M.S. Ry. Co., 121 U.S. 617, 630 (1887)). The court correctly construed this term, and properly granted summary judgment.
+
+74
+
+Case: 18-2087	Document: 26 Page: 87 Filed: 11/26/2018
+
+CONCLUSION
+For the foregoing reasons, the Court should affirm the decision of
+the district court.
+November 26, 2018	Respectfully submitted,
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+1152 15th Street NW Washington, DC 20005
+(202) 339-8400
+Counsel for Appellees
+
+75
+
+Case: 18-2087	Document: 26 Page: 88 Filed: 11/26/2018
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing with the Clerk of the Court for the United States Court of Appeals for the Federal Circuit by using the appellate CM/ECF system on November 26, 2018.
+I certify that all participants in the case are registered CM/ECF users and that service will be accomplished by the appellate CM/ECF system.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Appellees
+
+Case: 18-2087	Document: 26 Page: 89 Filed: 11/26/2018
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Fed. R. App. P. 32(a)(7)(B)(i) because this brief contains 13,782 words, excluding the parts of the brief exempted by Fed. R. App. P. 32(a)(7)(B)(iii).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and the type style requirements of Fed. R. App. P. 32(a)(6) because this brief has been prepared in a proportionally spaced typeface using Microsoft Word 2010 in Century Schoolbook 14-point font.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Appellees

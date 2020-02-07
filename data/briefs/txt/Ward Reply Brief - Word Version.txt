@@ -1,0 +1,412 @@
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 1 of 37
+
+No. 18-16016
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+ZACK WARD and THOMAS BUCHAR, on behalf of
+themselves and all others similarly situated,
+Plaintiffs – Appellants,
+v.
+APPLE INC.,
+Defendant – Appellee
+On Appeal From The United States District Court
+For The Northern District of California
+The Honorable Yvonne Gonzalez Rogers
+No. C 12-05404-YGR
+REPLY BRIEF OF PLAINTIFFS-APPELLANTS
+
+WOLF HALDENSTEIN ADLER
+FREEMAN & HERZ LLP RACHELE R. BYRD (190634) BRITTANY N. DEJONG (258766) 750 B Street, Suite 1820
+San Diego, CA 92101
+Telephone: 619/239-4599 Facsimile: 619/234-4599   
+
+WOLF HALDENSTEIN ADLER
+FREEMAN & HERZ LLP MARK C. RIFKIN DEMET BASAR 270 Madison Avenue New York, NY 10016
+Telephone: 212/545-4600 Facsimile: 212/545-4677  
+
+
+Counsel for Plaintiffs-Appellants
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 2 of 37
+
+TABLE OF CONTENTS
+
+
+- i -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 3 of 37
+TABLE OF AUTHORITIES
+Page(s)
+
+Cases
+Am. Honda Motor Co. v. Allen,
+600 F.3d 813 (7th Cir. 2010)	8
+Bafus v. Aspen Realty, Inc.,
+236 F.R.D. 652 (D. Idaho 2006)	3
+Bell Atl. Corp. v. AT&T Corp.,
+339 F.3d 294 (5th Cir. 2003)	 8, 10
+Blades v. Monsanto Co.,
+400 F.3d 562 (8th Cir. 2005)	8
+Brown v. Am. Honda (In re New Motor Vehicles
+Canadian Export Antitrust Litig.),
+522 F.3d 6 (1st Cir. 2008)	8
+California v. Monstrose Chem. Corp.,
+104 F.3d 1507 (9th Cir. 1997)	28
+Carrera v. Bayer,
+727 F.3d 300 (3d Cir. 2013)	7
+Comcast Corp. v. Behrend,
+569 U.S. 27 (2013)	4, 22
+Cost Mgmt. Servs. v. Wash. Natural Gas Co.,
+99 F.3d 937 (9th Cir. 1996)	16
+Digital Equip. Corp. v. Uniq Digital Techs., Inc.,
+73 F.3d 756 (7th Cir. 1996)	17
+Earp v. Cullen,
+623 F.3d 1065 (9th Cir. 2010)	26
+Eastman Kodak Co. v. Image Tech. Servs.,
+504 U.S. 451 (1992)	 16, 18, 22
+- ii -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 4 of 37
+Ellis v. Costco Wholesale Corp.,
+657 F.3d 970 (9th Cir. 2011)	4
+Heerwagen v. Clear Channel Commc’ns,
+435 F.3d 219 (2d Cir. 2006)	10
+In re Hydrogen Peroxide Antitrust Litig.,
+552 F.3d 305 (3d Cir. 2008)	7, 9
+In re Aftermarket Automotive Lighting Prods. Antitrust Litig.,
+276 F.R.D. 364 (C.D. Cal. 2011)	6
+In re Alcoholic Beverages Litig.,
+95 F.R.D. 321 (E.D.N.Y. 1982)	10
+In re Dynamic Random Access Memory (DRAM) Antitrust Litig., No. M 02-1486 PJH, 2006 U.S. Dist. LEXIS 39841
+(N.D. Cal. June 5, 2006)	3
+In re Graphics Processing Units Antitrust Litig.,
+253 F.R.D. 478 (N.D. Cal. 2008)	5, 6, 28
+In re High-Tech Emp. Antitrust Litig.,
+289 F.R.D. 555 (N.D. Cal. 2013)	5
+In re Hotel Tel. Charges,
+500 F.2d 86 (9th Cir. 1974)	4, 5
+In re Indus. Diamonds Antitrust Litig.,
+167 F.R.D. 374 (S.D.N.Y. 1996)	10
+In re Optical Disk Drive Antitrust Litig.,
+303 F.R.D. 311 (N.D. Cal. 2014)	5
+In re Photochromic Lens Antitrust Litig., MDL No. 2173, 2014 U.S. Dist. LEXIS
+46107 (M.D. Fla. Apr. 3, 2014)	11
+In re Rail Freight Fuel Surcharge Antitrust Litig.,
+725 F.3d 244 (D.C. Cir. 2013)	7
+- iii -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 5 of 37
+In re Thalomid & Revlimid Antitrust Litig.,
+No. 14-cv-6997, 2018 U.S. Dist.
+LEXIS 186457 (D.N.J. Oct. 30, 2018)	11
+McDonough v. Toys “R” Us Inc.,
+638 F. Supp. 2d 461 (E.D. Pa. July 15, 2009)	8
+Meyers v. Sw. Bell Tel. Co.,
+181 F.R.D. 499 (W.D. Okla. 1997)	11
+Newcal Indus. v. Ikon Office Solution,
+513 F.3d 1038 (9th Cir. 2008)	16
+Saavedra v. Eli Lilly & Co.,
+No. 2:12-cv-9366-SVW (MANx), 2014 U.S. Dist.
+LEXIS 179088 (C.D. Cal. Dec. 18, 2014)	5
+Sample v. Monsanto Co.,
+218 F.R.D. 644 (E.D. Mo. 2003)	11
+Somers v. Apple, Inc.,
+258 F.R.D. 354 (N.D. Cal. 2009)	12
+Southeast Missouri Hosp. v. C.R. Bard, Inc.,
+No. 1:07cv0031 TCM, 2008 U.S. Dist.
+LEXIS 71841 (E.D. Mo. Sept. 22, 2008)	9
+Story Parchment Co. v. Paterson Parchment Paper Co.,
+282 U.S. 555 (1931)	13
+Tawfilis v. Allergan, Inc.,
+No. 8:15-cv-00307-JLS-JCG, 2017 U.S. Dist.
+LEXIS 122974 (C.D. Cal. June 26, 2017	 6, 13
+Thompson v. Clear Channel Commc’ns, Inc.
+(In re Live Concert Antitrust Litig.),
+247 F.R.D. 98 (C.D. Cal. 2007)	3
+- iv -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 6 of 37
+
+United Food & Commercial Workers Unions & Employers
+Midwest Health Benefits Fund v. Warner Chilcott Ltd.
+(In re Asacol Antitrust Litig.),
+907 F.3d 42 (1st Cir. 2018)	8
+United States v. Morales,
+465 F. App’x 734 (9th Cir. 2012)	26
+Wal-Mart Stores, Inc. v. Dukes,
+564 U.S. 338 (2011)	4
+West v. Prudential Sec., Inc.,
+282 F.3d 935 (7th Cir. 2002)	8
+Windham v. Am. Brands, Inc.,
+565 F.2d 59 (4th Cir. 1977)	7, 8
+
+- v -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 7 of 37
+I. INTRODUCTION
+This antitrust case is especially well-suited for class certification because it involves the sale of a single product, at uniform and non-negotiated prices, to an homogenous group of purchasers, all of whom paid the same prices for wireless service during the Class Period.
+The District Court’s denial of Plaintiffs’ motion for class certification was clearly error, as the sole basis for its order was that Plaintiffs’ expert did not submit a “functioning” antitrust impact and damages “model” with a “data-driven analysis . . . tailored to market facts.” EOR 005. Neither the District Court nor Apple has cited a single case holding that a “functioning model” with a “data-driven analysis” is always required in antitrust cases to establish predominance at class certification. Rather, the need for a data-driven analysis is dependent upon the particular facts of the case. Antitrust cases such as this one, concerning a market comprised of a uniformly priced commodity offered for sale on the same terms to all Class members, with no negotiation, do not require data-driven models to demonstrate class-wide impact and damages.
+Moreover, Apple now concedes that Plaintiffs were not required to present a functioning model at class certification to demonstrate that they could calculate the quantity of damages on a class-wide basis. Thus, to the extent the District Court’s Order denying class certification held to the contrary, Apple agrees this was error.
+- 1 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 8 of 37
+Plaintiffs presented competent expert evidence demonstrating that antitrust impact in this case is subject to common proof since Apple and ATTM’s conspiracy to monopolize the market for iPhone voice and data service affected all members of the Class similarly. The District Court did not analyze this evidence under controlling Ninth Circuit precedent. Had it done so, the District Court would have concluded, as Judge Ware did in the related case, In re Apple & AT&TM Antitrust Litig., No. C 07-05152 JW (N.D. Cal.) (“Apple I”), that antitrust impact and damages are subject to class-wide proof here and, therefore, common issues of fact and law predominate over any individual issues in this case.
+Finally, reassignment upon remand is appropriate. The District Court has demonstrated it will have difficulty following controlling Ninth Circuit precedent and putting aside its prior view that this action should not be certified, and it cannot or will not consider the issues on their merits.
+II. ARGUMENT
+A.	The District Court Abused its Discretion in Denying Class Certification
+Apple makes the categorical assertion in its answering brief, multiple times, that contemporary law requires that plaintiffs in all antitrust cases present functioning models with data-driven analyses to demonstrate that antitrust impact and damages can be proven on a class-wide basis, but cites no case that so holds
+- 2 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 9 of 37
+and ignores controlling Ninth Circuit precedent to the contrary.1
+
+1. The District Court Abused Its Discretion in Requiring a Data-Driven Model to Demonstrate Common
+Antitrust Impact
+As Plaintiffs demonstrated in their opening brief, Plaintiffs were not required to provide a fully functioning, data-driven model to demonstrate antitrust impact. See Opening Brief of Plaintiffs-Appellants (“Op. Br.”) at 25-33. At class certification, plaintiffs’ burden is not to prove the element of antitrust impact, but only to demonstrate, by advancing a plausible methodology, that the element of antitrust impact is capable of proof at trial through evidence that is common to the class rather than individual to its members. Id. at 27-28.
+As Plaintiffs have done here, antitrust claimants typically establish common impact and damages for class certification purposes through expert testimony that generally accepted economic methodologies are available to demonstrate such impact and calculate damages on a class-wide basis. See, e.g., Thompson v. Clear Channel Commc’ns, Inc. (In re Live Concert Antitrust Litig.), 247 F.R.D. 98, 144 (C.D. Cal. 2007); In re Dynamic Random Access Memory (DRAM) Antitrust Litig., No. M 02-1486 PJH, 2006 U.S. Dist. LEXIS 39841, at *44-45 (N.D. Cal. June 5, 2006); Bafus v. Aspen Realty, Inc., 236 F.R.D. 652, 658 (D. Idaho 2006). By requiring a fully functional, “data-driven” model at class certification, the District
+1	Apple does not dispute that evidence concerning the conspiracy between it
+and ATTM will be common to the class as a whole and not individualized.
+- 3 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 10 of 37
+Court imposed a burden on Plaintiffs that does not exist in this Circuit.
+Apple’s response begins with a recitation of class certification standards that are not in dispute. For example, Plaintiffs do not dispute that Comcast Corp. v. Behrend, 569 U.S. 27 (2013), and Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011), require plaintiffs to establish that each element of Rule 23 is satisfied, and that district courts must apply a “rigorous analysis” that may “entail some overlap with the merits of the plaintiff’s underlying claim.” Wal-Mart, 564 U.S. at 351; Ellis v. Costco Wholesale Corp., 657 F.3d 970, 980 (9th Cir. 2011).
+However, from that premise, Apple makes categorical statements of law that do not exist inside or outside of this Circuit. For example, none of the cases Apple cites support its argument that since 1998, the Supreme Court, this Court and numerous other circuits require plaintiffs in antitrust cases to advance a data-driven, “working model” at class certification. Defendant-Appellee’s Answering Brief (“Ans. Br.”) at 29-32. Nor does Apple cite any authority for its argument that “the” critical aggregate proof in all antitrust cases is plaintiffs’ injury and damages model, which is typically a benchmark or regression model that estimates but-for prices. Id. at 29. Simply citing cases where plaintiffs presented such models does not demonstrate that they are required in all antitrust cases to do so.
+Moreover, the cases Apple cites from within this Circuit are distinguishable. For example, Apple relies heavily on In re Hotel Tel. Charges, 500 F.2d 86 (9th
+- 4 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 11 of 37
+Cir. 1974), but this Court made no mention of experts or models or methodologies in that case.2 See also In re High-Tech Emp. Antitrust Litig., 289 F.R.D. 555 (N.D. Cal. 2013) (after citing In re Graphics Processing Units Antitrust Litig. (“In re GPU”), 253 F.R.D. 478 (N.D. Cal. 2008), district court did not hold that data-driven models are always required);3 In re Optical Disk Drive Antitrust Litig., 303 F.R.D. 311, 320 (N.D. Cal. 2014) (class certification denied where optical disk drives were sold in diverse forms such as standalone drives or those incorporated into computers and plaintiffs’ expert assumed uniform overcharges across all models and throughout class period); Saavedra v. Eli Lilly & Co., No. 2:12-cv-9366-SVW (MANx), 2014 U.S. Dist. LEXIS 179088, at *15 (C.D. Cal. Dec. 18, 2014) (certification denied in consumer fraud case concerning the risk of side effects of a drug because “the prescription drug market is not an efficiently functioning market” and is “complicated by insurance plans’(or their absence’s) determinative effect on the price that an individual pays”).
+In this Circuit, the most that is required at class certification is for the plaintiff to advance a plausible methodology that is capable of showing injury at
+2	In In re Hotel Tel. Charges there were too many individualized issues, the case was not manageable, there was not enough potential benefit to class members, and the attorneys were initiating and financing the suits in a dual capacity as both plaintiffs and plaintiffs’ counsel. Id., 500 F.2d at 92.
+3	Apple does not respond at all to Plaintiffs’ distinction of High-Tech Emp. from the facts of this case. See Op. Br. at 32-33.
+- 5 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 12 of 37
+trial on a class-wide basis. Here, the Class is comprised of only direct purchasers, who paid uniform prices for the iPhone and related wireless services, and is therefore particularly well-suited for resolution on a class-wide basis. As the district court held in In re Aftermarket Automotive Lighting Prods. Antitrust Litig., 276 F.R.D. 364, 369 (C.D. Cal. 2011), in “cases involving negotiated transactions, as opposed to purchases based on list prices, such common proof is elusive.” “[B]y contrast, where the amounts paid by class members were based on published catalogue prices, the question of impact is, at least in theory, easily susceptible to common proof.” Id. See also Tawfilis v. Allergan, Inc., No. 8:15-cv-00307-JLS-JCG, 2017 U.S. Dist. LEXIS 122974, at *43 (C.D. Cal. June 26, 2017); In re GPU, 253 F.R.D. at 497-98 (certifying direct purchaser class of consumers who purchased GPUs directly from the defendant’s website and paid non-negotiable prices).4
+
+Even the cases Apple cites from other circuits fail to support its argument. In those cases, plaintiffs presented regression models because prices were individually negotiated or there were other circumstances not present here. However, those cases do not hold that such models are required in all antitrust cases, and they are distinguishable from this case, where a single product was sold
+4	Apple does not respond to Plaintiffs’ lengthy explanation as to why that
+portion of the In re GPU opinion that denied class certification is distinguishable from the facts of this case. See Op. Br. at 30-32.
+- 6 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 13 of 37
+at uniform and non-negotiable prices to direct purchasers, who all paid the same prices for their wireless service.
+For example, in In re Hydrogen Peroxide Antitrust Litig., 552 F.3d 305 (3d Cir. 2008), the Third Circuit held that list prices could not be used in that case to measure antitrust impact because “contracts for the sale of hydrogen peroxide were individually negotiated.” Id. at 314. It did not rule a data-driven, functioning model is required to demonstrate antitrust impact at class certification.
+Similarly, in In re Rail Freight Fuel Surcharge Antitrust Litigation, 725 F.3d 244 (D.C. Cir. 2013), the D.C. Circuit did not hold that a working model is always required, but held that the district court had failed to consider a flaw in the plaintiffs’ methodology that produced false positives.5
+
+Furthermore, Windham v. Am. Brands, Inc., 565 F.2d 59 (4th Cir. 1977), does not speak of any data-driven model requirement. That case involved the sale of 161 different grades of flue-cured tobacco (a “non-standardized or non-fungible commodity”) through unique auctions conducted at 36 independently owned warehouses in eleven different geographical markets. Given the complexity of the market, the Fourth Circuit held that “the claims could not be proved by any set of mathematical formula calculation but would require individual proof and trial.” Id.
+5	Carrera v. Bayer, 727 F.3d 300 (3d Cir. 2013), is also distinguishable. In
+that case, the sole issue was “whether the class members are ascertainable.” Id. at 303. That is clearly not at issue here.
+- 7 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 14 of 37
+However, the Fourth Circuit acknowledged that where, as here, “the fact of injury and damage breaks down in what may be characterized as ‘virtually a mechanical task,’ ‘capable of mathematical or formula calculation,’ the existence of individualized claims for damages seems to offer no barrier to class certification.” Id. at 68.6
+
+Common proof of antitrust impact may take different forms and, depending upon the plaintiffs’ allegations and the nature of the evidence, an econometric model is not always necessary.7 For example, in McDonough, 638 F. Supp. 2d at 485-86, the plaintiffs presented evidence that the defendant maintained uniform list
+6	None of the other cases cited by Apple holds that a working model is always required. See United Food & Commercial Workers Unions & Employers Midwest Health Benefits Fund v. Warner Chilcott Ltd. (In re Asacol Antitrust Litig.), 907 F.3d 42, 54-58 (1st Cir. 2018) (the parties agreed that approximately 10 percent of the class suffered no antitrust injury); Brown v. Am. Honda (In re New Motor Vehicles Canadian Export Antitrust Litig.), 522 F.3d 6, 29 (1st Cir. 2008) (indirect purchaser case where sales prices varied); West v. Prudential Sec., Inc., 282 F.3d 935, 938 (7th Cir. 2002) (securities fraud case where plaintiffs attempted to show fraud on the market but failed to demonstrate “how prices would respond to nonpublic information”); Am. Honda Motor Co. v. Allen, 600 F.3d 813, 815 (7th Cir. 2010) (consumer fraud case where court found that expert’s testimony should have been excluded under Daubert); Blades v. Monsanto Co., 400 F.3d 562, 572 (8th Cir. 2005) (the genetically modified seeds at issue were not homogenous products, and there was variation in prices, other terms of purchase, geographic locations, and growing conditions).
+7	“Issues are common or individual based on the nature of evidence that will suffice to resolve the issue.” McDonough v. Toys “R” Us Inc., 638 F. Supp. 2d 461, 479 (E.D. Pa. July 15, 2009). See also Bell Atl. Corp. v. AT&T Corp., 339 F.3d 294, 301 (5th Cir. 2003) (“‘[T]he unique facts of each case will generally be the determining factor governing certification.’”) (internal quotations and citation omitted).
+- 8 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 15 of 37
+prices nationwide and expert testimony that in consumer goods markets all buyers pay the same prices and receive the same products. The district court concluded class members must have suffered antitrust impact because every class member must have paid the supra-competitive price. Id. The plaintiffs did not present a “functioning model” with “data-driven analysis” because it was not necessary. The court distinguished that case from Hydrogen Peroxide (cited by Apple), where “list prices could not be used to measure antitrust impact on a basis common to the class” because some “contracts for the sale of hydrogen peroxide were individually negotiated.” Hydrogen Peroxide, 552 F.3d at 314. Hydrogen Peroxide is inapposite here for the same reason.
+Similarly, in Southeast Missouri Hosp. v. C.R. Bard, Inc., No. 1:07cv0031 TCM, 2008 U.S. Dist. LEXIS 71841 (E.D. Mo. Sept. 22, 2008), the court certified the class because of Bard’s tiered pricing structure, where any particular class member who purchased a particular product at a particular tier level paid the exact same price. “Thus, it is the average price of Bard’s urological catheter products that are driven higher by Bard’s conduct . . . . [T]he issue of whether there is an antitrust violation can be decided on evidence relevant to the class as a whole.” Id. at *19-20. Much like here, the plaintiffs’ expert used two “but-for world” scenarios to show that evidence of class-wide impact is common. Id. at *21-22.
+Apple argues that Plaintiffs’ citation to price-fixing cases is misplaced
+- 9 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 16 of 37
+because there has never been a presumption in favor of class certification in monopolization actions, and cites to several purportedly “comparable” monopolization cases where courts denied class certification. Apple misses the thrust of Plaintiffs’ argument, which is that this case shares the same key qualities that make price-fixing cases particularly susceptible to class-wide proof of antitrust impact, namely, uniform pricing of fungible (undifferentiated) products, and the lack of bargaining.8 See, e.g., In re Alcoholic Beverages Litig., 95 F.R.D. 321, 327 (E.D.N.Y. 1982) (“as a general rule, ‘an illegal price-fixing scheme presumptively impacts upon all purchasers of a price-fixed product in a conspiratorially affected market’”) (citation omitted); In re Indus. Diamonds Antitrust Litig., 167 F.R.D. 374, 382-84 (S.D.N.Y. 1996) (finding common proof of impact possible for purchasers who bought products subject to a price list, but not for those who bought non-list price products.)
+The monopolization cases which Apple cites (Ans. Br. at 37) are hardly “comparable” since class certification was denied in those cases due to factual circumstances that are not present here. See Heerwagen v. Clear Channel Commc’ns, 435 F.3d 219, 228-29 (2d Cir. 2006) (plaintiff failed to establish that the market for concert tickets is national, and particularized proof, specific to
+8	Nowhere do Plaintiffs argue that “less rigorous standards govern class
+certification in antitrust cases” or that class certification is “presumed in antitrust cases.” Ans. Br. at 35.
+- 10 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 17 of 37
+individual members of the putative class who resided in different geographic markets, would predominate); Bell Atl. Corp., 339 F.3d at 307-08 (certification “founders on the issue of the amount of damages,” which was not susceptible to a mathematical or formulaic calculation); In re Thalomid & Revlimid Antitrust Litig., No. 14-cv-6997, 2018 U.S. Dist. LEXIS 186457, at *44 (D.N.J. Oct. 30, 2018) (“there are potentially uninjured class members remaining in the class–specifically brand loyalists–and . . . identifying these members would require extensive individualized inquiry”); In re Photochromic Lens Antitrust Litig., MDL No. 2173, 2014 U.S. Dist. LEXIS 46107, at *21, 98-99 (M.D. Fla. Apr. 3, 2014) (“prices were negotiated, rather than based on list prices,” “purchasers were entitled to discounts, rebates, and special pricing programs, and . . . larger customers and managed care plans were able to extract lower prices due to buying power;” class members “purchase[d] different products, from different sellers, at different prices, and in different markets”); Sample v. Monsanto Co., 218 F.R.D. 644, 650-51, 652 n.4 (E.D. Mo. 2003) (seed market was highly individualized depending upon geographic location, growing conditions, consumer preference, and other factors, such that seeds were not offered for sale at a uniform price; certification of monopolization claim denied because plaintiff did not present any evidence in support of certifying a class with respect to that claim); Meyers v. Sw. Bell Tel. Co., 181 F.R.D. 499, 506 (W.D. Okla. 1997) (monopolization claims were
+- 11 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 18 of 37
+dependent upon allegations of fraud and misrepresentation, the nature of which varied with the vastly different solicitations); Somers v. Apple, Inc., 258 F.R.D. 354, 356, 360-61 (N.D. Cal. 2009) (class certification denied in indirect iPod purchaser case because of the “complex multi-variable situation underlying iPod pricing” and plaintiff’s failure to proffer any method for determining pass-through damages).
+Finally, Apple cites to Comcast as requiring “developed models,” but as Plaintiffs demonstrated in their opening brief, Comcast only requires that plaintiffs present a methodology that is capable of measuring damages attributable solely to the plaintiffs’ theory of the case. Op. Br. at 36-43, 46. Here, Plaintiffs’ methodology perfectly matches the liability theory that remains after the District Court’s summary judgment decision, fully complying with Comcast. See § II.B., infra.
+In sum, there is no universal evidentiary requirement that plaintiffs must meet to demonstrate that they can prove antitrust impact at trial with evidence common to the class. All that is required is for district courts to conduct a rigorous analysis of whatever evidence plaintiffs do present. Had the District Court done so here, it would have determined that Plaintiffs’ expert evidence easily demonstrates predominance as to antitrust impact.
+- 12 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 19 of 37
+2.	To the Extent the District Court Denied Plaintiffs’ Motion for Class Certification in Part for Failure to Present a Data-Driven Damages Model, Apple
+Doesn’t Dispute that it Committed Reversible Error
+“After demonstrating antitrust impact, Plaintiffs may rely on the Supreme Court’s relaxed standard of proof for quantifying antitrust damages.” Tawfilis, 2017 U.S. Dist. LEXIS 122974, at *43. Apple concedes that once the fact of damage has been established by evidence with reasonable certainty, the amount of damages can be estimated by “‘just and reasonable inference’” (Ans. Br. at 38) (quoting Story Parchment Co. v. Paterson Parchment Paper Co., 282 U.S. 555, 562-63 (1931)), and concedes that the measure of damages “rarely defeats class certification” (id. at 37).
+Apple interprets the District Court’s order as having “nothing to do with uncertainty regarding the calculation of individual damages amounts. It rested on Plaintiffs’ failure to carry their initial burden to demonstrate that impact common to the class could be established with common proof.” Ans. Br. at 39. However, the District Court’s Order denying Plaintiffs’ motion for class certification criticized Dr. Warren-Boulton’s but-for world hypotheses as offering “only theories of impact and damages.” EOR 005 (emphasis added). The Order did not make clear whether the District Court faulted Plaintiffs only for not presenting a functioning impact model (regarding the fact of damages) or whether it also faulted Plaintiffs
+for not presenting a functioning model for calculating damages. As a result,
+- 13 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 20 of 37
+Plaintiffs’ opening brief demonstrated that Plaintiffs are not required at class certification to present a data-driven, functioning model demonstrating class-wide impact or for calculating damages. Op. Br. at 33-43.
+To sow confusion, Apple attempts to distinguish the Ninth Circuit cases Plaintiffs cited in their opening brief (Lambert, Pulaski, Just Film, Inc.) as not addressing what an antitrust plaintiff must do to prove that the Clayton Act’s requirements of individual injury can be met on a class-wide basis. Ans. Br. at 39. However, Plaintiffs did not cite those cases for that purpose, and Apple clearly does not contest the principles of law that Plaintiffs did cite them for.
+Therefore, to the extent that the District Court denied Plaintiffs’ motion for class certification in part because Plaintiffs were required to present a functioning damages model (regarding the calculation or quantification of damages) to establish predominance, the District Court ignored binding Supreme Court and Ninth Circuit authority, and Apple concedes that it committed reversible error.
+3. Plaintiffs’ Expert’s Methodologies Demonstrate the Ability to Prove Impact and Damages on a Class-Wide Basis
+Plaintiffs provided adequate methodologies for showing that both impact and damages are susceptible to class-wide proof.
+Apple attacks Plaintiffs’ methodologies for not taking into account “what consumers knew about [ATTM’s] exclusivity and iPhone unlocking policies, and
+- 14 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 21 of 37
+what [ATTM] might have done if ‘better informed’ consumers pushed back.” Ans. Br. at 42. However, Dr. Warren-Boulton’s “but for” analysis does precisely what Apple says is lacking: an economist reconstructs what would have happened “but for” the alleged wrongdoing. In this case, Dr. Warren-Boulton will reconstruct the market for iPhone voice and data service under two distinct scenarios. In the Truthfully Exclusive (“TE”) world, consumers would have been informed of ATTM’s exclusivity and iPhone unlocking policies, and thus could have pushed back against the supracompetitive prices charged by ATTM under conspiracy to monopolize the iPhone voice and data market. In the Truthfully Non-Exclusive (“TNE”) world, faced with the prospect of disclosing Apple and ATTM’s conspiracy to monopolize that aftermarket, Apple and ATTM would have been forced to abandon ATTM’s exclusivity and prices would have been subject to the regular forces of competition.
+As Dr. Warren-Boulton succinctly explains, the harm to all Class members is uniform in both “but for worlds.” In the TE world, the “higher price for the iPhone was common to all iPhone customers at that time because all paid the same inflated market price for their iPhone and thus incurred the same increase in their [total cost of ownership]. Thus, in the TE world, it is clear that every purchaser of an iPhone at any given time suffered the same injury . . . .” EOR 139, ¶ 30; see also EOR 270, ¶ 9; EOR 272-73, ¶¶ 14-16; EOR 274, ¶ 19; EOR 276, ¶ 23; EOR
+- 15 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 22 of 37
+282, ¶ 38. Similarly, “a purchaser of the iPhone in the TNE world who had full knowledge that his iPhone would never be unlocked and a purchaser who fully expected to be able to unlock his iPhone after two years would have faced the identical terms of choice between remaining at [ATTM] or switching to a rival provider.” EOR 277, ¶ 27.9
+
+The purported “disclosures” regarding whether iPhones could be unlocked were nothing of the sort, and in any event, did not amount to the “functional equivalent of a contractual commitment.” Newcal Indus. v. Ikon Office Solution, 513 F.3d 1038, 1049 (9th Cir. 2008). At a minimum, as the District Court previously held, this raises a question of fact. See EOR 175 (“plaintiffs have submitted evidence showing that defendant may have manipulated a market for service plans”).
+9	The factors Apple identifies from Eastman Kodak Co. v. Image Tech. Servs.,
+504 U.S. 451, 455 (1992), i.e., “responsiveness between equipment and service pricing, what consumers know about aftermarket practices, the degree of lock-in, and whether there are opportunities for price discrimination” (Ans. Br. at 42), affect the existence of cross-elasticity and market power. Whether cross-elasticity of demand between the iPhone market and the iPhone voice and data services aftermarket existed is a merits issue inappropriate for resolution at class certification. See Cost Mgmt. Servs. v. Wash. Natural Gas Co., 99 F.3d 937, 950 n.14 (9th Cir. 1996) (“The question of whether a party possesses monopoly power is essentially one of fact.”). If a jury finds that Apple and ATTM failed to adequately disclose that iPhone purchasers would be unable to switch service providers even after their contracts expired and that therefore there was no cross-elasticity of demand between the two markets, it will be completely irrelevant what certain individual consumers knew or did not know about their ability to switch carriers in the renewal period since everyone paid the same prices for the iPhone and the same prices for ATTM’s service plans.
+- 16 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 23 of 37
+Apple’s argument that Dr. Warren-Boulton has not studied or accounted for what ATTM might have done in response to more market information about exclusivity misconstrues the showing Plaintiffs must make at class certification. Plaintiffs were not required to provide the results of a completed impact or damages analysis at this stage of the litigation, but only to identify a methodology capable of assessing impact and damages through common evidence. Plaintiffs have met their burden at this stage of the proceedings.
+The Truthfully Exclusive (“TE”) But-For World: Regarding the TE world, Apple baselessly argues that using the price of iPhones to calculate damages is inconsistent with Plaintiffs’ claims regarding monopolization of the aftermarket for iPhone voice and data renewal services. Ans. Br. at 45. However, as Dr. Warren-Boulton explains, there is no inconsistency as the injury from the monopolization of the renewal services aftermarket can manifest itself before the start of the renewal period through the increased total cost of ownership of the iPhone, including the cost of the iPhone itself. EOR 271-72, ¶¶ 11-13. Apple’s expert, Dr. Katz, does not deny that an aftermarket monopoly can manifest itself in the price of the primary product. And, nothing in Kodak, Digital Equip. Corp. v. Uniq Digital Techs., Inc., 73 F.3d 756, 763 (7th Cir. 1996), or the District Court’s summary judgment order restricts Plaintiffs’ theory of antitrust impact to measuring damages solely on the basis of higher voice and data service prices as
+- 17 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 24 of 37
+opposed to the total cost of ownership of the iPhone, including the price of the iPhone itself. The cost of the iPhone is a significant part of the “lock in” through which Apple was able to exert monopoly power in the aftermarket for iPhone voice and data service. Indeed, the Supreme Court discussed at length in Kodak, 504 U.S. at 473-76, “the total cost of the ‘package,’” including the cost of the equipment sold in the primary market.
+Next, Apple argues that since there was no change in the price of the iPhone throughout the Class Period, and because it was the same price as various other smartphones offered by ATTM, there is no foundation to conclude that the iPhone prices were elevated due to an ATTM monopoly in a renewal service aftermarket. Ans. Br. at 45-46. Apple’s claim is a one-sided misreading of the facts. Plainly, maintaining a price at a supra-competitive level after competitors drop their prices for similar service is a form of monopoly impact. As Dr. Warren-Boulton explains, the fact that ATTM may not have changed the iPhone price during the Class Period is irrelevant to the question of whether that price was elevated due to Apple’s anticompetitive conduct. See EOR 281-82, ¶¶ 35-38. Furthermore, what ATTM charged for voice and data service for other smartphones is irrelevant to the narrow questions raised by Plaintiffs’ class certification motion: whether Plaintiffs could prove antitrust impact and damages on a common basis by an accepted methodology.
+- 18 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 25 of 37
+Then, Apple baits a red herring by arguing that because all iPhones sold during the Class Period were no longer subject to Apple and ATTM’s revenue sharing agreement, Apple could not have profited from ATTM’s monopoly. Ans. Br. at 46. Apple’s expert, Dr. Katz, understandably declined to support this argument, as Apple was able to profit from the monopoly through its subsidy from ATTM. EOR 282-83, ¶¶ 39-40.
+Apple also argues that Dr. Warren-Boulton failed to control for variables such as the valuations of the hypothetical marginal consumer. Ans. Br. at 47. However, as Dr. Warren-Boulton explains, although there is a theoretical chance that the monopolistic behavior at issue could have lowered the price of the iPhones, Apple provides no reason why this should occur in this case, and, in practice, this result has only been observed in a laboratory setting for monkeys. EOR 270-71, ¶ 10; EOR 284, ¶¶ 44-45. Apple further complains that the methodology fails to account for variables such as individual knowledge, expectations regarding unlocking and valuation of iPhone service. However, “the higher price for the iPhone in the actual world was common to all customers at any given time, since all would have paid the same inflated market price.” EOR 272, ¶ 14.
+Finally, Apple’s argument that it and ATTM made “consistent disclosures, which informed consumers that the iPhone would not be unlocked after the initial
+- 19 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 26 of 37
+two-year contract expired” (Ans. Br. at 47), while not true,10 demonstrates that the evidence at trial will be common to the Class.
+The Truthfully Non-Exclusive (“TNE”) But-For World: Turning to the TNE model, Apple argues that Dr. Wilkie’s “Benchmark” model, adopted by Dr. Warren-Boulton, is “unreliable” because the prices for ATTM and T-Mobile service have failed to converge. Ans. Br. at 48-49. These and other issues regarding the model were adequately rebutted by Dr. Wilkie’s report. See EOR 278, ¶ 28 & n.19. More importantly, Apple’s argument that the prices charged by ATTM and T-Mobile have not converged years after Dr. Wilkie rendered his report is an over-simplified analysis of a complex price-setting process that blurs the sufficiency of Dr. Wilkie’s model. In nearly every market, price can be affected by myriad factors, some of which may be influenced by monopolization and some of which may be independent of it. The proof offered at trial will need to account for subsequent price movements, but at this preliminary stage, Dr. Warren-Boulton has explained the sufficiency of his methodology by referring to Dr. Wilkie’s prior study.
+Apple also argues that Dr. Wilkie’s “Benchmark” model is “unreliable” because it does not take into account, among other things, differences in service
+10	While Plaintiffs vigorously deny that ATTM made such disclosures, the
+relevant question at this time is whether common representations were made to members of the proposed Class, such that common proof will predominate at trial, not what those common representations were.
+- 20 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 27 of 37
+prices and cellular quality by locale. Ans. Br. at 48-49. However, as Dr. Warren-Boulton explains in his Supplemental Declaration, Dr. Wilkie demonstrated why such individual variations are irrelevant and demonstrated the utility of the methodology by actually calculating damages. EOR 280-81, ¶ 33.
+Similarly, Apple criticizes Professor Wilkie’s Option-Value Methodology as failing to consider “individual-specific marketplace factors that would implicate their individual valuations of being able to” switch from ATTM to T-Mobile, such as prices by locale and differences in cellular network quality by geography. Ans. Br. at 50. But, Dr. Warren-Boulton addresses this argument: Professor Wilkie observes that individual valuations do not matter; what matters is the ‘inherently common question of how the market values the option.’” EOR 280, ¶ 33 (quoting Wilkie Decl., ¶ 61 (EOR 453)) (emphasis in original).11
+
+Apple’s hyper-technical argument that Dr. Warren-Boulton’s approach “fails to account for the many consumers who purchased [ATTM] and not T-Mobile wireless service during the class period even though they did not purchase iPhones” is another attempt by Apple to sow confusion in the record. Ans. Br. at 50. Apple fails to explain how the prices that may have been paid by non-iPhone consumers for other voice and data service has any relevance to the precise,
+11 Plaintiffs’ methodologies are mutually exclusive alternatives, not “contradictory,” as Apple claims. EOR 269 n.2; Ans. Br. at 2.
+- 21 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 28 of 37
+narrow questions raised by Plaintiffs’ class certification motion. At most, the relationship between iPhone voice and data pricing to the prices charged for other voice and data service is a factor that the experts may be called upon to address at trial, but it has no bearing on whether Plaintiffs can prove common impact and damages through an accepted methodology.
+B.	Plaintiffs’ Methodologies Comply with Comcast
+In an attempt to argue that Plaintiffs’ impact and damages methodologies violate the principle announced in Comcast, 569 U.S. at 35, that a plaintiff’s damages case must be consistent with its liability case, Apple falsely casts Plaintiffs’ TE methodology as being a “claim about iPhone pricing.” Ans. Br. at 52. To the contrary, Plaintiffs’ claim has always been, and still is, about the voice and data services aftermarket. Plaintiffs have complied with Comcast by presenting damages methodologies that translate “the legal theory of the harmful event into [analyses] of the economic impact of that event.” Comcast, 569 U.S. at 38 (emphasis omitted). Both the TE and TNE methodologies measure the anticompetitive effect on the Class of Apple and ATTM’s conspiracy to monopolize the voice and data renewal services aftermarket.
+As Dr. Warren-Boulton explains, in the TE world, “[ATTM] would have maintained its monopoly in the aftermarket in both the actual and but-for worlds. However, at the time of their initial purchases, iPhone customers reasonably would
+- 22 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 29 of 37
+have expected the higher service prices or lower quality they actually endured during the Renewal Service Period when they continued to purchase service for their iPhones, the lower value for iPhones they sold or transferred and the higher cost of international calls.” EOR 134, ¶ 13. However, in the actual world, where the unlock policy was not disclosed, iPhone purchasers reasonably expected to be able to switch upon the expiration of their two-year contracts to a different carrier offering a better value proposition than ATTM, and those expectations “artificially inflated the perceived value of the iPhone and . . . increased the amount that consumers were willing to pay” for iPhones. Id., ¶ 14.12
+
+Furthermore, “[i]n the TNE world, Apple and [ATTM] would have provided unlock codes after an initial pre-announced service period. In that scenario, [ATTM] no longer would have had a monopoly in the aftermarket for iPhone voice and data service.” EOR 276, ¶ 24. Dr. Warren-Boulton’s TNE methodology is based, in part, upon Professor Wilkie’s empirical analysis of damages to iPhone purchasers. EOR 277, ¶ 25. Professor Wilkie used the “real
+12	Apple’s argument (Ans. Br. at 52) that Plaintiffs’ TE theory is inconsistent
+with Kodak because it implies that “iPhone and service pricing were so tightly connected that monopoly pricing in renewal service only would affect the price of every iPhone” lacks merit. As explained above, the total cost of ownership (including the acquisition cost of the iPhone) is fully consistent with Kodak. The “total cost of the ‘package,’” including the cost of the equipment sold in the primary market, is relevant under Kodak, 504 U.S. at 473-76.
+- 23 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 30 of 37
+option value approach to identifying harm and calculating damages.” EOR 280-81, ¶ 33.
+Apple is flat wrong when it argues, without citation, that the TNE methodology does not “even purport to measure the impact of [Apple’s and ATTM’s] alleged consumer deception and ‘lock in.’ Instead it explicitly measures the impact of exclusivity itself.” Ans. Br. at 53. On the contrary, the TNE methodology analyzes the impact of ATTM entering “into contracts with iPhone customers that enabled ATTM to lock them in beyond the two-year term of their agreements by not disclosing the full term for which Apple and ATTM agreed that ATTM was the exclusive cellular carrier for iPhones.” EOR 445, ¶ 44 (emphasis added). Moreover, the TNE methodology explicitly measures this deceptive lock-in by measuring “the option value to switching carriers.” EOR 454, ¶ 62. Professor Wilkie measured the option value in two ways: (1) by measuring the cost savings for voice and data service by switching from ATTM to T-Mobile (id., ¶ 62); and (2) by multiplying the reduction in prices that occurs when an iPhone customer switches from ATTM to T-Mobile by the likelihood of switching (EOR 457-458, ¶ 68). Under either scenario, Professor Wilkie measured the impact of the
+anticompetitive conduct, namely, the deception and lock-in.	Plaintiffs’
+methodologies comply with Comcast.
+- 24 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 31 of 37
+C.	This Court Should Reassign this Case on Remand
+Undoubtedly, unusual circumstances exist here justifying reassignment to a new judge. Apple’s argument that the District Court has been patient, evenhanded and provided Plaintiffs with every opportunity to prove their case is disingenuous. The District Court has repeatedly made comments and taken actions that give every indication that it is unwilling to follow Ninth Circuit precedent and does not want to consider the case on the merits. Based on this pattern of conduct, this Court should remand this action to a new judge.13
+
+1.	The District Court will have Substantial Difficulty in
+Putting Aside Previously Expressed Views
+In its answering brief, Apple raises arguments that are entirely irrelevant and do not address Plaintiffs’ arguments.
+First, with respect to this Court’s reversal of the District Court’s ruling that ATTM was an indispensable party, Plaintiffs do not maintain that this reversal alone establishes that the District Court will not be able to put asides its previously expressed views. Rather, the District Court has already demonstrated that it had
+13	The Supreme Court recently effectively reversed the District Court yet again
+in the related action, In re Apple iPhone Antitrust Litig., Case No. 4:11-cv-06741-YGR, pending before the same District Court judge. Plaintiffs in that action have requested this Court to reassign that action to a different District Court judge once the Supreme Court issues its mandate. Both cases, which are deemed related on the District Court’s docket, should be reassigned together as related cases. See EOR 244 at ECF No. 6.
+- 25 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 32 of 37
+difficulty setting aside its prior views, and these prior views appear to have affected its substantive rulings in this case.
+After this Court reversed the District Court for the first time in this action, the District Court continued to question this Court’s rulings that ATTM was not an indispensable party. The District Court referred to this Court’s holding as an “interesting opinion by the Ninth Circuit” (EOR 192, 2:17-19), and later continued to express its belief that ATTM was an indispensable party despite this Court’s clear holding that it is not (EOR 144, 4:18-20). This suggests that the District Court will once again have difficulty setting aside its prior view that it should not certify this action as a class action.
+Second, with respect to the District Court’s denial of a stipulation to stay discovery and vacate the trial and associated dates while the Rule 23(f) Petition was pending, Apple’s arguments that Rule 23(f) petitions do not automatically stay proceedings and that Rule 23(f) petitions are granted sparingly are entirely irrelevant.14 However, these arguments miss the mark because Apple and Plaintiffs stipulated to stay the action in the District Court pending resolution of the Rule 23(f) Petition. When the parties submitted the stipulation on March 6, 2018, they
+14	Apple does not address the cases where this Court granted requests for
+reassignment because it had to enter emergency stays. United States v. Morales, 465 F. App’x 734, 740 (9th Cir. 2012); Earp v. Cullen, 623 F.3d 1065, 1072 (9th Cir. 2010).
+- 26 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 33 of 37
+faced numerous looming deadlines, including: March 29, 2018 for non-expert discovery cut-off; March 30, 2018 for disclosure of experts; April 30, 2018 for the disclosure of rebuttal experts; and May 7, 2018 for the close of expert discovery. The parties explained to the District Court that they had yet to complete a substantial amount of discovery, including the production of documents from, and depositions of, multiple non-parties, and still needed to file dispositive and Daubert motions.
+The District Court summarily denied the stipulation and forced Plaintiffs to file an emergency motion under Circuit Rule 27-3 asking this Court to intervene and stay the action pending resolution of the Rule 23(f) Petition, which this Court promptly granted. Apple’s argument that the “district court’s denial of a [stipulated] stay cannot be read to suggest that the district court harbors any particular views . . . .” (Ans. Br. at 56) is disingenuous because that is exactly what it demonstrates. Absent this Court’s intervention, the District Court’s denial of the stipulation would have forced Plaintiffs to decide between continuing this costly and time-consuming litigation on an individual basis or voluntarily dismissing the action in its entirety.
+2.	The Appearance of Justice Has Been Compromised
+Apple recognizes that this Court should reassign cases when a district court’s expression of frustration has somehow appeared to affect its handling of the
+- 27 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 34 of 37
+substantive issues in the case. California v. Monstrose Chem. Corp., 104 F.3d 1507, 1521-22 (9th Cir. 1997). That is exactly the situation here. This is not a case where a district court has made one or two off-handed remarks in passing. The District Court here has given every indication that it does not want to consider this case on the merits.
+In addition to maintaining its belief that ATTM is an indispensable party and denying a stipulation to stay the case pending Plaintiffs’ Rule 23(f) petition, the District Court has repeatedly complained that this case is too old and would be difficult to try before a jury. EOR 194, 4:13-16; EOR 214, 24:9-12; EOR 143, 3:48. The District Court also questioned Plaintiffs’ counsel at length during a routine Case Management Conference regarding the merits of Plaintiffs’ damages methodology even though the class certification motion had not been fully briefed and the hearing was not scheduled to take place for another five months. Lastly, when the District Court denied Plaintiffs’ motion for class certification, it relied on In re GPU, 253 F.R.D. 478 (N.D. Cal. 2008), but the In re GPU court actually certified a class, similar to the proposed class here, consisting of consumers who purchased GPUs and paid non-negotiable prices. The District Court failed to mention or address that portion of the In re GPU opinion.
+III. CONCLUSION
+For all the foregoing reasons and those stated in their opening brief,
+- 28 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 35 of 37
+Plaintiffs respectfully request that this Court reverse the District Court’s February 16, 2018 Order denying Plaintiffs’ motion for class certification and reassign this case to a different judge of the District Court.
+DATED: June 5, 2019	Respectfully submitted,
+WOLF HALDENSTEIN ADLER FREEMAN & HERZ LLP
+RACHELE R. BYRD
+BRITTANY N. DEJONG
+s/ Rachele R. Byrd
+RACHELE R. BYRD
+750 B Street, Suite 1820 San Diego, California 92101 Telephone: 619/239-4599 Facsimile: 619/234-4599  
+
+WOLF HALDENSTEIN ADLER
+FREEMAN & HERZ LLP MARK C. RIFKIN DEMET BASAR 270 Madison Avenue New York, New York 10016 Telephone: 212/545-4600 Facsimile: 212/545-4677  
+
+Attorneys for Plaintiffs-Appellants
+25643v4
+- 29 -
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 36 of 37
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+Form 8. Certificate of Compliance for Briefs
+Instructions for this form: 
+
+
+I am the attorney or self-represented party.
+
+by Fed. R. App. P. 32(f). The brief’s type size and typeface comply with Fed. R.
+App. P. 32(a)(5) and (6).
+I certify that this brief (select only one):
+complies with the word limit of Cir. R. 32-1.
+is a cross-appeal brief and complies with the word limit of Cir. R. 28.1-1.
+is an amicus brief and complies with the word limit of Fed. R. App. P. 29(a)(5), Cir. R. 29-2(c)(2), or Cir. R. 29-2(c)(3).
+is for a death penalty case and complies with the word limit of Cir. R. 32-4.
+complies with the longer length limit permitted by Cir. R. 32-2(b) because (select only one):
+
+complies with the length limit designated by court order dated is accompanied by a motion to file a longer brief pursuant to Cir. R. 32-2(a).
+
+(use “s/[typed name]” to sign electronically-filed documents)
+Feedback or questions about this form? Email us  forms@ca9.uscourts.gov
+
+Form 8	Rev. 12/01/2018
+
+Case: 18-16016, 06/05/2019, ID: 11321235, DktEntry: 41, Page 37 of 37
+UNITED STATES COURT OF APPEALS
+FOR THE NINTH CIRCUIT
+Form 15. Certificate of Service for Electronic Filing
+Instructions for this form: 
+
+
+I hereby certify that I electronically filed the foregoing/attached document(s) on this date with the Clerk of the Court for the United States Court of Appeals for the Ninth Circuit using the Appellate Electronic Filing system.
+Service on Case Participants Who Are Registered for Electronic Filing:
+I certify that I served the foregoing/attached document(s) via email to all registered case participants on this date because it is a sealed filing or is submitted as an original petition or other original proceeding and therefore cannot be served via the Appellate Electronic Filing system.
+Service on Case Participants Who Are NOT Registered for Electronic Filing:
+I certify that I served the foregoing/attached document(s) on this date by hand delivery, mail, third party commercial carrier for delivery within 3 calendar days, or, having obtained prior consent, by email to the following unregistered case participants (list each name and mailing/email address):
+Description of Document(s) (required for all documents):
+
+
+(use “s/[typed name]” to sign electronically-filed documents)
+Feedback or questions about this form? Email us  forms@ca9.uscourts.gov
+
+Form 15	Rev. 12/01/2018

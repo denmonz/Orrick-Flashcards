@@ -1,0 +1,294 @@
+Case: 18-2397	Document: 40 Page: 1 Filed: 04/23/2019
+2 0 1 8 - 2 3 9 7
+In The
+United States Court Of Appeals
+For The Federal Circuit
+METRICOLOR LLC.,
+Plaintiff - Appellant,
+v.
+L’ORÉAL S.A., L’ORÉAL USA, INC., L’ORÉAL USA
+PRODUCTS, INC., L’ORÉAL USA S/D, INC.,
+REDKEN 5TH AVENUE NYC, LLC
+Defendants - Appellees.
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE
+CENTRAL DISTRICT OF CALIFORNIA CASE NO. 2:18-CV-00364
+APPELLANT’S REPLY BRIEF
+Eduardo Martorell
+MARTORELL LAW APC
+6100 Center Dr.,
+Suite 1130
+Los Angeles, CA 90045
+(323) 840-1200
+Counsel for Appellant
+
+
+
+Case: 18-2397	Document: 40 Page: 3 Filed: 04/23/2019
+
+
+
+
+
+
+Case: 18-2397	Document: 40 Page: 4 Filed: 04/23/2019
+TABLE OF CONTENTS
+CERTIFICATE OF INTEREST	i
+TABLE OF CONTENTS	iii
+TABLE OF AUTHORITIES	vi
+I.	THE FAILURE OF THE DISTRICT COURT TO PROVIDE ANY REASON TO DENY PLAINTIFF ONE OPPORTUNITY TO AMEND REQUIRES REVERSAL AS PLAINTIFF HAS ADDITIONAL FACTS
+WHICH SUPPORT THAT RIGHT	1
+II. THE DISTRICT COURT ERRED BY IMPROPERLY CONSTRUING THE FACTS AND REFUSING TO GRANT LEAVE TO AMEND TO ALLEGE A CAUSE OF ACTION BASED ON THE DOCTRINE OF
+EQUIVALENTS	4
+The Trial Court Made Improper Factual Determinations Based on Limited Facts Which Should Not Be Determined on a Motion to
+Dismiss.	5
+The District Court Ignored that the ‘587 Patent Provides Alternative
+Methods for Providing An “Air-Tight Seal”	7
+III. THE REMAINING CAUSES OF ACTION ARE VIABLE OR CAN BE
+AMENDED	12
+iii
+
+Case: 18-2397	Document: 40 Page: 5 Filed: 04/23/2019
+
+L’OREAL S.A.’S ACQUISITION OF CONFIDENTIAL INFORMATION, MATERIALS, AND DEMONSTRATIONS FROM PLAINTIFF IN CALIFORNIA AT THE REQUEST OF L’OREAL S.A. EXECUTIVES SUPPORTS PLAINTIFF’S RIGHT TO JURISDICTIONAL DISCOVERY.
+	19
+CONCLUSION	22
+
+iv
+
+Case: 18-2397	Document: 40 Page: 6 Filed: 04/23/2019
+TABLE OF AUTHORITIES
+Cases
+Ashcroft v. Iqbal,
+556 U.S. 662, 678 (2009)	15
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544, 564 (2007)	14
+Bowles v. Reade,
+198 F.3d 752, 758-759 (9th Cir. 1999)	2
+Brainerd v. Governors of the Univ. of Alberta,
+873 F.2d 1257, 1259-60 (9th Cir. 1989)	20
+Chang v. Chen,
+80 F.3d 1293, 1296 (9th Cir. 1996)	12
+Coal. for ICANN Transparency, Inc. v. Verisign, Inc.,
+611 F.3d 495, 500 (9th Cir. 2010)	14
+Deere v. Borders,
+2018 WL 3630305, *7 (June 18, 2018)	4
+Eminence Capital, LLC v. Aspeon, Inc.,
+316 F.3d 1048, 1052 (9th Cir. 2003)	 1, 12, 14
+Foman v. Davis,
+371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222 (1962)	 1, 12, 17
+Howey v. United States,
+481 F.2d 1187, 1190 (9th Cir.1973)	17
+Klamath-Lake Pharm. Ass’n v. Klamath Med. Serv. Bureau,
+701 F2d. 1276, 1293 (9th Cir. 1983)	 15, 16, 18
+Machine Co. v. Murphy,
+97 U.S. 120, 125 (1878)	6
+McCartin v. Norton,
+674 F.2d 1317, 1320 (9th Cir.1982)	17
+Roney v. Miller,
+705 Fed. (9th Cir. 2017)	1, 4
+Roth v. Marquez,
+942 F.2d 617, 628-629 (9th Cir. 1991)	4
+Smith v. Commanding Officer, Air Force Accounting,
+555 F.2d 234, 235 (9th Cir.1977)	17
+United States v. Webb,
+655 F.2d 977, 979 (9th Cir.1981) 	17
+iii
+
+Case: 18-2397	Document: 40 Page: 7 Filed: 04/23/2019
+
+Statutes
+Federal Rule of Civil Procedure 12	5, 7, 16
+Federal Rule of Civil Procedure 15 	1, 17
+
+iv
+
+Case: 18-2397	Document: 40 Page: 8 Filed: 04/23/2019
+I.	THE FAILURE OF THE DISTRICT COURT TO PROVIDE ANY
+REASON TO DENY PLAINTIFF ONE OPPORTUNITY TO AMEND REQUIRES REVERSAL AS PLAINTIFF HAS ADDITIONAL FACTS WHICH SUPPORT THAT RIGHT
+Respondent fails to overcome the settled rule that leave to amend should be
+freely given with "extreme liberality." See Federal Rule of Civil Procedure 15 (a)(2); Roney v. Miller, 705 Fed. Appx670-671 (9th Cir. 2017). Neither Respondent nor the District Court have identified any prejudice or Foman factors which would warrant denial of leave to amend in this case. Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222 (1962); Eminence Capital, LLC v. Aspeon, Inc., 316 F.3d 1048, 1052 (9th Cir. 2003). In fact, the District Court did not provide any reason whatsoever to deny Plaintiff one opportunity to amend. It simply stated, “’[b]ecause Plaintiff does not plead a doctrine of equivalents claim in the Complaint, the Court will not consider this claim, which was raised for the first time in Plaintiff’s opposition brief. See Iqbal, 556 U.S. at 698 (the complaint must give a defendant ‘fair notice of what the claim is and the grounds upon which it rests.”)” Appx20.
+The Court, unfortunately, did not address the pertinent issue – why the Court denied leave to amend to add that theory along with additional supporting facts. This is a significant error requiring reversal. The law is settled that refusal of leave
+1
+
+Case: 18-2397	Document: 40 Page: 9 Filed: 04/23/2019
+to amend without any justifying reason appearing for the denial is not an exercise of discretion and supports reversal. See Bowles v. Reade, 198 F.3d 752, 758-759 (9th Cir. 1999).
+Appellant has pointed out the detailed facts alleged supporting the patent claim under the doctrine of equivalents or that Plaintiff should be given one opportunity to more clearly make such a claim. The allegations are reasonably clear that Defendants’ products do the same work in substantially the same way and accomplish substantially the same result. However, the District Court went beyond its discretion by analyzing the facts – interpreting the photos and videos referenced in the Complaint and essentially determining whether these triable issues of fact were worthy of going forward. Moreover, it is not fully clear the extent the Court actually reviewed the videos. Appellant submits that the Court’s interpretation and weighing of facts alleged, which is obviously not all of the evidence supporting Plaintiff’s claims, was improper at this stage of the proceeding and an abuse of discretion requiring reversal.
+Second, Plaintiff can clarify and augment the facts to support its claims but was not given the opportunity to do so. It is important to keep in mind that there was no hearing on this Motion. Plaintiff’s counsel had no real opportunity to argue and present additional facts, as needed, to persuade the Court to alter its ruling to, at a minimum, grant leave to amend. Plaintiff’s counsel did not provide all details
+2
+
+Case: 18-2397	Document: 40 Page: 10 Filed: 04/23/2019
+in the Opposition as some would require the disclosure of confidential information and the Court had sufficient information to, at a minimum, grant leave to amend.
+Although Respondent objects to Appellant’s reliance on that additional evidence solely because it was not before the District Court, it is pertinent to the issue of whether leave to amend is warranted particularly because there was no oral argument or opportunity to be heard on this issue in the lower court. These additional facts exceed what facts are in the patent itself. Metricolor’s principal, Stephen D’Amico, was invited by L’Oreal to travel to New York to: (1) demonstrate the Metricolor System; (2) provide additional confidential information above and beyond its patent elements, including prototypes; (3) demonstrate how the prototypes work; (4) explain how and why the invention will disrupt the industry; (5) explain the invention’s importance, value and marketability; (6) explain the “manufacturing process” itself; and, (7) provide additional “details that are not included in the patent application.” Appx33-34. These additional facts provide additional support, in particular, to show the likelihood of amending the Complaint to state a viable claim based on the Doctrine of Equivalents. As made clear in Appellant’s Opening Brief and argued to the Trial Court, Plaintiff argued the patent claim could also be supported by allegations based on the Doctrine of Equivalents, but the Trial Court ignored that argument and summarily denied leave to amend. This was a manifest abuse of discretion.
+3
+
+Case: 18-2397	Document: 40 Page: 11 Filed: 04/23/2019
+At a minimum, it was an abuse of discretion to deny Defendant one 
+
+opportunity to amend the Complaint based on the facts alleged, the additional facts available, and applicable law. Respondent failed to show any prejudice in the District Court or on appeal that would support the denial of allowing Plaintiff one  opportunity to amend the Complaint. Unfortunately, after the erroneous ruling, counsel for Appellant learned that District Court Judge Real, who denied leave to amend here, has been criticized by courts of appeal on numerous occasions for refusing to grant leave to amend even once, as here. See e.g. Roney v. Miller, 705 Fed. Appx670-671 (9th Cir. 2017); Deere v. Borders, 2018 WL 3630305, *7 (June 18, 2018); Roth v. Marquez, 942 F.2d 617, 628-629 (9th Cir. 1991). The facts and law surely warrant the relief requested by Appellant under the circumstances herein.
+II. THE DISTRICT COURT ERRED BY IMPROPERLY CONSTRUING
+THE FACTS AND REFUSING TO GRANT LEAVE TO AMEND TO ALLEGE A CAUSE OF ACTION BASED ON THE DOCTRINE OF EQUIVALENTS
+Respondent makes misleading arguments that Plaintiff’s claims fail because
+there are substantial differences between individual claim elements of the ‘587 Patent and the Accused Products. Respondent’s Brief, p.31-37. Respondent argues that it does not read on Appellant’s patent because it: (1) does not have an
+4
+
+Case: 18-2397	Document: 40 Page: 12 Filed: 04/23/2019
+air-tight reclosing seal at the opening” or a “container holder.” Doc. 32, pp. 44, 45. These arguments are misleading, based on limited facts and erroneous interpretations of photographs and unseen videos. Unfortunately, the Trial Court simply accepted at face value Respondent’s arguments without a proper consideration of the Doctrine of Equivalents and without granting Plaintiff one opportunity to amend.
+A.	The Trial Court Made Improper Factual Determinations Based on Limited Facts Which Should Not Be Determined on a Motion to Dismiss
+First, the Patent specifically describes alternatives for maintaining an airtight container, some of which are satisfied here. Second, Plaintiff did not provide all evidence to support its claim; this should not defeat its claim because the extent to which Defendant’s products infringe presents a triable issue of fact not subject to determination on a Federal Rule of Civil Procedure 12(b) Motion. Third, the Trial Court made improper and erroneous factual determinations based on its interpretation of limited facts, including pictures and videos referenced in the Complaint, including that Defendant’s products do not have “an airtight seal” because there was “an open hole at the base of the bottle.” Appx19. This factual determination was not only premature, but it was also erroneous. The Court ignored the plain language of the allegations, which, at a minimum, were sufficient
+5
+
+Case: 18-2397	Document: 40 Page: 13 Filed: 04/23/2019
+under the Doctrine of Equivalents because Plaintiff alleged that Defendant’s products worked in substantially the same way and accomplished substantially the  same result as Plaintiff’s products. Appx151. It is irrelevant whether they differ in name, form, or shape. Machine Co. v. Murphy, 97 U.S. 120, 125 (1878).
+However, the Trial Court refused to even consider the sufficiency of the allegations under this standard. (“Because Plaintiff does not plead a doctrine of equivalents claim in the Complaint, the Court will not consider this claim, which was raised for the first time in Plaintiff’s opposition brief.”) Appx20. This alone supports
+reversal.
+Moreover, the District Court refused to give Plaintiff even one opportunity to amend to allege a doctrine of equivalents claim after Plaintiff had argued that the doctrine applies here. Respondent fails to provide this Court with any persuasive facts or authority that leave to amend should not have been given. This is because it is fundamental that where a Plaintiff can state in good faith that additional facts can be alleged to support the cause of action, leave to amend should be granted. Most critically, at a minimum, the Court should have granted Plaintiff leave to amend its complaint to properly include such allegations of infringement. In addition, and as further explained below, Plaintiff’s infringement claims do meet the standard of pleading a doctrine of equivalents. Plaintiff stated in the Court
+6
+
+Case: 18-2397	Document: 40 Page: 14 Filed: 04/23/2019
+below, and again reiterates that if given leave, Plaintiff could sufficiently plead such allegations accordingly.
+The Court’s erroneous evaluation of facts, based on its interpretation of a picture or videos was not proper upon a Federal Rule of Civil Procedure 12(b) motion. This alone constitutes reversible error. Second as discussed below, the Court’s interpretation of the allegations, pictures and videos, was factually incorrect. These disputed facts were, at a minimum, subject to determination by the trier of fact. Third, if there is any doubt that the allegations are sufficient, Plaintiff has provided a factual basis showing that they can be cured by amendment. Fourth, Respondent has failed to rebut Plaintiff’s right to expand the allegations by amending its Complaint to allege its patent claim under the Doctrine of Equivalents.
+B.	The District Court Ignored that the ‘587 Patent
+ProvidesAlternative Methods for Providing An “Air-Tight Seal”
+The District Court erroneously focused heavily on whether or not the Accused Products actually have openings in the first and second containers “with an airtight reclosable seal,” noting that this is an element of Claim 15 of the ‘587 Patent. Appx42-44. The Trial Court: (1) abused its discretion by refusing to accept the allegations as true for purposes of the Federal Rule of Civil Procedure
+7
+
+Case: 18-2397	Document: 40 Page: 15 Filed: 04/23/2019
+12(b) motion, which was improper; and, (2) made an erroneous interpretation of facts based on limited information (photos and videos) which, in any event, is subject to determination by the trier of fact.
+In addition, while erroneously focusing on one photo [one container with an
+opening in the bottom], the District Court wholly ignored that the Complaint alleges that the 587 Patent provides alternative methods to provide an “air-tight  seal.” No particular method is required, as made clear in the following summary  of the Patent.
+
+“SUMMARY
+An apparatus for preparing an accurate and repeatable hair coloring includes a graduated measuring and dispensing vessel and a container having a hair dye contained in an air-tight configuration in the container. The container includes an airtight chamber, an opening, and further includes a means for engaging the container with a container holder to support it. This may take the form of a rack in which the container sits, may include pegs from which the container hangs or provide a similar arrangement in which the container is suspended for easy access by a hair color professional. An air-tight reclosing seal is preferably located at the opening, such that when the
+8
+
+Case: 18-2397	Document: 40 Page: 16 Filed: 04/23/2019
+measuring and dispensing vessel engages the air-tight reclosing seal, the hair dye may be extracted from the airtight chamber, and when the measuring and dispensing vessel is disengaged from the container, the air-tight reclosing seal closes off the air-tight chamber. In this manner, a user may withdraw a known quantity of the hair dye from the container into the measuring and dispensing vessel, combine it with known quantities of other color hair dyes, thereby allowing an accurate quantity of total hair dye to be dispensed from the container enabling the hair professional to mix an accurate and repeatable hair dye color.
+In one embodiment, the container includes an engaging
+device at the opening for releasably connecting the measuring and dispensing vessel to the container in an airtight manner to prevent the measuring and dispensing vessel from inadvertently disengaging from the container. Additionally, the container may include an outer layer made of a semi-rigid poly-plastic material, such that in one embodiment the  container is essentially a collapsible bag while in another, it retains a uniform outer shape while an interior collapsible bag
+9
+
+Case: 18-2397	Document: 40 Page: 17 Filed: 04/23/2019
+deforms. Preferably, the opening is at the bottom of the container
+relative to a container label.
+
+Appx66 (emphasis added).
+The Patent goes on to explain even more options:
+
+“In addition to an engaging device for retaining the container and the measuring and dispensing vessel in a locking configuration, in an alternative embodiment, to prevent hair dye from exiting the container when the measuring and dispensing vessel disengages the container, an air-tight reclosing seal, for instance a self-sealing orifice reducer may be used instead of or along with the engaging device for added security.”
+Appx66-67 (emphasis added).
+The Patent also discusses another option:
+
+“To assist in securely connecting the syringe with the opening of a container, the opening and the syringe may be equipped with a luer-lock arrangement and the opening include a shot-off valve similar to an IV bag. In another embodiment an orifice reducer alone may be used.”
+
+10
+
+Case: 18-2397	Document: 40 Page: 18 Filed: 04/23/2019
+Appx67.
+In yet another option, the Patent states:
+“In an alternative embodiment, . . . a re-sealable cap is provided for covering an opening of the graduated measuring and dispensing vessel in an air-tight configuration to prevent oxidation and leakage of the hair dye prior to and after use.”
+Id., para.4.
+These detailed alternatives make clear the fallacy of Respondent’s and the District Court’s reliance and insistence that there is an absolute requirement of a self-sealing orifice reducer. This is not so, as made clear in the Patent terms. These alternatives also makes clear the District Court’s error in adjudicating a triable issue of fact regarding the legal ramifications from Defendants’ use of a particular type of orifice reducer or an air-tight configuration, one particular bottle with an opening at the bottom, and other configurations and bottles (i.e., evidence) that was not before the District Court. The premature evaluation of these factual issues given the alternatives described in the Patent make clear the egregious error in dismissing this action without allowing one right to amend to clarify these facts and claims.
+In sum, Respondent’s focus on only one method, a purported requirement of a “self-sealing orifice reducer” is a mischaracterization of the Patent’s terms,
+11
+
+Case: 18-2397	Document: 40 Page: 19 Filed: 04/23/2019
+requirements, and options. Respondent emphasizes that “the patent takes aim at the waste issue caused by hair dye oxidizing in uncapped containers by noting that  the containers will be designed with an air tight reclosing seal at the opening . . . and when the measuring and dispensing vessel is disengaged from the container, the air-tight reclosing seal closes off the air-tight changer.” Respondent’s Brief, p. 30, citing Appx69; emphasis added. While that is one method, the Patent contains other options discussed above, ignored by both Respondent and the District Court.
+In sum, these alternatives make clear that the allegations of the Complaint must be viewed under full terms and alternatives described in the patent and/or the Doctrine of Equivalents, and not through the narrow lens described by Respondent. The District Court’s failure to do so, and consideration of limited facts described by Respondent with such tunnel vision, was an abuse of discretion.
+III. THE REMAINING CAUSES OF ACTION ARE VIABLE OR CAN BE AMENDED
+As discussed above, dismissal with prejudice and without leave to amend is not appropriate unless it is clear on de novo review that the complaint could not be saved by amendment. Chang v. Chen, 80 F.3d 1293, 1296 (9th Cir. 1996). A district court's failure to consider the relevant factors and articulate why dismissal should be with prejudice instead of without prejudice may constitute an abuse of discretion. See Foman, supra, 371 U.S. at 182.
+12
+
+Case: 18-2397	Document: 40 Page: 20 Filed: 04/23/2019
+Respondent’s reliance on Eminence Capital, LLC v.Aspeon Inc., 316 F.3d
+1048, 1052 (9th Cir, 2003) for the proposition that [u]under futility analysis, “[d]ismissal without leave to amend is improper unless it is clear . . . that the complaint could not be saved by any amendment” is misplaced. Respondent’s Brief, p. 62. The Ninth Circuit stated:
+“Not all of the factors merit equal weight. As this circuit and others have held, it is the consideration of prejudice to the opposing party that carries the greatest weight. Prejudice is the touchstone of the inquiry under rule 15(a). . . . DCD Programs, 833 F.2d at 186-87 (noting that party opposing amendment "bears the burden of showing prejudice"). Absent prejudice, or a strong showing of any of the remaining Foman factors, there exists a presumption under Rule 15(a) in favor of granting leave to amend. A simple denial of leave to amend without any  explanation by the district court is subject to reversal. Such a  judgment is "not an exercise of discretion; it is merely abuse of that discretion and inconsistent with the spirit of the Federal  Rules." Foman, 371 U.S. at 182; Klamath-Lake Pharm. Ass'n v. Klamath Med. Serv. Bureau, 701 F.2d 1276, 1292-93 (9th Cir. 1983) (noting "where the record does not clearly dictate the 
+13
+
+Case: 18-2397	Document: 40 Page: 21 Filed: 04/23/2019
+district court's denial, we have been unwilling to affirm absent written findings"). . .”
+Eminence Capital, LLC v. Aspeon Inc., supra, 316 F.3d at 1052 (internal quotations and citations omitted); emphasis added.
+Eminence is directly on point and supports reversal. Not only did Defendant fail to show any prejudice to the District Court, but the District Court did not provide one reason why Plaintiff should be denied one opportunity to amend the Complaint.
+In addition, Respondent complains that Metricolor fails to identify any particular confidential information it disclosed to L’Oreal. Respondent’s Brief, p.47. Respondent ignores the detailed allegations of confidential information in its original Complaint, regarding the Non-Disclosure Agreement. Moreover, as discussed above, Appellant has provided this Court with additional facts which were provided to the District Court on a subsequent motion, and which provide additional factual support for leave to amend. Appx474.
+Under the standard applicable here, on a motion to dismiss under Rule 12(b)(6), the Trial Court was required to accept Plaintiff’s allegations as true. “[A]ll allegations of material fact are taken as true and are construed in the light most favorable to [the plaintiff].” Coal. for ICANN Transparency, Inc. v. Verisign, Inc., 611 F.3d 495, 500 (9th Cir. 2010).
+14
+
+Case: 18-2397	Document: 40 Page: 22 Filed: 04/23/2019
+In addition, a complaint must meet a standard of “plausibility.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 564 (2007). A claim is plausible “when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citation omitted). Plausibility “is not akin to a ‘probability requirement,’” rather, it requires “more than a sheer possibility that a defendant has acted unlawfully.” Id. (citing Twombly, 550 U.S. at 556).
+Respondent repeatedly ignores these rules by disputing the facts, rather than accepting at face value the allegations, and claiming they are implausible. See, e.g., Respondent’s Brief, pp.49-52. This is a particularly dubious argument given L’Oreal’s apparent track record of multiple prior lawsuits involving similar unfair business practices. While evidence of L’Oreal’s wrongful acts in other cases may ultimately be inadmissible at trial, it is pertinent at the pleading stage given L’Oreal’s history of multiple similar wrongful acts, to the “plausibility” of Plaintiff’s similar claims herein. The failure of the District Court to even consider such uniquely similar conduct and failure to provide even one factual basis to deny  Plaintiff the opportunity to amend - once -  strongly supports reversal.
+Lastly, Respondent’s reliance on Klamath-Lake Pharm. Ass’n v. Klamath Med. Serv. Bureau, 701 F2d. 1276, 1293 (9th Cir. 1983) is misplaced. Respondent’s Brief, p. 62. Initially, Metricolor’s counsel deemed it unwise to provide the
+15
+
+Case: 18-2397	Document: 40 Page: 23 Filed: 04/23/2019
+District Court with detailed confidential facts and analysis relating to trade secrets, given the sensitivity and proprietary nature of the information. In addition, the facts are complex and involve a number of technical, mechanical, and artistic elements. After having had the opportunity to evaluate the District Court’s rulings, however, additional details were later provided to the District Court on another hearing. This provided relevant information also to this appeal regarding the meeting between Mr. D’Amico, of Metricolor and L’Oreal executives in its New York office, discussing, inter alia, confidential information. Surely, counsel for Metricolor should not quickly disclose such details in a public record without a careful prior evaluation with the client and its consent regarding information that it considered confidential and proprietary. In addition, counsel for Metricolor practices heavily in the California courts which routinely recognize the right to, and grant leave to amend. It was a shock, to say the least, to receive the District Court’s Order denying even one opportunity to amend the Complaint.
+In addition, Klamath actually makes clear the lack of merit to Defendant’s arguments. Klamath was a complex action involving antitrust and trade violations. Following the grant of summary judgment (not a FRCP12(b)(1) motion to dismiss) against the plaintiff, counsel for plaintiff requested leave to amend without providing any significant additional new facts which would alter the outcome of the case. Plaintiff had already been given the opportunity to submit extensive
+16
+
+Case: 18-2397	Document: 40 Page: 24 Filed: 04/23/2019
+evidence in opposition to the motion for summary judgment. Noting the applicable legal standard and authorities for leave to amend, the court denied plaintiff’s request, stating:
+“Motions to amend, we recognize, are commonly granted. Although within the trial court's discretion, leave to amend "shall be freely given when justice so requires." Fed.R.Civ.P. 15(a); see Foman v. Davis, 371 U.S. 178, 182, 83 S. Ct. 227, 230, 9 L. Ed. 2d 222 (1962); McCartin v. Norton, 674 F.2d 1317, 1320 (9th Cir.1982); United States v. Webb, 655 F.2d 977, 979 (9th Cir.1981); Howey v. United States, 481 F.2d 1187, 1190 (9th Cir.1973). We are required to review the exercise of the trial court's discretion to deny a motion to amend strictly. Thus, where the record does not clearly dictate the district court's denial, we have been unwilling to affirm absent written findings, Webb, 655 F.2d at 980, and have reversed findings that were merely conclusory, Howey, 481 F.2d at 1190-91.
+At the same time, futile amendments should not be permitted. Foman, 371 U.S. at 182, 83 S. Ct. at 230; Smith v. Commanding Officer, Air Force Accounting, 555 F.2d 234, 235 (9th Cir.1977). In this case, it is clear that Association's motion should be denied
+17
+
+Case: 18-2397	Document: 40 Page: 25 Filed: 04/23/2019
+for this reason. The district court rejected the motion because it was untimely, and for "other reasons." The most important "other reason" was futility. Asked the purpose of amendment, Association's attorney could only answer vaguely that it would "bring damages up to the current" and "clarify the point" that Pharmacy was a for profit institution. Association has not used Pharmacy's profit status to support any of its claims. And it does not have compensable damages unless it proves its case. It is clear that the district court believed that amendment on these lines could not affect the outcome of this lawsuit. We agree. We find no reason to overturn its decision.
+Klamath-Lake Pharmaceutical Ass'n v. Klamath Medical Serv. Bureau (9th Cir. 1983) 701 F.2d 1276, 1292-1293.
+The circumstances before this Court are highly distinguishable from
+Klamath – denial of leave to amend following a motion for summary judgment. This case is at the initial pleading stage. Unlike the plaintiff in Klamath, Plaintiff has not yet had an opportunity to conduct discovery or formally exchange any information with Defendant. The Court of Appeal in Klamath had a vast amount of facts and evidence before it (on summary judgment motion) from which it could intelligently determine whether the additional information provided by Plaintiff’s
+18
+
+Case: 18-2397	Document: 40 Page: 26 Filed: 04/23/2019
+counsel would have any effect on the outcome of the case, i.e., successful opposition to another motion for summary judgment.
+Here, on the other hand, the District Court had no such facts or evidence before it to make an informed decision on the merits by denying leave to amend the Complaint. Moreover, there was no hearing on the Motion. Plaintiff had no real opportunity to discuss any additional facts which would support Plaintiff’s right to amend. The prejudicial impact of the Court’s ruling at this early stage of the pleading was the death knell before discovery had even begun, an egregious abuse of discretion.
+IV. L’OREAL S.A.’S ACQUISITION OF CONFIDENTIAL
+INFORMATION, MATERIALS, AND DEMONSTRATIONS FROM PLAINTIFF IN CALIFORNIA AT THE REQUEST OF L’OREAL S.A. EXECUTIVES SUPPORTS PLAINTIFF’S RIGHT TO JURISDICTIONAL DISCOVERY
+Respondent ignores pertinent settled law which supports Plaintiff’s right to
+conduct limited jurisdictional discovery here. It is undisputed that executives of L’Oreal S.A. (France) reached out to Plaintiff in California after L’Oreal USA had already laid the groundwork and spent a considerable amount of time obtaining confidential information and evaluating the Metricolor System. Specifically, in about March 2016, Anne DeBouge and Anne Alcoloumbre, corporate executives 
+19
+
+Case: 18-2397	Document: 40 Page: 27 Filed: 04/23/2019
+of L’Oreal Group France, asked the D’Amicos for ten (10) samples of the  Metricolor System. Appx34. This inquiry from L’Oreal S.A., occurred after L’Oreal (USA) had already acquired from the D’Amicos some eight (8) boxes  containing hundreds of samples as well as a personal demonstration of the Metricolor System. Id. The evidence should not be ignored. The only reasonable inference is that L’Oreal S.A. chose to get involved with this prospective lucrative business deal with the D’Amico’s and the Metricolor System, all located in the state of California, after it realized the lucrative potential of their patented system. Not only did L’Oreal S.A. engage in communications with the D’Amico’s but they also obtained samples of the Metricolor System – again - all from the State of California for the purpose of engaging in business with the D’Amico’s in the State of California and beyond.
+Respondent ignores the pertinent legal standard that would allow jurisdictional discovery under these facts. The Ninth Circuit, for instance, found that purposeful availment sufficient to support jurisdictional discovery was satisfied where the defendant simply made allegedly defamatory comments during an unsolicited phone call to the plaintiff’s state. In Brainerd v. Governors of the Univ. of Alberta, 873 F.2d 1257, 1259-60 (9th Cir. 1989), the plaintiff had accepted a faculty position at the University of Arizona following his departure from the University of Alberta in Canada. Id. at 1258. This departure came after a
+20
+
+Case: 18-2397	Document: 40 Page: 28 Filed: 04/23/2019
+dispute with university administrators, including the defendant, over the plaintiff's alleged misuse of university funds. The plaintiff and the university entered a settlement agreement whereby he agreed to resign and the university agreed to provide a reference. However, upon hearing rumors about the plaintiff's departure from Alberta, a University of Arizona official called the defendant in Alberta to investigate. During this telephone call, the defendant allegedly accused the plaintiff of misusing funds and also allegedly said that he would not hire the plaintiff. Id. The court held that this telephone conversation supported personal jurisdiction over the defendant in Arizona, whose long-arm statute, like California's, is coextensive with the Constitution. Id. at 1258-59. The court reasoned that “[the defendant's] communications were directed to Arizona, even though he did not initiate the contact." Id. at 1259. Moreover, "[a]ssuming the allegations in the complaint are true, [the defendant] knew the injury and harm stemming from his communications would occur in Arizona, where [the plaintiff] planned to live and work." Id.
+Similarly, here, L’Oreal S.A. knew that it was dealing with the D’Amico’s in California, where the business and confidential Metricolor System were located, and that the injury and harm stemming from its involvement in acquiring confidential materials and communications would occur to Plaintiff in the state of California, where the D’Amico’s lived, worked, developed, and patented the
+21
+
+Case: 18-2397	Document: 40 Page: 29 Filed: 04/23/2019
+Metricolor system. The facts are stronger here than in Brainerd because it was the L’Oreal S.A.’s corporate executives who reached out and asked the D’Amicos (while they were in California) for ten (10) samples of the Metricolor System. Appx34. L’Oreal S.A.’s subsequent receipt of such additional confidential and proprietary information from the state of California for a potential joint venture with the D’Amico’s in the state of California constitutes sufficient affirmative action for the purpose of purposeful availment to engage in business in the state of California and therefore also sufficient, at a minimum, to support limited jurisdictional discovery. The question at this point is not jurisdiction, but simply the right to jurisdictional discovery. Given the undisputed facts, this limited right should be allowed here.
+V. CONCLUSION
+Based on the foregoing, and the reasons stated in its Opening Brief, Appellant, Metricolor, LLC, respectfully requests that the Court reverse the Order of the District Court in its entirety; and, as to Defendant, L’Oreal S.A., that the Court remand with instructions that Plaintiff be given the opportunity over a minimum of 90 days to complete jurisdictional discovery, including the deposition of the personal most knowledgeable of defendant, L’Oreal, S.A., and that until such discovery is complete, any further motions to dismiss shall be held in abeyance.
+22
+
+Case: 18-2397	Document: 40 Page: 30 Filed: 04/23/2019
+
+DATED: April 4, 2019	Respectfully submitted,
+/s/ Eduardo Martorell
+Eduardo Martorell
+
+23
+
+Case: 18-2397	Document: 40 Page: 31 Filed: 04/23/2019
+
+CERTIFICATE OF FILING AND SERVICE 
+I hereby certify that, on April 23, 2019, I electronically filed the foregoing Reply Brief of Appellant with the Clerk of Court using the CM/ECF system, which will send notice of such filing to all registered users.
+I further certify that, upon acceptance and request from the Court, the required paper copies of the foregoing will be deposited with United Parcel Service for delivery to the Clerk, UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT 717 Madison Place, N.W., Washington D.C. 20439.
+The necessary filing and service were performed in accordance with the instructions given to me by counsel in this case.
+Dated: April 23, 2019	/s/ Annie Pulido 
+Annie Pulido
+Martorell Law APC
+6100 Center Dr., Suite 1130 Los Angeles, CA 90045 (323) 840-1200 
+
+
+24
+
+Case: 18-2397	Document: 40 Page: 32 Filed: 04/23/2019
+CERTIFICATE OF COMPLIANCE 
+This brief complies with the type-volume limitation of Federal Circuit
+Rule 32(a) because:
+this brief contains 4,743 words, excluding parts of the brief exempted by Fed. R. App. P. 32(f).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and the type style requirements of Fed R. App. P. 32(a)(6) because:
+this brief has been prepared in a proportionally spaced typeface using Microsoft Word in 14 point Times New Roman. 
+Dated: April 23, 2019	/s/ Eduardo Martorell
+Eduardo Martorell

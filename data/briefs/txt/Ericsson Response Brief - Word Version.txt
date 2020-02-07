@@ -1,0 +1,896 @@
+Case: 18-1559	Document: 72 Page: 1 Filed: 07/31/2018
+
+Nos. 18-1559, -1560, -1561, -1562, -1563, -1564, -1565
+United States Court of Appeals for the Federal Circuit
+
+REGENTS OF THE UNIVERSITY OF
+MINNESOTA,
+Appellant
+v.
+ERICSSON INC.,
+TELEFONAKTIEBOLAGET LM
+ERICSSON,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+Appeal from the U.S. Patent and
+Trademark Office, Patent Trial and
+Appeal Board in Nos. IPR2017-01186,
+IPR2017-01197, IPR2017-01200,
+IPR2017-01213, IPR2017-01214 and
+IPR2017-01219
+
+BRIEF FOR APPELLEES ERICSSON INC. AND TELEFONAKTIEBOLAGET LM ERICSSON
+
+J. Andrew Lowes	Mark S. Davies
+HAYNES & BOONE, LLP	ORRICK, HERRINGTON & SUTCLIFFE LLP
+Suite 4000	1152 15th Street NW
+2505 N. Plano Road	Washington, DC 20005
+Richardson, TX 75082	(202) 339-8400
+Debra Janece McComas	Easha Anand
+HAYNES & BOONE, LLP	Will Melehani
+Suite 700	ORRICK, HERRINGTON & SUTCLIFFE LLP
+2323 Victory Avenue	405 Howard Street
+Dallas, TX 75219	San Francisco, CA 94105
+
+Edmund Hirschfeld
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+51 West 52nd Street
+New York, NY 10019
+Counsel for Appellees Ericsson Inc. and Telefonaktiebolaget LM Ericsson
+
+Case: 18-1559	Document: 72 Page: 2 Filed: 07/31/2018
+CERTIFICATE OF INTEREST
+Counsel for Appellee Ericsson Inc. and Telefonaktiebolaget LM
+Ericsson certifies the following:
+	1.	The full name of every party or amicus represented by me is:
+Ericsson Inc.
+Telefonaktiebolaget LM Ericsson
+	2.	The name of the real party in interest (if the party named in
+the caption is not the real party in interest) represented by me:
+None
+	3.	All parent corporations and any publicly held companies
+that own ten percent or more of the stock of the parties represented by me are:
+Telefonaktiebolaget LM Ericsson is the parent company of Ericsson Inc.
+	4.	The names of all law firms and the partners or associates
+that appeared for the party or amicus now represented by me in the trial court or agency or are expected to appear in this court (and who have not or will not enter an appearance in this case) are:
+i
+
+Case: 18-1559	Document: 72 Page: 3 Filed: 07/31/2018
+HAYNES & BOONE, LLP: John R. Emerson, Greg Webb, Clint Wilkins.
+5.	The cases from which this appeal is taken are specified in footnote 2 below. The title and number of any case known to me to be pending in this or any other court or agency that will directly affect or be affected by this court’s decision in the pending appeal are:
+Regents of the University of Minnesota v. AT&T Mobility LLC, No. 0:14-cv-04666 (D. Minn.)
+Regents of the University of Minnesota v. Sprint Solutions, Inc., No. 0:14-cv-04669 (D. Minn.)
+Regents of the University of Minnesota v. T-Mobile USA, Inc., No. 0:14-cv-04671 (D. Minn.)
+Regents of the University of Minnesota v. Cellco Partnership, No. 0:14-cv-04672 (D. Minn.)
+Regents of the University of Minnesota v. LSI Corporation, No. 5:18-cv-00821 (N.D. Cal.)
+Regents of the University of Minnesota v. Gilead Sciences, Inc., No. 3:17-cv-06056 (N.D. Cal.)
+ii
+
+Case: 18-1559	Document: 72 Page: 4 Filed: 07/31/2018
+
+The Regents of the University of California v. St. Jude Medical, LLC, No. 4:16-cv-06210 (N.D. Cal.)
+St. Jude Medical, LLC v. The Regents of the University of California, IPR2017-01338, -01339
+Gilead Sciences, Inc. v. Regents of the University of Minnesota, IPR2017-01712, -01713, -01753, -02004, -02005
+Date: July 31, 2018	ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/Mark S. Davies
+Mark S. Davies
+Counsel for Appellees Ericsson Inc. and
+Telefonaktiebolaget LM Ericsson
+
+iii
+
+Case: 18-1559	Document: 72 Page: 5 Filed: 07/31/2018
+TABLE OF CONTENTS
+Page
+CERTIFICATE OF INTEREST	i
+TABLE OF AUTHORITIES	vii
+STATEMENT OF RELATED CASES	xvi
+INTRODUCTION	1
+JURISDICTION AND STANDARD OF REVIEW	2
+STATEMENT OF THE CASE	2
+Ericsson Becomes A Leading Global Technology Company	2
+UMN And Other State Universities Amass Patents And
+Assert Infringement Claims	3
+Congress Authorizes Inter Partes Review To Invalidate
+Meritless Patents Asserted In Litigation	5
+UMN Files Patent Lawsuits Against Ericsson’s Customers	6
+Ericsson Intervenes In The Litigation And Petitions For
+Inter Partes Review	7
+UMN Asserts State Sovereign Immunity	8
+SUMMARY OF THE ARGUMENT	9
+ARGUMENT	11
+I.	Saint Regis Mohawk Tribe Decides This Case.	11
+A.	Saint Regis Mohawk Tribe correctly held that
+IPR does not resemble civil litigation.	11
+Saint Regis Mohawk Tribe correctly
+concluded that IPR does not resemble civil litigation in function, as IPR is the federal government’s reconsideration of its own
+grant.	13
+Saint Regis Mohawk Tribe correctly concluded that IPR does not resemble civil
+litigation in form.	16
+UMN misapplies FMC.	 21
+iv
+
+Case: 18-1559	Document: 72 Page: 6 Filed: 07/31/2018
+4.	UMN misapplies Vas-Cath and SAS.	26
+B.	Even if IPR were “overwhelming[ly]” similar to civil litigation, sovereign immunity still would
+not attach. 	32
+IPR is a proceeding by the federal
+government, not by a private party.	33
+IPR is in rem, not in personam.	38
+II.	UMN Waived Any Immunity To Ericsson’s IPR Petitions By Asserting Patent Infringement Claims In
+District Court.	45
+A.	By asserting federal claims in district court, a state waives immunity to the federal statutory
+process for resolving claims.	46
+Clark, Gunter, Gardner, and Lapides hold that a state may not use sovereign
+immunity to gain a litigation advantage regarding the resolution of its own federal
+claim.	46
+A state may not use sovereign immunity to gain a litigation advantage regardless of the
+forum where the state files suit.	51
+B.	By asserting patent infringement claims in district court, a state waives immunity to a
+defendant’s IPR petition.	55
+An IPR petition is an integral part of the statutory system for resolving patent
+infringement claims.	 57
+Accordingly, the PTAB correctly held that UMN waived any immunity to Ericsson’s IPR petitions by asserting patent
+infringement claims in district court.	60
+C.	UMN misreads Tegic and A123 Systems.	62
+CONCLUSION	67
+v
+
+Case: 18-1559	Document: 72 Page: 7 Filed: 07/31/2018
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+Case: 18-1559	Document: 72 Page: 8 Filed: 07/31/2018
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+A123 Sys., Inc. v. Hydro-Quebec,
+626 F.3d 1213 (Fed. Cir. 2010)	46, 64, 65
+Alden v. Maine,
+527 U.S. 706 (1999)	33, 35, 36
+Arecibo Cmty. Health Care, Inc. v. Puerto Rico,
+270 F.3d 17 (1st Cir. 2001)	50
+Atascadero State Hosp. v. Scanlon,
+473 U.S. 234 (1985)	55
+Bd. of Regents of Univ. of Wis. Sys. v. Phx. Int’l Software, Inc.,
+653 F.3d 448 (7th Cir. 2011)	3, 54
+Becher v. Contoure Labs., Inc.,
+279 U.S. 388 (1929)	43, 44
+Biomedical Patent Mgmt. Corp. v. Cal. Dep’t of Health Servs.,
+505 F.3d 1328 (Fed. Cir. 2007)	54, 56, 65
+Butz v. Economou,
+438 U.S. 478 (1978)	23
+California v. Deep Sea Research, Inc.,
+523 U.S. 491 (1998)	40
+Cascades Projection LLC v. Epson Am., Inc.,
+864 F.3d 1309 (Fed. Cir. 2017)	14
+Central Va. Cmty. Coll. v. Katz,
+546 U.S. 356 (2006)	29
+Clark v. Barnard,
+108 U.S. 436 (1883)	46, 47, 52, 63
+vii
+
+Case: 18-1559	Document: 72 Page: 9 Filed: 07/31/2018
+College Savings Bank v. Fla. Prepaid Postsecondary Educ. Expense Bd.,
+527 U.S. 666 (1999)	49, 50
+Colo. River Water Conservation Dist. v. United States,
+424 U.S. 800 (1976)	17
+Conn. Dep’t of Envtl. Prot. v. O.S.H.A.,
+356 F.3d 226 (2d Cir. 2004)	33, 35
+Consumer Watchdog v. Wisc. Alumni Research Found.,
+753 F.3d 1258 (Fed. Cir. 2014)	18
+Crowell v. Benson,
+285 U.S. 22 (1932)	43
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131 (2016)	14, 15, 16, 17, 18, 31, 34, 36, 59
+In re Durance,
+891 F.3d 991 (Fed. Cir. 2018)	2
+Dynamic Drinkware, LLC v. Nat’l Graphics, Inc.,
+800 F.3d 1375 (Fed. Cir. 2015)	59
+El Paso Brick Co. v. McKnight,
+233 U.S. 250 (1914)	44
+Fed. Mar. Comm’n v. S.C. State Ports Auth.,
+535 U.S. 743 (2002)	1, 8, 12, 17, 23, 24, 25, 30, 33, 36, 42
+Fitzpatrick v. Bitzer,
+427 U.S. 445 (1976)	46
+Florida Prepaid Postsecondary Educ. Expense Bd. v.
+Coll. Sav. Bank,
+527 U.S. 627 (1999)	3
+In re Friendship Med. Ctr., Ltd.,
+710 F.2d 1297 (7th Cir. 1983)	51
+viii
+
+Case: 18-1559	Document: 72 Page: 10 Filed: 07/31/2018
+Gardner v. New Jersey,
+329 U.S. 565 (1947)	47, 48, 52, 61
+Genentech, Inc. v. Eli Lilly & Co.,
+998 F.2d 93126 (Fed. Cir. 1993)	50, 51
+Gunter v. Atl. Coast Line R.R.,
+200 U.S. 273 (1906)	47, 62
+In re Harleston,
+331 F.3d 699 (9th Cir. 2003)	54
+Kiowa Tribe v. Mfg. Techs., Inc.,
+523 U.S. 751 (1998)	31
+Lapides v. Bd. of Regents of Univ. Sys. of Ga.,
+535 U.S. 613 (2002)	11, 31, 48, 49, 55, 56, 60, 66
+Lujan v. Defs. of Wildlife,
+504 U.S. 555 (1992)	19, 26
+Nidec Motor Corp. v. Zhongshan Broad Ocean Motor Co.,
+868 F.3d 1013 (Fed. Cir. 2017)	22
+Novartis AG v. Noven Pharm. Inc.,
+853 F.3d 1289 (Fed. Cir. 2017)	15
+Oil States Energy Servs., LLC v. Greene’s Energy Grp., LLC,
+138 S. Ct. 1365 (2018)	14, 15, 17, 30, 31, 33, 36, 37, 43, 44
+Pennhurst State School & Hosp. v. Halderman,
+465 U.S. 89 (1984)	54, 55
+Polk’s Lessee v. Wendal,
+13 U.S. (9 Cranch) 87 (1815)	44
+Port Auth. Trans-Hudson Corp. v. Feeney,
+495 U.S. 299 (1990)	55
+Principality of Monaco v. Mississippi,
+292 U.S. 313 (1934)	33
+ix
+
+Case: 18-1559	Document: 72 Page: 11 Filed: 07/31/2018
+Quileute Indian Tribe v. Babbitt,
+18 F.3d 1456 (9th Cir. 1994)	12
+Regents of the Univ. of Minn. v. AT&T Mobility LLC,
+No. 14-04666 (D. Minn. May 19, 2017)	6, 8, 58
+Regents of the Univ. of Cal. v. Eli Lilly & Co.,
+119 F.3d 1559 (Fed. Cir. 1997)	53, 65
+Regents of Univ. of N.M. v. Knight,
+321 F.3d 1111 (Fed. Cir. 2003)	50, 51, 61, 62
+Saint Regis Mohawk Tribe v. Mylan Pharm., Inc.,
+Case Nos. 18-1638 to 18-1643 (Fed. Cir. July 20, 2018)	 passim
+SAS Inst. v. Iancu,
+138 S. Ct. 1348 (2018)	13, 26, 27, 28, 29, 30, 35
+Seminole Tribe v. Fla.,
+517 U.S. 44 (1996)	12
+Shaw Indus. Grp., Inc. v. Automated Creel Sys., Inc.,
+817 F.3d 1293 (Fed. Cir.)	58
+Tegic Commc’ns Corp. v. Bd. of Regents of the Univ. of Tex. Sys.,
+458 F.3d 1335 (Fed. Cir. 2006)	45, 62, 63
+Tenn. Student Assistance Corp. v. Hood,
+541 U.S. 440 (2004)	38, 39, 40, 41, 42, 43
+Tennessee v. U.S. Dep’t of Transp.,
+326 F.3d 729 (6th Cir. 2003)	22
+Texas v. Caremark, Inc.,
+584 F.3d 655 (5th Cir. 2009)	51
+Ultratec, Inc. v. CaptionCall, LLC,
+872 F.3d 1267 (Fed. Cir. 2017)	20, 23
+United States v. Am. Bell Tel. Co.,
+128 U.S. 315 (1888)	36
+x
+
+Case: 18-1559	Document: 72 Page: 12 Filed: 07/31/2018
+United States v. Bright,
+24 F. Cas. 1232, No. 14,647 (CC Pa. 1809)	40
+United States v. Nordic Vill., Inc.,
+503 U.S. 30 (1992)	55
+Univ. of Rochester v. G.D. Searle & Co.,
+358 F.3d 916 (Fed. Cir. 2004)	3
+Univ. of Tenn. v. Elliott,
+478 U.S. 788 (1986)	26
+Vas-Cath, Inc. v. Curators of Univ. of Mo.,
+473 F.3d 1376 (Fed. Cir. 2007)	26, 27, 28, 52, 53, 61
+WesternGeco LLC v. ION Geophysical Corp.,
+889 F.3d 1308 (Fed. Cir. 2018)	57
+Wilton v. Seven Falls Co.,
+515 U.S. 277 (1995)	50
+IPR Proceedings
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01186, Paper 1 (PTAB Mar. 28, 2017)	7
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01197, Paper 1 (PTAB Mar. 29, 2017)	7
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-1200, Paper 1 (PTAB Mar. 30, 2017)	7
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01213, Paper 1 (PTAB Mar. 30, 2017)	7
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01214, Paper 1 (PTAB Mar. 30, 2017)	7
+Ericsson, Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01219, Paper 1 (PTAB Mar. 30, 2017)	7
+xi
+
+Case: 18-1559	Document: 72 Page: 13 Filed: 07/31/2018
+Farmwald v. ParkerVision, Inc.,
+IPR2014-00946, Paper 13 (PTAB Jan. 26, 2015)	19
+Garmin Int’l, Inc. v. Cuozzo Speed Techs., LLC,
+IPR2012-00001, Paper 26 (PTAB Mar. 5, 2013)	20
+Nat’l Envtl. Prods. Ltd v. Dri-Steem Corp.,
+IPR 2014-01503, Paper 11 (PTAB Nov. 4, 2014)	19
+NVIDIA Corp. v. Samsung Elecs. Co.,
+No. IPR2016-00134, Paper 9 (PTAB May 4, 2016)	17
+Reactive Surfaces Ltd. v. Toyota Motor Corp.,
+IPR2016-1914, Paper 23 (PTAB Mar. 3, 2017)	56
+Reactive Surfaces Ltd. v. Toyota Motor Corp.,
+IPR2017-00572, Paper 32 (PTAB July 13, 2017)	18
+Constitutional Provisions
+U.S. Const. art. II, § 3	36
+U.S. Const. art. III	 8, 12, 14, 18, 19, 21, 22, 23, 30, 31
+U.S. Const. amend. VII	14
+U.S. Const. amend. XI	31, 39, 47, 49, 53, 62
+Statutes, Rules & Regulations
+5 U.S.C. § 706	2
+28 U.S.C. § 1295	2
+35 U.S.C. § 3 	22, 23
+35 U.S.C. § 6	59
+35 U.S.C. § 143	18
+Bayh-Dole Act, 94 Stat.3015, 35 U.S.C. § 200 et seq.
+35 U.S.C. § 200	3
+xii
+
+Case: 18-1559	Document: 72 Page: 14 Filed: 07/31/2018
+35 U.S.C. § 202	3
+35 U.S.C. § 252	57
+35 U.S.C. § 282	15, 59
+35 U.S.C. § 311	18, 25, 41
+35 U.S.C. § 312	41
+35 U.S.C. § 313	25, 41, 42
+35 U.S.C. § 314	17, 24, 25, 41
+35 U.S.C. § 315	26, 41, 57, 61
+35 U.S.C. § 316	2, 19, 20, 24, 25, 41, 42, 59
+35 U.S.C. § 317	18, 25, 41
+35 U.S.C. § 318	29, 41, 57
+35 U.S.C. § 319	41
+46 U.S.C. § 301	23
+37 C.F.R. § 42.2	26, 41
+37 C.F.R. § 42.3	41
+37 C.F.R. § 42.51	20
+37 C.F.R. § 42.73	26
+37 C.F.R. § 42.104	19
+37 C.F.R. § 42.108	17, 18
+37 C.F.R. § 120	18
+Fed. R. Civ. P. 13	25
+Fed. R. Civ. P. 15	19
+xiii
+
+Case: 18-1559	Document: 72 Page: 15 Filed: 07/31/2018
+Fed. R. Civ. P. 55	25
+Legislative Materials
+157 Cong. Rec. S1036 (daily ed. Mar. 1, 2011)
+(statement of Sen. Klobuchar)	6
+H.R. Rep. No. 112-98 (2011)	59
+S. Rep. No. 110-259 (2008)	5
+Other Authorities
+Brief of Appellants, Saint Regis Mohawk Tribe, No. 18-1638
+(Fed. Cir. Apr. 18, 2018), Doc. No. 52	26
+Andrew Chung, Schools That Sue: Why More Universities Are
+Filing Patent Lawsuits, Reuters (Sept. 15, 2015)	4
+Eric C. Cohen, A Primer on Inter Partes Review, Covered Business Method Review, and Post-Grant Review Before the
+Patent Trial and Appeal Board, 24 Fed. Cir. B.J. 1 (2014)	20
+About Us, Ericsson,  (last visited
+July 28, 2018)	3
+Exec. Order No. 13843, 83 Fed. Reg. 32755 (July 10, 2018)	21
+Robin Feldman & Mark A. Lemley, Do Patent Licensing
+Demands Mean Innovation?, 101 Iowa L. Rev. 137 (2015)	4
+William Hands, The Law and Practice of Patents for Inventions
+(London, W. Clarke & Sons 1808)	37
+Holmes-Pollock Letters (Mark DeWolfe Howe ed., 1942)	44
+Greta Kaul, Patently Lucrative: The Intellectual Property That Makes Big Money for the U, MinnPost (February 14, 2018),
+	4
+Mark A. Lemley, Why Do Juries Decide If Patents are Valid?, 99
+Va. L. Rev. 1673 (2013)	37
+xiv
+
+Case: 18-1559	Document: 72 Page: 16 Filed: 07/31/2018
+
+Ronald J. Mann & Marian Underweiser, A New Look at Patent
+Quality, 9 J. Empirical Legal Studies 1 (Mar. 2012)	5
+Memorandum from U.S. Solicitor Gen. to Agency Gen. Counsels,
+	22
+John Meurling & Richard Jeans, The Ericsson Chronicle: 125
+Years in Telecommunications (2000)	2
+Malathi Nayak, Patent-Heavy Schools Look to Courts for IP Paydays, BNA Intellectual Property Blog (June 14, 2017),
+	3
+Tejas N. Narechania, An Offensive Weapon?: An Empirical Analysis of the ‘Sword’ of State Sovereign Immunity in State-
+
+Owned Patents, 110 Colum. L. Rev. 1574 (2010)	4
+Press Release, from U.S. Rep. Lamar Smith (Apr. 14, 2011)	6
+Gene Quinn, USPTO Response to FOIA Confirms There Are No Rules of Judicial Conduct for PTAB Judges, IP Watchdog
+(May 31, 2017), 	21
+Reply Brief of Appellant, Saint Regis Mohawk Tribe (Fed. Cir.
+May 18, 2018), Doc. No. 110	26
+U.S. Patent & Trademark Office, Performance & Accountability
+Report (2017)	5
+
+xv
+
+Case: 18-1559	Document: 72 Page: 17 Filed: 07/31/2018
+STATEMENT OF RELATED CASES
+Pursuant to Federal Circuit Rule 47.5, Appellees Ericsson Inc. and
+Telefonaktiebolaget LM Ericsson state that no other appeal in or from the same civil action or proceeding was previously before this or any other appellate court.
+This appeal will indirectly affect the following litigation pending in the United States District Court for the District of Minnesota: Regents of the University of Minnesota v. AT&T Mobility LLC, No. 0:14-cv-04666; Regents of the University of Minnesota v. Sprint Solutions, Inc., No. 0:14-cv-04669; Regents of the University of Minnesota v. T-Mobile USA, Inc., No. 0:14-cv-04671; and Regents of the University of Minnesota v. Cellco Partnership, No. 0:14-cv-04672.
+This appeal will also indirectly affect the following litigation pending in the United States District Court for the Northern District of California: Regents of the University of Minnesota v. LSI Corporation, No. 5:18-cv-00821; Regents of the University of Minnesota v. Gilead Sciences, Inc., No. 3:17-cv-06056; and The Regents of the University of California v. St. Jude Medical, LLC, No. 4:16-cv-06210.
+xvi
+
+Case: 18-1559	Document: 72 Page: 18 Filed: 07/31/2018
+
+This appeal will also indirectly affect the following IPR proceedings: Gilead Sciences, Inc. v. Regents of the University of Minnesota, IPR2017-01712, -01713, 01753, -02004, -02005.
+
+xvii
+
+Case: 18-1559	Document: 72 Page: 19 Filed: 07/31/2018
+INTRODUCTION
+Saint Regis Mohawk Tribe v. Mylan Pharm., Inc., Case Nos. 18-
+
+1638 to 18-1643 (Fed. Cir. July 20, 2018), decides this appeal. The question is whether a state entity—here, the University of Minnesota (UMN)—may assert sovereign immunity to avoid inter partes review (IPR). Saint Regis Mohawk Tribe held that Indian tribes may not do so. Slip op. at 5, 12. Despite recognizing the “many parallels” between state and tribal sovereign immunities, Saint Regis Mohawk Tribe reserved “for another day the question of whether there is any reason to treat state sovereign immunity differently.” Slip op. at 12. There is not. Saint Regis Mohawk Tribe rejected the tribe’s immunity claim by applying a Supreme Court case about state sovereign immunity. Slip op. at 6-7 (discussing Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743 (2002) (“FMC”)). Whatever the differences between tribal and state sovereign immunity, the Saint Regis Mohawk Tribe analysis applies to the latter even more forcefully than to the former.
+Apart from Saint Regis Mohawk Tribe’s application of FMC, the opinion and Judge Dyk’s concurrence provide at least two additional bases on which to hold that IPR does not impinge on sovereign
+
+Case: 18-1559	Document: 72 Page: 20 Filed: 07/31/2018
+immunity. And, as the Patent Trial and Appeal Board (PTAB) found below, there is yet another reason—waiver—for rejecting any sovereign immunity defense to IPR in this case.
+This Court should affirm.
+JURISDICTION AND STANDARD OF REVIEW
+The PTAB had jurisdiction over the IPR proceedings under 35
+U.S.C. § 316(c). The PTAB’s decision was entered on December 19, 2017. Appx18-36. Appellants filed petitions for review on February 12, 2018. Appx1101-1142. This Court has jurisdiction under 28 U.S.C. § 1295(a)(4)(A). This Court reviews the PTAB’s legal conclusions de novo. In re Durance, 891 F.3d 991, 1000 (Fed. Cir. 2018); see 5 U.S.C. § 706 (decision must be set aside if “not in accordance with law”).
+STATEMENT OF THE CASE
+Ericsson Becomes A Leading Global Technology Company
+From its 1876 start in a telegraph repair shop, Ericsson has been
+at the forefront of communication technology. John Meurling & Richard Jeans, The Ericsson Chronicle: 125 Years in Telecommunications 1 (2000). Today, Ericsson has more than 24,000 employees devoted to R&D, spends billions of dollars on research, and
+2
+
+Case: 18-1559	Document: 72 Page: 21 Filed: 07/31/2018
+owns more than 45,000 patents. About Us, Ericsson,  (last visited July 28, 2018).
+UMN And Other State Universities Amass Patents And Assert Infringement Claims
+In 1980, Congress passed the Bayh-Dole Act, which allows small businesses, nonprofits, and universities, both public and private, to obtain patents based on federally funded research. 35 U.S.C. §§ 200, 202. The Bayh-Dole Act “was not intended to relax the statutory requirements for patentability.” Univ. of Rochester v. G.D. Searle & Co., 358 F.3d 916, 929 (Fed. Cir. 2004).
+In 1999, the Supreme Court limited the circumstances in which states could be sued in federal court. Florida Prepaid Postsecondary Educ. Expense Bd. v. Coll. Sav. Bank, 527 U.S. 627 (1999). Around the same time, states began to act as commercial players in various marketplaces, including in technology fields. See Bd. of Regents of Univ. of Wis. Sys. v. Phx. Int’l Software, Inc., 653 F.3d 448, 476 (7th Cir. 2011) (state entities’ commercial footprint has expanded dramatically).
+Those twin developments led to a “university patent boom,” with public universities relying more and more heavily on patents as a
+source of revenue. Malathi Nayak, Patent-Heavy Schools Look to Courts
+3
+
+Case: 18-1559	Document: 72 Page: 22 Filed: 07/31/2018
+for IP Paydays, BNA Intellectual Property Blog (June 14, 2017), . They became far more aggressive licensors of technology. Tejas N. Narechania, An Offensive Weapon?: An Empirical Analysis of the ‘Sword’ of State Sovereign Immunity in State-Owned Patents, 110 Colum. L. Rev. 1574, 1600-01 (2010). Their licensing regimes began to look more and more like those of for-profit entities. Cf. Robin Feldman & Mark A. Lemley, Do Patent Licensing Demands Mean Innovation?, 101 Iowa L. Rev. 137, 166 & n.46 (2015) (“particularly surprising” that university licensing arrangements do not increase markers of innovation as compared to arrangements with non-practicing entities). Predictably, patent infringement lawsuits by public universities grew. See Andrew Chung, Schools That Sue: Why More Universities Are Filing Patent Lawsuits, Reuters (Sept. 15, 2015),  (“Almost every major university has a lawsuit or two in process.”).
+UMN participated in the trend of state universities acting more like commercial entities when it comes to intellectual property. It has held hundreds of patents, on subject matter ranging from cancer treatments to the Honeycrisp apple. See Greta Kaul, Patently
+4
+
+Case: 18-1559	Document: 72 Page: 23 Filed: 07/31/2018
+Lucrative: The Intellectual Property That Makes Big Money for the U, MinnPost (February 14, 2018), 
+
+Congress Authorizes Inter Partes Review To Invalidate Meritless Patents Asserted In Litigation
+In the past decade, “longstanding concerns about the reliability of the original examination process” came to a head. See Saint Regis Mohawk Tribe, slip op. at 3, 8-10 (Dyk, J., conc.). The pre-grant process, flooded with a half million patent applications per year, was insufficient to weed out bad patents. U.S. Patent & Trademark Office, Performance & Accountability Report 169 tbl.2 (2017). More than half of litigated patents were found to be invalid, at least in part. Ronald J. Mann & Marian Underweiser, A New Look at Patent Quality, 9 J. Empirical Legal Studies 1, 7 (Mar. 2012).
+Congress set out to enact a “viable, inexpensive, quick administrative alternative” to patent litigation. S. Rep. No. 110-259, at 3-4 (2008). The end result was inter partes review, created by the America Invents Act (AIA). Modeled after prior administrative processes that authorized the USPTO to reconsider and cancel patent
+5
+
+Case: 18-1559	Document: 72 Page: 24 Filed: 07/31/2018
+claims that were wrongly issued, IPR was endorsed by entities across the technological spectrum, including UMN and one of its amici.1
+
+UMN Files Patent Lawsuits Against Ericsson’s Customers
+In 2014, UMN filed lawsuits against four different wireless service
+providers, claiming that technology used for their 4G LTE networks— including technology supplied by Ericsson—infringed UMN’s patents. See Regents of the Univ. of Minn. v. AT&T Mobility LLC, No. 14-04666 (D. Minn.); Regents of the Univ. of Minn. v. Sprint Sols., Inc., No. 1404669 (D. Minn.); Regents of the Univ. of Minn. v. T-Mobile USA, Inc., No. 14-04671 (D. Minn.); Regents of the Univ. of Minn. v. Cellco P’ship, No. 14-04672 (D. Minn.). Two years later, UMN filed patent infringement suits against LSI Corporation and Avago Technologies U.S., Inc., Regents of the University of Minnesota v. LSI Corporation, No. 16-cv-02891 (D. Minn.), and Gilead Sciences, Inc., Regents of the
+1 See 157 Cong. Rec. S1036 (daily ed. Mar. 1, 2011) (statement of Sen. Klobuchar) (“[O]ur Nation’s top research universities, such as the University of Minnesota, support this bill.”); Press Release, from U.S. Rep. Lamar Smith (Apr. 14, 2011) (AIA is supported by the Association of Public and Land Grant Universities).
+6
+
+Case: 18-1559	Document: 72 Page: 25 Filed: 07/31/2018
+University of Minnesota v. Gilead Sciences, Inc., No. 16-cv-02915 (D. Minn).
+Ericsson Intervenes In The Litigation And Petitions For Inter Partes Review
+Ericsson intervened as a defendant to dispute UMN’s claims. See, e.g., Appx1218-1222 (Joint Stipulation Regarding Ericsson’s Mot. to Intervene). As part of its defense, Ericsson petitioned for IPR of UMN’s patents, asserting that the patents never should have issued in light of the prior art. The asserted patents relate to methods of encoding wireless communication data to address problems with their transmission, such as fading signal strength. Ericsson explained that many of the claims were fully anticipated while the rest simply combined known modulation techniques and well-understood mathematical operations. Ericsson Inc. v. Regents of the Univ. of Minn., IPR2017-01186, Paper 1 (PTAB Mar. 28, 2017); IPR2017-01197, Paper 1 (PTAB Mar. 29, 2017); IPR2017-1200, Paper 1 (PTAB Mar. 30, 2017); IPR2017-01213, Paper 1 (PTAB Mar. 30, 2017); IPR2017-01214, Paper 1 (PTAB Mar. 30, 2017); IPR2017-01219, Paper 1 (PTAB Mar. 30,
+2017). The district court elected to stay proceedings pending Ericsson’s
+IPRs, explaining that the parties’ dispute would simply “shift[]
+7
+
+Case: 18-1559	Document: 72 Page: 26 Filed: 07/31/2018
+temporarily from this forum to the USPTO.” Order at 14, AT&T Mobility, No. 14-cv-04666, (D. Minn. May 19, 2017), Doc. No. 237.
+UMN Asserts State Sovereign Immunity
+In an effort to exempt its patents from IPR, UMN invoked state
+sovereign immunity—even as it sought to enforce the same patents in district court. Appx841-863. Ericsson contended that UMN could not invoke immunity. First, citing FMC, 535 U.S. 743, Ericsson argued that state sovereign immunity is never available in IPR. Sovereign immunity does not ordinarily extend beyond Article III courts, and IPR is not sufficiently similar to a civil lawsuit to fall within the FMC-recognized exception to that settled rule. Appx880-882. And second, citing Supreme Court cases forbidding states from using sovereign immunity to gain litigation advantages, Ericsson argued that UMN waived any such immunity by litigating its infringement actions in district court. Appx869-880.
+In light of the significance of the issues raised, the PTAB convened an expanded panel. Appx19-21. The majority of the panel held that although state sovereign immunity may extend to IPR, UMN waived immunity by litigating in district court. Appx22-29. Administrative
+8
+
+Case: 18-1559	Document: 72 Page: 27 Filed: 07/31/2018
+Patent Judge Bisk concurred. She would have held that state sovereign immunity never applies to IPR. Appx35 (concurrence of APJ Bisk). APJ Bisk underscored the “[o]bvious differences” between IPR and the proceedings at issue in FMC, including the lead role played by a federal agency, the limited scope of discovery and remedies, and the fact that the patent holder is not a necessary party. Appx31.
+UMN appeals the denial of its motion to dismiss.2
+
+SUMMARY OF THE ARGUMENT
+I. Saint Regis Mohawk Tribe correctly found that tribes cannot
+assert sovereign immunity in IPR, and that holding applies equally to states.
+Although states are immune from civil lawsuits, IPR differs from civil litigation “both functionally and procedurally.” Saint Regis Mohawk Tribe, slip op. at 10. IPR serves a different function from civil
+2 The PTAB issued an identical opinion in an IPR proceeding on a petition by co-appellees LSI Corporation and Avago Technologies U.S., Inc. Appx1-17. UMN appealed, and that appeal is consolidated with this one. Intervenor Gilead Sciences, Inc., also petitioned for IPR against UMN patents, but the PTAB has delayed a ruling on UMN’s motion to dismiss pending the resolution of this appeal. Gilead Sciences, Inc., was granted leave to intervene in this appeal. Doc No. 35.
+9
+
+Case: 18-1559	Document: 72 Page: 28 Filed: 07/31/2018
+litigation—allowing the USPTO a “second look” at potentially improper patents, rather than adjudicating rights among parties. And IPR
+differs procedurally from civil litigation. Among other differences, IPR is only instituted at the USPTO director’s discretion, may continue even if the parties drop out, and is not governed by the Federal Rules of Civil Procedure.
+Even if IPR resembled civil litigation, states still could not assert sovereign immunity. Proceedings initiated by the federal government— even civil litigation in federal court—do not impinge on a state’s sovereign immunity, and IPR is a federal proceeding. And suits based on in rem, rather than in personam, jurisdiction similarly do not offend the dignity of the state sovereign.
+II. This Court may also affirm on an independent ground: Regardless of whether state sovereign immunity might otherwise apply in IPR proceedings, UMN waived any such immunity as to Ericsson’s IPR petitions by litigating infringement claims in district court. That was the basis for the PTAB’s decision below, and it suffices to resolve this appeal.
+10
+
+Case: 18-1559	Document: 72 Page: 29 Filed: 07/31/2018
+State sovereign immunity prevents private parties from imposing liability on an unconsenting state. But when a state proactively seeks to impose liability on others, it necessarily waives immunity as to all defensive measures codified in the statutory claim resolution system. The Supreme Court has enforced that waiver-by-litigation rule for well over a century to preclude state plaintiffs from seizing “unfair tactical advantages.” Lapides v. Bd. of Regents of Univ. Sys. of Ga., 535 U.S. 613, 621 (2002). By asserting patent infringement in district court, UMN waived any sovereign immunity as to Ericsson’s IPR petitions— defensive measures filed in response to UMN’s litigation.
+ARGUMENT
+I.	Saint Regis Mohawk Tribe Decides This Case.
+A.	Saint Regis Mohawk Tribe correctly held that IPR does not resemble civil litigation.
+On July 20, 2018, in Saint Regis Mohawk Tribe v. Mylan Pharmaceuticals, Inc., this Court held that “tribal immunity is not implicated” by IPR. Slip op. at 8. Saint Regis Mohawk Tribe’s conclusion that tribes cannot assert sovereign immunity in IPR turned almost entirely on an analysis of FMC, a case about state, not tribal, sovereign immunity. Whatever the differences between tribal and state
+11
+
+Case: 18-1559	Document: 72 Page: 30 Filed: 07/31/2018
+sovereign immunity, Saint Regis Mohawk Tribe necessarily applies to state sovereign immunity, the defense at issue in FMC.
+In general, neither tribes nor states can assert sovereign immunity in administrative law proceedings; that privilege is ordinarily reserved for judicial proceedings. See Seminole Tribe v. Fla., 517 U.S. 44, 72-73 (1996) (state sovereign immunity “restricts the judicial power under Article III”); Quileute Indian Tribe v. Babbitt, 18 F.3d 1456, 1459-60 (9th Cir. 1994) (tribal sovereign immunity “is generally not asserted in administrative proceedings”). But in limited circumstances—where the similarities between such administrative proceedings and civil litigation “are overwhelming”—states, at least, may assert their sovereign immunity. FMC, 535 U.S. at 759. In FMC, the Court examined a proceeding before the Federal Maritime Commission that “walk[ed], talk[ed], and squawk[ed] very much like a lawsuit” and held that states could assert sovereign immunity against such a proceeding. Id. at 751.
+FMC is the only case in which the Supreme Court has held that a state may be immune from an administrative proceeding, and neither this Court nor the Supreme Court has ever found an administrative
+12
+
+Case: 18-1559	Document: 72 Page: 31 Filed: 07/31/2018
+proceeding to impinge on tribal sovereign immunity. Saint Regis Mohawk Tribe looked to FMC, therefore, reasoning that if IPR is similar enough to civil litigation to trigger state sovereign immunity, then the same must be true of tribal sovereign immunity. It concluded that “[i]n IPR, the agency proceedings are both functionally and procedurally different from district court litigation.” Saint Regis Mohawk Tribe, slip op. at 10. The functional, § I.A.1, and procedural, § I.A.2, differences that Saint Regis Mohawk Tribe identified between IPR and civil litigation (and the proceeding at issue in FMC) resolve this case. UMN’s arguments to the contrary are foreclosed by Saint Regis Mohawk Tribe. §§ I.A.3-4.
+1.	Saint Regis Mohawk Tribe correctly concluded that IPR does not resemble civil litigation in function, as IPR is the federal government’s reconsideration of its own grant.
+IPR is “an act by the agency in reconsidering its own grant of a public franchise.” Saint Regis Mohawk Tribe, slip op. at 9. Because of the burdens of initial patent examination, “[s]ometimes, ... bad patents slip through”—“[m]aybe the invention wasn’t novel, or maybe it was obvious all along, and the patent owner shouldn’t enjoy the special
+privileges it has received.” SAS Inst. v. Iancu, 138 S. Ct. 1348, 1353
+13
+
+Case: 18-1559	Document: 72 Page: 32 Filed: 07/31/2018
+(2018). IPR provides the USPTO with “an enlarged opportunity to correct its errors in granting a patent.” Cascades Projection LLC v. Epson Am., Inc., 864 F.3d 1309, 1311 (Fed. Cir. 2017). IPR is thus a continuation of the initial patent examination process. See Saint Regis Mohawk Tribe, slip op. at 3 (Dyk, J., conc.).
+As Saint Regis Mohawk Tribe explained, the Supreme Court has “emphasized the government’s central role in IPR and the role of the USPTO in protecting the public interest.” Slip op. at 7 (citing Oil States Energy Servs., LLC v. Greene’s Energy Grp., LLC, 138 S. Ct. 1365 (2018)). In Oil States, the Supreme Court held that IPR allows the USPTO to take “a second look at an earlier administrative grant of a patent.” 138 S. Ct. at 1374 (quoting Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2144 (2016)). The Oil States petitioner had argued that IPR violated Article III and the Seventh Amendment because it allowed the USPTO to adjudicate private property rights. The Supreme Court disagreed, explaining that patents “convey ... a specific form of property right—a public franchise,” taken subject to the lawful condition that they may be examined for compliance. Id. at 1375. Merely because the examination in IPR occurs “after, [rather than before,] the patent has
+14
+
+Case: 18-1559	Document: 72 Page: 33 Filed: 07/31/2018
+issued” does not make it equivalent to private litigation. Id. at 1374; see also Cuozzo, 136 S. Ct. at 2144 (noting that IPR is “less like a judicial proceeding and more like a specialized agency proceeding”).
+For that reason, IPR is conducted without a presumption of validity. In district court cases, patents are presumed valid. See 35 U.S.C. § 282(a). But because IPR is a continuation of the initial patent examination process, there is no such presumption in IPR. See Novartis AG v. Noven Pharm. Inc., 853 F.3d 1289, 1293-94 (Fed. Cir. 2017).
+IPR grew out of ex parte and inter partes reexamination proceedings, prior iterations of the patent revocation process. In Saint Regis Mohawk Tribe, the tribe had conceded that immunity would not lie against ex parte or inter partes reexamination proceedings. Slip op. at 11. Though Congress changed some of the features of those proceedings, the Supreme Court found no indication that “in doing so, Congress wanted to change its basic purposes, namely, to reexamine an earlier agency decision.” Saint Regis Mohawk Tribe, slip op. at 11 (Dyk, J., conc.) (quoting Cuozzo, 136 S. Ct. at 2144). Though those predecessors were “more inquisitorial and less adjudicatory than IPR,” the “mere existence of more inquisitorial proceedings in which
+15
+
+Case: 18-1559	Document: 72 Page: 34 Filed: 07/31/2018
+immunity does not apply does not mean that immunity applies in a different type of proceeding before the same agency.” Saint Regis Mohawk Tribe, slip op. at 11.
+Saint Regis Mohawk Tribe correctly found that IPR functions “to reconsider a prior administrative grant and protect the public interest in keeping patent monopolies ‘within their legitimate scope’” and that IPR therefore serves a different function from civil litigation. Slip op. at 11 (quoting Cuozzo, 136 S. Ct. at 2144).
+2.	Saint Regis Mohawk Tribe correctly concluded that IPR does not resemble civil litigation in form.
+Saint Regis Mohawk Tribe also correctly found that, in keeping with its different purpose from civil litigation, IPR bears little formal resemblance to either civil litigation or the proceedings at issue in FMC. Saint Regis Mohawk cited three key procedural differences.
+First, the Director “possesses broad discretion in deciding whether to institute review.” Slip op. at 8. “In this way, IPR is more like cases in which an agency chooses whether to institute a proceeding on information supplied by a private party.” Id. The USPTO can decide against instituting proceedings because none of the claims in the
+16
+
+Case: 18-1559	Document: 72 Page: 35 Filed: 07/31/2018
+petition have a reasonable likelihood of success, because resources are scarce, because the petitioner has serially petitioned against the same patent claims, or because the agency has other priorities. 35 U.S.C. § 314(a); 37 C.F.R. § 42.108(a); Oil States, 138 S. Ct. at 1371, 1378 n.5; NVIDIA Corp. v. Samsung Elecs. Co., No. IPR2016-00134, Paper 9, at 67 (PTAB May 4, 2016). And the decision is not, as a general matter, reviewable in federal court. Cuozzo, 138 S. Ct. at 2139.
+By contrast, federal courts have a “virtually unflagging” obligation to review any complaint filed. See Colo. River Water Conservation Dist. v. United States, 424 U.S. 800, 817 (1976). A district court could not cite its “finite resources” to decline to adjudicate a meritorious complaint, yet the very first factor that the USPTO Director is to consider in deciding what petitions to adjudicate is its limited capacity. NVIDIA Corp., IPR2016-00134, Paper 9, at 6-7. Nor did the Commission in FMC “have the discretion to refuse to adjudicate complaints brought by private parties.” FMC, 535 U.S. at 764.
+That difference between IPR and civil litigation or the FMC proceedings alleviates one concern animating sovereign immunity: “[I]f IPR proceeds” against a patent owned by a tribe or by a state, “it is
+17
+
+Case: 18-1559	Document: 72 Page: 36 Filed: 07/31/2018
+because a politically accountable, federal official has authorized the institution of that proceeding.” Saint Regis Mohawk Tribe, slip op. at 8.
+The second key distinction that Saint Regis Mohawk Tribe identified was “the role of the parties in IPR.” Slip op. at 9. Unlike civil litigation, IPR can continue with virtually no involvement from the parties. The Board may continue review even if the petitioner does not participate. Id. (citing 35 U.S.C. § 317(a)). The Director can participate in appeals “even if the private challengers drop out.” Id. (quoting Cuozzo, 136 S. Ct. at 2144, and citing 35 U.S.C. § 143). And “[t]he Board has construed its rules to allow it to continue review even in the absence of patent owner participation.” Id. (citing Reactive Surfaces Ltd. v. Toyota Motor Corp., IPR2017-00572, Paper 32 (PTAB July 13, 2017), and 37 C.F.R. §§ 42.108(c), 120(a)). “This reinforces the view that IPR is an act by the agency in reconsidering its own grant of a public franchise.” Id.3
+
+3 Judge Dyk also noted that a petitioner need not have Article III standing to trigger an IPR. Saint Regis Mohawk Tribe, slip op. at 12 (Dyk, J., conc.) (“There is no requirement that a third party petitioner have any interest in the outcome of the proceeding, much less Article III standing.”) (citing 35 U.S.C. § 311(a)); see Consumer Watchdog v. Wisc. Alumni Research Found., 753 F.3d 1258 (Fed. Cir. 2014) (example of
+18
+
+Case: 18-1559	Document: 72 Page: 37 Filed: 07/31/2018
+Third, “unlike FMC, the USPTO procedures in IPR do not mirror the Federal Rules of Civil Procedure.” Id. In civil litigation, a plaintiff may amend a complaint but a patent owner cannot amend a patent; in IPR, by contrast, a petitioner may not amend a petition (aside from fixing clerical errors), but a patent owner may seek to amend its patent. Id. at 10 (citing Nat’l Envtl. Prods. Ltd v. Dri-Steem Corp., IPR 201401503, Paper 11 (PTAB Nov. 4, 2014)); 37 C.F.R. § 42.104(c); 35 U.S.C. § 316(d); Fed. R. Civ. P. 15). “IPR also lacks many of the preliminary proceedings that exist in civil litigation,” such as a claim construction hearing. Id. (citing Farmwald v. ParkerVision, Inc., IPR2014-00946, Paper 13 (PTAB Jan. 26, 2015)).
+Saint Regis Mohawk Tribe also explained that whereas “in civil litigation and the proceedings at issue in FMC, parties have a host of discovery options, including the use of interrogatories, depositions, production demands, and requests for admission,” in IPR, where the Civil Rules do not apply, “discovery is limited to ‘(A) the deposition of
+petitioner with no Article III stake initiating IPR). In civil litigation, of course, standing is an “irreducible constitutional minimum.” Lujan v. Defs. of Wildlife, 504 U.S. 555, 560 (1992). Standing is what distinguishes judicial proceedings from legislative proceedings or from executive proceedings like IPR. Id.
+19
+
+Case: 18-1559	Document: 72 Page: 38 Filed: 07/31/2018
+witnesses submitting affidavits or declarations; and (B) what is otherwise necessary in the interest of justice.’” Id. at 10 (quoting 35 U.S.C. § 316(a)(5) and citing 37 C.F.R. § 42.51). Cf. Garmin Int’l, Inc. v. Cuozzo Speed Techs., LLC, IPR2012-00001, Paper 26, at 5 (PTAB Mar. 5, 2013) at *5 (“Under the Leahy-Smith American Invents Act, discovery ... is significantly different from the scope of discovery generally available under the Federal Rules of Civil Procedure.”).
+And IPR “is nothing like a district court patent trial.” Saint Regis Mohawk Tribe, slip op. at 10. “The hearings are short, and live testimony is rarely allowed.” Id. (citing Ultratec, Inc. v. CaptionCall, LLC, 872 F.3d 1267, 1270 n.2 (Fed. Cir. 2017) (“Very seldom do IPR proceedings have the hallmarks of what is typically thought of as a trial.”)). In the first two years of IPR’s existence, the USPTO heard live testimony only once. Eric C. Cohen, A Primer on Inter Partes Review, Covered Business Method Review, and Post-Grant Review Before the Patent Trial and Appeal Board, 24 Fed. Cir. B.J. 1, 5 n.40 (2014).
+Saint Regis Mohawk Tribe thus correctly held that IPR is sufficiently different from civil litigation in form that it does not fall within the immunity a state has from civil litigation.
+20
+
+Case: 18-1559	Document: 72 Page: 39 Filed: 07/31/2018
+3.	UMN misapplies FMC.
+UMN ignores the provisions emphasized by Saint Regis Mohawk
+Tribe. Instead, UMN narrows the long list of similarities between civil litigation and the proceedings at issue in FMC to three: an adjudicator whose role is “‘functionally comparable’ to that of a judge”; “many of the same safeguards as are available in the judicial process”; and some pleadings and discovery practices. OB30-34. Saint Regis Mohawk Tribe focused on other, more important differences. See above at § I.A.2. But in any event, UMN’s list of supposed similarities fails on its own terms.
+Take each of the features UMN derives from FMC.
+First, members of the PTAB are not “functionally comparable” to an Article III judge. OB31. An Article III judge is bound by a judicial code of conduct; the PTAB members are not. See Gene Quinn, USPTO Response to FOIA Confirms There Are No Rules of Judicial Conduct for PTAB Judges, IP Watchdog (May 31, 2017), . An Article III judge is appointed for life; APJs are removable for good cause, and Congress or the President may choose to make PTAB members removable at will. Exec. Order No. 13843, 83 Fed. Reg. 32755
+21
+
+Case: 18-1559	Document: 72 Page: 40 Filed: 07/31/2018
+(July 10, 2018) (excepting Administrative Law Judges from the Competitive Service); 35 U.S.C. § 3(c) (PTAB members subject to statutory provisions regarding Administrative Law Judges); Memorandum from U.S. Solicitor Gen. to Agency Gen. Counsels, at 9,  (considering constitutionality of good cause removal provisions). The chief judge of an Article III court could not “expand a panel” for important cases or to further particular objectives, but the AIA gives the USPTO Director, through the Chief Administrative Patent Judge, the power to do just that. See Nidec Motor Corp. v. Zhongshan Broad Ocean Motor Co., 868 F.3d 1013, 1020 (Fed. Cir. 2017) (Dyk, J., conc.), cert. denied, 138 S. Ct. 1695 (2018); Tennessee v. U.S. Dep’t of Transp., 326 F.3d 729, 735 (6th Cir. 2003) (where decisionmaker “is a member of the executive branch charged with the duty of furthering the purpose of the federal legislation at issue” and “need not remain ‘insulated from political influence,’” no sovereign immunity applies).
+The Federal Maritime Commission’s ALJs are far closer to federal judges than the PTAB’s members. The Commission’s ALJs operated “free from pressures by the parties or other officials within the agency.”
+22
+
+Case: 18-1559	Document: 72 Page: 41 Filed: 07/31/2018
+FMC, 535 U.S. at 756 (quoting Butz v. Economou, 438 U.S. 478, 513 (1978)). As an independent agency, the Commission is governed by individuals chosen to achieve a partisan balance. 46 U.S.C. §§ 301(a) (independent agency), (b)(1) (at least two Commissioners from each political party). There is no such partisan balance required in the USPTO, and the USPTO Director is a political appointee. 35 U.S.C. § 3(a). The ALJs in the proceeding at issue in FMC also had similar powers to an Article III judge—they could issue reparations orders, for instance, or assess civil penalties. FMC, 535 U.S. at 756-59. By contrast, PTAB members have only a limited slate of remedies at their disposal—they may only issue a certificate cancelling or amending a patent claim. Saint Regis Mohawk Tribe, slip op. at 12 (Dyk, J., conc.).
+The second “procedural similarity,” OB30, that UMN identifies is that IPR has “the same procedural safeguards as in FMC.” OB33. But very few of the “procedural safeguards” listed by UMN apply in IPR. Though a party can theoretically present its case via oral evidence, as in FMC, Saint Regis Mohawk Tribe explained that “[v]ery seldom do IPR proceedings have the hallmarks of what is typically thought of as a trial.” Saint Regis Mohawk Tribe, slip op. at 10 (quoting Ultratec, Inc.,
+23
+
+Case: 18-1559	Document: 72 Page: 42 Filed: 07/31/2018
+872 F.3d at 1270). As noted above, the triers of fact in IPR are not “insulated from political influence.” FMC, 535 U.S. at 757. And whereas parties in a district court case may litigate for as many years as they have grounds to do so, IPR must conclude within very strict time limits. 35 U.S.C. §§ 314(b), 316(a)(11). The key “procedural safeguards” in civil litigation thus are largely inapplicable in IPR.
+Last, UMN claims that IPR impinges on sovereign immunity because “IPR’s rules and procedures result in a proceeding that resembles federal court litigation,” citing the discovery practices of and the pleadings filed in IPR. OB33.
+Again, UMN misses the mark. Saint Regis Mohawk Tribe concluded that the discovery practices of IPR are not at all similar to the discovery practices in civil litigation. See above at 19-20. And although limited pleadings are filed in IPR, there are important differences between IPR pleadings and those filed in district court. For instance, though a petition in IPR may superficially resemble a complaint in district court, it operates differently, because a petition alone cannot trigger IPR, unlike a complaint in district court or in the Commission proceedings at issue in FMC. Above at 16-18. The patent
+24
+
+Case: 18-1559	Document: 72 Page: 43 Filed: 07/31/2018
+owner’s preliminary response is also quite different from an answer in district court. A failure to file a preliminary response cannot result in a default judgment as might a failure to file an answer in district court or in the proceedings at issue in FMC. Compare 35 U.S.C. §§ 313 (preliminary response optional), 316(e) (burden of establishing unpatentability remains on petitioner) with Fed. R. Civ. P. 55; FMC, 535 U.S. at 757. And many of the pleadings available in district court and that were available in the Commission proceeding in FMC are not cognizable in IPR. There is no such thing as a counterclaim, for example, in IPR, whereas the Commission proceedings in FMC allowed for this staple of civil litigation. Compare 35 U.S.C. § 311 (requiring that IPR proceeding address a single patent); § 314(a) (allowing IPR proceedings to be instituted only on the basis of such a single-patent petition) with FMC, 535 U.S. at 757; Fed. R. Civ. P. 13.
+So even if the entire panoply of similarities between civil litigation and the proceedings at issue in FMC could be boiled down to just these three, see OB30, none of the similarities actually obtain as between
+25
+
+Case: 18-1559	Document: 72 Page: 44 Filed: 07/31/2018
+either IPR and civil litigation or IPR and the proceedings at issue in FMC.4
+
+4.	UMN misapplies Vas-Cath and SAS. Faced with the reality that IPR is not civil litigation, the Saint
+Regis Mohawk Tribe fell back on Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376 (Fed. Cir. 2007), and SAS Institute Inc. E.g., Brief of Appellants at 20, 24, Saint Regis Mohawk Tribe, No. 18-1638 (Fed. Cir. Apr. 18, 2018), Doc. No. 52; Reply Brief of Appellant at 1-4, Saint Regis Mohawk Tribe (Fed. Cir. May 18, 2018), Doc. No. 110. Saint
+4 UMN also produces a lengthy list of other supposed similarities that IPR shares with civil litigation. OB25-27. For instance, UMN notes that IPR is “defined as a ‘contested case.’” OB25 (citing 37 C.F.R. § 42.2). But the Supreme Court has noted that the label “case” does not mean that a proceeding must look anything like what happens in federal court. See, e.g., Lujan, 504 U.S. at 559 (though the Constitution “limits the jurisdiction of federal courts to ‘Cases’ and ‘Controversies,’” those terms are not self-defining; “an executive inquiry can bear the name ‘case’ (the Hoffa case)”). UMN also notes that, by statute, estoppel effects may attach to final written decisions. OB27 (citing 35 U.S.C. §§ 315(a)(1)-(2), (e)(2); 37 C.F.R. § 42.73(d)(3)). But the estoppel effects of IPR must be specified by statute precisely because IPR does not resemble civil litigation. Estoppel effects attach by common law to any final decision of an agency proceeding where “the parties have had an adequate opportunity to litigate.” See Univ. of Tenn. v. Elliott, 478 U.S. 788, 796-98 (1986). The statute would not need to say anything about estoppel if, in fact, IPRs fell within the well-established rule for agency proceedings that provide such an “opportunity to litigate.” Id.
+26
+
+Case: 18-1559	Document: 72 Page: 45 Filed: 07/31/2018
+Regis Mohawk Tribe gave those arguments the back of the hand; the opinion does not mention Vas-Cath, and cites SAS Inst. only to acknowledge that, while IPR is “more like an agency enforcement action than a civil suit brought by a private party,” it had some similarities with the latter. Slip op. at 7-8. UMN invokes the same pair of cases. This Court should follow Saint Regis Mohawk Tribe and disregard those meritless arguments.
+First, UMN argues that this Court already has settled the issue by its decision in Vas-Cath. OB17, 30-32. But Vas-Cath stands for the proposition that sovereign immunity is waived as to any proceeding, even an admittedly judicial proceeding, that is part and parcel of a “statutory system” for resolving the state’s affirmative claims. 473 F.3d at 1383. And here, IPR is an integral part of the system for resolving UMN’s infringement actions. See below at § II.
+In passing, Vas-Cath noted that interference proceedings bear “‘strong similarities’ to civil litigation.” 473 F.3d at 1382-83. But the decision did not conclude that the waiver was somehow stronger because the USPTO proceedings resembled civil litigation. Therefore, the question whether sovereign immunity attached to the interference
+27
+
+Case: 18-1559	Document: 72 Page: 46 Filed: 07/31/2018
+proceeding was not part of the holding—whether it attached or not, it had been waived.
+In any case, IPR is very different from an interference proceeding. An interference proceeding is a classically adverse procedure between two parties—the point is to decide which of two competing inventors gets to own a patent, and it requires the presence of both parties. Id. at 1378. Vas-Cath therefore has no bearing on the question whether IPR is the sort of proceeding that impinges on sovereign immunity.
+UMN also points to language in SAS Inst., 138 S. Ct. at 1352-53, explaining that IPR “mimics civil litigation” and is “a good deal more like civil litigation” than previous forms of reexamination. See OB24-26. Again, UMN’s reliance on SAS Inst. is unhelpful, this time in at least two respects.
+First, the portions of SAS Inst. that UMN cites have no direct relevance here. The fact that IPR looks “more like civil litigation” than predecessor proceedings does not mean that IPR looks “overwhelmingly similar” to civil litigation as would be necessary to fall under FMC. As Saint Regis Mohawk Tribe explained, “[t]he mere existence of more inquisitorial proceedings in which immunity does not apply does not
+28
+
+Case: 18-1559	Document: 72 Page: 47 Filed: 07/31/2018
+mean that immunity applies in a different type of proceeding before the same agency.” Slip op. at 11; see also slip op. at 11 (Dyk, J., conc.) (“While inter partes review has some features similar to civil litigation, at its core, it retains the purpose and many of the procedures of its reexamination ancestors, to which everybody agrees sovereign immunity does not apply.” (citation omitted)).
+Second, the portions of SAS Inst. highlighted by UMN are not controlling on this Court, especially in light of the holding in Oil States. The Supreme Court is “not bound to follow [its] dicta in a prior case in which the point now at issue was not fully debated.” Central Va. Cmty. Coll. v. Katz, 546 U.S. 356, 363 (2006). SAS Inst. construed a statute requiring the USPTO to “issue a final written decision with respect to the patentability of any patent claim challenged by the petitioner.” It held that the statute required the USPTO to issue a final written decision on all claims. 138 S. Ct. at 1353 (quoting 35 U.S.C. § 318(a)). The Court did not need to look to the form of IPR to make that determination. As the opinion states at the outset, “[t]he statute, we find, supplies a clear answer.” Id.; see also id. at 1354 (“We find that the plain text of § 318(a) supplies a ready answer.”). Accordingly, when
+29
+
+Case: 18-1559	Document: 72 Page: 48 Filed: 07/31/2018
+the Court characterized IPR as “more like civil litigation” than IPR’s predecessor regimes when, see id. at 1353, that characterization formed no part of the analysis—the holding was based on the text and structure of the statute, and even if IPR looked nothing like civil litigation, the Court’s holding would still apply.
+Contrast this portion of SAS Inst. with the language in Oil States establishing that IPR is a reconsideration by the USPTO of the issuance of a public franchise. Whereas the question in SAS Inst. turned on the text and structure of the statute, the issue in Oil States—whether housing IPR in the executive branch violated Article III—turned on the precise nature of IPR. “Public rights cases”—those disputes arising between the Government and others—may be adjudicated by administrative agencies; “private rights” cases may not. Oil States, 138 S. Ct. at 1373. In order to uphold IPR as constitutional, then, the Supreme Court was obliged to ascertain whether IPR was in fact a dispute between private parties or merely a reconsideration of the decision to grant the patent. Id.
+Oil States does not, of course, definitively answer the question whether IPR infringes upon sovereign immunity. See FMC, 535 U.S. at
+30
+
+Case: 18-1559	Document: 72 Page: 49 Filed: 07/31/2018
+754 (administrative procedure may comply with Article III but still impinge on sovereign immunity). But when Oil States teaches that “[i]nter partes review is ‘a second look at an earlier administrative grant of a patent,’” 138 S. Ct. at 1374 (quoting Cuozzo, 136 S. Ct. at 2144), that statement is binding as necessary to Oil States’ holding where SAS Inst.’s statements about civil litigation are not.
+*	*	*
+As Saint Regis Mohawk Tribe noted, “the precise contours of tribal sovereign immunity differ from those of state sovereign immunity.” Slip op. at 6. For instance, tribal sovereign immunity may be more difficult to waive than state sovereign immunity because tribal issues “do not involve the Eleventh Amendment—a specific text with a history that focuses upon the state’s sovereignty vis-á-vis the Federal Government”—and because of the “special circumstance[]” of “an effort to protect an Indian tribe.” Lapides, 535 U.S at 623. And tribes may have broader sovereign immunity than states when it comes to commercial suits or suits outside of the tribe’s home court. See Kiowa Tribe v. Mfg. Techs., Inc., 523 U.S. 751, 765 (1998) (Stevens, J.,
+31
+
+Case: 18-1559	Document: 72 Page: 50 Filed: 07/31/2018
+dissenting) (“Why should an Indian tribe enjoy broader immunity than the States, the Federal Government, and foreign nations?”).
+But any differences between state and tribal immunity are relevant to whether tribes should have immunity in IPR, not whether states should. Saint Regis Mohawk Tribe concluded that IPR is not civil litigation under FMC; whether or not FMC applies with full force to tribes, it certainly applies to states. Saint Regis Mohawk Tribe held that IPR does not sufficiently resemble civil litigation to fall within the FMC exception to the general rule that states are not immune from administrative proceedings. That holding decides this case.
+B.	Even if IPR were “overwhelming[ly]” similar to civil litigation, sovereign immunity still would not attach.
+Not all forms of civil litigation impinge on a state’s sovereign immunity. States have no immunity against litigation by the federal government. § I.B.1. And because IPR is in rem, it does not impinge on sovereign immunity even if it resembles civil litigation. § I.B.2. This Court can thus hold that states may not assert immunity in IPR without addressing the differences between IPR and civil litigation identified in Saint Regis Mohawk Tribe.
+32
+
+Case: 18-1559	Document: 72 Page: 51 Filed: 07/31/2018
+1.	IPR is a proceeding by the federal government, not by a private party.
+“In ratifying the Constitution, the States consented to suits brought by ... the Federal Government.” Alden v. Maine, 527 U.S. 706, 755-56 (1999). There is no dispute that the federal government could sue a state in a federal court over any federal cause of action without impinging on the state’s sovereign immunity. See Principality of Monaco v. Mississippi, 292 U.S. 313, 329 (1934) (collecting cases). And the federal government could sue a state without infringing sovereign immunity even if the basis for that suit were a complaint by a private party. See FMC, 535 U.S. at 768 (“The FMC, for example, remains free to investigate alleged violations of the Shipping Act, either upon its own initiative or upon information supplied by a private party, and to institute its own administrative proceeding against a state-run port.” (citations omitted)); Conn. Dep’t of Envtl. Prot. v. O.S.H.A., 356 F.3d 226, 234 (2d Cir. 2004).
+IPR is a proceeding instituted and maintained by the federal government. See Saint Regis Mohawk Tribe, slip op. at 11 (“[T]he USPTO is acting as the United States in its role as a superior
+sovereign.”); Oil States, 138 S. Ct. at 1378 n.5 (“[I]nter partes review is
+33
+
+Case: 18-1559	Document: 72 Page: 52 Filed: 07/31/2018
+not initiated by private parties in the way that a common-law cause of action is.”). The statutory scheme, the purpose of IPR, and historical precedent all confirm as much.
+As explained above at § I.A.2, the statutory structure of IPR privileges the federal government; the private parties are not core to the proceedings. Virtually anyone can file a petition to trigger IPR. See Saint Regis Mohawk Tribe, slip op. at 12 (Dyk, J., conc.). That is because it is the public’s interest to confine a patent to its proper scope that is being adjudicated, not any individual’s stake in a patent. The USPTO also has entirely unfettered—and unreviewable—discretion to decide not to institute proceedings on a private party’s petition. Id. at 8; see above at 16-18. In that sense, IPR functions very much like other administrative enforcement actions—the executive exercises unreviewable discretion over whether to initiate a prosecution. Cuozzo, 136 S. Ct. at 2140. Moreover, there need not be two adverse parties for IPR to proceed. See above at 18. In short, IPR is structured to allow the federal government, not a private petitioner, to direct its course.5
+
+5 UMN claims that SAS Inst. “rejected the notion that an IPR is directed or controlled by the PTO or the Board.” OB38. But the Court
+34
+
+Case: 18-1559	Document: 72 Page: 53 Filed: 07/31/2018
+These features of IPR also make clear that the purposes behind the federal government exception to sovereign immunity are being served by IPR. Suits by the federal government differ from suits by private parties in two key ways: They “require the exercise of political responsibility,” and they are commenced “by those who are entrusted with [a] constitutional duty.” Alden, 527 U.S. at 755-56.
+As to the first, the federal government’s discretion to decline to institute proceedings on even the most meritorious of petitions creates political accountability. See above at 16-18; Saint Regis Mohawk Tribe, slip op. at 8. By contrast, where the federal government does not have that discretion, it does not “exercise political responsibility for such
+was presented with no such question in SAS Inst. 138 S. Ct. at 1355. There was no dispute in SAS Inst. that the Director had total discretion over whether to institute review. Id. And once review is initiated, SAS Inst. casts no doubt on the proposition that the agency can continue the proceedings in the absence of a petitioner. So even though, as the Supreme Court explained, “it’s the petitioner, not the Director, who gets to define the contours of the proceeding” at the very start of the case, it is the Director who decides whether the case proceeds and, in the event the parties settle, even what evidence is considered. Id. at 1355-56. Just because the government learns of an issue necessitating federal action—in this case, invalid patents—from a member of the public does not make a subsequent proceeding any less one initiated by the federal government. E.g. Conn. Dep’t of Health, 356 F.3d at 228.
+35
+
+Case: 18-1559	Document: 72 Page: 54 Filed: 07/31/2018
+complaints, but instead has impermissibly effected a broad delegation to private parties to sue nonconsenting states.” FMC, 535 U.S. at 764.
+And as to the second, the federal government’s participation in IPR ensures that IPR benefits the public, in keeping with “the constitutional duty to ‘take Care that the Laws be faithfully executed.’” Alden, 527 U.S. at 755 (quoting U.S. Const. art. II, § 3). The goal of IPR is to “protect the public interest in keeping patent monopolies ‘within their legitimate scope.’” Saint Regis Mohawk Tribe, slip op. at 11 (quoting Cuozzo, 136 S. Ct. at 2144); see Oil States, 138 S. Ct. at 1378 (“It remains a matter involving public rights, one between the government and others.” (quotation marks omitted)). IPR implicates the federal government’s “obligation to protect the public” from improperly issued patents, rather than two private actors’ obligations to each other. United States v. Am. Bell Tel. Co., 128 U.S. 315, 357, 367 (1888). Thus IPR, like other proceedings by the federal government, “differs in kind from the suit of an individual.” Alden, 527 U.S. at 755.
+IPR’s historical antecedents confirm that IPR is a matter between the federal government and a patent owner, not between private parties. In England, at the time of the Founding, patents were revoked
+36
+
+Case: 18-1559	Document: 72 Page: 55 Filed: 07/31/2018
+by two mechanisms: The Privy Council, a wholly executive body, or via a writ of scire facias in the Court of Chancery, which more closely resembled litigation. Oil States, 138 S. Ct. at 1376. Like IPR, the Privy Council revocation proceeding began with a petition and was prosecuted by the Attorney General for the Crown. Id. at 1377. But even the writ of scire facias was not litigated entirely by a private party. Instead, “the Attorney General was a party to a scire facias action, because the Crown was thought to have an interest in the question of whether the King’s grant would be revoked.” Mark A. Lemley, Why Do Juries Decide If Patents are Valid?, 99 Va. L. Rev. 1673, 1696 (2013). Although any citizen could bring a scire facias action in the name of the King, the Attorney General had to first approve the proceeding and could subsequently be a party. Id. at 1683 & n.40 (citing William Hands, The Law and Practice of Patents for Inventions 16 (London, W. Clarke & Sons 1808)). The practice in the early days of the United States was similar. Revocations in the United States, “while proceedings brought by private complainants, required the participation of the government.” Id. at 1696-97. Like IPR today, revocation proceedings for the past several centuries have ensured that the dispenser of the patent—the
+37
+
+Case: 18-1559	Document: 72 Page: 56 Filed: 07/31/2018
+King in 17th-century England or the federal government in the 18th-century United States—served as a party to the proceedings.
+To the extent IPR resembles a civil suit, then, it resembles a suit commenced and prosecuted by the federal government, against which the states have no immunity. This Court may thus hold, consistently with Saint Regis Mohawk Tribe, that IPR does not infringe sovereign immunity even if it does not reach the question whether IPR resembles civil litigation.
+2.	IPR is in rem, not in personam.
+“[T]he Supreme Court has held that ‘adversarial proceedings’ that
+do not involve the exercise of personal jurisdiction do not necessarily raise sovereign immunity concerns.” Saint Regis Mohawk Tribe, slip op. at 12-13 (Dyk, J., conc.) (citing Tenn. Student Assistance Corp. v. Hood, 541 U.S. 440, 448 (2004)). Where jurisdiction is predicated on a piece of property—a res—and that in rem jurisdiction is unquestioned, the Supreme Court has found that civil litigation does not impinge on a state’s sovereign immunity. Hood, 541 U.S. at 446-47.
+That principle holds even where the procedure for adjudicating rights to the res looks precisely like the sort of adversarial civil
+38
+
+Case: 18-1559	Document: 72 Page: 57 Filed: 07/31/2018
+litigation proceeding that the Eleventh Amendment abhors. The usual attributes of civil litigation—the issuance of process and so on—are “normally an indignity to the sovereignty of a State.” Id. at 453. But that is only so where a federal court purports to establish personal jurisdiction over a state. An in rem action, by contrast, has no such jurisdiction.
+For example, an adversary proceeding against a state in bankruptcy court to resolve the dischargeability of a debt—complete with a complaint (one that opens the proceeding without any further action from the federal government), summons, and discovery—does not infringe on sovereign immunity. Id. at 451-52. “A debtor does not seek monetary damages or any affirmative relief from a State by seeking to discharge a debt; nor does he subject an unwilling State to a coercive judicial process. He seeks only a discharge of his debts.” Id. at 450. The dissenting justices in Hood argued that the adversarial proceeding fell under the rule in FMC. Id. at 457-58 (Thomas, J., dissenting) (“The similarities between adversary proceedings in bankruptcy and federal civil litigation are striking.”). The majority did not dispute that the proceeding looked virtually identical to a civil trial. Id. at 452-53.
+39
+
+Case: 18-1559	Document: 72 Page: 58 Filed: 07/31/2018
+Instead, it held that “there is no need to engage in a comparative analysis to determine whether the adjudication would be an affront to states’ sovereignty.... Our precedent has drawn a distinction between in rem and in personam jurisdiction, even when the underlying proceedings are, for the most part, identical.” Id. Sovereign immunity therefore did not apply.
+Similarly, a district court proceeding initiated by a private party to adjudicate title to a shipwreck against, among others, the state of California did not infringe on California’s sovereign immunity because the court’s jurisdiction was based on the res—the shipwreck—rather than any in personam control over the state itself. California v. Deep Sea Research, Inc., 523 U.S. 491, 494 (1998). As the Court said, “[i]n such a case the court need not depend upon the good will of a state claiming an interest in the thing to enable it to execute its decree. All the world are parties to such a suit, and of course are bound by the sentence. The State may interpose her claim and have it decided. But she cannot lie by, and, after the decree is passed say that she was [not] a party, and therefore not bound, for want of jurisdiction in the court.” Id. at 502-03 (quoting United States v. Bright, 24 F. Cas. 1232, 1236,
+40
+
+Case: 18-1559	Document: 72 Page: 59 Filed: 07/31/2018
+No. 14,647 (CC Pa. 1809)). The proceeding’s in rem character meant that sovereign immunity did not attach, even though the proceeding at issue not only had “overwhelming similarities” to federal court proceedings (as in FMC), but in fact was a federal court proceeding.
+Like the dischargeability proceedings in Hood and the shipwreck title suit in Deep Sea, IPR has all the hallmarks of an in rem action, meaning that sovereign immunity does not attach.
+First, IPR is in rem because the USPTO cannot exercise in personam jurisdiction. See Hood, 541 U.S. at 453-54; Saint Regis Mohawk Tribe, slip op. at 12 (Dyk, J., conc.) (IPR “does not involve exercise of personal jurisdiction over the patent holder”). Federal regulations give the PTAB jurisdiction “over every involved application and patent during the proceeding,” not over any applicant or patent holder. 37 C.F.R. § 42.3(a); see also 37 C.F.R. § 42.2 (“proceeding” includes IPR). A petitioner files a petition to “institute an inter partes review of the patent,” not of the patent owner. 35 U.S.C. § 311(a). There are no consequences if the patent owner does not participate in IPR. See 35 U.S.C. §§ 311-319. Like in a bankruptcy proceeding, where the burden of dischargeability remains on the debtor whether or
+41
+
+Case: 18-1559	Document: 72 Page: 60 Filed: 07/31/2018
+not a state creditor participates, the burden of proving unpatentability remains on the petitioner whether or not a state patent owner participates. See 35 U.S.C. §§ 313, 316(e). In fact, jurisdiction in IPR differs even more from in personam jurisdiction than the jurisdiction at issue in bankruptcy proceedings. In the latter, judges are authorized to issue summons, “normally an indignity to a State’s sovereignty,” whereas the USPTO can do no such thing. Hood, 541 U.S. at 441.
+As with a bankruptcy proceeding, a state may be better able to protect its interests—there, against a determination of dischargeability, and in the IPR context, against a finding of unpatentability—if it voluntarily chooses to submit to the jurisdiction of the in rem court. But because the proceeding is predicated on in rem jurisdiction, there is no way to coerce a state to show up. (Contrast that regime with the adjudications at issue in FMC, where the state was “required to defend” itself. 535 U.S. at 762.)
+Second, IPR may end in a cancellation certificate that operates not against the patent owner, but instead as to the patent itself. Instead of allocating rights between two private parties, IPR, like other in rem proceedings, results in judgments in rem that “bind[] all the world.”
+42
+
+Case: 18-1559	Document: 72 Page: 61 Filed: 07/31/2018
+Becher v. Contoure Labs., Inc., 279 U.S. 388, 391-92 (1929). However often a patent changes hands, an unpatentability determination will not change. Just as a bankruptcy court is “able to provide [a] debtor a fresh start, even if all of his creditors do not participate, because the court’s jurisdiction is premised on the debtor and his estate, not on the creditors,” so, too, does IPR bind non-participating parties because the USPTO’s jurisdiction is premised on the patent, not the patent owner. Hood, 541 U.S. at 440-41.
+Third, and conversely, the USPTO cannot issue other kinds of remedies in an IPR proceeding. IPR “does not make any binding determination regarding ‘the liability of [one party to another] under the law as defined.’” Oil States, 138 S. Ct. at 1378 (quoting Crowell v. Benson, 285 U.S. 22, 51 (1932)). IPR petitioners cannot seek damages or injunctive relief, and the patent holder’s conduct has no bearing on the outcome of the IPR. Saint Regis Mohawk Tribe, slip op. at 12 (“The only possible adverse outcome is the cancelation of erroneously granted claims.”). Because liability turns only on the nature of the res and the only remedies available are those that affect the res (i.e. cancellation), IPR is in rem.
+43
+
+Case: 18-1559	Document: 72 Page: 62 Filed: 07/31/2018
+History confirms that IPR should be thought of as in rem. In Oil States, the Supreme Court explained that intellectual property patents were similar to other patents to public franchises, such as a toll bridge or a railroad, for instance. Id. at 1378, 1382-83. Decrees validating or invalidating such patents are treated as judgments in rem. E.g., El Paso Brick Co. v. McKnight, 233 U.S. 250, 256-57 (1914); Becher, 279 U.S. at 391-92. And when the King avoided a grant, he often did so by “information in the nature of a quo warranto[,] which is a process in the nature of a proceeding in rem.” Polk’s Lessee v. Wendal, 13 U.S. (9 Cranch) 87, 92 (1815). Cancellation of a public grant—whether to land or to exclusive use of an invention—has always been thought of as an in rem action, and IPR is no exception.
+Because patents are quintessentially in rem—“a right in rem to exclude, without a physical object or content”—a proceeding like IPR, which only operates against the patent, not against the patent owner, does not infringe on sovereign immunity. See Holmes-Pollock Letters 53 (Mark DeWolfe Howe ed., 1942).
+*	*	*
+44
+
+Case: 18-1559	Document: 72 Page: 63 Filed: 07/31/2018
+This Court should find that Saint Regis Mohawk Tribe decides this case and that IPR does not impinge on state sovereign immunity. Saint Regis Mohawk Tribe identified key differences between IPR and civil litigation, differences that did not obtain in FMC. And if IPR resembles civil litigation at all, it resembles civil litigation by the federal government against a res—the patent—rather than civil litigation by a private party against a state. In such litigation, sovereign immunity does not apply.
+II.	UMN Waived Any Immunity To Ericsson’s IPR Petitions By Asserting Patent Infringement Claims In District Court.
+This Court may also affirm on the ground relied on by the PTAB: Regardless of whether state sovereign immunity may extend to an IPR proceeding, UMN waived any such immunity here by litigating patent infringement claims against Ericsson. Appx24-28. The Supreme Court has long held that when a state litigates its own federal claim for relief, it waives immunity regarding the full claim resolution process— including all defensive measures. § II.A. Here, therefore, UMN’s waiver by litigation extends to Ericsson’s IPR petitions—defensive measures integral to resolving UMN’s infringement claims. § II.B.
+This Court’s distinguishable decisions in Tegic Communications Corp. v.
+45
+
+Case: 18-1559	Document: 72 Page: 64 Filed: 07/31/2018
+Board of Regents of the University of Texas System, 458 F.3d 1335 (Fed. Cir. 2006), and A123 Systems, Inc. v. Hydro-Quebec, 626 F.3d 1213 (Fed. Cir. 2010), cast no doubt on that conclusion. § II.C.
+A.	By asserting federal claims in district court, a state waives immunity to the federal statutory process for resolving claims.
+State sovereign immunity functions as a “shield” from the affirmative claims of private parties. Fitzpatrick v. Bitzer, 427 U.S. 445, 448 (1976); see above at § I.B.1. But as the Supreme Court has repeatedly explained, a state cannot use its immunity to gain a litigation advantage regarding the resolution of its own claim for federal relief. Put another way, states may not invoke immunity as a sword to advance their claims by altering the federal claim resolution process.
+1.	Clark, Gunter, Gardner, and Lapides hold that a state may not use sovereign immunity to gain a litigation advantage regarding the resolution of its own federal claim.
+The Supreme Court’s waiver-by-litigation rule is long-standing. In Clark v. Barnard, 108 U.S. 436 (1883), private plaintiffs sued a state official to recover a monetary sum. Rather than “appear[] only to protest against the exercise of jurisdiction by the court,” the state went on the offensive, intervening to assert a competing claim to the money.
+46
+
+Case: 18-1559	Document: 72 Page: 65 Filed: 07/31/2018
+Id. at 448. In doing so, the state “waive[d]” immunity from the plaintiff’s “adverse” claim. Id. at 447-48. Having voluntarily “appeared in the cause and presented and prosecuted a claim to the fund in controversy,” the state “made itself a party to the litigation to the full extent required for its complete determination”—including its adversary’s counterarguments. Id. at 448 (emphasis added). The Court reiterated that distinction in Gunter v. Atlantic Coast Line Railroad, 200 U.S. 273 (1906), emphasizing that “where a state voluntarily becomes a party to a cause, and submits its rights for judicial determination, it will be bound thereby, and cannot escape the result of its own voluntary act by invoking the prohibitions of the 11th Amendment.” Id. at 284.
+The Court also enforced the same rule in Gardner v. New Jersey, 329 U.S. 565 (1947). There, a state filed a proof of claim in a bankruptcy proceeding but then invoked immunity to quash adjudication of the trustee’s objections. Id. at 570-71. The Court rejected that tactic, holding that regardless of governmental affiliation, “he who invokes the aid of the bankruptcy court by offering a proof of claim and demanding its allowance must abide the consequences of that
+47
+
+Case: 18-1559	Document: 72 Page: 66 Filed: 07/31/2018
+procedure.” Id. at 573. Thus, “[w]hen the State becomes the actor and files a claim against the fund it waives any immunity which it otherwise might have had respecting the adjudication of the claim”— including the trustee’s efforts to defeat it. Id. at 574.
+Most recently, Lapides reaffirmed the broad scope of waiver by litigation. There, a defendant state elected to remove a state-court dispute to federal court, seeking certain benefits of the federal forum— including more “generous interlocutory appeal provisions” for its employees who were named as co-defendants. 535 U.S. at 616, 621. When the state’s adversary pressed its claims in federal court, however, the state argued that it remained immune from federal jurisdiction notwithstanding its own successful removal motion. Id. at 616. The Court disagreed. Having “voluntarily” asserted that the case should be resolved in federal court, the state had to abide federal jurisdiction in full. Id. at 620.
+In so holding, Lapides underscored the shield-not-sword distinction established in Clark, Gunter, and Gardner. It warned that “a Constitution that permitted States to follow their litigation interests” by selectively invoking immunity “could generate seriously unfair
+48
+
+Case: 18-1559	Document: 72 Page: 67 Filed: 07/31/2018
+results.” Id. at 619. And it confirmed that the waiver-by-litigation doctrine prevents such tactical unfairness. “[W]aiver in the litigation context,” the Court concluded, “rests upon the [Eleventh] Amendment’s presumed recognition of the judicial need to avoid inconsistency, anomaly, and unfairness, and not upon a State’s actual preference or desire, which might, after all, favor selective use of ‘immunity’ to achieve litigation advantages.” Id. at 620.6
+
+College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board, 527 U.S. 666 (1999), is not to the contrary. UMN’s opening brief repeatedly quotes that case for the proposition that “‘evenhandness’ [sic] between individuals and States is not to be expected.” OB8, 16, 37, 54 (quoting Coll. Savings, 527 U.S. at 685). But College Savings did not endorse unevenness in the way individuals and states litigate their own affirmative claims—the type of mismatch that UMN seeks here. It held only that when individuals and states both act
+6 Lapides recognized that, as UMN notes, a state’s waiver of sovereign immunity must be “clear.” Id. at 620; see OB36. But it emphasized that “[t]he relevant ‘clarity’” under the waiver-by-litigation doctrine “must focus on the litigation act the State takes,” and not the state’s subjective intentions. 535 U.S. at 620. UMN clearly waived immunity here by prosecuting a suit for patent infringement.
+49
+
+Case: 18-1559	Document: 72 Page: 68 Filed: 07/31/2018
+as non-litigating “market participants,” their corresponding exposure to the affirmative claims of others may be uneven because the states’ immunity generally shields them from liability. 527 U.S. at 684-86. That holding sheds no light on the scope of waiver by litigation.7 See Arecibo Cmty. Health Care, Inc. v. Puerto Rico, 270 F.3d 17, 27 (1st Cir. 2001) (“Nothing in College Savings purports to restrict the constitutionally permissible scope of waiver triggered by the state’s invocation of the jurisdiction of a federal court.”).
+Recognizing as much, this Court has relied solely on Lapides and its predecessors when applying the waiver-by-litigation doctrine. For example, Genentech, Inc. v. Eli Lilly & Co., 998 F.2d 931 (Fed. Cir. 1993),8 and Regents of University of New Mexico v. Knight, 321 F.3d 1111 (Fed. Cir. 2003), held that when a state files a claim in district court, its waiver by litigation extends not only to its adversary’s
+7 UMN suggests that College Savings Bank bears on whether it “waived its sovereign immunity merely by applying for and obtaining the Challenged Patents.” OB38. But that issue is beside the point; UMN waived immunity here through its affirmative litigation conduct.
+8 Genentech was later abrogated in part by Wilton v. Seven Falls Co., 515 U.S. 277 (1995), but its analysis of sovereign immunity remains good law. See Knight, 321 F.3d at 1125 n.10.
+50
+
+Case: 18-1559	Document: 72 Page: 69 Filed: 07/31/2018
+affirmative defenses, but also to compulsory counterclaims in recoupment.9 Knight, 321 F.3d at 1125; Genentech, 998 F.2d at 946. Such counterclaims offer an alternative means of defeating the state’s claim. They are thus integral to the claim resolution process and must be preserved to avoid the “seriously unfair results” that Lapides forecloses. Knight, 321 F.3d at 1124-25.10
+
+2.	A state may not use sovereign immunity to gain a litigation advantage regardless of the forum where the state files suit.
+UMN spends much of its brief attempting to rewrite the Supreme Court’s waiver-by-litigation precedents. It contends that Clark, Gunter, Gardner, and Lapides held that waiver by litigation applies only in the “chosen forum” where the state initially files. OB19, 44-47, 54. UMN goes so far as to label that the “traditional rule.” OB48. But the Supreme Court has never imposed such a forum-based restriction on
+9 Knight further held that a state’s waiver by litigation extends to other compulsory counterclaims that do not sound in recoupment. That separate conclusion is not directly implicated here. 321 F.3d at 112526.
+10 Other circuits have taken the same approach. See, e.g., Texas v. Caremark, Inc., 584 F.3d 655, 659 (5th Cir. 2009); In re Friendship Med. Ctr., Ltd., 710 F.2d 1297, 1301 (7th Cir. 1983).
+51
+
+Case: 18-1559	Document: 72 Page: 70 Filed: 07/31/2018
+the scope of waiver by litigation. It has held only that once a state submits its own affirmative claim for resolution, it must “abide the consequences,” Gardner, 329 U.S. at 573, by waiving immunity to the “full extent required for its complete determination,” Clark, 108 U.S. at 448. See above at 46-47. That rule is not limited to consequences within a particular forum. To the contrary: It is expansively worded, encompassing whatever proceedings may be necessary for the “complete determination” of the state’s claim, without qualification.
+Accordingly, this Court has repeatedly extended waiver by litigation beyond the forum where the state initially filed. As discussed above at 27-28, in Vas-Cath, a state university initiated an interference proceeding against a private patent holder before the USPTO. When the university prevailed before the agency, it attempted to block the private patent holder from appealing to federal district court, on the theory that the state had voluntarily appeared—and thus waived immunity—only before the USPTO. 473 F.3d at 1380-81. This Court disagreed. It held that the state’s waiver by litigation encompassed the full “statutory system” governing resolution of the state’s claim— including proceedings in federal court. Id. at 1383 (emphasis added).
+52
+
+Case: 18-1559	Document: 72 Page: 71 Filed: 07/31/2018
+Otherwise, this Court warned, the state could selectively foreclose portions of the statutory system that might not prove “favorable”— precisely what Lapides prohibits. Id. Thus, even though Vas-Cath sheds no light on whether IPR is overwhelmingly similar to civil litigation (see above at 28), it bears directly on the distinct waiver issue presented here by affirming that a state’s waiver by litigation encompasses statutorily intertwined administrative and district court proceedings.
+Regents of the University of California v. Eli Lilly & Co., 119 F.3d 1559 (Fed. Cir. 1997), further undermines UMN’s proposed rule that waiver is limited to the state’s chosen forum. There, a state university contended that its adversary could not move to transfer venue from California to Indiana district court because “by choosing to bring suit in ... California, it waived its Eleventh Amendment immunity only in California federal courts.” Id. at 1564. Again, this Court disagreed. It held that the defendant company was free to defend itself by transferring venue, notwithstanding the university’s sovereign immunity. Id. at 1564-65.
+53
+
+Case: 18-1559	Document: 72 Page: 72 Filed: 07/31/2018
+Biomedical Patent Management Corp. v. California Department of Health Services (“BPMC”), 505 F.3d 1328 (Fed. Cir. 2007), reaffirmed that a state’s waiver by litigation is not always limited to a single forum or proceeding. It emphasized that there is no “bright-line rule whereby a State’s waiver of sovereign immunity can never extend to a ... separate lawsuit.” Id. at 1339. Other circuits agree. See, e.g., In re Harleston, 331 F.3d 699, 703 (9th Cir. 2003) (“[W]hen, as here, the state files a proof of claim, it waives sovereign immunity with respect to an adversary proceeding arising from the same transaction or occurrence as that claim.”). As the Seventh Circuit recently put it, “a waiver of immunity in an initial proceeding extends to all ancillary proceedings that follow.” Bd. of Regents of Univ. Of Wis., 653 F.3d at 464.
+Faced with this case law, UMN resorts to quoting out of context the Supreme Court’s decision in Pennhurst State School & Hospital v. Halderman, 465 U.S. 89 (1984). UMN suggests that under Pennhurst, when a state elects to prosecute its own claim, it may control the scope of its waiver by litigation by choosing “where” its adversary can defend itself. See OB5, 16, 37, 55 (quoting Pennhurst, 465 U.S. at 99). But Pennhurst has nothing to do with waiver by litigation. The quoted
+54
+
+Case: 18-1559	Document: 72 Page: 73 Filed: 07/31/2018
+passage observes only that a state may expressly consent to the affirmative claims of private parties in its own courts while retaining immunity in federal court.11 See Pennhurst, 465 U.S. at 99-100 & n.9. As Lapides makes clear, waiver by litigation works differently: It is not defined by “a State’s actual preference or desire, which might, after all, favor selective use of ‘immunity’ to achieve litigation advantages.” 535 U.S. at 620.12
+
+B.	By asserting patent infringement claims in district court, a state waives immunity to a defendant’s IPR petition.
+Applying the waiver-by-litigation precedents of the Supreme Court and this Court, UMN recently acknowledged that a state could waive immunity from IPR proceedings by filing patent infringement claims in district court. In Reactive Surfaces Ltd. LLP v. Toyota Motor
+11 Relatedly, as UMN notes, a state may expressly consent only to bench trials, not jury trials, in its own courts. See OB56.
+12 Other cases that UMN cites alongside Pennhurst are irrelevant for the same reason. See United States v. Nordic Vill., Inc. 503 U.S. 30, 34 (1992) (construing United States’ statutory “consent to be sued”); Port Auth. Trans-Hudson Corp. v. Feeney, 495 U.S. 299, 307 (1990) (considering the extent of statutory “consent to suit”); Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 241 (1985) (interpreting consent-to-suit provision of California’s constitution).
+55
+
+Case: 18-1559	Document: 72 Page: 74 Filed: 07/31/2018
+Corp., a private party petitioned for an IPR of a patent that UMN co-owned. UMN moved to dismiss on sovereign immunity grounds. Seeking to allay concerns that its immunity might eventually yield unfair litigation advantages, UMN insisted that if it ever enforced the patent by filing an infringement action, it “could be deemed to have waived its sovereign immunity to the IPR process.” Reactive Surfaces, IPR2016-1914, Paper 23, at 19-20 (PTAB Mar. 3, 2017). UMN stressed that such a cross-forum waiver would be consistent with Lapides and BPMC, concluding: “As the Federal Circuit has made clear, there is ‘no bright-line rule’ that prevents waiver in one forum (e.g., a district court) from giving rise to waiver in another forum (e.g., an agency tribunal); rather, how far waiver will extend is dictated by the need to avoid ‘unfairness’ and ‘inconsistency.’” Id. at 19-20 n.3 (quoting BPMC, 505 F.3d at 1329; Lapides, 535 U.S. at 620).
+Now that UMN faces the consequences of such a cross-forum waiver, it has reversed course. See OB53. But it was right the first time. By litigating against Ericsson in district court, UMN waived immunity as to all defensive measures in the claim resolution process— including Ericsson’s defensive IPR petition.
+56
+
+Case: 18-1559	Document: 72 Page: 75 Filed: 07/31/2018
+1.	An IPR petition is an integral part of the statutory system for resolving patent infringement claims.
+IPR petitions are integral to the statutory system for resolving patent litigation. They are a “defensive measure” through which defendants may seek to avoid liability for alleged infringement—a complementary alternative to affirmative defenses and counterclaims. See WesternGeco LLC v. ION Geophysical Corp., 889 F.3d 1308, 1320 (Fed. Cir. 2018). That is clear from several features of IPR.
+First, service of a patent infringement complaint triggers a one-year window in which defendants may file IPR petitions, after which they waive the right to seek agency review. 35 U.S.C. § 315(b). For defendants, therefore, an IPR petition—much like a counterclaim in recoupment—is a core feature of the claim resolution process: a responsive filing that must be made at the outset of the state’s action, on pain of waiver.
+Second, the final decision in IPR resolves all validity issues “that the petitioner raised or reasonably could have raised” before the agency, estopping further litigation of those issues in district court. 35 U.S.C. § 315(e)(2). And it applies retroactively. See id. §§ 252, 318(c). The
+57
+
+Case: 18-1559	Document: 72 Page: 76 Filed: 07/31/2018
+“effects” of those estoppel provisions “are profound.” Shaw Indus. Grp., Inc. v. Automated Creel Sys., Inc., 817 F.3d 1293, 1305 (Fed. Cir.), cert. denied, 137 S. Ct. 374 (2016). They leave no doubt that a defendant’s IPR petition serves as an alternative means of resolving certain validity disputes between the parties to a patent infringement lawsuit. As the district court put it here, Ericsson’s requested IPR promises to “simplify the issues” by “shift[ing]” the “parties’ dispute ... temporarily from this forum to the USPTO.” Order, at 11-15, AT&T Mobility, No. 14-cv-4666. UMN ignores these estoppel provisions when it states, without elaboration, that “IPRs proceed independently of district court litigation, and can reach different results” that are “separately appealed.” OB 40-41. In fact, an IPR and district court litigation work in tandem under the AIA, with the outcome of the IPR controlling specific validity issues.
+As a defensive measure, IPR offers unique substantive and procedural features unavailable in district court proceedings. For one thing, it enables defendants to challenge a patent’s validity under a less demanding evidentiary standard: preponderance of the evidence, rather than the clear-and-convincing standard that applies to affirmative
+58
+
+Case: 18-1559	Document: 72 Page: 77 Filed: 07/31/2018
+defenses and counterclaims in district court. See Cuozzo, 136 S. Ct. at 2144; 35 U.S.C. § 316(e). Relatedly, the patentee in IPR does not benefit from the presumption of validity that applies to patents in district court—a presumption premised on the USPTO’s final approval of the patent. See Dynamic Drinkware, LLC v. Nat’l Graphics, Inc., 800 F.3d 1375, 1379 (Fed. Cir. 2015); 35 U.S.C. § 282. IPR is also typically faster and more affordable than district court litigation: The PTAB is ordinarily required to issue a written decision within twelve months. 35 U.S.C. § 316(a)(11). Finally, IPR is resolved in the first instance by administrative law judges who must possess not only “competent legal knowledge,” but also “scientific ability” that ensures expert analysis of prior art. Id. § 6.
+UMN attempts to marginalize the importance of these unique features by noting that “infringement litigation ... can be resolved without resort to ... IPR.” OB40. But the federal claim resolution process sweeps more broadly than that. By litigating infringement actions in district court, UMN voluntarily invoked a “patent system” whose “efficient and streamlined” procedures include defensive IPR petitions. H.R. Rep. No. 112-98, at 40 (2011). Foreclosing such
+59
+
+Case: 18-1559	Document: 72 Page: 78 Filed: 07/31/2018
+petitions would significantly tilt the playing field, compelling Ericsson to contest infringement with one hand tied behind its back.
+2.	Accordingly, the PTAB correctly held that UMN waived any immunity to Ericsson’s IPR petitions by asserting patent infringement claims in district court.
+Ericsson’s IPR petitions thus fall within the scope of UMN’s waiver by litigation. To hold otherwise, as UMN urges, would permit the “selective use of ‘immunity’”—and award the “unfair tactical advantages”—that Lapides forbids. 535 U.S. at 620-21. UMN voluntarily invoked the federal system for resolving patent disputes, seeking to benefit from the remedial provisions of federal law. Yet it simultaneously seeks to exempt itself from an accompanying statutory defense. And in blocking IPR, it also seeks to benefit in district court from a presumption of validity premised on the USPTO’s reasoned approval of its patents, while simultaneously prohibiting the agency from carefully scrutinizing the patents as it otherwise could. Sovereign immunity does not yield such inequitable results. Having litigated against Ericsson, UMN must “abide the consequences” of its courtroom conduct and submit to the full statutory claim resolution process—
+60
+
+Case: 18-1559	Document: 72 Page: 79 Filed: 07/31/2018
+including Ericsson’s defensive IPR petition. Gardner, 329 U.S. at 573; see Appx25-26.
+This Court’s precedents confirm that conclusion. Here, as in Vas-Cath, the governing statute provides for interlocking agency and judicial review. See above at 52-53. As a defendant in UMN’s infringement action, Ericsson is statutorily entitled to contest liability in both forums. UMN cannot use its sovereign immunity to constrain Ericsson’s defensive options to federal court alone, however “favorable” such a tactic might be. 473 F.3d at 1383.
+Moreover, as the PTAB emphasized, Ericsson’s IPR petitions function much like a compulsory counterclaim in recoupment. See Appx7-8. The petitions “arise from the same transaction or occurrence” and must be “be litigated together” with UMN’s infringement action on pain of waiver. Knight, 321 F.3d at 1125; 35 U.S.C. § 315(b). And the petitions “seek relief of the same kind or nature”—they aim only to defeat UMN’s affirmative claims, without imposing separate liability. Knight, 321 F.3d at 1124 (quotation marks omitted). Under Knight’s logic, therefore, Ericsson’s IPR petitions are subject to waiver by litigation. That is so not merely because the petitions were
+61
+
+Case: 18-1559	Document: 72 Page: 80 Filed: 07/31/2018
+“foreseeable,” as UMN mistakenly suggests, OB58, but because they are integral to the “single” statutory dispute resolution process “created by Congress ... under the AIA,” Appx9. UMN’s infringement action allowed Ericsson to petition for IPR, and UMN “cannot escape the result of its own voluntary act by invoking the prohibition of the Eleventh Amendment.” Knight, 321 F.3d at 1124 (quoting Gunter, 200 U.S. at 284).
+C.	UMN misreads Tegic and A123 Systems.
+In a final bid to escape waiver, UMN asserts that this Court’s
+decisions in Tegic and A123 Systems “resolve this case” in its favor. OB40. But as the PTAB recognized, those decisions merely establish narrow limits on the extension of waiver by litigation to non-parties and earlier-filed federal proceedings. They thus have no bearing here. Appx27.
+Tegic held only that a state’s waiver by litigation in an infringement action does not extend to a non-party that has made no effort to intervene. There, a state university sued dozens of defendants in Texas district court, alleging that they had infringed its patents by using certain software. 458 F.3d at 1338. Months later, non-party
+62
+
+Case: 18-1559	Document: 72 Page: 81 Filed: 07/31/2018
+Tegic filed a separate lawsuit in Washington district court for a declaratory judgment that the same software did not infringe the university’s patents. Id. at 1337.
+This Court held that the university’s waiver by litigation did not extend to Tegic’s distinct lawsuit—“a new action brought by a different party in a different state and a different district court.” Id. at 1343. The reason was simple: It was far from “clear” that Tegic played a “necessary” role in the state’s infringement dispute to begin with. Id. at 1343-44. The Court recognized that “the University obviously ‘made itself a party to the [Texas] litigation to the full extent required for its complete determination.’” Id. at 1343 (quoting Clark, 108 U.S. at 448). But as a non-party, Tegic was formally a stranger to that litigation. This Court invited Tegic to show otherwise by intervening in Texas district court—at which point it would benefit from the university’s waiver. Id. at 1344.
+Tegic thus confirms that Ericsson, having intervened in UMN’s district court case, benefits from UMN’s waiver by litigation. But the decision says nothing about the breadth of that waiver—the ways in which Ericsson, as a party, must be permitted to defend itself. It thus
+63
+
+Case: 18-1559	Document: 72 Page: 82 Filed: 07/31/2018
+lends no support to UMN’s efforts to confine its waiver to the forum where it initially filed.
+A123 Systems, in turn, decided only that when a state brings an infringement action, it does not retroactively waive immunity regarding an earlier-filed lawsuit in another district court. There, a state university granted a patent license to a private corporation. A third party, A123 Systems, then sued the corporation in Massachusetts district court, seeking a declaratory judgment of invalidity and noninfringement. 626 F.3d at 1215. Months afterward, the university and its licensee sued A123 Systems in Texas district court for patent infringement. Id. at 1216. The earlier-filed Massachusetts action was eventually dismissed. Sometime later, A123 Systems moved to reopen the Massachusetts action and join the university as a defendant. It argued that the university’s litigation in Texas effected a “retroactive waiver,” erasing the immunity that had initially foreclosed the Massachusetts action. Id. at 1219.
+This Court concluded that the university’s waiver by litigation had not traveled back in time to revive a defunct, earlier-filed lawsuit. Id. In so holding, the Court emphasized that A123 Systems would suffer no
+64
+
+Case: 18-1559	Document: 72 Page: 83 Filed: 07/31/2018
+unfairness if compelled to proceed solely in the Texas case. For one thing, because both cases were in district court and subject to identical procedural and substantive rules, A123 Systems could still raise precisely the same “noninfringement and invalidity” arguments, subject to the same legal standards. Id. at 1222. The only difference was the geographic location of the district court. And even that was not set in stone. See Eli Lilly, 119 F.3d at 1564-65 (motions to transfer venue not barred by state sovereign immunity).
+A123 Systems thus says nothing about the prospective scope of a state’s waiver by litigation—the issue here. And it gives no indication that such a waiver could not apply across federal and administrative forums under the AIA. To the contrary: A123 Systems approvingly cited BPMC, which emphasized that there is no “bright-line rule whereby a State’s waiver of sovereign immunity can never extend to a ... separate lawsuit.” BPMC, 505 F.3d at 1339; see A123 Systems, 626 F.3d at 1219. The decision also held that fairness concerns were minimal because A123 Systems could raise the same arguments, under the same legal standards, in either proceeding at issue. As the PTAB
+65
+
+Case: 18-1559	Document: 72 Page: 84 Filed: 07/31/2018
+emphasized, that would not be true here. IPR offers a set of procedural and substantive features unavailable in district court. See Appx9-10.
+* * *
+At bottom, UMN argues that Ericsson (and private defendants more broadly) must sacrifice the “procedural benefits” of IPR on the altar of state sovereign immunity. OB56. UMN notes that if Ericsson is constrained to defend itself only in district court, it will still have a chance to contest patent validity—just on less favorable terms. Id. In UMN’s view, that next-best scenario dispels any “fairness concerns” that might warrant application of the waiver-by-litigation doctrine. Id.
+What UMN describes, however, is exactly what Clark, Gunter, Gardner, Lapides, Knight, and Vas-Cath foreclose. When a state asserts its own affirmative claim, it cannot invoke immunity to gain “litigation advantages” by reshaping the terms on which the claim is resolved—however much it might “desire” that tactical edge. Lapides, 535 U.S. at 620. The state must instead submit to the federal claim resolution process in its entirety. Here, that process includes Ericsson’s defensive petitions for IPR. Even if state sovereign immunity may apply to IPR, therefore, it is waived in this case.
+66
+
+Case: 18-1559	Document: 72 Page: 85 Filed: 07/31/2018
+
+CONCLUSION
+For the foregoing reasons, this Court should affirm the PTAB’s
+denial of UMN’s motion to dismiss and remand for further proceedings.
+Respectfully submitted,
+/s/Mark S. Davies
+
+J. Andrew Lowes HAYNES & BOONE, LLP Suite 4000
+2505 N. Plano Road Richardson, TX 75082
+Debra Janece McComas HAYNES & BOONE, LLP Suite 700
+2323 Victory Avenue Dallas, TX 75219 
+
+Mark S. Davies
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+1152 15th Street NW Washington, DC 20005
+(202) 339-8400
+Easha Anand
+Will Melehani
+ORRICK, HERRINGTON &
+SUTCLIFFE LLP
+405 Howard Street
+San Francisco, CA 94105
+
+Edmund Hirschfeld
+ORRICK, HERRINGTON &
+SUTCLIFFE LLP
+51 West 52nd Street New York, NY 10019
+Counsel for Appellees Ericsson Inc. and Telefonaktiebolaget LM Ericsson July 31, 2018
+
+Case: 18-1559	Document: 72 Page: 86 Filed: 07/31/2018
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing with the Clerk of the Court for the United States Court of Appeals for the Federal Circuit by using the appellate CM/ECF system on July 31, 2018.
+I certify that all participants in the case are registered CM/ECF users and that service will be accomplished by the appellate CM/ECF system.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/Mark S. Davies
+Mark S. Davies
+Counsel for Appellees Ericsson Inc. and
+Telefonaktiebolaget LM Ericsson
+
+Case: 18-1559	Document: 72 Page: 87 Filed: 07/31/2018
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Fed. R. App. P. 32(a)(7)(B)(i) because this brief contains 13,429 words, excluding the parts of the brief exempted by Fed. R. App. P. 32(f).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and the type style requirements of Fed. R. App. P. 32(a)(6) because this brief has been prepared in a proportionally spaced typeface using Microsoft Word 2013 in Century Schoolbook 14-point font.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/Mark S. Davies
+Mark S. Davies
+Counsel for Appellees Ericsson Inc. and
+Telefonaktiebolaget LM Ericsson

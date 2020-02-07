@@ -1,0 +1,577 @@
+Case: 18-60522	Document: 00514822107 Page: 1 Date Filed: 02/04/2019
+Oral argument not yet scheduled
+No. 18-60522
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT 
+DISH NETWORK CORPORATION
+Petitioner/Cross-Respondent v.
+NATIONAL LABOR RELATIONS BOARD
+Respondent/Cross-Petitioner
+ON PETITION FOR REVIEW AND CROSS-APPLICATION
+FOR ENFORCEMENT OF AN ORDER OF
+THE NATIONAL LABOR RELATIONS BOARD
+BRIEF FOR
+THE NATIONAL LABOR RELATIONS BOARD
+KIRA DELLINGER VOL Supervisory Attorney
+DAVID CASSERLY Attorney
+National Labor Relations Board
+1015 Half Street, SE
+Washington, D.C. 20570
+(202) 273-0656
+(202) 273-0247
+PETER B. ROBB
+General Counsel
+JOHN W. KYLE
+Deputy General Counsel
+LINDA DREEBEN
+Deputy Associate General Counsel
+National Labor Relations Board
+
+Case: 18-60522	Document: 00514822107 Page: 2 Date Filed: 02/04/2019
+ORAL ARGUMENT STATEMENT
+The Board believes that this case involves the straightforward application of well-settled law to the facts. However, to the extent the Court believes that oral argument would be helpful or grants DISH’s request for oral argument, the Board requests the opportunity to participate.
+
+Case: 18-60522	Document: 00514822107 Page: 3 Date Filed: 02/04/2019
+TABLE OF CONTENTS 
+Headings:	Page(s)
+Jurisdictional statement	1
+Issues presented	2
+Statement of the case	3
+I. The Board’s findings of fact	3
+The parties begin negotiations; after a few years, the main area of
+of disagreement is employee compensation	3
+DISH makes “Final” contract proposal and demands written response before it will agree to continue bargaining; Union makes
+counterproposal and requests continued bargaining	5
+DISH refuses to meet after receiving the Union’s counterproposal,
+changes negotiators, and fails to set bargaining session	7
+DISH waits a year, reconnects with the Union, and declares impasse	8
+DISH fires employee without notifying the Union, contrary to parties’
+earlier agreement	9
+DISH tells some employees that the Union is gone and implements
+its final offer; employees quit en masse	9
+II. Procedural history	11
+III. The Board’s conclusion and order	12
+Summary of argument	14
+Standard of review	16
+Argument	17
+
+Case: 18-60522	Document: 00514822107 Page: 4 Date Filed: 02/04/2019
+
+TABLE OF CONTENTS 
+Headings-Cont’d:	Page(s)
+I. The Board is entitled to summary enforcement of the unchallenged
+portions of its order	17
+II. Substantial evidence supports the Board’s finding that Dish violated Section
+8(a)(5) and (1) of the Act	18
+An employer asserting impasse must show that neither party had
+any room for compromise so further negotiations would be futile	20
+The parties had not exhausted the possibility of agreement when
+DISH implemented its offer	22
+The Board neither erred in analyzing DISH’s attribution rates nor
+relied on circular reasoning in finding bad faith	28
+III. Substantial evidence supports the Board’s finding that Dish constructively
+discharged 17 employees in violation of Section 8(a)(3) and (1) of the
+Act	33
+Conclusion	43
+
+ii
+
+Case: 18-60522	Document: 00514822107 Page: 5 Date Filed: 02/04/2019
+TABLE OF AUTHORITIES 
+Cases:	Page(s)
+CalMat Co.,
+331 NLRB 1084 (2000)	21-22
+Carey Salt Co. v. NLRB,
+736 F.3d 405 (5th Cir. 2013)	21, 25, 26
+CJC Holdings, Inc., 320 NLRB 1041(1996), enforced mem.,
+110 F.3d 794 (5th Cir. 1997)	20
+Control Serv.,
+303 NLRB 481 (1991)	37, 40
+E. I. DuPont & Co.,
+268 NLRB 1075 (1984)	32
+Electric Machinery Co. v. NLRB,
+653 F.2d 958 (5th Cir. 1981)	38-41
+Ford Store San Leandro,
+349 NLRB 116 (2007)	32
+Goya Foods of Florida,
+347 NLRB 1118 (2006) enforced,
+525 F.3d 1117 (11th Cir. 2008)	37
+Gulf States Mfg., Inc. v. NLRB,
+704 F.2d 1390 (5th Cir. 1983)	21
+Hayward Dodge,
+292 NLRB 434 (1989)	22, 29
+Hoerner Waldorf Corp.,
+227 NLRB 612 (1976)	34
+Intercon I (Zercom),
+333 NLRB 223 (2001)	34
+iii
+
+Case: 18-60522	Document: 00514822107 Page: 6 Date Filed: 02/04/2019
+TABLE OF AUTHORITIES 
+Cases-Cont’d:	Page(s)
+Jano Graphics, Inc.,
+339 NLRB 251 (2003)	27
+Kinard v. DISH Network,
+Corp., 228 F.Supp.3d 771 (N.D. Tex. 2017)	12
+Kinard v. DISH Network,
+890 F.3d 608 (5th Cir. 2018)	 12, 37
+Litton Fin. Printing Div. v. NLRB,
+501 U.S. 190 (1991)	19
+Lively Electric,
+316 NLRB 471 (1995)	35, 40
+May Dep’t Stores Co. v. NLRB,
+326 U.S. 376 (1945)	38
+Metro. Edison Co. v. NLRB,
+460 U.S. 693 (1983)	34
+NLRB v. Clark Manor Nursing Home,
+671 F.2d 657 (1st Cir. 1982)	18
+NLRB v. Gen. Elec. Co.,
+418 F.2d 736 (2d Cir. 1969)	19
+NLRB v. Gen. Fabrications Corp.,
+222 F.3d 218 (6th Cir. 2000)	18
+NLRB v. Great Dane Trailers, Inc.,
+388 U.S. 26 (1967)	34-36, 42
+NLRB v. Haberman Const. Co.,
+641 F.2d 351 (5th Cir. 1981)	 34, 36, 41
+iv
+
+Case: 18-60522	Document: 00514822107 Page: 7 Date Filed: 02/04/2019
+TABLE OF AUTHORITIES 
+Cases-Cont’d:	Page(s)
+NLRB v. Herman Sausage Co.,
+275 F.2d 229 (5th Cir. 1960)	18
+NLRB v. Ins. Agents’ Int’l Union, AFL-CIO,
+361 U.S. 477 (1960)	19
+NLRB v. Katz,
+369 U.S. 736 (1962)	19
+NLRB v. Mooney Aircraft, Inc.,
+310 F.2d 565 (5th Cir. 1962)	17
+NLRB v. Pine Manor Nursing Home, Inc.,
+578 F.2d 575 (5th Cir. 1978)	18
+NLRB v. Powell Elec. Mfg. Co.,
+906 F.2d 1007 (5th Cir. 1990)	 19, 20, 22, 29
+NLRB v. Thermon Heat Tracing Servs., Inc.,
+143 F.3d 181 (5th Cir. 1988)	34
+NLRB v. U.S. Cold Storage Corp.,
+203 F.2d 924 (5th Cir. 1953)	26, 27
+NLRB v. Universal Packing & Gasket Co.,
+379 F.2d 269 (5th Cir. 1967)	16
+NLRB v. Wooster Div. of Borg-Warner Corp.,
+356 U.S. 342 (1958)	27
+Nexeo Solutions, LLC,
+364 NLRB No. 44, slip op. at 12 (2016)	23
+Penn Tank Lines, Inc.,
+336 NLRB 1066, 1067	37
+v
+
+Case: 18-60522	Document: 00514822107 Page: 8 Date Filed: 02/04/2019
+TABLE OF AUTHORITIES
+Cases-Cont’d:	Page(s)
+PRC Recording Co.,
+280 NLRB 615 (1986), enforced,
+836 F.2d 289 (7th Cir. 1987)	22
+Remodeling by Oltmanns,
+263 NLRB 1152 (1982), enforced,
+719 F.2d 1420 (8th Cir. 1983)	34
+Sara Lee Bakery Group, Inc. v. NLRB,
+514 F.3d 422 (5th Cir. 2008)	17
+Saunders House v. NLRB,
+719 F.2d 683 (3d Cir. 1983)	32
+Stein Ind.,
+365 NLRB No. 31, slip op. at 12 (2016)	21
+Taft Broadcasting,
+163 NLRB 475 (1967), aff’d sub nom.
+Television Artists AFTRA v. NLRB,
+395 F.2d 622 (D.C. Cir. 1968)	21, 22
+Tri-State Health Serv., Inc. v. NLRB,
+374 F.3d 347 (5th Cir. 2004)	18
+Twin City Concrete,
+317 NLRB 1313 (1995)	26
+Universal Camera Corp. v. NLRB,
+340 U.S. 474 (1951)	16
+Valmont Indus., Inc. v. NLRB,
+244 F.3d 454 (5th Cir. 2001)	16
+vi
+
+Case: 18-60522	Document: 00514822107 Page: 9 Date Filed: 02/04/2019
+
+TABLE OF AUTHORITIES 
+Cases-Cont’d:	Page(s)
+Wayneview Care Ctr. v. NLRB,
+664 F.3d 341 (D.C. Cir. 2012)	16
+White-Evans Serv. Co.,
+285 NLRB 81 (1987)	37, 39, 40
+Woelke & Romero Framing, Inc. v. NLRB,
+456 U.S. 645 (1982)	17
+Statutes:	Page(s)
+National Labor Relations Act, as amended
+(29 U.S.C. § 151 et seq.)
+Section 7 (29 U.S.C. § 157)	18, 33-36, 38
+Section 8(a)(1) (29 U.S.C. §158(a)(1))	2, 3, 11-14, 17, 18, 33
+Section 8(a)(3) (29 U.S.C. § 158(a)(3))	 3, 11, 13, 33, 34
+Section 8(a)(5) (29 U.S.C. § 158(a)(5))	2, 11-14, 17-19, 26, 31
+Section 8(d) (29 U.S.C. § 158(d))	 18, 19
+Section 10(a) )29 U.S.C. § 160(a))	2
+Section 10(e) (29 U.S.C. § 160(e))	2, 16, 17
+Section 10(f) (29 U.S.C. § 160(f))	2
+Section 10(j) (29 U.S.C. § 160(j))	 12, 42
+
+vii
+
+Case: 18-60522	Document: 00514822107 Page: 10 Date Filed: 02/04/2019
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+No. 18-60522
+DISH NETWORK CORPORATION
+Petitioner/Cross-Respondent v.
+NATIONAL LABOR RELATIONS BOARD
+Respondent/Cross-Petitioner
+ON PETITION FOR REVIEW AND CROSS-APPLICATION
+FOR ENFORCEMENT OF AN ORDER OF
+THE NATIONAL LABOR RELATIONS BOARD
+BRIEF FOR
+THE NATIONAL LABOR RELATIONS BOARD
+JURISDICTIONAL STATEMENT
+This case is before the Court on the petition of DISH Network Corporation
+to review, and the cross-application of the National Labor Relations Board to
+enforce, a Board Order issued against DISH on June 28, 2018, reported at 366
+
+Case: 18-60522	Document: 00514822107 Page: 11 Date Filed: 02/04/2019
+NLRB No. 119. (ROA.2168-82.)1 Communications Workers of America, AFL-CIO (the Union) has intervened on behalf of the Board.
+The Board had subject-matter jurisdiction under Section 10(a) of the National Labor Relations Act (the Act) (29 U.S.C. § 160(a)), which authorizes the Board to prevent unfair labor practices affecting commerce. This Court has jurisdiction over this appeal because the Board’s Order is final under Section 10(e) and (f) of the Act (29 U.S.C. § 160(e) and (f)). Venue is proper under Section 10(e) and (f) because the unfair labor practices occurred in Texas. DISH’s petition and the Board’s cross-application were timely, as the Act places no time limit on the institution of proceedings to enforce or review Board orders.
+ISSUES PRESENTED
+Is the Board entitled to summary enforcement of the unchallenged portions of its Order?
+Does substantial evidence support the Board’s finding that DISH violated Section 8(a)(5) and (1) of the Act by unilaterally changing unit employees’ terms and conditions of employment when its contract negotiations with the Union were not at an impasse?
+1 Initial references are to the Board’s findings; those following are to supporting evidence. “Br.” refers to DISH’s opening brief.
+2
+
+Case: 18-60522	Document: 00514822107 Page: 12 Date Filed: 02/04/2019
+(3) Does substantial evidence support the Board’s finding that DISH constructively discharged 17 employees in violation of Section 8(a)(3) and (1) of the Act?
+STATEMENT OF THE CASE
+The key issue in this case is whether DISH’s unilateral implementation of a draconian contract offer during a purported impasse in contract negotiations constituted a refusal to bargain with its employees’ elected representative, in violation of the Act. The Board found the bargaining violation and also found that the failure to bargain resulted in the constructive discharge of 17 employees, and that DISH further violated the Act during the parties’ contract negotiations by threatening employees, creating the impression that their union activities were under surveillance, telling employees that the Union was gone, unilaterally changing its disciplinary policy, and conditioning bargaining on the Union holding a ratification vote. DISH challenges only the Board’s findings that the parties were not at impasse when it implemented its offer and that it constructively discharged the 17 employees.
+I.	THE BOARD’S FINDINGS OF FACT
+A.	The Parties Begin Negotiations; After a Few Years, the Main Area of Disagreement Is Employee Compensation
+DISH is a satellite television provider. Before 2011, DISH piloted at several
+locations a new compensation system for its employees, the Quality Performance
+3
+
+Case: 18-60522	Document: 00514822107 Page: 13 Date Filed: 02/04/2019
+Compensation System (QPC), that cut their base wages and increased incentive payments. Employee dissatisfaction over the cut in base wages led to a successful union-organizing drive at two of those offices, Farmers Branch and North Richland Hills. In 2011, the Board certified the Union as the collective-bargaining representative for a unit of employees at each of the two offices. (ROA.2171-72, 2172 n.3-4, 1294-95, 1312, 1830-35.)
+DISH and the Union began bargaining for an initial collective-bargaining agreement after the Union’s certification, meeting over 20 times during the first few years. By March 2013, the parties had reached tentative agreements on job classifications, union recognition, travel, leave, a retirement plan, and benefits. As of June 2013, only employee compensation, dues deductions, the grievance procedure, seniority, and subcontracting remained unresolved. (ROA.2172, 1410, 1412, 1498, 1732-34, 1737.)
+With respect to the compensation system, both DISH’s and the Union’s positions evolved substantially over the course of their negotiations. At the outset, the Union’s primary goal had been to eliminate QPC, which DISH had implemented. At some point, DISH eliminated QPC at its nonunion locations, switching them to a different compensation system, called Performance Incentive and styled “Pi,” which—like QPC—combined a (higher) base wage and (lower) incentive payments. By mid-2013, it had become apparent to both parties that
+4
+
+Case: 18-60522	Document: 00514822107 Page: 14 Date Filed: 02/04/2019
+employees were earning significantly more incentive pay under QPC than DISH had anticipated. Thereafter, the Union sought to retain QPC, offering to lower employees’ base wages in exchange, whereas DISH sought to eliminate QPC and proposed to compensate unit employees with straight wages. It did not offer Pi or any other incentive pay for unit employees in its contract proposals. (ROA.2172, 99-100, 883, 1085, 1410, 1412, 1708, 1711, 1714-16.)
+B.	DISH Makes “Final” Contract Proposal and Demands Written Response Before It Will Agree To Continue Bargaining; Union Makes Counterproposal and Requests Continued Bargaining
+On November 18 and 19, 2014, the parties met for what turned out to be their final bargaining sessions. At that time, DISH tendered its “final proposal” to the Union. It proposed to discontinue QPC and to replace the compensation system with straight wages, with no incentive pay of any kind. The wage rates in the proposal were higher than DISH’s previous offers, but the overall compensation package offered would have resulted in unit employees receiving less pay than nonunion employees at other area DISH locations. DISH also rejected the Union’s outstanding proposals on dues deductions, the grievance procedure, successorship, subcontracting, severance, and seniority, and agreed to the Union’s proposals regarding smart-home sales and clothing stipends. (ROA.2172, 76, 230, 1362, 1725.)
+5
+
+Case: 18-60522	Document: 00514822107 Page: 15 Date Filed: 02/04/2019
+The parties had scheduled bargaining sessions for December 8 and 9. However, the Union canceled those sessions on December 4 because its chief negotiator had a death in her family. When cancelling, the Union offered several dates in January and February to reschedule the missed sessions. DISH refused to reschedule the sessions unless the Union replied in writing to DISH’s November 18 proposal, and warned that it would declare impasse if the Union did not do so. (ROA.2172, 1437-39.)
+The Union complied with DISH’s threat and submitted a written counterproposal on December 9. In doing so, the Union stated that it was not waiving its right to meet with DISH to discuss the parties’ latest proposals and renewed its request to reschedule the cancelled bargaining sessions. In its counterproposal, the Union offered, for the first time, to eliminate QPC in part. It proposed not to apply the compensation system to new employees, retaining QPC only for current employees and with a reduced wage rate. Under the counterproposal, new hires would receive a base wage plus Pi, the same compensation system as nonunion employees. Attrition rates were high at the two unionized locations at that time—40.2% in 2013 and 31.4% in 2014 at Farmers Branch, and 51.5% in 2013 and 30.5% in 2014 at North Richland Hills— so new employees who would not work under QPC would be hired on a regular basis
+6
+
+Case: 18-60522	Document: 00514822107 Page: 16 Date Filed: 02/04/2019
+under the Union’s proposal. The Union also offered counterproposals on the remaining open issues. (ROA.2172-73, 1378-88, 1708, 1711, 1778, 1803.)
+After receiving the Union’s December 9 counterproposal, DISH proposed to meet the following week. On December 11, the Union replied that its negotiator was not available until January. DISH expressed shock that the Union was not available right away and did not propose any January dates. On December 12, the Union again asked to meet in January, reaffirming its readiness to bargain. DISH did not respond. (ROA.2173, 1440, 1443, 1445, 1603.)
+C.	DISH Refuses To Meet After Receiving the Union’s Counterproposal, Changes Negotiators, and Fails To Set Bargaining Session
+On December 18, DISH wrote to the Union, rejecting each element of the Union’s counterproposal. The letter had DISH’s November 19 final proposal attached and DISH requested that the Union “take our final offer to your members and let us know if the proposal is accepted.” (ROA.1375.) DISH did not suggest any dates for additional bargaining sessions in January or otherwise. Instead, it stated that the parties could discuss whether to meet again only after the Union had submitted DISH’s proposal to the unit employees. (ROA.2173, 1371-77.)
+On December 30, the Union replied that it insisted on meeting and bargaining over its counterproposal, and again listed several possible meeting dates in January. The Union asserted that DISH’s written response to its
+
+7
+
+Case: 18-60522	Document: 00514822107 Page: 17 Date Filed: 02/04/2019
+counterproposal did “not take the place of meeting and bargaining.” (ROA.1400.) The Union also objected to DISH’s insistence that it take the final proposal to its members on the ground that whether to hold a ratification vote is the Union’s decision, as the employees’ representative, not DISH’s. (ROA.2173, 1398-1400.)
+DISH replied the next day, acknowledging that the Union was unwilling to take DISH’s final proposal to its membership at that time. The letter also informed the Union that DISH’s lead negotiator, George Basara, would not represent DISH in the future and that his partner, Brian Balonick, would be taking over for him. It further explained that Balonick had an upcoming trial and would contact the Union “sometime after the new year.” (ROA.2173, 1401.)
+D.	DISH Waits a Year, Reconnects with the Union, and Declares Impasse
+Thirteen months later, on January 8, 2016, Balonick sent the Union a letter reciting his understanding that the parties’ negotiations had been at a “standstill” at the end of 2014. The letter reiterated that DISH’s November 19, 2014 offer was its final proposal, opined that further bargaining would not be productive, and notified the Union that if DISH did not hear from the Union by January 15, it would
+assume that the Union had rejected its final proposal. (ROA.2173, 1405.)
+On January 13, the Union replied that Balonick’s letter had misrepresented the parties’ 2014 negotiations, emphasized that the parties had yet to bargain over
+its December 9 counterproposal, and made clear that it still wished to do so. The
+8
+
+Case: 18-60522	Document: 00514822107 Page: 18 Date Filed: 02/04/2019
+Union reminded DISH that the Union had offered dates to meet over a year ago, had requested that DISH suggest bargaining dates, and had been informed that Balonick, as DISH’s new bargaining representative, would initiate contact in 2015. (ROA.2173-74, 1407-09.)
+On February 2, DISH replied, reasserting that the parties were at a standstill and had been for over a year. Then, for the first time, DISH notified the Union of its intent to implement its final proposal, unless the Union explained why there was no standstill. The Union responded immediately, objecting to DISH’s characterization and again requesting bargaining. (ROA.2169, 2174, 1427, 1447.)
+DISH Fires Employee without Notifying the Union, Contrary to Parties’ Earlier Agreement
+In February 2016, DISH fired unit employee Dakota Novak without notifying the Union or affording it an opportunity to bargain. (ROA.2175, 15556.) In 2014, the Union had requested that DISH notify it, and provide it with an opportunity to bargain, before suspending or discharging any unit employees. DISH had agreed and, in November 2014, the parties had bargained over the discipline of several unit employees. (ROA.2175, 1414-25.)
+DISH Tells Some Employees that the Union Is Gone and Implements Its Final Offer; Employees Quit En Masse
+On April 4, 2016, DISH sent the Union a letter asserting that “[a]t this point, [DISH] believes that further bargaining would be futile,” and warning that it
+9
+
+Case: 18-60522	Document: 00514822107 Page: 19 Date Filed: 02/04/2019
+intended to implement its final offer no later than April 23. (ROA.1429.) The letter stated that DISH would thereafter eliminate QPC, implement the wage rates from its final proposal, and provide the same fringe benefits that nonunion employees received. (ROA.2174, 1429-32.)
+The next day, DISH began to hold meetings with unit employees to notify them that it was implementing its final proposal. On April 6, a DISH manager accidentally sent a text message intended for his boss to a unit employee, who forwarded it to several other employees. In the message, the manager stated that “[t]he [U]nion [was] gone,” DISH would encourage transfers to other offices, the two unionized offices “[were] gradually closing,” and DISH “would rather have the techs quit en masse.” (ROA.2174, 106, 163, 275-76, 1472, 1635-45.) On April 12, DISH disavowed the text message and told employees that they were still represented by the Union. (ROA.2174, 1740, 1742.)
+On April 23, DISH implemented its final proposal except for the health-insurance changes, which it announced but did not implement until July. It eliminated QPC and began paying the unit employees flat wages without any incentive payments. That change cut unit employees’ earnings to levels well below what DISH paid employees at other locations, which was 30% lower than what unit employees had earned under QPC. The later health-insurance change also nearly doubled employees’ health-insurance deductibles. Seventeen unit
+
+10
+
+Case: 18-60522	Document: 00514822107 Page: 20 Date Filed: 02/04/2019
+employees quit because of the drastic cuts. (ROA.2175, 2175 n.10-13, 275-80,
+426-28, 441-42, 531, 655, 681-82, 700-01, 735-36, 743-44, 753-55, 830, 16471705, 1892-1932.)
+After DISH implemented the unilateral changes, one of its managers told unit employees that they could not “say anything about the Union to the new guys” who replaced the employees who had quit. (ROA.2175, 2175 n.14, 663, 693-95.) The manager added that new employees were “happy getting paid $13.00” per hour, and explicitly threatened to terminate any employees who violated his order not to discuss the Union with new employees. (ROA.2175, 2175 n.14, 663, 69395.)
+II.	PROCEDURAL HISTORY
+After the Union filed a charge, the Board’s General Counsel issued a complaint alleging that DISH violated Section 8(a)(5), (3), and (1) of the Act, 29 U.S.C. §158(a)(5), (3), and (1), by bargaining in bad faith with the Union, implementing a final offer in the absence of an impasse, unilaterally changing employees’ wages, health insurance, and leave, threatening employees, and constructively discharging employees. (ROA.2171, 1292-1300.) After a hearing, an administrative law judge found that DISH had violated the Act as alleged except as to certain alleged threats, which the judge found did not occur. (ROA.2171-82.)
+11
+
+Case: 18-60522	Document: 00514822107 Page: 21 Date Filed: 02/04/2019
+DISH filed exceptions to the judge’s decision and the General Counsel filed cross-exceptions. (ROA.2168.)
+The Board’s General Counsel also pursued an injunction against DISH under Section 10(j) of the Act, 29 U.S.C. § 160(j). On January 14, 2017, the District Court for the Northern District of Texas granted the injunction in part, finding reasonable cause to believe that the parties were not at impasse and that the unilateral wage cut likely caused irreparable harm to the Union. Kinard v. DISH Network Corp., 228 F.Supp.3d 771, 778-83 (N.D. Tex. 2017). Accordingly, the District Court ordered DISH to restore QPC for unit employees pending the Board’s decision. Id. On May 18, 2018, this Court affirmed in full. Kinard v. DISH Network Corp., 890 F.3d 608 (5th Cir. 2018).
+III. THE BOARD’S CONCLUSIONS AND ORDER
+The Board (Members Pearce, Kaplan, and Emanuel) issued its decision on June 28, 2018. In the absence of exceptions, the Board affirmed the judge’s findings that DISH violated Section 8(a)(1) by telling employees that “the Union is gone,” threatening employees with adverse consequences if they engaged in union activities, and creating the impression of surveillance, and Section 8(a)(5) and (1), 29 U.S.C. § 158(a)(5) and (1), by unilaterally changing its disciplinary policy and discharging Novak without affording the Union notice or an opportunity to bargain. (ROA.2168 n.1.) The Board majority (Members Pearce and Kaplan;
+
+12
+
+Case: 18-60522	Document: 00514822107 Page: 22 Date Filed: 02/04/2019
+Member Emanuel, dissenting) also adopted the judge’s remaining findings. It found, based on a modified rationale, that the parties were not at impasse, so DISH’s unilateral implementation of new contract terms violated Section 8(a)(5) and (1). It also found that DISH independently violated Section 8(a)(5) and (1) by conditioning bargaining on the Union holding a ratification vote, and by refusing to meet and bargain with the Union after January 13, 2016. (ROA.2170, 2170 n.6, 2179.) Finally, it found that DISH violated Section 8(a)(3) and (1), 29 U.S.C. § 158(a)(3) and (1) by constructively discharging the 17 employees, declining to decide whether DISH’s unilateral implementation of its final offer was unlawfully motivated.2 (ROA.2170 n.8.)
+To remedy the violations found, the Board ordered DISH to cease and desist from telling employees that the Union is gone, threatening that it would close its offices or discharge employees due to their union or protected activity, threatening to discipline employees who talk about the Union to new hires, creating the impression that employees’ union or protected activity is being monitored, constructively discharging employees for their union or protected activity, failing and refusing to bargain with the Union, conditioning bargaining on the Union holding a ratification vote, implementing its final offer without reaching agreement
+2 The Board declined to determine whether DISH’s unilateral implementation of its final offer was either unlawfully motivated or intended to cause employees to quit. (ROA.2170, 2178.)
+13
+
+Case: 18-60522	Document: 00514822107 Page: 23 Date Filed: 02/04/2019
+or impasse, unilaterally changing employees’ terms and conditions of employment, unilaterally changing its discipline policy, and in any like or related manner interfering with, restraining, or coercing employees in the exercise of their rights under the Act. (ROA.2180.) The Board also ordered DISH to offer backpay and reinstatement to Novak and the 17 constructively discharged employees, remove any references in its files to the employees’ discharges, bargain with the Union, rescind the April 2016 unilateral changes if the Union requests it and make employees whole for any losses suffered as a result of those changes, and post a remedial notice at its two unionized facilities. (ROA.2180-81.)
+SUMMARY OF ARGUMENT
+DISH does not contest the Board’s findings that it violated Section 8(a)(1) by telling employees that “the Union is gone,” threatening employees with adverse consequences if they engaged in union activities, and creating the impression of surveillance, and Section 8(a)(5) by unilaterally changing its disciplinary policy and discharging Novak without affording the Union notice or an opportunity to bargain, and conditioning bargaining on the Union holding a ratification vote. The Board is therefore entitled to summary enforcement of the portions of its Order corresponding to those violations.
+Substantial evidence supports the Board’s finding that DISH unlawfully implemented drastic changes to employee compensation in April 2016. An
+
+14
+
+Case: 18-60522	Document: 00514822107 Page: 24 Date Filed: 02/04/2019
+employer cannot unilaterally implement changes to unionized employees’ terms and conditions of employment without first bargaining to impasse with the union. In December 2014, the Union offered its biggest concession on QPC, the key issue in negotiations. But DISH did not meet with the Union to ascertain the possibility of further concessions or bring any concerns with the Union’s proposal to the bargaining table. Moreover, the parties’ contemporaneous communications show that they had fully expected to continue bargaining until DISH suddenly changed course, demanded a counteroffer, and refused to meet even when the Union met that demand. Moreover, DISH’s refusal to meet and its separate demand that the Union submit DISH’s proposal to the Union’s membership for a ratification vote constituted bad faith that precludes an impasse finding. DISH’s contention that the Board’s analysis of the Union’s offer is entirely based on a factual error misreads both the Board’s reasoning and the record. In such circumstances, the Board reasonably found that DISH has not proven that the parties were at impasse.
+Substantial evidence also supports the Board’s finding that DISH constructively discharged 17 employees in April 2016. It is undisputed that DISH’s cuts to employees’ terms and conditions of employment were so onerous that they caused employees to quit. Those cuts were not only unlawful unilateral changes in and of themselves but also were imposed when DISH was committing other unfair labor practices and generally undermining the Union in the eyes of its
+
+15
+
+Case: 18-60522	Document: 00514822107 Page: 25 Date Filed: 02/04/2019
+employees. Under the circumstances, the Board reasonably found that employees were forced to choose between quitting or working in an atmosphere of diminished collective-bargaining rights. The Board’s reasoning is, despite DISH’s arguments, fully consistent with this Court’s and its own precedent recognizing that presenting employees with such a Hobson’s choice is tantamount to discharge.
+STANDARD OF REVIEW
+“The standard of review of the Board’s findings of fact and application of the law is deferential.” Valmont Indus., Inc. v. NLRB, 244 F.3d 454, 463 (5th Cir. 2001). The Board’s factual findings “shall be conclusive” if they are “supported by substantial evidence on the record considered as a whole.” 29 U.S.C. § 160(e); Wayneview Care Ctr. v. NLRB, 664 F.3d 341, 348 (D.C. Cir. 2012). Evidence is substantial when “a reasonable mind might accept [it] as adequate to support a conclusion.” Universal Camera Corp. v. NLRB, 340 U.S. 474, 477 (1951). A reviewing court may not displace the Board’s choice between two fairly conflicting views, even if the court “would justifiably have made a different choice had the matter been before it de novo.” Id. at 488; accord NLRB v. Universal Packing & Gasket Co., 379 F.2d 269, 270 (5th Cir. 1967) (this Court will not disturb the Board’s findings “simply because the evidence may also reasonably support other inferences”).
+16
+
+Case: 18-60522	Document: 00514822107 Page: 26 Date Filed: 02/04/2019
+ARGUMENT
+I.	THE BOARD IS ENTITLED TO SUMMARY ENFORCEMENT OF THE UNCHALLENGED PORTIONS OF ITS ORDER
+The Board adopted the judge’s findings that DISH violated Section 8(a)(1) by telling employees that the Union was gone, threatening employees, and creating the impression of surveillance, and Section 8(a)(5) and (1) by conditioning continued bargaining on the Union holding a ratification vote and unilaterally changing its discipline policy to discharge unit employee Dakota Novak without affording the Union notice and an opportunity to bargain. (ROA.2178-79.) DISH does not contest those findings in its opening brief. Under settled law, the Board is entitled to summary enforcement of the portions of its order relating to the uncontested findings. See Sara Lee Bakery Group, Inc. v. NLRB, 514 F.3d 422, 429 (5th Cir. 2008) (finding that “when an employer does not challenge a finding of the Board, the unchallenged issue is waived on appeal, entitling the Board to summary enforcement”). In any event, except as to the violation for conditioning bargaining on a ratification vote, the Court does not have jurisdiction to consider any challenge to those findings because DISH did not challenge them before the Board. (ROA.2169 n.1.) See 29 U.S.C. § 160(e); Woelke & Romero Framing, Inc. v. NLRB, 456 U.S. 645, 665-66 (1982); NLRB v. Mooney Aircraft, Inc., 310 F.2d 565, 565-66 (5th Cir. 1962).
+
+17
+
+Case: 18-60522	Document: 00514822107 Page: 27 Date Filed: 02/04/2019
+DISH’s several uncontested violations do not disappear simply because they are not preserved for appellate review; rather, they remain in the case, “lending their aroma to the context in which the remaining issues are considered.” NLRB v. Clark Manor Nursing Home, 671 F.2d 657, 660 (1st Cir. 1982); accord NLRB v. Gen. Fabrications Corp., 222 F.3d 218, 232 (6th Cir. 2000).
+II.	SUBSTANTIAL EVIDENCE SUPPORTS THE BOARD’S FINDING THAT DISH VIOLATED SECTION 8(a)(5) AND (1) OF THE ACT
+Section 8(a)(5) of the Act makes it an unfair labor practice for an employer “to refuse to bargain collectively with the representatives of his employees.” 29 U.S.C. § 158(a)(5). An employer who violates Section 8(a)(5) derivatively violates Section 8(a)(1), which bans employer interference with, coercion, or restraint of employees’ rights under Section 7 of the Act, 29 U.S.C. § 157, including the right to bargain collectively. Tri-State Health Serv., Inc. v. NLRB, 374 F.3d 347, 350 n.1 (5th Cir. 2004). The duty to bargain includes an obligation to “meet at reasonable times and confer in good faith with respect to wages, hours, and other terms and conditions of employment” but “does not compel either party to agree to a proposal or require the making of a concession.” 29 U.S.C. § 158(d).
+The obligation to bargain in good faith imposed by Section 8(d) and (a)(5) requires both parties “to enter into discussions with an open and fair mind, and a sincere purpose to find a basis of agreement . . . .” NLRB v. Herman Sausage Co., 275 F.2d 229, 231 (5th Cir. 1960); accord NLRB v. Pine Manor Nursing Home,
+18
+
+Case: 18-60522	Document: 00514822107 Page: 28 Date Filed: 02/04/2019
+Inc., 578 F.2d 575, 576 (5th Cir. 1978). As the Supreme Court has explained, “[c]ollective bargaining . . . is not simply an occasion for purely formal meetings between management and labor, while each maintains an attitude of ‘take it or leave it’; it presupposes a desire to reach ultimate agreement, to enter into a collective bargaining contract.” NLRB v. Ins. Agents’ Int’l Union, AFL-CIO, 361 U.S. 477, 485 (1960). Although Section 8(d) does not require parties to agree or concede on any particular substantive issue, the statutory bargaining obligation is not satisfied when a party comes to the table “with a ‘predetermined resolve not to budge from an initial position.’” NLRB v. Gen. Elec. Co., 418 F.2d 736, 763 (2d Cir. 1969) (citation omitted).
+An employer violates the bargaining obligation “if, without bargaining to impasse, it effects a unilateral change of an existing term or condition of employment.” Litton Fin. Printing Div. v. NLRB, 501 U.S. 190, 198 (1991); accord NLRB v. Powell Elec. Mfg. Co., 906 F.2d 1007, 1013 (5th Cir. 1990) (recognizing that “[a]s a general rule, where no impasse in negotiations has occurred, a company’s unilateral implementation of terms and conditions of employment is an unfair labor practice”). Such a unilateral change is “a circumvention of the duty to negotiate which frustrates the objectives of Section 8(a)(5) much as does a flat refusal” to bargain. NLRB v. Katz, 369 U.S. 736, 742 n.9, 743 (1962).
+19
+
+Case: 18-60522	Document: 00514822107 Page: 29 Date Filed: 02/04/2019
+As shown below, a review of the events of December 2014 onwards indicates that the parties were not at impasse when DISH implemented its offer. The Union’s counterproposal offering to eliminate QPC for new employees showed that it was open to making substantial concessions. Given the high attrition rates in the two locations at the time, DISH had every reason to believe that the Union’s proposal would lead to the end of QPC in a short timeframe. But after initially agreeing to continue to fulfill its statutory obligation to bargain with the Union in good faith, DISH changed course, and refused to meet with the Union again, first delaying any response to the Union and then retroactively declaring impasse. In such circumstances, the Board reasonably found that DISH’s unilateral implementation violated the Act.
+A.	An Employer Asserting Impasse Must Show that Neither Party Had Any Room for Compromise So Further Negotiations Would Be Futile
+Where, as here, an employer asserts as an affirmative defense that a bona fide impasse in negotiations rendered its unilateral changes permissible, it bears the burden of proving the asserted impasse before the Board. See CJC Holdings, Inc., 320 NLRB 1041, 1044 (1996), enforced mem., 110 F.3d 794 (5th Cir. 1997). And this Court has recognized that “[a] decision about whether negotiations have reached an impasse is particularly suited to the Board’s expertise as fact finder.” NLRB v. Powell Elec. Mfg. Co., 906 F.2d 1007, 1011 (5th Cir. 1990).
+
+20
+
+Case: 18-60522	Document: 00514822107 Page: 30 Date Filed: 02/04/2019
+An impasse is a complete deadlock in negotiations. To determine whether parties are at a valid impasse, the Board considers all of the surrounding circumstances. See Taft Broadcasting Co., 163 NLRB 475, 478 (1967), aff’d sub nom. Television Artists AFTRA v. NLRB, 395 F.2d 622 (D.C. Cir. 1968); accord Gulf States Mfg., Inc. v. NLRB, 704 F.2d 1390, 1398 (5th Cir. 1983). The Board has identified as particularly relevant: the parties’ bargaining history; their good faith in negotiations; the length of negotiations; the importance of the issue or issues as to which there was disagreement; and the contemporaneous understanding of the parties as to the status of negotiations. Taft Broadcasting, 163 NLRB at 478. However, those factors are not equally significant. In first-contract negotiations, a long bargaining history does not weigh as heavily toward finding impasse, and the Board has cautioned against “jumping to any conclusions that difficulties in bargaining signal the existence of a true impasse.” Stein Ind., 365 NLRB No. 31, slip op. at 12 (2016). On the other hand, the Board’s determination of the parties’ good faith, which this Court reviews “with heightened deference in light of the complex subjective inquiry required,” can be dispositive on its own. Carey Salt Co. v. NLRB, 736 F.3d 405, 411-12 (5th Cir. 2013). Thus, bad faith “preclude[s] an impasse finding.” Id. at 412.3
+
+3 DISH would have the Court apply (Br. 33-34) the test from CalMat Co., 331 NLRB 1084, 1097 (2000), which governs claims that impasse over a single, central issue has effectively precluded parties’ willingness to compromise on other issues.
+21
+
+Case: 18-60522	Document: 00514822107 Page: 31 Date Filed: 02/04/2019
+To establish an impasse defense, an employer must thus show that, under the circumstances, the parties were, “despite the best of faith, . . . simply deadlocked,” making “further discussion . . . futile as of that time [when the employer implemented the unilateral changes].” Powell Elec. Mfg. Co., 906 F.2d at 1011-12. As this Court has emphasized, moreover, “for such a deadlock to occur, neither party must be willing to compromise.” Powell Elec. Mfg. Co., 906 F.2d at 101112 (emphasis in original; internal quotation marks and citation omitted). In other words, both parties must believe they are “at the end of their rope,” PRC Recording Co., 280 NLRB 615, 635 (1986), enforced, 836 F.2d 289 (7th Cir. 1987), regardless of how much rope remains, see Hayward Dodge, 292 NLRB 434, 468 (1989) (even when “a wide gap between the parties remains,” there is no impasse if “there is reason to believe that further bargaining might produce additional movement”).
+B.	The Parties Had Not Exhausted the Possibility of Agreement when DISH Implemented Its Offer
+As the Board found, “even if the parties may have been near a valid impasse” by the beginning of December 2014, DISH “was not warranted in
+DISH asserts single-issue impasse based on QPC, but the Board found that the Union was willing to compromise on that very issue—it made no findings regarding the state of the parties’ negotiations regarding the other open issues. Under those circumstances, there is no difference between the CalMat single-issue-impasse standard and the more general Taft overall-impasse test applied by the Board.
+22
+
+Case: 18-60522	Document: 00514822107 Page: 32 Date Filed: 02/04/2019
+assuming that further bargaining would be futile” in light of the ensuing events. (ROA.2169, quoting Nexeo Solutions, LLC, 364 NLRB No. 44, slip op. at 12 (2016).) The Board reasonably relied on the Union’s large concession on QPC, the party’s contemporaneous communications, and DISH’s bad-faith refusal to meet with the Union to find that the parties were not at impasse.
+The substantive change in the Union’s bargaining position in its
+counterproposal strongly supports the Board’s finding that no impasse existed in December 2014. At the time, the Union had been insisting for over a year on maintaining QPC for all unit employees for the full contract term. It therefore “offered a substantial giveback, when it proposed a 2-tiered wage system, where incumbents kept QPC, and new hires lost it.” (ROA.2176.) That offer “was an appreciable change in its position on the most important subject and would result in cost savings for [DISH].” (ROA.2169.) It brought the Union closer to DISH’s position that QPC should be eliminated entirely by proposing for the first time to eliminate the compensation system for some unit employees and, implicitly, to phase it out altogether. Indeed, as the Board found, the Union’s change in bargaining position was so drastic as to constitute a “white flag.” (ROA.2169, 2176.)
+Eliminating QPC for new hires “meant that in a short time, the majority of the [bargaining] units would have likely turned over and no longer earn QPC
+
+23
+
+Case: 18-60522	Document: 00514822107 Page: 33 Date Filed: 02/04/2019
+wages.” (ROA 2176 n.16.) Based on DISH’s own records, the Board found that DISH had “extremely high attrition rates” at the two unit locations, ranging from 13.1% to 31.4% in 2014 and 2015. (ROA.2172, 1803.) Indeed, at the time the Union made the proposal, attrition rates for the two locations were even higher. The parties likely knew the attrition rates of 40.2% and 51.5% in 2013 and possibly knew the rates of 30.5% and 31.4% in 2014. If those rates remained constant for employees receiving QPC, those employees would become the minority of unit employees in just 2 years. At the very least, the Union’s proposal indicated that the Union had room for compromise on the issue of QPC.
+The parties’ contemporaneous communications also support the Board’s finding that neither party thought negotiations were at an impasse in November 2014, as DISH retroactively declared in April 2016. When the parties met in late November, they planned to continue to bargain on December 8 and 9. DISH did not declare impasse, nor did it indicate that it thought the scheduled bargaining sessions would be fruitless. Even after the Union cancelled the sessions due to an emergency, DISH agreed to continue to meet on the condition that the Union first submit a counterproposal, which the Union promptly did. In short, there was no indication from either party that they would do anything but continue to bargain. As the judge found, “if the parties were continuously at impasse since November
+24
+
+Case: 18-60522	Document: 00514822107 Page: 34 Date Filed: 02/04/2019
+2014 as DISH avers . . . [DISH] would never have agreed to meet in December 2014, or offered alternative dates after [the Union] cancelled.” (ROA.2177.)
+Finally, DISH’s increasingly evident bad faith over the course of December 2014 precluded a lawful impasse. To review, after DISH made its “final” proposal in November 2014, both parties appeared to believe that future in-person bargaining would be required and scheduled sessions for early December. But then DISH: (1) abruptly changed course when the Union asked to postpone bargaining due to an emergency, refusing to meet until the Union brought forth a counterproposal; (2) momentarily agreed to meet and discuss the Union’s counterproposal, which offered the first major concession on QPC; (3) again moved the goalposts when the Union was not immediately available to meet, summarily rejecting the counterproposal in writing and refusing to bargain further unless the Union put DISH’s proposal to a ratification vote; and 4) reversed course once more and told the Union that its new negotiator would be in touch, then waited over a year to contact the Union and declare impasse. Viewed as a whole, that course of conduct evidenced an attempt “to engineer a premature impasse” rather than reach genuine agreement. Carey Salt, 736 F.3d at 416. As the Board found, two aspects of DISH’s conduct were particularly indicative of bad faith, confirming that impression.
+
+25
+
+Case: 18-60522	Document: 00514822107 Page: 35 Date Filed: 02/04/2019
+Specifically, the Board found that DISH’s refusal to meet with the Union to discuss the Union’s written counterproposal—which DISH had summarily rejected in writing—constituted bad faith. (ROA.2169-70.) Moreover, the Board found, and DISH does not contest, that DISH independently violated Section 8(a)(5) by conditioning bargaining on a ratification vote, which further evidenced bad faith. (ROA.2170 n.6.) Substantial evidence and the Board’s case law support both findings and such bad faith compelled the Board to reject DISH’s impasse defense.
+DISH’s summary written rejection of the Union’s counterproposal did not fulfill its bargaining obligation, particularly where DISH had first refused to discuss its own proposal without seeing a written counterproposal, then refused to discuss the requested counterproposal. See NLRB v. U.S. Cold Storage Corp., 203 F.2d 924, 928 (5th Cir. 1953) (“statutory obligation [to bargain collectively] is not satisfied by merely inviting the union to submit any proposition they have to make in writing where either party seeks a personal conference”); Twin City Concrete, 317 NLRB 1313, 1313-14 (1995) (employer’s requirement that union provide written notice of open issues to bargain before in-person bargaining violated duty to bargain). That is especially true given the concessionary nature of the Union’s counterproposal, and even assuming DISH sincerely refused to accept anything less than the total elimination of QPC. See Carey Salt, 736 F.3d at 416 (despite employer’s “good-faith reasons behind its positions on the core issues,” its failure
+
+26
+
+Case: 18-60522	Document: 00514822107 Page: 36 Date Filed: 02/04/2019
+“to return earnestly to talks as the [u]nion had requested” precluded impasse); U.S. Cold Storage, 203 F.2d at 928 (union’s offer of “substantial concessions on the issue of wages” broke impasse and required in-person meetings). DISH never afforded the Union the right to explore potential areas of compromise even after the Union acceded to DISH’s demand to describe possible areas of movement in advance.
+Critically, moreover, DISH’s subsequent adamant (and unlawful) insistence, over the Union’s objection, that it would not bargain because the Union was “not willing to take [its] final offer to [the] bargaining unit” (ROA.1401) also demonstrated bad faith, as the Board found (ROA.2170 n.6) and DISH does not address. See Jano Graphics, Inc., 339 NLRB 251, 251 (2003) (employer’s insistence on a ratification vote tainted any subsequent impasse); see also NLRB v. Wooster Div. of Borg-Warner Corp., 356 U.S. 342, 349 (1958) (insisting to impasse on a nonmandatory subject of bargaining violates the Act). DISH did not disavow its insistence on a ratification vote and never agreed to meet and bargain without one. Right up until implementation, DISH continued to insist that the Union justify its demand that DISH fulfill its statutory bargaining obligation. That bad faith precludes any possible impasse finding.4
+
+4 DISH’s recitation of facts implies that the Union, not it, bargained in bad faith to delay accepting inevitable, substantial compensation cuts. But, contrary to DISH’s implication, the Union showed substantial flexibility while DISH seemed
+27
+
+Case: 18-60522	Document: 00514822107 Page: 37 Date Filed: 02/04/2019
+C.	The Board Neither Erred in Analyzing DISH’s Attrition Rates Nor Relied on Circular Reasoning in Finding Bad Faith
+In challenging the Board’s no-impasse finding, DISH primarily argues (Br. 37-43) that the judge made a critical factual error regarding attrition rates that the Board failed to address, so the Union’s counterproposal was not as much of a concession as the Board thought. That argument is wrong and misses critical parts of the Board’s reasoning.
+First, far from “chang[ing] nothing” (Br. 45), the Union’s proposal to exempt new hires from QPC effected a material softening of the Union’s prior position and thus also indicated that it might have agreed to further concessions in bargaining. But DISH flat-out refused to meet with the Union or discuss the counterproposal. Regardless of the precise attrition rates or timeframe for elimination of QPC under the Union’s counterproposal, it makes little sense that DISH—which met and bargained for over a year while the Union steadfastly
+uninterested in any agreement at all. Thus, when DISH suggested to the Union in 2012 that the Union should consider Pi instead of QPC, the Union requested information about Pi, then incorporated DISH’s suggestion into its next contract proposals. But despite its own suggestion, DISH refused to agree to any proposal with any kind of incentive payment at all. (ROA.1084-85, 1410.) Similarly, despite DISH’s insistence that QPC was by far the most important issue, it never agreed to terms regarding dues checkoff, arbitration, or seniority, which are extraordinarily common provisions that have little or nothing to do with employee compensation. (ROA.453-54.) In short, it was DISH’s, not the Union’s, bargaining tactics that “stymied negotiations” and delayed reaching a contract. (ROA.2172 n.5.)
+28
+
+Case: 18-60522	Document: 00514822107 Page: 38 Date Filed: 02/04/2019
+insisted that all unit employees receive QPC—would suddenly reverse course when the Union offered the first concrete indication that it would move from its position. The Union’s offer was a ray of hope that it, at least, was willing to compromise, and DISH could not have failed to understand that. (ROA.2169, citing Hayward Dodge, 292 NLRB at 468.) Even if DISH’s position that no employee could receive QPC were firm, “[a]n impasse requires a deadlock, and for such a deadlock to occur, neither party must be willing to compromise.” Powell Elec. Mfg. Co., 906 F.2d at 1011-12 (emphasis in original; internal quotation marks and citation omitted). Thus, although high attrition rates made the Union’s concession more significant than it might otherwise have been, they were not the only factor in the Board’s analysis.
+Second, even if the Board had relied solely on DISH’s attrition rates in finding that the parties were not at impasse, it did not fail to address, much less rely on, any factual error on the judge’s part. The judge based his factual finding of high attrition rates on the most logical source: DISH’s own records of employee attrition. (ROA.2172.) And he explicitly stated three times that the lower end of DISH’s 2013-2015 attrition rates was 13%—the number DISH relies on to contest the Board’s analysis—which he characterized as high. (ROA.2172, 2176 n.16.) DISH cites no authority for the proposition that even a 13% rate is low. In any event, the attrition rates available to the parties when the Union made its
+29
+
+Case: 18-60522	Document: 00514822107 Page: 39 Date Filed: 02/04/2019
+counterproposal in late 2014 were the rates for 2013 and, possibly, 2014. DISH’s records show attrition rates of 40.2% in 2013 and 31.4% in 2014 at Farmers Branch, and 51.5% in 2013 and 30.5% in 2014 at North Richland Hills. That the 2015 attrition rates were lower does not mean, as DISH contends (Br. 40), that they were inevitably trending downward; the judge was not required to infer that they would continue to decrease, much less that the parties could have known in December 2014 that they would. Despite DISH’s speculation (Br. 39), there is no record evidence explaining why attrition was lower in 2015 than in 2014; the ratio of unionized employee earnings to nonunion employee earnings was similar in 2014 and 2015. (ROA.1932.)
+Likewise, the Board reasonably inferred that, at the attrition rates prevailing when the Union made its offer, the majority of unit employees would not have QPC after a relatively short time. At an attrition rate of 30.5%, which was the lowest annual rate at either location in years when the Union made its offer, only 33.6% of unit employees would still be under QPC at the expiration of the 3-year contract.5 If it had accepted the Union’s offer, DISH thus could have expected to receive “much of what it sought on QPC, and would have likely set in motion the
+5 This calculation is based on the assumption that attrition rates for employees hired under QPC remained at 30.5% throughout the contract, which would have been a reasonable assumption given that QPC wages remained steady thereafter. (ROA.1932.) Although new hires who did not receive QPC could have a different attrition rate, that would not affect the calculation.
+30
+
+Case: 18-60522	Document: 00514822107 Page: 40 Date Filed: 02/04/2019
+wholesale elimination of QPC in future bargaining for a successor contract.” (ROA.2176 n.16.) Even if DISH thought the Union’s offer would not phase QPC out so quickly, the fact that the Union could reasonably have intended the offer to do so was a substantial concession warranting further bargaining.
+In addition to the natural phasing out of QPC under the offer, the Board reasonably found that the concession made the Union less likely to cling to QPC in future negotiations, as more and more unit employees worked under a different pay system. Although DISH claims (Br. 41 n.7) that two-tier wage systems can lead to discord, it is difficult to believe that DISH was genuinely concerned about unit employees’ low morale over wages, given that it unilaterally slashed their pay to below what it paid non-unit employees. Moreover, that is exactly the type of concern that it could have brought to the Union’s attention at the bargaining table instead of refusing to meet. DISH’s burden is to prove that further discussions would have been totally useless. An argument that the Union’s substantial concession could have caused other problems that DISH never brought to the Union’s attention does not come close to meeting that burden.
+Finally, DISH’s contention (Br. 45-46) that its refusal to meet with the Union was not bad-faith bargaining because the parties were at impasse is mistaken for two reasons. First, the Board found that DISH independently violated Section 8(a)(5) and evidenced bad faith by conditioning bargaining on the Union
+
+31
+
+Case: 18-60522	Document: 00514822107 Page: 41 Date Filed: 02/04/2019
+submitting to a ratification vote. That violation stands whether or not the parties ultimately reached impasse. Second, the Union submitted a proposal with a significant concession and requested to bargain over it. That proposal and request opened “potential avenues for agreement” that DISH could not reasonably ignore. (ROA.2170.)
+Unsurprisingly, DISH has pointed to no case where good-faith impasse existed when a party offered a concession on a central issue in negotiations and the other party refused to even meet and confer over that proposal. In Saunders House v. NLRB, 719 F.2d 683 (3d Cir. 1983), the union made no concession at all, but instead merely shifted from an off-the-record position to an on-the-record position. Id. at 688-89. Similarly, in E. I. DuPont & Co., 268 NLRB 1075 (1984), the union unequivocally told the employer that despite its counterproposals over 17 bargaining sessions dedicated to the issue of employee job movement, it would never agree to the substance of the employer’s critical job-movement proposal. Id. at 1075. Here, the Union’s proposal on QPC demonstrated the exact opposite— that it would be willing to abandon QPC for at least some unit employees—and DISH refused to even discuss it. The Union did not state that it would never accede to eliminating QPC, and DISH’s mere belief that it would not is irrelevant. See Ford Store San Leandro, 349 NLRB 116, 121 (2007) (fact that employer
+
+32
+
+Case: 18-60522	Document: 00514822107 Page: 42 Date Filed: 02/04/2019
+“believed the [u]nion would never agree to [the employer’s] . . . proposals does not establish an impasse”).
+In light of the Union’s meaningful concession on the key issue of contention between the parties, evidence of both parties’ contemporaneous belief that further negotiations were warranted, and DISH’s increasing bad faith, substantial evidence supports the Board’s finding, on this core labor-law issue, that DISH failed to establish the affirmative defense of impasse. Therefore, DISH violated the Act by unilaterally changing employees’ compensation and health-care benefits in April 2016.
+III. SUBSTANTIAL EVIDENCE SUPPORTS THE BOARD’S FINDING THAT DISH CONSTRUCTIVELY DISCHARGED 17 EMPLOYEES IN VIOLATION OF SECTION 8(a)(3) AND (1) OF THE ACT
+Section 7 of the Act guarantees employees the right “to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection . . . .” 29 U.S.C. § 157. Section 8(a)(3) of the Act bans “discrimination in regard to hire or tenure of employment or any term or condition of employment to . . . discourage membership in any labor organization.” 29 U.S.C. § 158(a)(3). Although the protections of Section 8(a)(3) and Section 8(a)(1) “are not coterminous, a violation
+
+33
+
+Case: 18-60522	Document: 00514822107 Page: 43 Date Filed: 02/04/2019
+of [the former] constitutes a derivative violation of [the latter].” Metro. Edison Co. v. NLRB, 460 U.S. 693, 698 n.4 (1983).
+An employer violates Section 8(a)(3) by “discharging employees because of their union activity.” NLRB v. Thermon Heat Tracing Servs., Inc., 143 F.3d 181, 186 (5th Cir. 1988). In some instances, the Board and courts will treat “a quit . . . as a discharge because of the circumstances which surround it.” Remodeling by Oltmanns, 263 NLRB 1152, 1161 (1982), enforced, 719 F.2d 1420 (8th Cir. 1983). Under the “Hobson’s choice” theory of constructive discharge applicable here, “an employee’s voluntary quit will be considered a constructive discharge when an employer conditions an employee’s continued employment on the employee’s abandonment of his or her Section 7 rights and the employee quits rather than comply with the condition.” Intercon I (Zercom), 333 NLRB 223, 223 n.4 (2001) (citing Hoerner Waldorf Corp., 227 NLRB 612 (1976)). In such a case, the Board will infer the employer’s intent based on the circumstances of the discharge alone without requiring that “a nexus between the working conditions and the individual’s protected activities” be shown. Remodeling by Oltmanns, 263 NLRB at 1162.
+In determining whether an employer’s actions constitute a constructive discharge, the framework established in NLRB v. Great Dane Trailers, Inc., 388 U.S. 26 (1967), applies. NLRB v. Haberman Const. Co., 641 F.2d 351, 359 (5th
+
+34
+
+Case: 18-60522	Document: 00514822107 Page: 44 Date Filed: 02/04/2019
+Cir. 1981) (en banc); accord Lively Electric, 316 NLRB 471, 472 (1995). Thus, an employer’s imposition of intolerable working conditions constitutes constructive discharge if the employer’s conduct is “inherently destructive of important employee rights.” Id., citing Great Dane, 388 U.S. at 1798. This Court recognizes two types of conduct that are inherently destructive of employee rights: “that which directly and unambiguously penalizes or deters protected activity,” and “that which jeopardizes the position of the union as bargaining agent or diminishes the union’s capacity effectively to represent the employees in the bargaining unit.” Id.
+As shown below, substantial evidence supports the Board’s finding that the 17 employees who quit because of drastically reduced wages and benefits were constructively discharged. DISH’s unlawful, unilateral implementation of its proposal and the accompanying wage and benefit cuts caused intolerable working conditions for the employees and—in conjunction with DISH’s other, contemporaneous unlawful conduct—jeopardized the position of the Union as bargaining agent, conveying that continued employment would entail foregoing Section 7 rights.
+Specifically, at the beginning of 2016, DISH had been unlawfully refusing to meet with the Union for over a year. In April 2016, DISH unlawfully texted a unit employee to assert that the Union and QPC were gone, implying that they would lose their representation. That same day, DISH announced drastic, unlawful
+35
+
+Case: 18-60522	Document: 00514822107 Page: 45 Date Filed: 02/04/2019
+reductions to employees’ compensation and healthcare benefits. Shortly thereafter, DISH unlawfully threatened employees with termination should they discuss the Union or the wage-and-benefit changes with any new employees. Taken together, those actions gave employees a distinct choice: quit, or continue working for DISH, an employer that unlawfully reduced their wages and benefits and repeatedly disregarded and undermined their Section 7 rights.
+As an initial matter, it is undisputed that the steep April 2016 wage and benefit cuts caused employees to quit, thus satisfying the first condition this Court identified in Haberman Construction—intolerable conditions that force employees to resign. The only dispute, therefore, is whether DISH’s actions jeopardized the Union’s position as bargaining agent so as to destroy employees’ representational rights, and there is ample support for the Board’s position that they did. The dramatic decrease in pay—particularly when juxtaposed with the more advantageous terms of their nonunion counterparts—undermined the Union by creating the impression that it was useless in securing wage increases or even preventing unlawful unilateral wage cuts. Cf. Great Dane, 388 U.S. at 32 (granting a benefit to some employees but denying it to others “who are distinguishable only by their participation in protected concerted activity surely may have a discouraging effect on either present or future concerted activity”). Indeed, this Court previously cited such considerations in finding that DISH’s
+
+36
+
+Case: 18-60522	Document: 00514822107 Page: 46 Date Filed: 02/04/2019
+wage cuts warranted injunctive relief. Kinard v. DISH Network, 890 F.3d at 613 (relying on district court’s findings that wage reduction was exceptional, wages were $5 per hour lower than for workers at neighboring non-union branches, union membership continued to erode, and loss of membership and morale presented possibility of union dissolution).
+Consistent with that finding, the Board has held, with court approval, that such unilateral changes to represented employees’ wages erode their support for the union. See Goya Foods of Florida, 347 NLRB 1118, 1122 (2006) (unilateral changes that “vitally impacted employee earnings . . . would reasonably tend to coerce employees into abandoning support for the [u]nion”), enforced, 525 F.3d 1117 (11th Cir. 2008); Penn Tank Lines, Inc., 336 NLRB 1066, 1067 (finding possibility of long-lasting effect on union support when employer conduct suggests that the union “is irrelevant in preserving or increasing their wages”). For that reason, the wage cut at issue “presented a concrete possibility of union dissolution.” Kinard, 890 F.3d at 613. And as the Board stated (ROA.2178), it has held in other cases that reductions in employee wages and benefits that are so drastic as to jeopardize the union constitute constructive discharge. See Control Serv., 303 NLRB 481, 485 (1991) (unlawful cuts in wages, hours and health insurance benefits resulted in a constructive discharge); White-Evans Serv. Co., 285 NLRB 81, 82-83 (1987) (same).
+37
+
+Case: 18-60522	Document: 00514822107 Page: 47 Date Filed: 02/04/2019
+From the employees’ perspective, DISH’s other contemporaneous unfair labor practices telegraphed that they faced a Hobson’s choice. The very day that employees found out their wages and benefits were being cut, one of DISH’s managers texted an employee that the Union was gone and tied its departure explicitly to the elimination of QPC. At the time, DISH was unlawfully refusing to meet with the Union and insisting that the Union hold a ratification vote. A unilateral change such as the cuts here “minimizes the influence of organized bargaining” and “interferes with the right of self organization by emphasizing to the employees that there is no necessity for a collective bargaining agent.” May Dep’t Stores Co. v. NLRB, 326 U.S. 376, 385 (1945). Given the negative effect of the wage cut on employee morale and support for the Union, and the background of DISH’s unlawful conduct, it was not unreasonable for the Board to equate the choice of staying under those intolerable working conditions with a choice to forego important Section 7 rights. (ROA.2178.)
+DISH’s contention (Br. 47-57) that the Board incorrectly relied on solely a unilateral wage change to support its constructive discharge finding misinterprets the Board’s and this Court’s case law—and it misreads the Board’s decision, which also relied on DISH’s numerous other unfair labor practices. This Court’s decision in Electric Machinery Co. v. NLRB, 653 F.2d 958 (5th Cir. 1981), defines the border between conduct that is and is not inherently destructive of important
+38
+
+Case: 18-60522	Document: 00514822107 Page: 48 Date Filed: 02/04/2019
+employee rights in a way that illustrates why the Board’s decision is correct. In that case, where “the question of constructive discharge [was] close,” the Court held that the employer’s unlawful unilateral changes to employees’ wages and benefits after a contract’s expiration were insufficient, on their own, to constitute constructive discharge of the affected employees. Id. at 955-56. In so finding, the Court highlighted that the employer “urged [employees] to stay on,” “evidenced a desire to bargain in good faith,” and “brought forth a convincing business justification” for its actions. Id. at 956. None of those factors is present here: the Board found that DISH bargained in bad faith, it did not urge employees to stay on, and it did not proffer a business justification for cutting its unionized employees’ wages to far below what its other area employees earned.
+DISH is mistaken in contending (Br. 53-54) that either the Board’s or this Court’s precedent forecloses a constructive discharge finding here. Nowhere in Electric Machinery did the Court state that if employees’ resignations as a result of unilateral changes to their wages can never be treated as constructive discharges. Contrary to DISH’s claim (Br. 54 n.10), the cases cited by the Board provide a far closer analogue. For instance, the Board found constructive discharges in White-Evans although, like here, the employer did not directly give employees a choice between continued employment and unionization. Instead, the employer committed several contemporaneous unfair labor practices that tended to
+39
+
+Case: 18-60522	Document: 00514822107 Page: 49 Date Filed: 02/04/2019
+undermine the union, including direct dealing, and instituted draconian unilateral changes. White-Evans, 285 NLRB at 82-83; see also Control Serv., 303 NLRB at 485 (employer’s unilateral reduction in employee hours, causing reduced wages and loss of health insurance, constituted constructive discharge). Thus, in that case, as here, the employer’s entire course of unlawful conduct, not its direct communications, led employees to understand that they faced a Hobson’s choice. And, contrary to DISH’s contention (Br. 53), the Board’s decision in Lively Electric, 316 NLRB at 472, did not abrogate the Board’s holdings in Control Services and White-Evans; that case involved the change in working conditions of a single unit employee. See Lively Electric, 316 NLRB 471, 472 (1995) (citing and distinguishing, not overruling, Control Services). Changes to a single employee’s compensation do not undermine the union’s representational status to the same degree as changed to the whole unit’s compensation.
+At most, Electric Machinery stands for the proposition that a unilateral change supported by a business justification and made in a context of otherwise good-faith bargaining cannot constitute constructive discharge on its own. But that proposition has no bearing here. DISH acted in bad faith, had no apparent reason to cut employee wages and benefits so deeply unless it wished for employees to leave. It also simultaneously committed several other unfair labor practices, including by texting an employee that the Union was gone the very day employees
+40
+
+Case: 18-60522	Document: 00514822107 Page: 50 Date Filed: 02/04/2019
+found out about the cuts, and later threatening employees with termination should they tell new employees about the Union. In finding constructive discharge, the Board specifically relied on all of DISH’s unlawful actions, not just the unilateral changes. (ROA.2178 n.26.) Thus, DISH’s contention (Br. 52) that the Board solely relied on the pay cut misreads the Board’s decision.
+Similarly misplaced is DISH’s reliance on its employees’ stated reasons for quitting (Br. 56-57) as analogous to the employees’ reasons at issue in Electric Machinery. That reasoning conflates the two elements of constructive discharge— intolerable conditions and diminishment of representational rights. As to the first element, in Haberman, the en-banc Court focused on the objective severity of the employer’s actions, not whether employees subjectively believed the employer was attempting to undermine the union. See Haberman, 641 F.2d at 359 (relying on judge’s analysis of message employer conveyed to employees). Here, DISH does not seriously dispute that the unilateral pay cut was severe enough to constitute an intolerable condition. As to the second element, the Board properly took DISH’s other unfair labor practices into account in determining whether its actions were inherently destructive of important employee rights. DISH cut their wages without bargaining to impasse or agreement, leaving them worse off than they would have been had they never selected the Union to represent them. DISH’s actions and statements thus conveyed to employees that it had no intention of faithfully
+
+41
+
+Case: 18-60522	Document: 00514822107 Page: 51 Date Filed: 02/04/2019
+fulfilling its duty to bargain. That the unilateral change happened in the past (Br. 56 n.12) is of no moment; the benefits change for strikers at issue in Great Dane also happened in the past. Undermining the Union has a lasting effect on the bargaining unit even if the employer takes no further unlawful actions, and there was no reason for employees to believe that DISH would refrain from doing so.
+In short, DISH’s actions left employees the choice of quitting or continuing to work in circumstances that seriously undermined the Union—DISH’s demonstrated bad faith and the intolerable, unlawful wage and benefit cuts that the Union failed to prevent, not to mention coercive and threatening statements. That the Union “continues to be actively engaged with those members who did not resign” (Br. 56) is a testament to the effectiveness of the Section 10(j) injunction restoring previous pay levels, not a sign that DISH’s unlawful actions have had no effect. In such circumstances, substantial evidence supports the Board’s finding that DISH constructively discharged the unit employees.
+
+42
+
+Case: 18-60522	Document: 00514822107 Page: 52 Date Filed: 02/04/2019
+CONCLUSION
+DISH and the Union were attempting to reach agreement on their first collective-bargaining agreement in November 2014. They agreed to continue meeting in December, then DISH abruptly changed course, demanding a contract offer before meeting, then outright refusing to bargain with the Union. Even after the Union submitted a proposal with its biggest concession to that point, DISH steadfastly ignored its obligation to meet and confer with the Union and instead waited over a year, declared impasse, implemented draconian terms that effectively penalized employees for having selected representation, told employees that the Union was gone, and threatened employees with discharge if they discussed the Union with new employees. The Board reasonably sanctioned DISH’s unlawful actions, and requests that this Court enforce its Order in full.
+Respectfully submitted,
+/s/ Kira Dellinger Vol
+KIRA DELLINGER VOL Supervisory Attorney
+/s/ David Casserly 
+PETER B. ROBB	DAVID CASSERLY
+General Counsel	Attorney
+JOHN W. KYLE	National Labor Relations Board
+Deputy General Counsel	1015 Half Street SE
+LINDA DREEBEN	Washington, DC 20570-0001
+Deputy Associate General Counsel (202) 273-0656
+(202) 273-0247
+National Labor Relations Board
+February 2019
+43
+
+Case: 18-60522	Document: 00514822107 Page: 53 Date Filed: 02/04/2019
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+DISH NETWORK CORPORATION	:
+:
+Petitioner/Cross-Respondent :
+: Case No. 18-60522
+v.	:
+: Board Case No.
+NATIONAL LABOR RELATIONS BOARD	: 16-CA-173719
+:
+Respondent/Cross-Petitioner :
+CERTIFICATE OF COMPLIANCE
+Pursuant to Federal Rule of Appellate Procedure 32(a)(7)(C), the Board certifies that its brief contains 9,849 words of proportionally spaced, 14-point type, and the word processing system used was Microsoft Word 2016. The PDF file submitted to the Court has been scanned for viruses using Symantec Endpoint Protection Version 14 (14.0 RU1 MP2).
+/s/Linda Dreeben
+
+Linda Dreeben
+Deputy Associate General Counsel
+National Labor Relations Board
+1015 Half Street, SE
+Washington, DC 20570
+(202) 273-2960
+
+Dated at Washington, DC this 4th day of February, 2019
+
+Case: 18-60522	Document: 00514822107 Page: 54 Date Filed: 02/04/2019
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+DISH NETWORK CORPORATION	:
+:
+Petitioner/Cross-Respondent :
+: Case No. 18-60522
+v.	:
+: Board Case No.
+NATIONAL LABOR RELATIONS BOARD	: 16-CA-173719
+:
+Respondent/Cross-Petitioner :
+CERTIFICATE OF SERVICE
+I hereby certify that on February 4, 2019, I electronically filed the foregoing with the Clerk of the Court for the United States Court of Appeals for the Fifth Circuit by using the appellate CM/ECF system. I certify that the foregoing document was served on all parties or their counsel of record through the CM/ECF system.
+s/ Linda Dreeben 
+Linda Dreeben
+Deputy Associate General Counsel
+NATIONAL LABOR RELATIONS BOARD
+1015 Half Street, SE
+Washington, DC 20570
+Dated at Washington, D.C.
+this 4th day of February, 2019

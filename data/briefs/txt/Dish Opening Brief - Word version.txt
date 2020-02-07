@@ -1,0 +1,626 @@
+Case: 18-60522	Document: 00514736148 Page: 1 Date Filed: 11/26/2018
+No. 18-60522
+IN THE
+United States Court of Appeals for the Fifth Circuit
+DISH NETWORK CORPORATION,
+Petitioner-Cross-Respondent,
+v.
+NATIONAL LABOR RELATIONS BOARD,
+Respondent-Cross-Petitioner.
+On Petition for Review of the Order of the
+National Labor Relations Board, Case Nos.
+16-CA-173719, 16-CA-173720, 16-CA-173770, 16-CA-177314,
+16-CA-177321, 16-CA-178881, and 16-CA-178884
+CORRECTED BRIEF FOR PETITIONER-CROSS-RESPONDENT DISH NETWORK CORPORATION
+Eric A. Shumsky Randall C. Smith Benjamin F. Aiken ORRICK, HERRINGTON &
+SUTCLIFFE LLP 1152 15th Street NW Washington, DC 20005 (202) 339-8400
+Counsel for Petitioner-Cross-Respondent
+
+Case: 18-60522	Document: 00514736148 Page: 2 Date Filed: 11/26/2018
+CERTIFICATE OF INTERESTED PERSONS Pursuant to 5th Cir. R. 28.2.1, the number and style of the case
+are as follows: No. 18-60522, DISH Network Corporation v. National Labor Relations Board.
+The undersigned counsel of record certifies that the following listed persons and entities as described in the fourth sentence of Rule 28.2.1 have an interest in the outcome of this case. These representations are made in order that the judges of this court may evaluate possible disqualification or recusal.
+DISH Network Corporation—Petitioner-Cross-Respondent
+Orrick, Herrington & Sutcliffe LLP—Counsel for Petitioner-Cross-Respondent
+Eric A. Shumsky—Counsel for Petitioner-Cross-Respondent
+Benjamin F. Aiken—Counsel for Petitioner-Cross-Respondent
+Randall C. Smith—Counsel for Petitioner-Cross-Respondent
+National Labor Relations Board—Respondent-Cross-Petitioner
+Linda Dreeben—Counsel for Respondent-Cross-Petitioner
+Kira Vol—Counsel for Respondent-Cross-Petitioner
+David Casserly—Counsel for Respondent-Cross-Petitioner
+Communications Workers of America, AFL-CIO—Intervenor
+
+ii
+
+Case: 18-60522	Document: 00514736148 Page: 3 Date Filed: 11/26/2018
+David Van Os & Associates, P.C.—Counsel for Intervenor
+Matthew G. Holder—Counsel for Intervenor
+Pursuant to Federal Rule of Appellate Procedure 26.1(a), undersigned counsel further certifies that DISH Network Corporation has no parent corporation. Based solely on a review of Form 13D and Form 13G filings with the Securities and Exchange Commission, no entity owns more than 10% of DISH Network Corporation’s stock other than Telluray Holdings, LLC and JPMorgan Chase & Co.
+Date: November 26, 2018 ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Petitioner-Cross-Respondent
+
+iii
+
+Case: 18-60522	Document: 00514736148 Page: 4 Date Filed: 11/26/2018
+STATEMENT REGARDING ORAL ARGUMENT
+This case presents important issues concerning the National Labor Relations Act. The first issue concerns the circumstances under which an employer may declare that parties negotiating in good faith have reached an impasse when they cannot agree on a single, overriding issue in the negotiations. The second considers the standard that applies to claims for constructive discharge following a unilateral pay cut. The National Labor Relations Board here concluded that no impasse existed and that DISH had constructively discharged 17 employees. Both issues regularly recur, and the Board’s conclusion on both issues rested on fundamental legal errors. DISH respectfully submits that oral argument would assist the Court’s consideration of these important issues.
+
+iv
+
+Case: 18-60522	Document: 00514736148 Page: 5 Date Filed: 11/26/2018
+TABLE OF CONTENTS
+Page
+CERTIFICATE OF INTERESTED PERSONS	ii
+STATEMENT REGARDING ORAL ARGUMENT	iv
+TABLE OF AUTHORITIES	vii
+INTRODUCTION	1
+JURISDICTION	5
+STATEMENT OF ISSUES	6
+STATEMENT OF THE CASE	7
+DISH Tries QPC On A Trial Basis; Technicians Oppose It
+And Unionize To Eliminate It	7
+The Union Reverses Its Position On QPC, Producing A
+Hopeless Deadlock	10
+DISH Presents Its Last, Best, And Final Offer; The Union Immediately Rejects It And Presents A
+Counterproposal That Would Preserve QPC	15
+After Confirming That The Union’s Goal Was To Delay,
+DISH Declares Impasse And Implements Its Last,
+Best, And Final Offer	18
+An ALJ Concludes That DISH Unlawfully Implemented Its Last, Best, And Final Offer In The Absence Of A Valid Impasse, And That The 17 Employees Who Quit Were
+Constructively Discharged	20
+The Board Affirms The ALJ	24
+SUMMARY OF ARGUMENT	26
+STANDARD OF REVIEW	29
+ARGUMENT	30
+I.	DISH Lawfully Implemented Its Last, Best, And Final
+Offer.	30
+v
+
+Case: 18-60522	Document: 00514736148 Page: 6 Date Filed: 11/26/2018
+
+The parties were at an impasse over QPC, the
+core issue throughout collective bargaining.	30
+The Board’s determination that the Union’s December 2014 counterproposal represented a “white flag” on QPC is not supported by
+substantial evidence.	36
+II.	The Board’s Determination That DISH Employees Were Constructively Discharged Conflicts With The
+Board’s And This Court’s Precedent.	46
+CONCLUSION	57
+CERTIFICATE OF SERVICE
+CERTIFICATE OF COMPLIANCE
+
+vi
+
+Case: 18-60522	Document: 00514736148 Page: 7 Date Filed: 11/26/2018
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+Allentown Mack Sales & Serv., Inc. v. NLRB,
+522 U.S. 359 (1998)	42
+AMF Bowling Co. v. NLRB,
+63 F.3d 1293 (4th Cir. 1995)	45
+CalMat Co.,
+331 N.L.R.B. 1084 (2000)	34, 35
+Carey Salt Co. v. NLRB,
+736 F.3d 405 (5th Cir. 2013)	29, 34, 40, 43
+Charles D. Bonanno Linen Serv., Inc. v. NLRB,
+454 U.S. 404 (1982)	30, 31, 32
+Chevron Oil Co. v. NLRB,
+442 F.2d 1067 (5th Cir. 1971)	31
+Chrysler Credit Corp. v. J. Truett Payne Co.,
+670 F.2d 575 (5th Cir. 1982)	41
+Cincinnati Newspaper Guild, Local 9 v. NLRB,
+938 F.2d 284 (D.C. Cir. 1991)	32
+Control Servs., Inc,
+303 N.L.R.B. 481 (1991)	54
+E.I. Du Pont De Nemours & Co.,
+268 N.L.R.B. 1075 (1984)	30, 32, 44
+Elec. Mach. Co. v. NLRB,
+653 F.2d 958 (5th Cir. 1981)	49, 51, 52, 53, 54, 57
+Erie Brush & Mfg. Corp. v. NLRB,
+700 F.3d 17 (D.C. Cir. 2012)	32, 34, 46
+vii
+
+Case: 18-60522	Document: 00514736148 Page: 8 Date Filed: 11/26/2018
+Excavation-Constr., Inc. v. NLRB,
+660 F.2d 1015 (4th Cir. 1981)	32
+H. K. Porter Co. v. NLRB,
+397 U.S. 99 (1970)	33
+In-N-Out Burger, Inc. v. NLRB,
+894 F.3d 707 (5th Cir. 2018)	50
+Jackson Hosp. Corp. v. NLRB,
+647 F.3d 1137 (D.C. Cir. 2011)	41
+Kinard v. DISH Network Co.,
+228 F. Supp. 3d 771 (N.D. Tex. 2017)	23, 56
+Kinard v. Dish Network Corp.,
+890 F.3d 608 (5th Cir. 2018)	23
+Laurel Bay Health & Rehabilitation Center v. NLRB,
+666 F.3d 1365 (D.C. Cir. 2012)	33, 44
+Lively Elec., Inc.,
+316 N.L.R.B. 471 (1995)	49, 53, 54
+Local Joint Exec. Bd. of Las Vegas v. NLRB,
+657 F.3d 865 (9th Cir. 2011)	43
+Long Island Head Start Child Dev. Servs. v. NLRB,
+460 F.3d 254 (2d Cir. 2006)	42, 54
+Lord & Taylor v. NLRB,
+703 F.2d 163 (5th Cir. 1983)	43
+McCourt v. Cal. Sports, Inc.,
+600 F.2d 1193 (6th Cir. 1979)	32
+Motor Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co.,
+463 U.S. 29 (1983)	43
+Nat’l Cable & Telecomms. Ass’n v. Brand X Internet Servs.,
+545 U.S. 967 (2005)	54
+viii
+
+Case: 18-60522	Document: 00514736148 Page: 9 Date Filed: 11/26/2018
+NLRB v. Am. Nat’l Ins. Co.,
+343 U.S. 395 (1952)	31
+NLRB v. CER Inc.,
+762 F.2d 482 (5th Cir. 1985)	49, 50
+NLRB v. Haberman Constr. Co.,
+641 F.2d 351 (5th Cir. 1981) (en banc)	48, 51, 56
+NLRB v. Herman Sausage Co.,
+275 F.2d 229 (5th Cir. 1960)	31
+RCR Sportswear, Inc.,
+312 N.L.R.B. 513 (1993)	53
+Remodeling by Oltmanns, Inc.
+263 N.L.R.B. 1152 (1982)	48, 49
+Sanderson Farms, Inc. v. Perez,
+811 F.3d 730 (5th Cir. 2016)	47
+Saunders House v. NLRB,
+719 F.2d 683 (3d Cir. 1983)	44
+Serramonte Oldsmobile, Inc. v. NLRB,
+86 F.3d 227 (D.C. Cir. 1996)	45
+Superior Sprinkler, Inc.,
+227 N.L.R.B. 204 (1976)	52, 56
+Taft Broad. Co.,
+163 N.L.R.B. 475 (1967)	24, 30, 44
+TruServ Corp. v. NLRB,
+254 F.3d 1105 (D.C. Cir. 2001)	30, 31, 33, 36, 46
+Universal Camera Corp. v. NLRB,
+340 U.S. 474 (1951)	41
+White-Evans Service Co.,
+285 N.L.R.B. 81 (1987)	54
+ix
+
+Case: 18-60522	Document: 00514736148 Page: 10 Date Filed: 11/26/2018
+
+Wright Line,
+251 N.L.R.B. 1083 (1980)	48
+Statutes
+29 U.S.C. § 158(a)(3)	22, 46, 48
+29 U.S.C. § 158(a)(5)	20, 30
+29 U.S.C. § 158(d)	8, 30, 31
+29 U.S.C. § 160	29
+29 U.S.C. § 160(e)	5, 21
+29 U.S.C. § 160(f)	5
+29 U.S.C. § 160(j)	23
+Other Authorities
+The Developing Labor Law (John E. Higgins, Jr., ed., 7th ed.
+2017)	48, 49
+
+x
+
+Case: 18-60522	Document: 00514736148 Page: 11 Date Filed: 11/26/2018
+INTRODUCTION
+This case arises from a union’s effort to delay eliminating a pay
+scale under which a tiny number of employees are paid dramatically more than others who perform the same work.
+DISH has numerous locations around the country where it employs technicians who install and service equipment at customers’ homes. At two of those locations in the Dallas area, DISH tested a new pay scale—called Quality Performance Compensation, or “QPC” for short. Under QPC, the technicians’ hourly wages were lowered, but the hourly wages were supplemented by performance incentives— additional pay for high-quality work.
+Technicians were not convinced that the new incentives would make up for the reduction in their base wage, and they so fervently disliked QPC that they unionized these two DISH locations for the specific purpose of eliminating it. Ultimately, DISH itself decided to abandon its QPC experiment; it shifted to a different performance incentive system (called Performance Incentive, or “Pi”) at its other locations. As a result, it looked like DISH and the union would
+
+1
+
+Case: 18-60522	Document: 00514736148 Page: 12 Date Filed: 11/26/2018
+converge on a deal in which QPC was eliminated and the technicians at these two locations would switch to Pi.
+That all changed in 2013, when a basic—and, for the technicians, extremely lucrative—design flaw in QPC became apparent. QPC didn’t account for technological improvements that enabled technicians to complete their work in far less time. It was as if an accountant, evaluated on performance metrics developed in the age of the abacus, suddenly was handed a calculator; or an airline pilot was rewarded for on-time arrivals based on a schedule developed in the era of Lindbergh. The result was predictable: Incomes at those two DISH locations ballooned, far exceeding the salaries of other technicians, and indeed exceeding the salaries of their own managers.
+At that point, the union’s negotiating strategy shifted dramatically. The union realized that it never could get a better deal for its members than QPC, so it focused on delaying change for as long as possible. For its part, DISH made clear that although it would consider concessions on other issues, it never would agree to preserve QPC in any way, shape, or form. By December 2014, the parties had been bargaining for more than four years, including more than a year
+
+2
+
+Case: 18-60522	Document: 00514736148 Page: 13 Date Filed: 11/26/2018
+since the union had dug in its heels on QPC. The union insisted on keeping QPC; DISH insisted on getting rid of it. When the parties in collective bargaining refuse to budge on a key, overriding issue, they are at an impasse. And under the National Labor Relations Act (NLRA), when there’s an impasse, an employer may unilaterally impose new terms and conditions. DISH made its “last, best, and final offer.” The union rejected it. And so DISH unilaterally implemented it.
+That should have been the end of the story, but for the ALJ’s misreading of a single document, which subsequently formed the basis for a divided Board’s final decision. When the union rejected DISH’s last, best, and final offer in December 2014, it offered a counterproposal: to preserve QPC for technicians already employed at the two unionized locations. DISH had made clear it wouldn’t accept QPC in any form, but the ALJ nonetheless saw this as a meaningful concession that foreclosed impasse. The ALJ’s reasoning relied on a document that, he said, showed high rates of attrition at the two Dallas locations. That was significant, he reasoned, because it meant QPC would quickly be phased out.
+
+3
+
+Case: 18-60522	Document: 00514736148 Page: 14 Date Filed: 11/26/2018
+The document, however, showed the opposite. Attrition rates were high at other locations but they were exceptionally low (and declining further) at the two locations where QPC was in effect. ROA.1803. And that made sense. Attrition was bound to be low at those locations because those technicians had a strong reason to stay with the company: They were being paid far above market. The ALJ’s misreading of the document was the clearest of clear error. And when DISH pointed this out to the Board, a divided panel ignored the problem; it simply repeated the ALJ’s assertion that the union’s counterproposal was a “white flag” that “offered a possible resolution on bargaining’s thorniest issue.” ROA.2169 (internal quotation marks omitted). When, as here, a Board decision misconstrues or ignores the record, it must be vacated.
+The balance of the Board majority’s decision can be quickly dispatched. The ALJ concluded (and the Board offered no separate view) that DISH constructively discharged 17 employees by implementing its last, best, and final offer. His theory was that this was a constructive discharge because these employees faced a Hobson’s Choice: keep their jobs and sacrifice their union rights, or quit their jobs
+
+4
+
+Case: 18-60522	Document: 00514736148 Page: 15 Date Filed: 11/26/2018
+to preserve those rights. But everyone (General Counsel, union, and ALJ) agrees that the employees quit because their pay was reduced, and a unilateral pay cut without more does not constitute a Hobson’s Choice. That is because (as this Court and the Board previously have concluded) a pay cut does not by itself show the requisite anti-union animus. Any other rule would allow and indeed encourage employees to quit anytime an employer allegedly committed an unfair labor practice, rather than maintaining the status quo and seeking relief. This ruling was error as a matter of law. The decision of the Board must be vacated.
+JURISDICTION
+This Court has jurisdiction pursuant to 29 U.S.C. § 160(e) and (f)
+because this is an appeal from a final decision and order of the National Labor Relations Board, and because the allegedly unfair labor practices were committed within this Court’s territorial jurisdiction. The Petition for Review and Cross-Application for Enforcement were timely filed as there is no time limit for such filings.
+
+5
+
+Case: 18-60522	Document: 00514736148 Page: 16 Date Filed: 11/26/2018
+STATEMENT OF ISSUES
+As the Board recognized, the most important bargaining
+issue between DISH and the union was QPC. DISH was clear that it would not agree to retain QPC in any form. Following lengthy and unsuccessful negotiations, the union insisted on keeping QPC. DISH made and then implemented its last, best, and final offer.
+Was the Board’s determination that DISH improperly implemented its last, best, and final offer in the absence of a valid impasse supported by substantial evidence, where it was based entirely on the ALJ’s incorrect conclusion that there was a high attrition rate among DISH technicians at the two unionized Dallas locations?
+After DISH implemented its last, best, and final offer, 17 employees quit. The evidence is undisputed, and all parties and the ALJ agreed, that these employees quit because their wages were reduced. This Court and the Board have held that a unilateral wage reduction, standing alone, does not create a Hobson’s Choice such that employees who quit because of the reduction were necessarily constructively discharged. Did the Board err in nonetheless concluding
+
+6
+
+Case: 18-60522	Document: 00514736148 Page: 17 Date Filed: 11/26/2018
+that these employees were constructively discharged because they faced
+a Hobson’s Choice?
+STATEMENT OF THE CASE
+DISH Tries QPC On A Trial Basis; Technicians Oppose It And Unionize To Eliminate It
+DISH is one of the largest providers of TV programming in the country. It sells programming packages to its customers, which it beams via satellite to small dishes mounted on their homes. To provide this service, DISH employs technicians who travel to customers’ homes to install the satellite systems and troubleshoot any problems. ROA.876. DISH generally compensates its technicians using a nationwide pay system, ROA.1076, which often included an hourly component. In 2009, DISH began a pilot program to test QPC, a new incentive-based system at several locations, including two of its eight offices in the North Texas region: Farmers Branch and North Richland Hills. ROA.882-83.
+The idea behind this system was to supplement a lower hourly wage with additional, performance-based compensation. ROA.881. Each task a technician might perform was assigned a point value. These points were then weighted (based on how well the technician
+
+7
+
+Case: 18-60522	Document: 00514736148 Page: 18 Date Filed: 11/26/2018
+performed the task) and assigned dollar values. Id. Technicians thus accrued both hourly wages and incentive pay throughout the day, and their pay increased with the quantity and quality of tasks they performed. The goal of QPC was to develop a merit-based compensation system that would “drive performance” while “not increas[ing] pay to a drastic point.” Id.
+The technicians in Farmers Branch and North Richland Hills fervently opposed QPC because it decreased their hourly base wage. ROA.1076-77 (Basara deposition testimony); ROA.2171 (ALJ order). They wanted to eliminate QPC and return to a system of flat hourly wages—so much so that they began a union drive that led to the election of the Communications Workers of America (“the Union”) to represent them in collective bargaining. ROA.1076.
+With the Union in place, collective bargaining was required for wages and other mandatory subjects of bargaining. 29 U.S.C. § 158(d). The Union initially sought a contract that would eliminate QPC at the Dallas-area locations and move back to the system of higher, flat hourly wages that had existed before; after all, opposition to QPC was the very impetus for unionization. ROA.1081-82. For its part, DISH originally
+
+8
+
+Case: 18-60522	Document: 00514736148 Page: 19 Date Filed: 11/26/2018
+wanted to preserve QPC. Id. But DISH quickly abandoned that position when it replaced the QPC pilot program elsewhere in the country with a different performance-based incentive program, Pi. ROA.1083, 2172 (ALJ).1
+
+Collective bargaining between DISH and the Union began in July 2010, ROA.2168, and during the first years of bargaining, the parties met approximately a dozen times, for a total of 20 to 25 days. ROA.1086 (Basara); ROA.2172 (ALJ). By early 2013, substantial progress had been made. Both sides agreed that QPC should be replaced with a system of hourly wages, plus the opportunity to earn additional pay under Pi.2 The only remaining wage-based issues
+1 Pi pays a higher hourly wage and is less heavily incentive-based than QPC. ROA.1076-77. And whereas everyone under QPC earned some incentive-based pay, a technician paid under Pi had to meet certain thresholds before earning incentive-based pay. In addition, incentives under Pi were capped for each pay period, whereas QPC had no limit on the additional wages an employee could receive. ROA.881, 883-85. In short, under Pi, all technicians earn a greater hourly wage compared to QPC, and technicians who “perform above and beyond” are “rewarded with a little extra.” ROA.883.
+2 ROA.1083-84, 1089-93; ROA.1410 (Union’s March 22, 2013 proposal, indicating that “[a]ll bargaining unit employees will participate in the same incentive programs as other non-represented DISH network
+
+9
+
+Case: 18-60522	Document: 00514736148 Page: 20 Date Filed: 11/26/2018
+concerned the hourly wage schedule, and how much wages should increase each year. The parties continued exchanging offers and counter-offers, and by May 2013, they were approximately one dollar apart on hourly wages.3 They also had agreed on a range of other items such as the 401(k) plan and the right to advance notice of schedules.4 A final agreement seemed to be within sight.
+The Union Reverses Its Position On QPC, Producing A Hopeless Deadlock
+In July 2013, the Union abruptly abandoned the position it had promoted for the preceding three years. Instead of fighting to eliminate QPC, it now demanded that QPC be retained—and that hourly wages be increased as well.
+The Union’s sudden reversal was driven by a historical quirk that caused wages to skyrocket for technicians in Farmers Branch and North Richland Hills. Recall that QPC compensated technicians based on a
+employees”); ROA.1743 (DISH’s August 17, 2012 proposal indicating “offer of Pi”).
+3 ROA.1410 (Union’s March 22, 2013 proposal); ROA.1412 (Union’s May 31, 2013 proposal); ROA.1495 (DISH’s May 2013 proposal); ROA.1764 (Union’s March 21, 2013 proposal).
+4 ROA.1716 (May 31, 2013 document showing agreed-to articles, initialed by representatives for the Union and DISH).
+10
+
+Case: 18-60522	Document: 00514736148 Page: 21 Date Filed: 11/26/2018
+set of fixed-point values assigned to different tasks. But the performance metrics from 2009 were frozen in place when the Union was certified, and those metrics didn’t account for changes in technology. ROA.888 (testimony of Monty Beckham, DISH’s Regional Director of Operations for the South Central Region). Thus, when technology improved, technicians could complete their work faster and more efficiently, and their pay would increase—regardless of whether the technician was doing anything differently or better than before.
+Key among these technological developments were improvements at DISH’s call center. DISH implemented a system that enabled the company to troubleshoot and resolve over the phone many technical problems that previously would have required the company to dispatch a technician to the customer’s house. ROA.887 (Beckham). Because technicians were penalized under QPC when the company had to dispatch a technician for a follow-up appointment after an installation or repair, this improvement in DISH’s call center was an enormous windfall for QPC technicians. ROA.887-88. Technicians also benefited from various other technological improvements, including the company’s shift to electronic forms (which saved technicians time on
+11
+
+Case: 18-60522	Document: 00514736148 Page: 22 Date Filed: 11/26/2018
+paperwork), and improvements in the company’s GPS system (which saved technicians time by routing them more efficiently to customers’ homes). Id.
+The result was that wages at Farmers Branch and North Richland Hills quickly came to exceed those at non-unionized offices in the same region. Statistics for average earnings per technician tell the tale. In 2013, average earnings at Farmers Branch and North Richland Hills were 14% higher than average earnings for non-unionized technicians. ROA.1778 (chart showing average earnings of DISH technicians at unionized and non-unionized locations from 2010 to 2015). The disparity increased to 41% in 2014, and 43% in 2015. Id. In short, the technicians paid under QPC earned on average nearly $20,000 more per year than technicians elsewhere in the region—notwithstanding the fact that they worked (on average) 200 fewer hours per year, ROA.895-96 (Beckham). Indeed, the wage increase was so dramatic that technicians could earn more than their managers. One satellite technician, who made approximately $100,000 in 2015, noted that he wanted to “go into management,” but that doing so would mean
+
+12
+
+Case: 18-60522	Document: 00514736148 Page: 23 Date Filed: 11/26/2018
+“tak[ing] a pay cut.” ROA.280, 291 (testimony of Field Technician Robert McDonald).
+The technicians’ windfall under QPC produced a bargaining dynamic that the Union’s own negotiators acknowledged they’d never seen in private-sector bargaining. ROA.543 (testimony of Union representative Silvia Ramos). Normally a union enters bargaining seeking to obtain something better; here, the Union recognized in 2013 that the “status quo, i.e., keeping the QPC and not bargaining for a while, was preferable.” ROA.599. Thus, from that point on, the employees’ goal was “to protect or keep the [QPC] pay scale.” ROA.543.
+To that end, the Union was willing to offer concessions on issues it normally regards as critical—for instance, automatic deduction of union dues from payroll, arbitration for workplace disputes, and seniority protections. ROA.544-45. The Union’s representative said that, in all her time as a representative at the Union, she had never accepted a collective bargaining agreement that lacked those terms, but she was willing to bargain them away to preserve QPC. ROA.543.
+In response, DISH made clear that it was willing to significantly increase the technicians’ hourly wages, but that it “would not agree to
+
+13
+
+Case: 18-60522	Document: 00514736148 Page: 24 Date Filed: 11/26/2018
+QPC.” ROA.1097; compare ROA.1495 (company’s May 2013 offer involving hourly wage increases of $4-5 per hour), with ROA.1706 (union’s counter-proposal with lower wages and continuation of QPC). The Union began “holding on its final proposal.” ROA.1104. DISH responded by asking, “Are we at impasse then?” given the Union’s refusal to consider any proposal that didn’t preserve QPC. Id. At that point, the Union began demanding new information from DISH, which the company supplied. ROA.457 (Ramos); ROA.1104-05 (Basara); ROA.1594 (emails between Union and DISH); ROA.1758 (notes from bargaining session). And the Union made a regressive proposal— namely, it proposed to preserve QPC, and also sought additional concessions, such as a “clothing allowance.” ROA.1097, 1820 (Union’s November 19, 2014 proposal).
+In short, the bargaining was “going backwards.” ROA.1097. DISH’s main negotiator, George Basara, likened the Union’s strategy to the “four-corner stall,” an offense in college basketball where one team holds the ball indefinitely to deny its opponent the opportunity to score. ROA.1112. The Union’s lack of any economic leverage bolstered Basara’s view that it was simply stalling: The Union couldn’t threaten
+
+14
+
+Case: 18-60522	Document: 00514736148 Page: 25 Date Filed: 11/26/2018
+to go on strike because it represented only a small subset of technicians in the North Texas region, and technicians at the other, non-unionized locations could work anywhere in the region. ROA.1079-80. The Union itself was “savvy about” its lack of leverage, since it “never actually threatened to go on strike” to preserve QPC, instead focusing its efforts on dragging out the negotiations as long as possible. Id.
+DISH Presents Its Last, Best, And Final Offer; The Union Immediately Rejects It And Presents A Counterproposal That Would Preserve QPC
+After more than four years of bargaining, and recognizing that the parties were deadlocked on QPC, DISH offered its “final proposal” in November 2014. ROA.1725; see ROA.1371-77 (December 18, 2014 letter from Basara to Ramos). The proposal would replace QPC with an hourly wage schedule. ROA.1377. The Union’s main negotiator returned early from a trip to attend the November bargaining session because she had been told by one of her associates that they “had gotten a final offer” from DISH. ROA.477-78 (Ramos testimony); ROA.1373 (letter from Basara to Ramos).
+The parties were scheduled to meet again in early December, at which time DISH expected to hear whether the Union would accept its
+
+15
+
+Case: 18-60522	Document: 00514736148 Page: 26 Date Filed: 11/26/2018
+final offer. ROA.1055. The meeting had to be cancelled due to a death in the family of one of the Union’s negotiators, id., and the Union responded by email on December 9. ROA.1453-54 (email from Ramos to Basara). The Union declined DISH’s offer, instead proposing that all currently employed technicians continue to be paid under QPC, while new hires would be paid an hourly wage plus the opportunity to earn Pi. Id.; see ROA.1388 (Union’s December 9, 2014 proposal).
+DISH rejected the counterproposal on December 18. ROA.1371-77 (letter from Basara to Ramos). It made clear that DISH was “not giving [the Union] QPC, in any way, shape, or form.” ROA.1133. But, far from eliminating QPC, the Union’s proposal would ensure there would be a “boatload of Technicians making QPC” for years into the future—for the simple reason that attrition was unusually low at Farmers Branch and North Richland Hills, given the windfall that technicians there were receiving under QPC. ROA.1129; see ROA.889-900 (Beckham). Furthermore, the proposal would create an awkward situation in which two otherwise identical technicians would make dramatically different salaries for doing the same work, based solely on whether they were grandfathered into QPC. In Basara’s experience, such systems tended
+
+16
+
+Case: 18-60522	Document: 00514736148 Page: 27 Date Filed: 11/26/2018
+to be a “disaster,” as they “created so much conflict inside the organization ... among peer workers.” ROA.1130.
+Basara sought to meet with the Union to make clear, yet again, that DISH would not accept any proposal that retained QPC.
+ROA.1440 (email from Basara to Ramos), 1133-34. The Union’s representatives demurred, indicating that they were unavailable during the entire month of December. ROA.1440-45 (emails from Ramos to Basara). On December 18, Basara re-sent DISH’s November 2014 proposal, reiterating that it constituted DISH’s “last, best and final offer.” ROA.1371-75 (letter from Basara to Ramos). He noted that DISH “believe[d] that bargaining has been exhausted and that [the Union’s] recent proposals [did] not reflect anything that can reasonably [be] considered to be significant movement,” and encouraged the Union to “take [the] final offer to [the Union’s] members.” ROA.1375. At the end of the month, the Union responded. It demanded that the parties “meet and confer,” but gave no indication that it had shifted its position on maintaining QPC. ROA.1455-56 (email from Ramos to Basara).
+
+17
+
+Case: 18-60522	Document: 00514736148 Page: 28 Date Filed: 11/26/2018
+After Confirming That The Union’s Goal Was To Delay, DISH Declares Impasse And Implements Its Last, Best, And Final Offer
+In late December, Basara left his law firm and Brian Balonick took over the negotiations. ROA.1457 (December 31, 2014 email from Basara to Ramos). Balonick testified that, when Basara brought him up to speed on the bargaining, two things jumped out. First, he had never seen bargaining go on so long—more than four years at that point. ROA.1019. Second, while he was used to seeing circumstances in which “the Union is seeking something more in bargaining than what they have,” here, the Union was simply “protecting what it already had,” and was “not really seeking more in bargaining.” Id.
+Balonick wanted to “test” whether the Union was “serious about getting a deal or whether they truly were just stalling to protect QPC.” ROA.1020. To that end, Balonick decided to hold back on contacting the Union, to see if the Union showed any interest in reaching a final agreement. Id.
+A full year passed and Balonick heard nothing. ROA.1021. Having confirmed his suspicion that the Union’s goal was to delay as long as possible, Balonick wrote to the Union in January 2016. Id. He
+reiterated that DISH’s November 2014 offer constituted its “last, best
+18
+
+Case: 18-60522	Document: 00514736148 Page: 29 Date Filed: 11/26/2018
+and final offer.” ROA.1405 (January 8, 2016 letter from Balonick to Ramos). Because the Union had rejected that offer, which remained DISH’s “final offer,” Balonick indicated that it did “not appear at this point that further bargaining would be productive.” Id. Balonick explained that, by sending his January 2016 letter and threatening to declare an impasse, he hoped to pressure the Union to “come off of QPC.” ROA.1022.
+Instead, the Union responded on January 13, 2016 by “insist[ing]” that DISH propose meeting dates “for the Union’s consideration”—but again offered no indication that its position on QPC (or indeed anything else) had changed. ROA.1409 (letter from Ramos to Balonick). Balonick viewed the Union’s response as further evidence that the parties were deadlocked. He responded to the Union on February 2 that “the parties [were] at a standstill. If you disagree,” he urged, “please explain your position to me.” ROA.1427 (letter from Balonick to Ramos). “Otherwise,” he said, “DISH will implement its last, best and final proposal.” Id. The Union again demanded that DISH suggest dates to “confer about the Union’s pending counterproposal”—the same one that DISH had rejected more than a year earlier. ROA.1447
+
+19
+
+Case: 18-60522	Document: 00514736148 Page: 30 Date Filed: 11/26/2018
+(February 3, 2016 letter from Ramos to Balonick). Throughout the course of this exchange, the Union never offered a single “indication ... that they would accept anything less than QPC.” ROA.1038 (Balonick).
+DISH met with employees in Farmers Branch and North Richland Hills in early April 2016 to announce that it was implementing its final offer. ROA.103-04, 1635-45.
+Dissatisfied with the changes, 17 employees resigned over the next four months. ROA.1892-1927 (resignations from April to July 2016); see ROA.2175 & n.12 (ALJ listing the 17 employees). As the NLRB’s lawyer later argued, “[t]he employees all quit because of the cut in wages.” ROA.2034; see also ROA.30 (asserting in opening statement to the ALJ that “[a]ll employees who resigned did so as a direct result of the Employer’s reduction of their wages”).
+An ALJ Concludes That DISH Unlawfully Implemented Its Last, Best, And Final Offer In The Absence Of A Valid Impasse, And That The 17 Employees Who Quit Were Constructively Discharged
+The Union filed charges of unfair labor practices with the NLRB. ROA.1201-05. Following a hearing, and as relevant here, an Administrative Law Judge concluded that DISH committed an unfair
+labor practice in violation of § 8(a)(5) of the NLRA, 29 U.S.C.
+20
+
+Case: 18-60522	Document: 00514736148 Page: 31 Date Filed: 11/26/2018
+§ 158(a)(5), on the theory that there was not truly an impasse at the time DISH unilaterally implemented its final offer. In reaching that conclusion, the ALJ focused on the Union’s December 2014 counterproposal. He characterized the counterproposal as a “white flag” on QPC. ROA.2176. The ALJ based that characterization on his belief that DISH’s unionized locations had extremely high attrition rates: “Dish’s high attrition rates,” he said, “meant that in a short time, the majority of the FB and NRH units would have likely ... turned over and no longer earn[ed] QPC wages.” ROA.2176 n.16; see also ROA.2172 (same). The ALJ therefore concluded that the counterproposal “offered Dish much of what it sought on QPC, and would have likely set in motion the wholesale elimination of QPC in future bargaining for a successor contract,” yet DISH “summarily rejected this concession, without bargaining.” ROA.2176 & n.16.5
+
+The ALJ also concluded that DISH constructively discharged the 17 employees who quit when QPC was eliminated, in violation of
+5 The ALJ also identified other factors that, he said, foreclosed impasse. ROA.2176-77. In the order that is on review here, however, see 29 U.S.C. § 160(e), the Board did not adopt or affirm them. See generally ROA.2169-70.
+21
+
+Case: 18-60522	Document: 00514736148 Page: 32 Date Filed: 11/26/2018
+§ 8(a)(3) of the NLRA, 29 U.S.C. § 158(a)(3). The ALJ distinguished between two categories of constructive discharge: Category 1, where an “employer harasses [an employee] to the point that his job conditions become intolerable and, as a result, the employee quits”; and Category 2, where “an employer confronts an employee with the Hobson’s choice of either continuing to work or foregoing the rights guaranteed to him under Section 7 of the Act.” ROA.2178. The ALJ concluded that “[t]his is a Category 2 constructive discharge scenario” because “Dish’s violation of [the technicians’] Section 7 rights”—purportedly implementing unilateral changes in the absence of an impasse— “resulted in their wages being cut,” which caused the employees to leave. ROA.2178.
+Finally, the ALJ found that DISH committed additional unfair labor practices when a manager accidentally texted an employee “the union is gone” after DISH implemented the new wage scale and when DISH did not bargain before firing an employee for violating company rules. ROA.2177-78 & n.24. The ALJ also found a DISH manager violated the NLRA by telling employees not to discuss the union with
+22
+
+Case: 18-60522	Document: 00514736148 Page: 33 Date Filed: 11/26/2018
+trainees. ROA.2178. DISH did not appeal these determinations to the Board, ROA.2168 n.1, and they are not at issue here.6
+
+6 The Board (acting through a Regional Director) also separately filed suit in district court under § 10(j) of the NLRA, 29 U.S.C. § 160(j), seeking interim injunctive relief pending resolution of the agency process that is the subject of this appeal. Kinard v. DISH Network Co., 228 F. Supp. 3d 771 (N.D. Tex. 2017). The district court declined the Regional Director’s request to reinstate the 17 employees, id. at 780-81, reasoning that the Regional Director had “failed to show” any “antiunion sentiment [that] arose out of the alleged constructive discharge of these employees,” id. at 784. The court also declined to enter an injunction requiring DISH to bargain in good faith, id. at 780-81, because “[t]here is no evidence that DISH has refused to bargain with the Union after declaring impasse and imposing the new wage reduction” or “evidence of any other ongoing unfair labor practices that threaten to weaken the Union or harm unit employees,” id. at 784-85.
+The court did require DISH to restore wages, on an interim basis, to the levels that existed before it implemented its final offer. Id. at 785. It concluded that the Board had “reasonable cause to believe that the parties were not at an impasse,” and that restoring wages was necessary “to prevent[] further injury and restor[e] the status quo ... [and] preserve the remedial powers of the NLRB.” Id. at 780, 783. “Reasonable cause” merely means that “that the Board’s theories of law and fact are not insubstantial or frivolous.” Id. at 778 (internal quotation marks omitted). On appeal, this Court found that the district court’s decision to restore the wage scale was not an abuse of discretion, and rejected the Regional Director’s cross-appeal seeking to order DISH to bargain in good faith. Kinard v. DISH Network Corp., 890 F.3d 608, 616-17 (5th Cir. 2018).
+23
+
+Case: 18-60522	Document: 00514736148 Page: 34 Date Filed: 11/26/2018
+The Board Affirms The ALJ
+DISH and the General Counsel both filed exceptions to the ALJ’s
+decision. The Board affirmed. It started by noting that the ALJ had “failed to explicitly apply the analysis set forth in Taft Broadcasting Co., 163 N.L.R.B. 475 (1967), for determining whether the parties have reached a valid impasse.” ROA.2168. Applying that framework, the majority recognized that “[b]y December 2014, the parties had bargained in numerous sessions for more than 4 years over a first collective-bargaining agreement, and QPC remained the most important issue of disagreement.” ROA.2169. And it acknowledged that “the parties may have been near a valid impasse then.” Id. However, it concluded there was no impasse because of the Union’s December 2014 proposal “to eliminate QPC for new hires.” Id. The majority repeated the ALJ’s characterization of that offer as a “white flag” that “offered a possible resolution” on QPC, which was “bargaining’s thorniest issue.” Id. (quoting ROA.2176). The Board did not address DISH’s long-stated and unalterable position that it would not accept QPC in any form.
+24
+
+Case: 18-60522	Document: 00514736148 Page: 35 Date Filed: 11/26/2018
+Having concluded that the Union’s offer vitiated any impasse, the majority determined that DISH acted in bad faith by failing to conduct further meetings with the Union, ROA.2169-70, and violated the NLRA by unilaterally implementing its last, best, and final offer. In a footnote, the Board also “adopt[ed], for the reasons stated by the judge, his finding” that DISH constructively discharged the 17 employees who resigned. ROA.2170 n.8. The Board did not adopt the ALJ’s various other reasons for finding no impasse.
+Board Member Emanuel dissented because there indeed was “a valid impasse.” ROA.2170. He explained that by December 2014, when the Union rejected DISH’s last, best, and final offer, “after approximately 25 bargaining sessions over more than 3 years, it appeared that further bargaining would not be productive.” Id. This conclusion was bolstered by the long hiatus that followed, during which “the Union made no attempt to contact the Respondent for more than 12 months.” Id. The Union’s conduct showed that it “was content with the status quo, which included the generous [QPC] System ... the primary sticking point in negotiations that the Respondent insisted on eliminating.” ROA.2171. Thus, after DISH “repeated its final offer,
+
+25
+
+Case: 18-60522	Document: 00514736148 Page: 36 Date Filed: 11/26/2018
+which had not changed since December 2014,” and “[t]he Union did not respond,” “the parties were at impasse by at least April 23, 2016.” Id. Because DISH lawfully implemented the terms of its final offer, there also was no support for the Board’s constructive-discharge theory. Id.
+This appeal timely followed.
+SUMMARY OF ARGUMENT
+I.	The Board lacked substantial evidence to conclude that
+DISH implemented its last, best, and final offer in the absence of a valid impasse. An impasse exists when both parties are deadlocked on a key, overriding issue. Here, DISH insisted that QPC could not remain in any form, and after years of negotiation, the Union continued to insist on retaining QPC in some form. By December 2014, when DISH presented its last, best, and final offer, it was clear those positions were locked in place.
+The Board nonetheless concluded that further bargaining might be fruitful. Its conclusion relied on the Union’s December 9, 2014 proposal to eliminate QPC for new hires, and in particular, on the ALJ’s conclusion that the Union’s proposal constituted a “white flag [that] offered a possible resolution.” ROA.2169 (quotation marks omitted).
+26
+
+Case: 18-60522	Document: 00514736148 Page: 37 Date Filed: 11/26/2018
+But this Court long has recognized that nothing in the NLRA prevents a party from adopting a clear, bottom-line position in bargaining and refusing to budge even when an impasse results. DISH made clear it would not accept any contract that preserved QPC. The Union’s counter-proposal would have preserved QPC. Therefore, the Union’s counter-proposal did not avert an impasse.
+The ALJ’s contrary determination hinged entirely on a mistake: his clearly erroneous reading of attrition statistics, which led him to think that “in a short time, the majority of” technicians at Farmers Branch and North Richland Hills “would likely have turned over,” thereby “set[ting] in motion the wholesale elimination of QPC.” ROA.2176 & n.16. But the ALJ mistakenly looked at attrition rates for other locations. Attrition rates at Farmers Branch and North Richland Hills were low, and decreasing further—which only stands to reason, given the outsized pay that technicians at those locations received.
+DISH pointed out this obvious error to the Board, which failed to address it. That too was error. An administrative agency has an obligation to give due consideration to the arguments made by a party, and to address relevant information. The Board majority’s conclusion,
+27
+
+Case: 18-60522	Document: 00514736148 Page: 38 Date Filed: 11/26/2018
+predicated as it was on a basic (even if unacknowledged) misreading of the record, must be overturned.
+II.	The Board’s determination that the 17 employees who resigned actually were constructively discharged also must be overturned. As an initial matter, if the Court agrees that DISH lawfully declared an impasse, the constructive-discharge finding must be vacated because lawful conduct cannot cause a constructive discharge.
+Alternatively, even if there was not a lawful impasse, the constructive-discharge finding still must be overturned because both this Court and the Board have held that there is no constructive discharge under circumstances like these. Specifically, it is undisputed that the 17 employees quit because DISH implemented the new pay scale. The Board found that the employees’ resignations in fact constituted constructive discharges—and in particular, that they were presented with a Hobson’s Choice of keeping their jobs and forfeiting union rights, or quitting. But this Court and the Board both have held that the Hobson’s Choice theory of constructive discharge does not apply when employees quit because of a unilaterally implemented
+28
+
+Case: 18-60522	Document: 00514736148 Page: 39 Date Filed: 11/26/2018
+
+change in pay. That is because this form of action, even if an unfair labor practice, is not so inherently destructive of collective bargaining rights that an anti-union motive can be inferred. The Board’s decision contravenes that rule, and therefore must be vacated.
+STANDARD OF REVIEW
+This Court reviews the Board’s factual findings for substantial
+evidence. 29 U.S.C. § 160. “Substantial evidence is that which is relevant and sufficient for a reasonable mind to accept as adequate to support a conclusion.” Carey Salt Co. v. NLRB, 736 F.3d 405, 410 (5th Cir. 2013) (internal citations omitted). Although the standard is deferential, this “deference ... has limits.” Id. A factual finding cannot survive substantial-evidence review when it is “based on a flawed reading of the record,” “ignores a portion of the record,” or fails to “take into account whatever in the record fairly detracts from its weight.” Id. at 410, 420.
+
+29
+
+Case: 18-60522	Document: 00514736148 Page: 40 Date Filed: 11/26/2018
+ARGUMENT
+I.	DISH Lawfully Implemented Its Last, Best, And Final Offer.
+A.	The parties were at an impasse over QPC, the core issue throughout collective bargaining.
+1. The National Labor Relations Act requires an employer “to bargain collectively with the representatives of [its] employees.” 29 U.S.C. § 158(a)(5); see also id. § 158(d). An employer violates this duty if it “unilaterally institutes changes in existing terms and conditions of employment” while “negotiations are sought or are in progress.” Taft Broad., 163 N.L.R.B. at 478; see TruServ Corp. v. NLRB, 254 F.3d 1105, 1113 (D.C. Cir. 2001). When the parties have “bargain[ed] to an impasse,” however, “that is, after good-faith negotiations have exhausted the prospects of concluding an agreement, an employer does not violate the Act by making unilateral changes that are reasonably comprehended within [its] pre-impasse proposals.” Taft Broad., 163 N.L.R.B. at 478.
+Impasses arise with some frequency. See E.I. Du Pont De Nemours & Co., 268 N.L.R.B. 1075, 1076 (1984) (“[T]here need be no undue reluctance to find that an impasse existed. Its occurrence cannot be said to be an unexpected, unforeseen, or unusual event in the process
+30
+
+Case: 18-60522	Document: 00514736148 Page: 41 Date Filed: 11/26/2018
+of negotiations ....” (internal quotation marks omitted)); Charles D. Bonanno Linen Serv., Inc. v. NLRB, 454 U.S. 404, 412 (1982) (impasse is “a recurring feature in the bargaining process”). After all, while there is a duty to bargain, that “obligation does not compel either party to agree to a proposal or require the making of a concession.” 29 U.S.C. § 158(d). Section 158(d) thus makes clear “that the Act does not encourage a party to engage in fruitless marathon discussions at the expense of frank statement and support of his position.” NLRB v. Am. Nat’l Ins. Co., 343 U.S. 395, 404 (1952); see also TruServ, 254 F.3d at 1116 (“[T]he Act’s requirement of good faith bargaining ‘does not compel either party to agree to a proposal or require the making of a concession.’”) (quoting Am. Nat’l Ins. Co., 343 U.S. at 404).
+Accordingly, “[a]damant insistence on a bargaining position ... is not in itself a refusal to bargain in good faith.” Chevron Oil Co. v. NLRB, 442 F.2d 1067, 1072 (5th Cir. 1971). “[T]he employer may have either good or bad reasons, or no reason at all, for insistence on the inclusion or exclusion of a proposed contract term.” NLRB v. Herman Sausage Co., 275 F.2d 229, 231 (5th Cir. 1960). So long as “the insistence is genuinely and sincerely held,” and “it is not mere window
+31
+
+Case: 18-60522	Document: 00514736148 Page: 42 Date Filed: 11/26/2018
+dressing, it may be maintained forever though it produce a stalemate.” Id.; see also Cincinnati Newspaper Guild, Local 9 v. NLRB, 938 F.2d 284, 287-88 (D.C. Cir. 1991); McCourt v. Cal. Sports, Inc., 600 F.2d 1193, 1202 (6th Cir. 1979). Indeed, a party may even intentionally bring about impasse “as a device to further, rather than destroy, the bargaining process.” Charles D. Bonanno Linen Serv., 454 U.S. at 412 (internal quotation marks omitted).
+Impasses commonly arise when there is a “single critical issue” on which the parties cannot agree. Erie Brush & Mfg. Corp. v. NLRB, 700 F.3d 17, 21 (D.C. Cir. 2012); E.I. Du Pont, 268 N.L.R.B. at 1076 (issue of “overriding importance”). So, for instance, in Erie Brush, the D.C. Circuit overturned the Board’s no-impasse determination for lack of substantial evidence where the parties could not agree on a key issue: “The Union insisted on including union security and arbitration clauses in the contract” whereas the employer “was equally committed to an open shop and opposed to arbitration.” 700 F.3d at 19; see also Excavation-Constr., Inc. v. NLRB, 660 F.2d 1015, 1019 (4th Cir. 1981) (no-impasse finding unsupported by substantial evidence; “the make-up
+32
+
+Case: 18-60522	Document: 00514736148 Page: 43 Date Filed: 11/26/2018
+pay provision was the sticking point and centerpiece of the ... negotiations,” and the parties could not agree).
+Critical-issue impasses also arise with regard to issues (unlike arbitration clauses) that aren’t black-or-white. Thus, in Laurel Bay Health & Rehabilitation Center v. NLRB, the court of appeals reversed a no-impasse finding for lack of substantial evidence where the parties couldn’t agree on the amount the employer should contribute to the union’s benefit fund. 666 F.3d 1365, 1374 (D.C. Cir. 2012). The union demanded a contribution of 22.33% of payroll; the employer insisted that it would not go above 16%. Id. at 1370. Notwithstanding the theoretical possibility of movement within that range, the D.C. Circuit held that “the parties were at loggerheads.” Id. at 1374. After all, “the parties remain in control of their negotiations, and each party, not the Board, determines at what point it ceases to be willing to compromise.” TruServ, 254 F.3d at 1116; see also H. K. Porter Co. v. NLRB, 397 U.S. 99, 103-04 (1970).
+2. The Board uses a three-part test to assess whether there is an impasse on an issue of overriding importance:
+[A] party that maintains that an impasse on a single, critical issue justified its implementing all of its bargaining
+33
+
+Case: 18-60522	Document: 00514736148 Page: 44 Date Filed: 11/26/2018
+proposals must demonstrate three things: first, the actual existence of a good-faith bargaining impasse; second, that the issue as to which the parties are at impasse is a critical issue; third, that the impasse on this critical issue led to a breakdown in the overall negotiations—in short, that there can be no progress on any aspect of the negotiations until the impasse relating to the critical issue is resolved.
+CalMat Co., 331 N.L.R.B. 1084, 1097 (2000); see Erie Brush, 700 F.3d at 21 (same).
+There can be little dispute that the second and third elements are present; the Board’s order itself effectively recognizes this. With regard to the second element, QPC plainly was the “critical issue” in the negotiations. CalMat Co., 331 N.L.R.B. at 1097. The Board majority recognized that QPC was “the thorniest issue,” ROA.2168, “the most important issue of disagreement,” ROA.2169, and, ultimately, “the most important bargaining issue,” ROA.2170. Indeed, the Board never mentioned any other subject of bargaining. The dissenting Board member agreed that QPC was “the primary sticking point in negotiations.” ROA.2171. As this Court has observed, “[t]he more important the issues, the more likely that impasse is genuine and not contrived,” Carey Salt Co., 736 F.3d at 420—and here it is plain that
+
+34
+
+Case: 18-60522	Document: 00514736148 Page: 45 Date Filed: 11/26/2018
+QPC was the core issue, from the moment bargaining began until DISH declared an impasse.
+With regard to the third element, it is clear that if indeed there was an impasse on this issue, it “led to a breakdown in the overall negotiations.” CalMat Co., 331 N.L.R.B. at 1097 (emphasis added). By November 2014, DISH had already agreed to 18 articles of a prospective contract with the Union, and DISH agreed to yet another article at that bargaining session. ROA.1725. The sticking point was QPC. As DISH’s final proposal made clear: the “[c]ompany rejects continuation of QPC.” Id.
+What remains is the first element—whether the parties were “at loggerheads” over QPC. This was a subject of intense disagreement over a period of multiple years. Once the Union reversed its position in 2013, it consistently fought to preserve QPC. Supra 10-15. For its part, DISH repeatedly made clear that it would not agree to any proposal that retained QPC in any form. See ROA.1097 (Basara “ma[d]e it clear to the Union again” in July 2013 “that the Company would not agree to QPC”); ROA.1133 (in late 2014, the Union “know[s] clearly[] that” DISH was not going to agree to “QPC, in any way, shape, or form”). And
+
+35
+
+Case: 18-60522	Document: 00514736148 Page: 46 Date Filed: 11/26/2018
+ultimately, in November 2014, DISH presented its “last, best, and final offer,” ROA.1375; see ROA.1725—which, like every other offer that DISH made, “included wholly eliminating QPC.” ROA.2168. “[N]othing in the record negates [DISH’s] classification of its [November 2014] proposal as its ‘last, best, and final offer.’” TruServ, 254 F.3d at 1115. DISH had made clear that it could not accept QPC, and that was its bottom line. In offering its final proposal, DISH unequivocally stated: “Company rejects continuation of QPC.” ROA.1725.
+The only question, then is whether something changed. For the reasons discussed next, it did not, and the Board erred in concluding otherwise.
+B.	The Board’s determination that the Union’s December
+2014 counterproposal represented a “white flag” on QPC is not supported by substantial evidence.
+1. The Board majority had just one reason for concluding that, although the parties “may have been near a valid impasse” in December 2014, the impasse was averted: the Union’s December 2014 counterproposal. ROA.2168. In it, the Union proposed to retain QPC but limit it to existing technicians. ROA.1388. The Board majority repeated the ALJ’s characterization that this offer was a “white flag”
+
+36
+
+Case: 18-60522	Document: 00514736148 Page: 47 Date Filed: 11/26/2018
+that “offered a possible resolution on bargaining’s thorniest issue.” ROA.2169. This conclusion is not supported by substantial evidence.
+The linchpin of its reasoning was the idea that the Union’s proposal was a “white flag.” That characterization was taken verbatim from the ALJ, who based his reasoning on a single piece of evidence—a chart of attrition rates at DISH’s North Texas locations from 2013 to 2015:
+
+ROA.1803 (coloring added).
+Based on that chart, the ALJ concluded that “DISH’s technicians had a very high attrition rate, which meant that the Union’s proposal made it probable that new hires receiving non-QPC rates would soon
+37
+
+Case: 18-60522	Document: 00514736148 Page: 48 Date Filed: 11/26/2018
+become the majority in the [Farmers Branch] and [North Richland Hills] units, as the attrition rate continued.” ROA.2172; accord ROA.2176 & n.16. Thus, in the reasoning upon which the Board relied (ROA.2169), the ALJ thought that the Union’s proposal represented a “substantial compromise”—it “meant that DISH would have attained most of what it wanted on wages in the short term, and would have set the stage for a fuller resolution on QPC in later bargaining (i.e., eventually abolishing QPC would have become an easier selling point in later bargaining, when only a narrow minority paid under QPC remained).” ROA.2172-73, 2176 & n.16.
+The chart, however, plainly shows the opposite. Attrition was high at other locations, but low—and getting even lower—in the two relevant locations, Farmers Branch and North Richland Hills. As the first two lines of the chart demonstrate, in 2015 the attrition rates at Farmers Branch and North Richland Hills were the lowest of any location in the region. They were in the teens, while most of the other locations were over 50%. The ALJ concluded that “DISH’s technicians had a very high attrition rate” because, he said, the chart showed “annual attrition ranging from 116% to 13%.” ROA.2172. But that
+
+38
+
+Case: 18-60522	Document: 00514736148 Page: 49 Date Filed: 11/26/2018
+conclusion conflated the unionized locations with the non-unionized ones. The low end (13%) came from North Richland Hills, but the high end (116%) came from Arlington/Fort Worth, a non-unionized location.
+Furthermore, attrition at Farmers Branch and North Richland Hills was steadily declining. It decreased more than 10% in each of the two preceding years. That occurred for the same reasons that led to the impasse in the first place. QPC was tethered to outdated performance metrics that didn’t account for technological improvements. When DISH’s technology improved, technicians could complete the same tasks in drastically less time. Supra 11-12. As a result, earnings in Farmers Branch and North Richland Hills ballooned. They went up more with each passing year. ROA.1778 (chart showing average salaries at unionized and non-unionized North Texas DISH locations from 201015). And as compensation went up, attrition went down. Why leave a job paying as much as $100,000 per year when the alternative would pay a fraction?
+The ALJ therefore also erred in concluding that, because “Dish’s technicians had a very high attrition rate ... the Union’s proposal made it probable that new hires receiving non-QPC rates would soon become
+
+39
+
+Case: 18-60522	Document: 00514736148 Page: 50 Date Filed: 11/26/2018
+the majority in the [Farmers Branch] and [North Richland Hills] units.” ROA.2172; accord ROA.2176 n.16 (“Given this attrition, the Union’s willingness to abandon QPC for new hires, meant that in a short time, the majority of the [Farmers Branch] and [North Richland Hills] units would have likely ... turned over and no longer earn QPC wages.”). On the contrary, with attrition rates in the teens and falling, it’s simply not true that “new hires receiving non-QPC rates would soon become the majority in” these locations.
+Rather, the low and declining attrition rates meant that legacy technicians receiving QPC wages would remain the substantial majority at both locations for the foreseeable future. Neither the Board nor the ALJ identified any basis—aside from the misreading of the attrition statistics—for reaching the contrary conclusion. A factual finding does not constitute substantial evidence when it is “based on a flawed reading of the record.” Carey Salt Co., 736 F.3d at 420. The Board’s findings may be “entitled to respect,” but “they must nonetheless be set aside when the record before a Court of Appeals clearly precludes the Board’s decision from being justified by a fair estimate of the worth of the testimony of witnesses or its informed judgment on matters within
+40
+
+Case: 18-60522	Document: 00514736148 Page: 51 Date Filed: 11/26/2018
+its special competence or both.” Universal Camera Corp. v. NLRB, 340 U.S. 474, 490 (1951); cf. Chrysler Credit Corp. v. J. Truett Payne Co., 670 F.2d 575, 582 (5th Cir. 1982) (“The burden of putting forth substantial evidence is not satisfied by mere speculation and guess work.”).7
+
+2. At a bare minimum, the decision must be vacated because the Board failed to consider or address the ALJ’s basic mistake concerning the attrition statistics. After the ALJ misstated these key attrition rates, DISH clearly pointed out the error. See ROA.2004 (DISH’s exceptions to the ALJ’s decision) (“The ALJ erred in reaching two key
+7 The balance of the ALJ’s reasoning layered on truly unsupported speculation. Specifically, the ALJ’s erroneous belief that a majority of technicians soon would be non-QPC led him to speculate that “eventually abolishing QPC would have become an easier selling point in later bargaining, when only a narrow minority paid under QPC remained.” ROA.2172-73. But the ALJ cited no evidence whatsoever to support this assertion about potential future bargaining. It is just as likely that employees earning QPC would have created discord. See ROA.1130 (testifying about the problems caused by having multiple pay systems in a workplace); see also ROA.899-900 (testimony from Monty Beckham attributing much of the attrition at other locations to new hires who “didn’t make it,” and attributing the low attrition rates at the North Richland Hills and Farmers Branch locations to the fact that technicians there “were making really good money and they were staying because of that”). Such unsupported speculation cannot support the ALJ’s decision. Chrysler Credit Corp., 670 F.2d at 582; accord Jackson Hosp. Corp. v. NLRB, 647 F.3d 1137, 1142 (D.C. Cir. 2011).
+41
+
+Case: 18-60522	Document: 00514736148 Page: 52 Date Filed: 11/26/2018
+findings related to ... DISH’s final offer on his conclusion that there was ‘high attrition’ at the union-represented offices when the record evidence shows that the attrition at those offices was very low in comparison to attrition at other DISH offices.”); ROA.2106 (DISH’s reply brief in support of its exceptions) (“Central to the ALJ’s flawed Decision was a misreading of DISH’s attrition statistics; the ALJ conflated very low attrition at the two unionized offices at issue in this case (which were as low as 13% in one office) with high attrition at DISH’s non-unionized offices (which were as high as 116% in one office).”). The Board did not respond to this argument at all.
+An agency, however, is required to engage in an “analysis of all relevant issues.” Long Island Head Start Child Dev. Servs. v. NLRB, 460 F.3d 254, 260 (2d Cir. 2006). That requirement springs from the basic principle of administrative law that agencies must engage in reasoned decision making, see id. at 257-58, which requires that “the process by which [an agency] reaches [a] result must be logical and rational.” Allentown Mack Sales & Serv., Inc. v. NLRB, 522 U.S. 359, 374 (1998). In short, an agency “must examine the relevant data and
+
+42
+
+Case: 18-60522	Document: 00514736148 Page: 53 Date Filed: 11/26/2018
+articulate a satisfactory explanation for its action.” Motor Vehicle Mfrs. Ass’n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43 (1983).
+Here, however, the ALJ’s determination that “new hires receiving non-QPC rates would soon become the majority” in DISH’s unionized locations relied on a basic misreading of the attrition statistics. ROA.2172. By parroting the ALJ’s characterization of the Union’s counterproposal as a “white flag,” but not addressing the basic flaw that DISH raised with this determination, the Board failed in its fundamental obligation to engage in reasoned decision making. See Carey Salt Co., 736 F.3d at 410 (a decision by the Board that “‘ignores a portion of the record’ cannot survive review under the ‘substantial evidence’ standard” (quoting Lord & Taylor v. NLRB, 703 F.2d 163, 169 (5th Cir. 1983))); see also State Farm, 463 U.S. at 43 (“[A]n agency rule would be arbitrary and capricious if the agency ... entirely failed to consider an important aspect of the problem [or] offered an explanation for its decision that runs counter to the evidence before the agency.”); Local Joint Exec. Bd. of Las Vegas v. NLRB, 657 F.3d 865, 872 (9th Cir. 2011) (Board is not entitled to deference when it fails to “provide any rational and logical explanation for its rules”).
+
+43
+
+Case: 18-60522	Document: 00514736148 Page: 54 Date Filed: 11/26/2018
+3. Finally, impasse is not foreclosed by the mere fact that the Union made an offer. It is well established that movement by one party doesn’t foreclose impasse when the parties’ positions remain irreconcilable. In E.I. Du Pont, for instance, “a finding of impasse [was] warranted irrespective of whether there was some movement in the parties’ positions prior to the Respondent’s implementation of its proposal.” 268 N.L.R.B. at 1076 (emphasis added). What mattered was that the issue was of “overriding importance” and that “after long, hard negotiations the parties were still not close to reaching agreement.” Id.; Saunders House v. NLRB, 719 F.2d 683, 688 (3d Cir. 1983) (impasse on wages even though in prior negotiations, “the union progressively lowered its on-the-record demands”).
+As Taft Broadcasting explained, “an impasse is no less an impasse because the parties were closer to agreement than previously.” 163 N.L.R.B. at 478. The question is whether “there is no realistic possibility that continuation of discussions ... would have been fruitful.” Laurel Bay, 666 F.3d at 1373-74 (internal quotation marks and citations omitted)). “The parties ... need not pursue negotiations simply to go through the motions when there is no objectively reasonable hope
+
+44
+
+Case: 18-60522	Document: 00514736148 Page: 55 Date Filed: 11/26/2018
+of reaching an agreement,” and “bad faith is not evidenced by a failure to reach agreement or by a failure to yield to a position fairly maintained.” AMF Bowling Co. v. NLRB, 63 F.3d 1293, 1301 (4th Cir. 1995). Here, further discussions would not have been fruitful for the same fundamental reason set forth above: DISH would not accept QPC in any form, and after years of negotiation, the Union still was insisting on it.
+For the same reason, it makes no difference that (as the Board majority repeatedly emphasized), the Union made “repeated requests for a face-to-face bargaining session.” ROA.2169. The Board majority found a bad-faith refusal to bargain, ROA.2170, but that determination was derivative of its finding of no impasse. If there was an impasse, however, there was no bad-faith refusal to bargain. Serramonte Oldsmobile, Inc. v. NLRB, 86 F.3d 227, 232 (D.C. Cir. 1996) (“[A] good-faith impasse in negotiations temporarily suspends the duty to bargain....”). And because the Union’s December 2014 proposal changed nothing, neither did the Union’s meeting requests. “‘[A] vague request by one party for additional meetings, if unaccompanied by an indication of the areas in which that party foresees future concessions,
+
+45
+
+Case: 18-60522	Document: 00514736148 Page: 56 Date Filed: 11/26/2018
+is ... insufficient to defeat an impasse where the other party has clearly announced that its position is final.’” Erie Brush, 700 F.3d at 22 (second alteration in original) (quoting TruServ, 254 F.3d at 1117)).
+This impasse was real, and the Board’s contrary conclusion, which relied on a basic factual error that the Board did not acknowledge or address, requires that its decision be vacated.
+II.	The Board’s Determination That DISH Employees Were Constructively Discharged Conflicts With The Board’s And This Court’s Precedent.
+If the Court agrees that DISH lawfully declared an impasse, that fully resolves the appeal. After all, if there was an impasse, then DISH’s implementation of its last, best, and final offer (including the shift in pay structure) was not unlawful. That resolves the balance of the appeal because the only other issue is whether the 17 employees who resigned were constructively discharged. ROA.2168 (finding an unfair labor practice under 29 U.S.C. § 158(a)(3) on this basis).8 And the Board’s constructive-discharge determination was predicated on a
+8 The Board purported to “adopt, for the reasons stated by the [ALJ], his finding that [DISH] violated Sec. 8(a)(3) and (1) by constructively discharging 17 employees.” ROA.2170 n.8 (emphasis added). The ALJ, however, rested his constructive discharge conclusion solely on Section 8(a)(3). ROA.2178-79.
+46
+
+Case: 18-60522	Document: 00514736148 Page: 57 Date Filed: 11/26/2018
+conclusion that these employees “resigned their positions because of” DISH’s “unlawful unilateral reductions in their wages and health benefits.” ROA.2170 n.8 (emphasis added). If there was no unlawful activity, the premise of that ruling is gone, and it must be vacated as well.
+But the Board’s constructive-discharge holding must be vacated in any event. Everyone agrees that the 17 employees who resigned after DISH declared impasse did so because they were unhappy with the pay cut. The employees testified as much in unambiguous terms; the General Counsel relied on only that theory before the ALJ and Board; and the ALJ and the Board both ruled on that basis. ROA.2178 (ALJ); ROA.2170 (Board); supra 21-22, 24-25. And this Court (and the Board itself) have held that a cut in wages or benefits—even if otherwise unlawful—does not by itself create a constructive discharge under the “Hobson’s Choice” theory the Board adopted here. “Because the cited standard was inapplicable, there is not substantial evidence” to support the constructive discharge determination, and it must be vacated. Sanderson Farms, Inc. v. Perez, 811 F.3d 730, 738 (5th Cir. 2016).
+
+47
+
+Case: 18-60522	Document: 00514736148 Page: 58 Date Filed: 11/26/2018
+1. Under the NLRA, an employer may not “discriminat[e] in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization.” 29 U.S.C. § 158(a)(3). In short, an employer can’t use terms and conditions of employment to disfavor union membership; it cannot, for instance, fire someone on the basis of their union membership. Wright Line, 251 N.L.R.B. 1083 (1980).
+For the same reason, an employer cannot constructively discharge an employee on that basis. That’s because a constructive discharge “is not a discharge at all but a quit which the Board treats as a discharge.” Remodeling by Oltmanns, Inc., 263 N.L.R.B. 1152, 1161 (1982). To establish a constructive discharge, the charging party must show that “the employer’s conduct ... created working conditions so intolerable that an employee is forced to resign,” and that the employer “acted ‘to encourage or discourage membership” in the union. NLRB v. Haberman Constr. Co., 641 F.2d 351, 358 (5th Cir. 1981) (en banc)
+A constructive discharge can take two forms. Under a “traditional” theory, “the employee quits because the employer deliberately made working conditions intolerable.” 1 The Developing
+
+48
+
+Case: 18-60522	Document: 00514736148 Page: 59 Date Filed: 11/26/2018
+Labor Law 7-43 (John E. Higgins, Jr., ed., 7th ed. 2017); see Remodeling by Oltmanns, 263 N.L.R.B. at 1161; Electric Mach. Co. v. NLRB, 653 F.2d 958, 965 (5th Cir. 1981). In short, the charging party proves the two elements directly. The Board did not find that here.
+Second, under a Hobson’s Choice theory, an employer typically “informs [its] employees that they must choose between union activity and continued employment.” NLRB v. CER Inc., 762 F.2d 482, 487 (5th Cir. 1985) (internal quotation marks omitted).9 The “choice” confronting the employee—which must be “clear and unequivocal,” Remodeling by Oltmanns, 263 N.L.R.B. at 1162—must involve giving up union rights so fundamental that doing so is “inherently destructive” of the union, Lively Elec., Inc., 316 N.L.R.B. 471, 472 (1995). When that occurs, the unequivocal demand that the employee surrender union rights in order to keep his job “suppl[ies] the discriminatory motive element” of a constructive discharge. Id.
+9 See also Remodeling by Oltmanns, 263 N.L.R.B. at 1162; 1 The Developing Labor Law 7-45 (“A ‘Hobson’s Choice’ constructive discharge may occur when the employer unlawfully withdraws recognition of the union and imposes unlawful terms and conditions of employment on its employees or conditions continued employment on an employee abandoning the right to solicit support for the union.”).
+49
+
+Case: 18-60522	Document: 00514736148 Page: 60 Date Filed: 11/26/2018
+2. At issue here is the ALJ’s determination that the 17 employees who resigned didn’t truly resign, but in fact were constructively discharged. ROA.2178 (ALJ ruling); ROA.2170 n.8 (affirming “for the reasons stated by the” ALJ); see In-N-Out Burger, Inc. v. NLRB, 894 F.3d 707, 714 (5th Cir. 2018) (“To the extent the Board affirms and adopts an ALJ’s findings and conclusions,” this Court reviews “the ALJ’s decision itself.”). Specifically, the ALJ concluded that “[t]hese employees were presented with the ‘Hobson’s choice’ of continuing to work versus forgoing their Section 7 rights.” ROA.2178; see also id. n.26.
+Accordingly, the only question is whether the 17 employees who resigned in the months after DISH implemented its final offer were forced to “choose between union activity and continued employment,” CER, 762 F.2d at 487. They were not put to any such choice. The nature of this violation is that the employer is forcing the employee to choose—prospectively—between continued employment on the one hand and union rights on the other. But here, the only conduct at issue is a purportedly unfair practice that took place wholly in the past—the unilateral pay cut. And this Court and the Board have been clear that
+
+50
+
+Case: 18-60522	Document: 00514736148 Page: 61 Date Filed: 11/26/2018
+such conduct is not inherently destructive to the union and so, absent a specific finding of an anti-union motive—which neither the ALJ nor the Board made here—does not constitute a Hobson’s Choice.
+In Haberman Construction, this Court affirmed the Board’s finding of constructive discharge based on two key facts: “the Company’s decision to go ‘open shop’” and to refuse to bargain with the union moving forward, and its decision “to unilaterally cease payment of all union benefits” without first collectively bargaining. 641 F.2d at 358. The Court expressly reserved the question (we “need not decide”) whether the cut in benefits “alone” would be “sufficient for a finding of a constructive discharge.” Id. That was because the employer’s “announcement that it intended to go ‘open shop’ ... forced the Company’s employees to choose between quitting its employ or continuing in the face of the Company’s unlawful repudiation of its bargaining obligations under the Act.” Id.
+A year later, this Court confronted a case with facts presenting the question it had reserved. In Electric Machinery Co. v. NLRB, the employer violated the NLRA by declaring an impasse and “unilaterally” changing its employees’ “wage schedule” and other benefits. 653 F.2d at
+51
+
+Case: 18-60522	Document: 00514736148 Page: 62 Date Filed: 11/26/2018
+963. But the Court rejected the constructive-discharge claim of 18 employees who quit soon after the changes because the employer had “t[aken] no action which would permanently jeopardize future union status.” Id. at 966. In other words, the employees had not been forced to choose between their union rights or their jobs.
+Distinguishing Haberman, the Court explained that there was “no[] threat[] to immediately create a non-union company” nor any behavior from the employer that “would hinder future bargaining,” such as a “permanent discharge for participation in union activities.” Id. at 966; see also id. at 965 (distinguishing the Board’s decision in Superior Sprinklers, Inc., 227 N.L.R.B. 207 (1976), on this basis). In short, there was no conduct that was inherently destructive of the union. And the court did not do what the Board did here—rely solely on the unilaterally imposed wage change to establish the discriminatory-intent prong of the analysis. See id. at 965 (rejecting the argument “that this court should infer anti-union animus simply by virtue of the fact that the employer unilaterally changed mandatory terms and conditions of employment”).
+52
+
+Case: 18-60522	Document: 00514736148 Page: 63 Date Filed: 11/26/2018
+The NLRB likewise has declined to treat a unilateral wage reduction alone as giving rise to a Hobson’s Choice. In Lively Electric, the Board addressed a complaint from an employee who quit after his employer unilaterally modified his contract to decrease his pay. It concluded that there had been no constructive discharge because “[t]he failure to follow the contract” did not “signal[] essential hostility to the bargaining relationship” between the employer and union. 316 N.L.R.B. at 472. It emphasized that employees are not “privileged to quit their employment whenever there is alleged a mere breach of the collective-bargaining agreement.” Id. (quoting RCR Sportswear, Inc., 312 N.L.R.B. 513, 514 n.7 (1993)). And, directly relevant here, the Board concluded that a claim based solely on “a unilateral modification of ... pay rate” was not a constructive discharge. Id.
+A contrary rule would “approach eliminating the requirement of proving anti-union animus entirely.” Elec. Mach., 653 F.2d at 965. After all, it would mean that any unlawful practice followed by employee resignations would be treated as a discriminatory practice, regardless of whether there was any showing of discrimination. But it would be “ill advised as a matter of policy to encourage employees to
+53
+
+Case: 18-60522	Document: 00514736148 Page: 64 Date Filed: 11/26/2018
+quit their jobs whenever they suffer any unlawful condition, at least if they have avenues for remedying that condition.” Lively Elec., 316 N.L.R.B. at 473. Instead, an employee who suffers what he believes to be an unfair labor practice should “file[] a grievance over his pay and, if the Respondent refused to accede to the grievance ... pursue[] it while he worked on the job.” Id.10
+
+3. Electric Machinery Co. and Lively Electric foreclose finding a constructive discharge here. There was unanimous agreement about
+10 The ALJ relied on two Board decisions to support the idea that resigning after a unilateral pay cut may constitute a Hobson’s Choice. ROA.2178. White-Evans Serv. Co., 285 N.L.R.B. 81 (1987), is wholly irrelevant. It involved the classic situation in which the employer was engaged in a “plan to convert to a nonunion operation,” id. at 81, which left the employees with the choice of quitting or relinquishing their collective-bargaining rights, id. at 81-82.
+Control Services did treat an employer’s unilateral changes to employee compensation as a Hobson’s Choice. 303 N.L.R.B. 481, 485 (1991). But it offered no reasoning, see id., and the Board later made clear in Lively Electric that a “unilateral modification” of an employee’s “pay rate” falls “clearly” outside of the Hobson’s Choice theory. 316 N.L.R.B. at 472; see Long Island Head Start Child Dev. Servs., 460 F.3d at 257-58 (the “‘consistency of an agency’s position is a factor in assessing the weight that position is due’”). More importantly, Control Services is inconsistent with this Court’s decision in Electric Machinery Co., 653 F.2d at 965. To resuscitate Control Services would be inconsistent with this “judicial construction” of the “unambiguous terms of the statute.” Nat’l Cable & Telecomms. Ass’n v. Brand X Internet Servs., 545 U.S. 967, 982 (2005).
+54
+
+Case: 18-60522	Document: 00514736148 Page: 65 Date Filed: 11/26/2018
+why the employees quit: They were unhappy with the new pay scale. The General Counsel opened its argument before the ALJ by stating that DISH “constructively discharged 17 employees by implementing its drastic reduction in employee wages.” ROA.16; accord ROA.30, 32. The Union emphasized in its brief to the Board that the “employees were constructively discharged as a result of the pay cut.” ROA.2078; accord ROA.2094-95 (same; identifying each employee who “resigned ... because of wages”).
+The testimony corroborated the point. Eight of the 17 employees testified that they resigned because of the reduction in pay. E.g. ROA.655 (Christopher Little testifying that he quit “purely just for the pay reduction”); ROA.736 (Bryce Benge testifying that he quit “[b]ecause of the pay reduction”).11 And the Union stipulated that the remaining employees did so for the same reason. ROA.753-55. Not a single employee identified any other reason for resigning.12
+
+11 Accord ROA.278, 428, 442, 681-82, 700, 744.
+12 The ALJ at times pointed to conduct, in addition to the pay decrease, indicating that DISH “implement[ed] its final offer without an impasse, ma[de] unilateral changes, refus[ed] to bargain with the Union, and condition[ed] bargaining on a ratification vote.” ROA.2178 n.26. To the extent that the ALJ found that anything other than the pay cut caused
+
+55
+
+Case: 18-60522	Document: 00514736148 Page: 66 Date Filed: 11/26/2018
+Most importantly, no employees even hinted that they quit because they thought they’d otherwise have to relinquish their union rights. None of the hallmarks of a Hobson’s Choice are present. DISH did not, for instance, insist that it would run a non-union shop moving forward—the classic evidence of a Hobson’s Choice. Supra 50-51; see, e.g., Haberman, 641 F.2d at 358; Superior Sprinkler, 227 N.L.R.B. at 208-09. To the contrary, the Union appears alive and well, remains in place at the two North Texas locations, and continues to be actively engaged with those members who did not resign. Indeed, the district court in the earlier proceedings refused the General Counsel’s request to order DISH to continue to bargain in good faith specifically because “there is no evidence of any other ongoing unfair labor practices that threaten to weaken the Union or harm unit employees.” Kinard, 228 F. Supp. 3d. at 784-85. There is simply no evidence that DISH ever forced employees to give up their union rights to keep their jobs.
+the employees to quit, that conclusion is not supported by substantial evidence—as explained above, everyone from the employees to their union attorneys to the General Counsel agreed that the pay cut was the reason they quit. But even if this were true, that conduct occurred in the past; the ALJ did not find that DISH had done anything to punish or dissuade future union activity.
+56
+
+Case: 18-60522	Document: 00514736148 Page: 67 Date Filed: 11/26/2018
+Because the 17 employees who resigned were not faced with a Hobson’s Choice, the Court should vacate and decline to enforce that aspect of the Board’s Order. See Elec. Mach., 653 F.2d at 966 (reversing on substantial evidence review the Board’s constructive discharge finding because the employer’s conduct was not “so egregious as to eliminate the General Counsel’s burden of proving anti-union animus”).
+CONCLUSION
+For the foregoing reasons, the decision of the Board should be
+vacated and the matter remanded for further proceedings.
+Respectfully submitted,
+/s/ Eric A. Shumsky 
+Eric A. Shumsky
+Randall C. Smith
+Benjamin F. Aiken
+ORRICK, HERRINGTON &
+SUTCLIFFE LLP
+1152 15th Street NW
+Washington, DC 20005
+(202) 339-8400
+Counsel for Petitioner-Cross-Respondent November 26, 2018
+
+Case: 18-60522	Document: 00514736148 Page: 68 Date Filed: 11/26/2018
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing with the Clerk of the Court for the United States Court of Appeals for the Fifth Circuit by using the appellate CM/ECF system on November 28, 2018.
+I certify that all participants in the case are registered CM/ECF users and that service will be accomplished by the appellate CM/ECF system.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Petitioner-Cross-Respondent
+
+Case: 18-60522	Document: 00514736148 Page: 69 Date Filed: 11/26/2018
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Fed. R. App. P. 32(a) because this brief contains 11,250 words, excluding the parts of the brief exempted by Fed. R. App. P. 32(f).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and 5th Cir. R. 32.1 and the type style requirements of Fed. R. App. P. 32(a)(6) because this brief has been prepared in a proportionally spaced typeface using Microsoft Word 2013 in Century Schoolbook 14-point font.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Petitioner-Cross-Respondent

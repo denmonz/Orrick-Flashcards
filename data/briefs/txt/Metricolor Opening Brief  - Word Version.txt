@@ -1,0 +1,824 @@
+Case: 18-2397	Document: 28 Page: 1	Filed: 01/28/2019
+2 0 1 8 - 2 3 9 7
+In The
+United States Court Of Appeals
+For The Federal Circuit
+METRICOLOR LLC.,
+Plaintiff - Appellant,
+v.
+L’ORÉAL S.A., L’ORÉAL USA, INC., L’ORÉAL USA
+PRODUCTS, INC., L’ORÉAL USA S/D, INC.,
+REDKEN 5TH AVENUE NYC, LLC
+Defendants - Appellees.
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE
+CENTRAL DISTRICT OF CALIFORNIA CASE NO. 2:18-CV-00364
+THIRD CORRECTED BRIEF OF APPELLANT
+Eduardo Martorell
+MARTORELL LAW APC
+6100 Center Dr.,
+Suite 1130
+Los Angeles, CA 90045
+(323) 840-1200
+Counsel for Appellant
+
+Case: 18-2397	Document: 28 Page: 2 Filed: 01/28/2019
+
+i
+
+Case: 18-2397	Document: 28 Page: 3 Filed: 01/28/2019
+
+
+
+
+
+
+II
+
+Case: 18-2397	Document: 28 Page: 4 Filed: 01/28/2019
+TABLE OF CONTENTS
+CERTIFICATE OF INTEREST.	.i
+TABLE OF CONTENTS	iii
+TABLE OF AUTHORITIES	vi
+STATEMENT OF RELATED CASES	x
+JURISDICTIONAL STATEMENT	1
+STATEMENT OF THE ISSUES PRESENTED FOR REVIEW	2
+STATEMENT OF THE CASE	3
+A.	Statement of the Facts	6
+1.	Metricolor’s Patents	9
+Plaintiff’s ‘587 Patent Provides an Apparatus and Method for Storing, Measuring and Dispensing Hair
+Coloring Agents and Additives. 	11
+Plaintiff Entered into Discussions with L’Oreal About Its Acquisition or Licensing of the Metricolor System and
+Signed a Mutual Non-Disclosure Agreement.	13
+L’Oreal Willfully Copied the Metricolor System in its
+“Bond Ultim8” Products.	17
+L’Oreal Also Willfully Copies the Metricolor System in
+its Redken pH-Bonder Product.	21
+SUMMARY OF ARGUMENT	23
+STANDARDS OF REVIEW	24
+Dismissal of Complaint under Rule 12(b)	24
+Dismissal of Complaint under Rule 12(b)(1). 	26
+Denial of Right to Conduct Jurisdictional Discovery.	26
+Denial of Leave to Amend.	26
+ARGUMENT	28
+THE DISTRICT COURT ABUSED ITS DISCRETION BY NOT GRANTING PLAINTIFF LEAVE TO AMEND THE COMPLAINT PARTICULARLY WHERE PLAINTIFF HAD NOT PREVIOUSLY FILED AN AMENDED COMPLAINT.
+	28
+THE DISTRICT COURT ABUSED ITS DISCRETION IN GRANTING L’ORÉAL S.A.’S MOTION TO DISMISS FOR
+iii
+
+Case: 18-2397	Document: 28 Page: 5 Filed: 01/28/2019
+LACK OF JURISDICTION AND DENYING PLAINTIFF
+THE OPPORTUNITY TO CONDUCT JURISDICTIONAL
+DISCOVERY AS TO L’ORÉAL S.A.	34
+C.	THE DISTRICT COURT ERRED IN HOLDING THAT PLAINTIFF’S COMPLAINT DOES NOT SATISFY THE PLEADING STANDARD FOR PATENT INFRINGEMENT
+	37
+The Central District Court’s Interpretation of Plausibility
+Standard in Patent Infringement Cases	37
+Plaintiff’s Claims Based on Direct Infringement Satisfy the Plausibility Standard as Well as the Recognized Lesser Standard for a Direct Infringement of its Patent.
+	39
+Plaintiff’s Complaint Satisfies the Plausibility Standard
+Under the Doctrine of Equivalents.	40
+Plaintiff Alleges that the Accused Products Have
+An “Airtight Seal.”	42
+The District Court Erred in determining the Accused Products do not meet the “means for
+engaging the container holder” limitation.	44
+The Complaint Sufficiently Alleges that the Accused Products Meet all the Elements of Claim
+1.	45
+The Accused Product Meets all the Elements of
+Claim 14.	47
+D.	THE DISTRICT COURT ERRED IN DISMISSING
+METRICOLOR’S BREACH OF CONTRACT CLAIM.	48
+Plaintiff Alleged Defendants’ Acquisition and Use of Plaintiff’s Confidential Information was a Breach of the
+Non-Disclosure Agreement.	48
+Given L’Oreal’s History of Stealing Confidential Information from Many Inventors, L’Oreal’s Arguments
+Lacked Credibility and Should Have Been Rejected. 	52
+E.	THE COMPLAINT PLAUSIBLY ALLEGES THAT PLAINTIFF PROVIDED TRADE SECRET INFORMATION
+TO THE L'ORÉAL DEFENDANTS	55
+1.	L’Oreal Sought, and the D’Amicos Provided L’Oreal
+with all of the Confidential and Trade-Secret
+Information Required to Create a Competing System. .55
+iv
+
+Case: 18-2397	Document: 28 Page: 6 Filed: 01/28/2019
+
+PLAINTIFF ALLEGED A BREACH OF CONFIDENCE
+CLAIM.	59
+PLAINTIFF’S CAUSE OF ACTION FOR UNFAIR
+COMPETITION CLAIM IS SUFFICIENTLY PLED	60
+CONCLUSION	64
+ADDENDUM
+CERTIFICATE OF FILING AND SERVICE
+CERTIFICATE OF COMPLIANCE
+
+V
+
+Case: 18-2397	Document: 28 Page: 7 Filed: 01/28/2019
+TABLE OF AUTHORITIES
+Cases
+Altavion, Inc. v. Konica Minolta Sys. Lab., Inc.,
+(2014) 226 Cal.App.4th 26, 48	57
+Ashcroft v. Iqbal,
+556 U.S. 662, 678 (2009)	25
+Bell Atl. Corp. v. Twombly,
+550 U.S. 544, 564 (2007)	25
+Berkla v. Corel Corp.,
+302 F.3d 909, 917 (9th Cir. 2002)	59
+Bowles v. Reade,
+198 F.3d 752, 758-759 (9th Cir. 1999).	28
+Branch Banking & Trust Co. v. D.M.S.I., LLC,
+871 F.3d 751, 759 (9th Cir. 2017)	27
+Brayton Purcell, LLP v. Recordon & Recordon,
+606 F.3d 1124 (9th Cir., 2010)	26
+Carvalho v. Equifax Information Services, LLC,
+629 F.3d 876, 892-893 (9th Cir. 2010)	27
+Cedars Sinai Medical Center v. Quest Diagnostic Inc.,
+No. CV 17-5169-GW(FFMx), 2018 WL 2558388, at *2 (C.D. Cal. Feb. 27, 2018)
+	55
+Cel-Tech Communications, Inc. v. Los Angeles Cellular Tel. Co.,
+20 Cal.4th 163, 83 Cal.Rptr.2d 548 (1999)	61
+Cheng v. Boeing Co.,
+708 F.2d 1406 (9th Cir.)	26
+Coal. for ICANN Transparency, Inc. v. Verisign, Inc.,
+611 F.3d 495, 500 (9th Cir. 2010)	25
+Drum v. San Fernando Valley Bar Ass’n,
+182 Cal.App.4th 247, 253 (2010)	61
+Ebner v. Fresh, Inc.,
+838 F.3d 958, 963 (9th Cir. 2016)	27
+Foman v. Davis,
+371 U.S. 178, 182, 83 S.Ct. 227, 230 (1962)	27
+Friedman v. DirecTV,
+262 F. Supp. 3d 1000, 1006 (C.D. Cal. 2015)	59
+vi
+
+Case: 18-2397	Document: 28 Page: 8 Filed: 01/28/2019
+Graver Tank & Mfg. Co. v. Linde Air Products Co.,
+339 U.S. 605 (1950)	41
+Harkonen v. U.S. Dep't of Justice,
+800 F.3d 1143, 1148 (9th Cir. 2015)	25
+Harris Rutsky & Co. Ins. Servs., v. Bell & Clements Ltd.,
+328 F.3d 1122 (9th Cir. 2003)	26
+Incom Corp. v. The Walt Disney Co., et. al.,
+No. 15-cv-3011-PSG, Dkt 39, at 3-4, 2016 WL 4942032 (C.D. Cal. Feb. 4, 2016)
+	39
+L’Oreal USA, Inc. v. Spatz Laboratories,
+No. 16-cv-03572-AB-AS (C.D. Cal. May 23, 2016)	62
+Levald, Inc. v. City of Palm Desert,
+998 F.2d 680, 691 (9th Cir. 1993)	27
+Liqwd, Inc. and Olaplex LLC v. L’Oreal USA, Inc, et al.,
+No. 16-cv-08708-R-AFM (N.D. Cal. Nov. 22, 2016)	53, 54
+Machine Co. v. Murphy,
+97 U.S. 120, 125 (1878)	41
+Manwin Licensing Int’l S.A.R.L. v. ICM Registry, LLC,
+CV 11-9514, 2012 U.S. Dist. LEXIS 125126, at *10 (C.D. Cal. Aug. 14, 2012) 	25
+McKell vs. Washington Mut., Inc.,
+142 Cal.App.4th 1457, 1489 (2006).	49
+Missouri ex rel. Koster v. Harris,
+847 F.3d 646, 655-656 (9th Cir. 2017)	27
+Moore v. Kayport Package Express, Inc.,
+885 F.2d 531, 538 (9th Cir. 1989)	27
+People ex re. Lockyer v. Fremont Life Ins. Co.,
+104 Cal.App.4th 508, 515, (2002)	60
+Saunders v. Sup. Ct.,
+27 Cal.App.4th 832, 838-39, (1994)	61
+Shroyer v. New Cingular Wireless Servs., Inc.,
+622 F.3d 1035, 1043	60
+Siano Movile Silicon, Inc. V. Mavcom, Inc.
+C-10-04783 LHK PSG, 2011 WL 1483706 (N.D. Cal. Apr. 19, 2011)	26
+Sisseton-Wahpeton Sioux Tribe v. United States,
+90 F.3d 351, 355 (9th Cir. 1996)	27
+Tele-Count Eng’rs., Inc. v. Pac. Tel. & Tel. Co.,
+168 Cal.App.3d 455, 462, (1985)	59
+vii
+
+Case: 18-2397	Document: 28 Page: 9 Filed: 01/28/2019
+Time Warner Cable, Inc.,
+714 F.3d 1277, 1283 (Fed. Cir. 2013)	38
+Troyk v. Farmers Grp., Inc.,
+171 Cal. App. 4th 1305, 1352	50
+United States v. Corinthian Colleges,
+655 F.3d 984, 995 (9th Cir. 2011)	27
+University of Massachusetts Medical School, et al. v. L’Oreal S.A., et al.,
+No. 17-cv-00868-UNA (Del. Dist. Ct. June 30, 2017)	54
+USA, Inc. v. Pulse Evolution Corp.,
+No. 2:14-cv-0772, 2016 WL 199417 (D. Nev. Jan. 15, 2016)	39
+USA, Inc. v. Spatz Laboratories,
+No. 16-cv-03572-AB-AS, Dckt. 1 at ¶¶ 72-75 (C.D. Cal. May 23, 2016)	63
+Warner-Jenkinson Co. v. Hilton Davis Chemical Co.,
+520 U.S. 17 (1997)	41
+Wells Fargo & Co. v. Wells Fargo Exp. Co.,
+556 F.2d 406, 431 at n.24 (9th Cir. 1977)	26
+Western Shoshone Nat'l Council v. Molini,
+951 F.2d 200, 204 (9th Cir. 1991)	27
+Windy City Innovations, LLC v. Microsoft Corp.,
+193 F.Supp.3d 1109, 1115 (N.D. Cal. Jun. 17, 2016)	38
+Yeiser Research & Dev. LLC V. Teknor Apex Co.,
+281 F. Supp. 3d 1021, 1043 (S.D. Cal. 2017)	58
+Statutes
+28 U.S.C. 1291	2
+28 U.S.C. 1331	1
+28 U.S.C. 1338 (a) and (b)	1
+28 U.S.C. 1367	1
+35 U.S.C. § 1	1
+California Business and Professions Code §17500	3
+FED. R. CIV. P. 8(a)(2)	55
+Fed. R. Civ. P. 84 (2015)	37
+Fed. R. Civ. P. Rule 12(b)(6)	25
+Rule 84 of the Federal Rules of Civil Procedure	37
+viii
+
+Case: 18-2397	Document: 28 Page: 10 Filed: 01/28/2019
+
+U.S.C. § 1125	3
+
+ix
+
+Case: 18-2397	Document: 28 Page: 11	Filed: 01/28/2019
+
+STATEMENT OF RELATED CASES
+No other appeal in or from the same civil action or proceeding in the lower court or body was previously before this or any other appellate court.
+No other case is known to counsel to be pending in this or any court or agency that will directly affect or be directly affected by this Court’s decision in this appeal.
+
+x
+
+Case: 18-2397	Document: 28 Page: 12 Filed: 01/28/2019
+JURISDICTIONAL STATEMENT 
+Original jurisdiction in the district court was properly premised on 28 U.S.C. §§ 1331 and 1338(a) because the Complaint alleged patent infringement under 35 U.S.C. § 1 et seq., including §§ 271 and 281, and federal false advertising claims pursuant to 15 U.S.C. §§ 1121 and 28 U.S.C. 1125 §§ 1331 and 1367. Jurisdiction of the state law claims arose under the district court’s supplemental jurisdiction. 28 U.S.C. §1367.
+The Order entered on August 15, 2018 (Doc. 35), (1) granting the Motion to Dismiss filed by Defendants L'Oreal USA, Inc.; L'Oreal USA Products, Inc.; L'Oreal USA S/D, Inc.; Redken 5th Avenue NYC, LLC (collectively “Defendants” or “L’Oreal Defendants” or “L’Oreal”)1 under Rule 12(b)(6) without leave to amend; and (2) granting the Motion to Dismiss filed by Defendant, L'Oreal S.A. under Federal Rules of Procedure, Rules 12(b)(1), without leave to amend and denying Plaintiff the opportunity to conduct jurisdictional discovery disposed of all claims. Appx13-22. The Report on the Filing or Determination of an Action Regarding a Patent or Trademark, entered on August 16, 2018 confirmed the finality of the disposition of all claims. Appx460-470.
+Plaintiff Metricolor, LLC timely filed its Notice of Appeal on September 13, 2018. Appx471.
+1 Defendant, L'Oreal S.A., also joined in that Motion.
+1
+
+Case: 18-2397	Document: 28 Page: 13 Filed: 01/28/2019
+This Court has jurisdiction under 28 U.S.C. § 1291.
+STATEMENT OF THE ISSUES PRESENTED FOR REVIEW
+Whether the District Court erred in granting the Defendants’ Motion to Dismiss under Federal Rule of Procedure section 12(b)(6) on the grounds that the Complaint fails to state a claim against all Defendants without providing Plaintiff a single opportunity to amend the Complaint.
+Whether the District Court erred in granting Defendant, L’Oreal, S.A.’s Motion to Dismiss under Federal Rules of Procedure section 12(b)(1) 12(b)(2) on the grounds that the Court lacks personal jurisdiction over L’Oreal S.A. and the Complaint fails to state a claim against L’Oreal S.A. against the L’Oreal Defendants without providing Plaintiff a single opportunity to amend the Complaint without providing Plaintiff a single opportunity to amend the Complaint.
+Whether the District Court erred in denying Plaintiff leave to amend the Complaint.
+Whether the District Court erred in denying Plaintiff’s request
+for continuance of the hearing on the Motions to Dismiss to conduct jurisdictional
+discovery as to Defendant, L’Oreal S.A.
+2
+
+Case: 18-2397	Document: 28 Page: 14 Filed: 01/28/2019
+STATEMENT OF THE CASE 
+On January 16, 2018, Plaintiff, Metricolor LLC (“Metricolor”) filed its Complaint against defendants, L’Oreal S.A., L’Oreal USA, Inc., L’Oreal USA Products, Inc., L’Oreal USA S/D, Inc., and Redken 5th Avenue NYC, LLC, and DOES 1 through 100, inclusive. Appx23-88. Plaintiff alleged causes of action for patent infringement, breach of contract, misappropriation of trade secrets, breach of covenant of good faith and fair dealing, federal false advertising, 15 U.S.C. § 1125(a), statutory false advertising under California Business and Professions Code §17500, violation of California’s Unfair Competition Law (Cal. Bus. & Prof. Code §§ 17200 et seq.), and common law breach of confidence. Appx23-53.
+On April 23, 2018, Defendants, L’Oreal USA, Inc., L’Oreal USA Products, Inc., L’Oreal USA S/D, Inc., and Redken 5th Avenue NYC, LLC (collectively, “Defendants” or “the L’Oreal Defendants” or “L’Oreal”) filed their Notice of Motion and Motion to Dismiss Metricolor LLC’s Complaint for failure to state a claim; Memorandum of Points and Authorities and Declarations and Exhibits in support thereof. Appx89-116.
+On May 23, 2018, Defendant, L’Oreal S.A., filed its Motion to Dismiss Metricolor LLC’s Complaint under Federal Rule 12(b)(2) for lack of personal jurisdiction and joined in the Motion to Dismiss under 12(b)(6) filed by the Subsidiary Defendants (also referred to as the “L’Oreal Defendants”);
+3
+
+Case: 18-2397	Document: 28 Page: 15 Filed: 01/28/2019
+Memorandum of Points and Authorities and Declaration of Roy Rabinowitz in support thereof. L’Oreal also requested that the Court deny Plaintiff the opportunity to conduct jurisdictional discovery. Appx117-138.
+On June 25, 2018, Plaintiff filed its Opposition to L’Oreal Defendants’ Motion to Dismiss Metricolor, LLC’s Complaint. Appx139-162.
+On June 26, 2018, Plaintiff filed its Request for Judicial Notice in Support of Plaintiff’s Oppositions to the L’Oreal Defendants’ Motion to Dismiss and L’Oreal S.A.’s Motion to Dismiss Metricolor, LLC’s Complaint. Appx163-167. In its Opposition, Plaintiff abandoned for purposes of the Motion (without prejudice) its claims for federal false advertising, California false advertising, and breach of the covenant of good faith and fair dealing. Appx161-162.
+On June 26, 2018, Plaintiff filed the Declaration of Eduardo Martorell in Support of Plaintiff’s Opposition to the L’Oreal Defendants’ Motion to Dismiss and L’Oreal S.A.’s Motion to Dismiss Metricolor, LLC’s Complaint. Appx168-171.
+On June 26, 2018, Plaintiff filed Exhibits A-F in support of Request for Judicial Notice in Support of Plaintiff’s Opposition to Defendants’ Motions to Dismiss. Appx172-308.
+On June 26, 2018, Plaintiff filed its Opposition to L’Oreal S.A.’s Motion to Dismiss Metricolor LLC’s Complaint. Appx309-319.
+4
+
+Case: 18-2397	Document: 28 Page: 16 Filed: 01/28/2019
+On July 2, 2018, the L’Oreal Defendants filed their Reply Memorandum of Points and Authorities in Support of the L’Oreal Defendants’ Motion to Dismiss Metricolor’s Complaint. Appx320-340.
+On July 2, 2018, Defendant L’Oreal S.A. filed its Reply Memorandum of Points and Authorities in support of Defendant L’Oreal S.A.’s Motion to Dismiss Metricolor’s Complaint. Appx341-354.
+On July 2, 2018, Defendants filed the Declaration of Andrew J. Kim and Exhibits A-E in Support of the L’Oreal Defendants’ and L’Oreal S.A.’s Motions to dismiss Metricolor LLC’s Complaint. Appx355-459.
+On August 15, 2018, the Court issued its Order (1) granting the L’Oreal Defendants’ Motion to Dismiss under Rule 12(b)(6) without leave to amend, without stating any basis therefor, and with no prior leave to amend having been granted; (2) and granted Defendant, L’Oreal S.A.’s Motion to Dismiss under Rule 12(b)(2). Appx13-22.
+On August 16, 2018, the Court issued its report of determination of action. Appx460-470.
+On September 13, 2018, Plaintiff filed its Notice of Appeal from both Orders. Appx471.
+5
+
+Case: 18-2397	Document: 28 Page: 17 Filed: 01/28/2019
+A.	Statement of the Facts
+Stephen D’Amico, co-founder of Metricolor, conceived of the Metricolor System, a methodology to accurately, efficiently and sustainably measure hair coloring agents and additives in 2000. However, it took twelve more years to design, test, and prototype the Metricolor System. On January 14, 2013, Stephen D’Amico, along with his co-founder father, Salvatore D’Amico, filed their provisional patent application. Appx27-28.
+As a stylist and haircare professional, Stephen D’Amico realized that the haircare industry needed to change. Traditional hair coloring systems – which have remained the same for over 60 years – are typically cumbersome and wasteful. In 2014, Stephen D’Amico, invented the Metricolor System – a significant paradigm-shift from the old and inefficient methods prevailing in the haircare industry. Appx28.
+The Metricolor System, in contrast to traditional means of mixing and dispensing hair coloring agents and additives, allows a user to quickly and accurately measure and dispense said hair coloring agents or additives using a syringe. This system allows stylists and haircare professionals to easily and accurately measure out exact portions of hair coloring agents and additives, preventing waste of materials, waste of time in locating proper containers, and
+6
+
+Case: 18-2397	Document: 28 Page: 18 Filed: 01/28/2019
+allowing both stylists and customers to engage in a more clean, cost-effective and environmentally-friendly hair styling experience. Appx28.
+Other hair coloring systems currently available on the market typically comprise of a series of capped tubes, such as collapsible aluminum tubes or bottle-type containers, each containing a different hair coloring agent or additive paste or liquid. During the hair coloring process, a stylist dispenses the desired amount of hair coloring agents and/or additives into a mixing receptacle to achieve a desired color. Appx29.
+A problem with these containers is that stylists are often required to measure certain amounts by sight or “squeeze to a line” in the mixing receptacle itself. This inaccurate process makes it difficult for stylists to measure properly since a change of even 0.1 milliliters can alter the hue of a color mixture. In addition, due to the nature of these aluminum tubes (similar to toothpaste tubes), it is difficult to dispense all of the liquid or paste from a single tube, leading to a waste of approximately 25% of the product in a typical tube. In fact, independent studies have found that despite best efforts, tube and receptacle markings were only accurate to +/- 50% of the total volume of the liquid or paste in the container
+7
+
+Case: 18-2397	Document: 28 Page: 19 Filed: 01/28/2019
+itself.2 This inherent inconsistency is also very wasteful and constitutes a significant expense for salons and stylists. Appx29.
+Another problem evident in traditional hair care systems is that the products are sensitive to oxidation, which leads to wasteful aluminum tubes creating a mess at salons. The use of many bottles and tubes makes organization very difficult. Due to the speed at which hair care professionals work and the numerous clients on which they work daily, the heaps of unorganized and cumbersome aluminum tubes and other containers increase the likelihood of mistakes, waste time, and create inefficiency. Appx29.
+The Metricolor System solves all these problems. The Metricolor System’s patented delivery allows for accurate and repeatable measurements that prevent waste and allow for the consistent mixture of hair coloring agents and additives. Appx30.
+These poly-plastic containers are fitted with a flip-top cap and orifice reducer at the opening that prevents product dripping and reduces oxidation, as seen in the image below, on the left. A graduated syringe, as seen in the image
+2 These studies were cited in an article by Debbie Miller, a salon professional and a “Global Performing Business Artist” for Redken 5th Avenue NYC and the Redken Brand. The article, published by Stylist and Salon Newspapers’ September 2010 issue of Northwest Stylist Magazine, was entitled, “Point, Click, Color: Modern Technology Takes Off at the Color Bar.” The article can be found at the URL: ____  (accessed January 15, 2018).
+8
+
+Case: 18-2397	Document: 28 Page: 20 Filed: 01/28/2019
+below, on the right, engages the orifice reducer and allows stylists to measure out and dispense an exact amount of the necessary hair coloring agent or additive every time. In contrast with traditional hair coloring agent or additive systems, the syringe allows for an accuracy of +/- 1% in measuring liquids/pastes. Appx30.
+
+This accuracy, in combination with the reusable syringe and the easily-stored rack storage system, makes the Metricolor System unique in the field of hair coloring systems. In fact, recent publications have praised Metricolor’s revolutionary system as a paradigm shift in the hair styling industry. Appx30.
+1.	Metricolor’s Patents 
+Metricolor initially filed a provisional patent application on January 14,
+2013, allowing Metricolor a priority filing date of January 14, 2013. The provisional application was published on July 17, 2014. Appx30. Metricolor is the owner of United States Patent No. 9,301,587 (the “’587 Patent” or “Asserted Patent”) entitled “Hair Color (or Dye) Storage, Dispensing and Measurement (or Measuring) System,” which the United States Patent and Trademark Office duly
+9
+
+Case: 18-2397	Document: 28 Page: 21	Filed: 01/28/2019
+and legally issued on April 5, 2016. A true and correct copy of the ‘587 Patent is attached to the Complaint. Appx54-70.
+Metricolor’s provisional application had already been published before any negotiations regarding the Metricolor System had begun with the L’Oreal Defendants. At the start of these negotiations, L’Oreal was made aware of the existence of Metricolor’s provisional patent and Metricolor’s overt intent to continue to pursue further patent protection, which culminated in the issuance and publication of the ‘587 Patent. Appx31.
+Metricolor is the owner of the ‘587 Patent and is entitled to pursue recovery of royalties and damages for infringement of the ‘587 Patent. Metricolor is also entitled to damages which it suffered as a result of the L’Oreal Defendants’ unfair business practices and ill-intentioned dealings, which caused Metricolor to delay entering the market and reaping the benefits of being the first entrant in the market with its patented technology. Appx31. Additionally, Metricolor has not licensed the ‘587 Patent for use to any other entity or person, and has not now nor at any point authorized Defendants to use any patented component of the ‘587 Patent. Each claim of the ‘587 Patent is valid and enforceable. Appx31.
+10
+
+Case: 18-2397	Document: 28 Page: 22 Filed: 01/28/2019
+2.	Plaintiff’s ‘587 Patent Provides an Apparatus and Method  for Storing, Measuring and Dispensing Hair Coloring Agents and Additives. 
+Claim 1 of the ‘587 Patent describes the apparatus for storing, measuring and dispensing hair coloring agents and additives. Appx31. The apparatus generally comprises: (1) a graduated measuring and dispensing vessel; (2) a container comprising an air-tight chamber, an opening with an air-tight re-closing seal which can engage with the graduated measuring vessel; and, (3) a means for engaging the container with a supporting container-holder, such as a rack.
+Appx31.
+Claims 1, 9, 10, and 11 of the ‘587 Patent describe the graduated measuring and dispensing vessel as a reusable catheter syringe, which is tapered to allow for a secure connection with the hair coloring agent or additive containers. Appx32.
+Claims 1, 3, and 4 describe a poly-plastic container, which is comprised of an outer layer of semi-rigid poly-plastic material and which includes an opening at the bottom of the container relative to a container label, such that the container is faced down to engage with the catheter syringe described above. Appx32.
+Claims 1 and 5 describe an “orifice reducer” which is an air-reducing seal that allows for the catheter syringe to engage with the hair coloring agent or additive containers in a controlled manner, so as to extract specific, measured
+11
+
+Case: 18-2397	Document: 28 Page: 23 Filed: 01/28/2019
+amounts of hair coloring agent or additive while preventing leakage and reducing wasteful oxidation of the hair coloring agent or additive. Appx32.
+Claim 14 of the ‘587 Patent describes a methodology for storing, measuring and dispensing hair coloring agent or additive using the apparatus described elsewhere in the ‘587 Patent. Specifically, Claim 14 of the ‘587 Patent describes the following steps: (1) providing a first container with an air-tight, re-closable seal containing a quantity of hair coloring agent or additive; (2) providing a graduated measuring and dispensing vessel capable of holding a predetermined quantity of hair coloring agent or additive (the catheter syringe); (3) accessing the first container with the graduated measuring vessel (the catheter syringe) and withdrawing a first predetermined quantity of hair coloring agent or additive from the first container; (4) dispensing this first quantity into a mixing bowl; (5) providing a second container with an air-tight re-closable seal containing a quantity of hair coloring agent or additive; (6) accessing the second container with the graduated measuring and dispensing vessel (the catheter syringe) and withdrawing a second predetermined quantity of hair coloring agent or additive from the second container; (7) dispensing the second predetermined quantity into the mixing bowl; (8) mixing the two quantities of hair coloring agents or additives together.
+Appx32.
+12
+
+Case: 18-2397	Document: 28 Page: 24 Filed: 01/28/2019
+3.	Plaintiff Entered into Discussions with L’Oreal About Its  Acquisition or Licensing of the Metricolor System and Signed a Mutual Non-Disclosure Agreement. 
+Around August 14, 2014, the owners of Plaintiff, the D’Amicos spoke to the President of the Professional Products Division of L’Oreal USA, Patrick Parenty, discussing the potential interest in the acquisition or licensing of the Metricolor System (the “Failed Deal”). On August 25, 2014, the parties signed a Mutual Non-Disclosure Agreement (the “Agreement”) supplied by L’Oreal. Appx33, Appx71-79.
+Pursuant to the Agreement, both parties informally agreed that Metericolor would provide exclusivity to L’Oreal during the time these discussions continued, and not market the Metricolor system to competitors or release the System in the open market. During this period of initial discussion, L’Oreal executives were clearly advised by the D’Amico’s of the existence of the provisional patent for the Metricolor System and the D’Amicos’ clear intent to continue to pursue further patent protection with the United States Patent and Trademark Office. Appx33.
+The Agreement, signed and executed by both parties, included express provisions wherein L’Oreal agreed not to “copy or reproduce all or any part of such Confidential Information in any medium” except as was necessary to effectuate L’Oreal’s collaboration with Metricolor. Appx33.
+13
+
+Case: 18-2397	Document: 28 Page: 25 Filed: 01/28/2019
+Under the Agreement, L’Oreal further agreed to “not decompile, disassemble or reverse engineer all or any part of [the Metricolor System] without the written permission of [Metricolor].” Appx33.
+On October 15, 2014, the D’Amicos first met with Parenty and Scott Schienver (Vice President of Operations-Supply Chain) at L’Oreal USA’s headquarters in New York City. During this meeting, the D’Amicos presented and demonstrated the Metricolor System, thereby providing L’Oreal with confidential trade-secret information regarding the application and use of the Metricolor System. As a result of the meeting, Parenty referred the project to L’Oreal’s Matrix Brand. The very next day, L’Oreal demonstrated their continued interest by sending the D’Amicos eight (8) large boxes with hundreds of samples of their entire line of hair coloring products for the D’Amicos to test with the Metricolor System. Appx33-34.
+Shortly after this meeting in October 2014, the D’Amicos were contacted by Marika Rex, the Senior Vice President of the L’Oreal-owned Matrix Brand. Despite L’Oreal’s supposed interest, no response was forthcoming until a meeting was held again in New York City in January 2015. At such meeting, the D’Amicos met with Scott Schienver, Marika Rex, and Stephanie Martins, the Vice President of Packaging and Development for L’Oreal. Appx34.
+14
+
+Case: 18-2397	Document: 28 Page: 26 Filed: 01/28/2019
+Discussions again stalled after this meeting until the Matrix Brand underwent a reorganization of their leadership in Fall 2015. Between October and November 2015, the D’Amicos continued discussions and meetings with various divisions of L’Oreal, including L’Oreal Global and the new leadership of the Matrix Brand. Specifically, in November 2015, the D’Amicos met with Daniel Bethelmy-Rader, Marika Rex, and Stephanie Martins regarding L’Oreal’s great interest in the Metricolor System. Appx34.
+After this meeting, discussions stalled for unknown reasons and still having heard nothing from L’Oreal, Salvatore D’Amico sent an email to L’Oreal on February 22, 2016 and indicated Plaintiff’s intent to take the Metricolor System to the market if L’Oreal did not commit to the Metricolor System. Appx34. On March 10, 2016, Marta Wolska-Brys, the new Director of Open-Innovation and Packaging at L’Oreal Americas/USA contacted the D’Amicos and indicated that L’Oreal was “very interested” in the Metricolor System. In addition, around this time, the D’Amicos also spoke with corporate executives Anne DeBouge and  Anne Alcoloumbre from L’Oreal Group France who specifically asked the  D’Amicos for ten (10) samples of the Metricolor System. Appx34.
+Between April and June 2016, formal negotiations began regarding an Exclusive Evaluation Agreement between the D’Amicos’ licensing consultant and negotiator, Rand Brenner, and Marta Wolska-Brys, Nathan Gallup (L’Oreal’s
+15
+
+Case: 18-2397	Document: 28 Page: 27 Filed: 01/28/2019
+attorney), and Michael Alekshun (L’Oreal’s Vice President of Research and Innovation and L’Oreal’s negotiator). Appx35.
+Despite these discussions, on June 16, 2016, L’Oreal’s negotiator (Michael Alekshun) contacted Metricolor’s negotiator (Rand Brenner) and indicated that L’Oreal would be terminating the negotiations. L’Oreal provided no reason for the sudden termination of negotiations that had been ongoing for nearly two years. Appx35.
+On or around September 2016, after three months of silence from L’Oreal and its representatives, L’Oreal launched two (2) new products under the Matrix Brand and the Redken Brand (the Matrix Brand’s Matrixcolor Bond Ultim8 product and the Redken Brand’s pH-Bonder product), which specifically included and directly advertised Plaintiff’s patented components. Appx35.
+On January 9, 2017, Salvatore D’Amico sent an email to Daniel Bethelmy-Rader regarding Metricolor’s intent to place the Metricolor system in the marketplace and commence meetings with other interested parties. Appx35. Salvatore D’Amico, on behalf of Metricolor, also indicated, clearly and directly, that Metricolor will continue to honor the Non-Disclosure Agreement signed by the parties and expected L’Oreal to do the same. Ibid. Metricolor also requested that L’Oreal return any and all presentation materials regarding Metricolor’s confidential information still in L’Oreal’s possession. Ibid. This information still
+16
+
+Case: 18-2397	Document: 28 Page: 28 Filed: 01/28/2019
+has not been returned, contrary to the overt requirements of the Non-Disclosure Agreement, which provides that “Receiving Party will upon the Disclosing Party’s request, (a) promptly return any and all materials containing Confidential Information to the Disclosing Party; or (b) destroy such materials and certify their destruction in writing to the Disclosing Party.” Appx35, Appx72-79, (Non-Disclosure Agreement [“NDA”].)
+4.	L’Oréal Willfully Copied the Metricolor System in its “Bond Ultim8” Products. 
+L’Oréal’s Matrix Brand is tailored to haircare and hair styling products. They advertise haircare products such as conditioners and lotions as well as products designed to color, style and texture hair. Matrix’s webpage https://www.matrix.com/hair-color/bond-ultim8) (accessed January 15, 2018) also features a link to a separate webpage for professionals, where salon professionals and stylists can log in, examine available products and their potential uses, get certified in using Matrix products, get their salons listed on Matrix’s website, and communicate with other stylists and professionals. Appx35, Appx80-82. The Bond Ultim8 product is advertised under the banner “MATRIXCOLOR,” with the word “color” appearing in red (Ex. C, at 2), in striking similarity to Metricolor’s  name, as well as its color scheme and logo, which features the word “Metric”  underlined by red measuring tape http://www.metricolor.com) (accessed January 15, 2018). Appx83-85.
+17
+
+Case: 18-2397	Document: 28 Page: 29 Filed: 01/28/2019
+The Bond Ultim8 product is a kit that includes three containers of liquid,  comprising an “amplifier,” a “sealer,” and a “weekly sealing treatment.” The Matrixcolor Bond Ultim8’s Bond Protecting System Amplifier contains direct action dyes used for hair coloring.3 Also included in this kit is a graduated syringe identical to the graduated syringe featured in Metricolor’s patented system.
+
+
+The webpage for the Bond Ultim8 product also clearly features the following section regarding the usage of the syringe.
+
+3 The Delaware District Court, relying on L’Oréal’s own expert testimony presented in L’Oréal’s defense in another one of its “efficient infringement” lawsuits in which it was defending against similar claims, determined that the Accused Products both contained a “hair coloring agent.” There, [t]he parties’ infringement dispute center[ed] on the “hair coloring agent” found in the same Accused Products. In their defense, Defendants’ rebuttal expert witness acknowledged the Redken pH-Bonder’s Bond Protecting Additive, and Matrixcolor Bond Ultim8’s Bond Protecting System Amplifier contain “direct action dyes [which] are know to be used for coloring hair, and are each capable of changing he color of hair.” Liqwd, Inc. v. L'Oreal USA, Inc., No. CV 17-14-SLR, 2017 WL 2881351, at *3 (D. Del. July 6, 2017), vacated, 720 F. App'x 623 (Fed. Cir. 2018). Appx. 481.
+18
+
+Case: 18-2397	Document: 28 Page: 30 Filed: 01/28/2019
+Claim 14 of the ‘587 Patent clearly reads on this set of steps and instructs users on how to use the graduated syringe in the same way as the Bond Ultim8 product. Appx37.
+The Matrix Professionals’ web portal also includes a YouTube playlist featuring videos of hair stylists instructing views on the proper usage of the Bond Ultim8 product. These videos all feature prominent use of unlawfully copied elements of the Metricolor System.
+As seen below, the image on the left is captured from Metricolor’s ‘587 Patent, and features Metricolor’s patented graduated syringe apparatus injecting a measured amount of liquid or paste into a mixing receptacle. The image on the right appears in L’Oréal’s Bond Ultim8’s advertisings and clearly shows a seemingly identical graduated syringe injecting a measured amount of liquid or paste into a mixing receptacle. Claim 14 of the ‘587 Patent clearly reads on this process. Appx37-38.
+
+19
+
+Case: 18-2397	Document: 28 Page: 31	Filed: 01/28/2019
+The Matrix Brand’s online presence also features prominent use of these patented features central to the function of the Metricolor System. A YouTube video entitled “Introducing NEW! Bond Ultim8 Bond Protection System | Matrix,” uploaded on February 27, 2017 by an account held by the Matrix Brand features a hair stylist using a graduated syringe to extract an exact amount of different hair coloring agents or additives and inserting them into a mixing receptacle.
+A screen capture of this use is found below. The stylist, while using the graduated syringe, comments, “I love using this syringe because it really gives me precise measurements.” https://www.youtube.com/watch?v=zR0B44TpvLM) (accessed January 15, 2018). Appx38.
+
+Other videos on the Matrix YouTube page also feature stylists instructing users on the proper usage of the Matrixcolor Bond Ultim8 product. In these videos, other stylists are also clearly shown using a graduated syringe. The Matrixcolor line
+even features a hair coloring agent or additive product which is packaged into a
+20
+
+Case: 18-2397	Document: 28 Page: 32 Filed: 01/28/2019
+pouch design (as seen below), in strikingly similarity to Metricolor’s pouch design for its hair coloring agent and additive containers. Appx39.
+
+
+5.	L’Oréal Also Willfully Copies the Metricolor System in its
+Redken pH-Bonder Product. 
+L’Oreal also advertises, through its subsidiary Redken 5th Avenue NYC’s
+webpage, the product pH-Bonder, which features three separate containers of various liquids including a “hair coloring agent”4, which are mixed using a syringe, seemingly identical to Metricolor’s patented graduated syringe apparatus as well as Metricolor’s patented methodology, and as seen below. Appx39-40.
+4 The Redken pH-Bonder’s Bond Protecting Additive contains direct action dyes used for hair coloring. The Delaware District Court, relying on L’Oreal’s expert testimony, determined that the Accused Products contained a “hair coloring agent.” Liqwd, Inc. v. L'Oreal USA, Inc., No. CV 17-14-SLR, 2017 WL 2881351, at *3 (D. Del. July 6, 2017), vacated, 720 F. Appx623 (Fed. Cir. 2018). Appx484.
+21
+
+Case: 18-2397	Document: 28 Page: 33 Filed: 01/28/2019
+
+A YouTube marketing video uploaded by “RedkenCANADA” also shows users how to use the Redken pH-Bonder product. The video, uploaded on April 11, 2017, is entitled “pH Bonder Product Knowledge.” https://www.youtube.com/watch?v=1v1Nur5A6Uk) (accessed January 15, 2018).
+In this video, a stylist is clearly shown describing the process of using the Redken pH-Bonder product. He is also clearly seen using the syringe to extract a hair coloring agent or additive from a plastic container and then mixing it with additional hair coloring agents and additives in a mixing receptacle. Claims 1, 9,  10, and 11 of the ‘587 Patent clearly read on this usage of the syringe by Redken.  Further, Claim 14 of ‘587 Patent also clearly reads on this methodology. Below follow some images from this YouTube video, showing the infringing use. Appx40-41.
+22
+
+Case: 18-2397	Document: 28 Page: 34 Filed: 01/28/2019
+
+SUMMARY OF ARGUMENT 
+The District Court erred in granting all Defendants’ Motion to Dismiss without leave to amend, and Defendant L’Oreal S.A.’s Motion to Dismiss for lack of jurisdiction. The Court also erred in denying Plaintiff leave to conduct jurisdictional discovery and denying Plaintiff leave to amend even once.
+The crux of this case concerns Plaintiff’s patent infringement claims. While the courts have applied various standards to such claims (discussed infra), under
+23
+
+Case: 18-2397	Document: 28 Page: 35 Filed: 01/28/2019
+any standard, Plaintiff’s allegations are sufficiently pled to state a cause of action for patent infringement. The same, and additional facts were sufficient under applicable law to support its related causes of action for breach of contract, misappropriation of trade secrets, breach of confidence, and violation of California’s Unfair Competition Law, Cal. Bus. & Professions Code §17200.
+This was the first ruling on the sufficiency of the allegations. Under settled law, and Plaintiff’s indication of its request and ability to amend, the District Court erred in denying Plaintiff’s first request for leave to amend.
+
+The District Court also erred in granting Defendant L’Oreal S.A.’s Motion to Dismiss for lack of jurisdiction because Plaintiff provided extensive factual details of its involvement in the negotiations and wrongful acts. At a minimum, the Court erred in denying Plaintiff the opportunity to conduct jurisdictional discovery and leave to amend. This was the first ruling on the sufficiency of the allegations and leave to amend should have been granted where Plaintiff provided the District Court with legitimate grounds to authorize jurisdictional discovery and leave to amend at least once.
+STANDARDS OF REVIEW 
+A. Dismissal of Complaint under Rule 12(b)
+Review of an order dismissing a complaint for failure to state a claim Rule 12(b)(6) is under the de novo standard. Harkonen v. U.S. Dep't of Justice, 800
+24
+
+Case: 18-2397	Document: 28 Page: 36 Filed: 01/28/2019
+F.3d 1143, 1148 (9th Cir. 2015). “The motion to dismiss for failure to state a claim is viewed with disfavor and is rarely granted.” Govind v. Felker, No. 2:08 CV-01183, 2011 U.S. Dist. LEXIS 68259, at *4 (C.D. Cal. June 18, 2011). “In evaluating the sufficiency of a complaint under Rule 12(b)(6), courts should be mindful that the Federal Rules of Civil Procedure generally require only that the complaint contain ‘a short and plain statement of the claim showing that the pleader is entitled to relief.’” Manwin Licensing Int’l S.A.R.L. v. ICM Registry, LLC, CV 11-9514, 2012 U.S. Dist. LEXIS 125126, at *10 (C.D. Cal. Aug. 14, 2012). “[A]ll allegations of material fact are taken as true and are construed in the light most favorable to [the plaintiff].” Coal. for ICANN Transparency, Inc. v. Verisign, Inc., 611 F.3d 495, 500 (9th Cir. 2010).
+A complaint must meet a standard of “plausibility.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 564 (2007). A claim is plausible “when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (citation omitted). Plausibility “is not akin to a ‘probability requirement,’” rather, it requires “more than a sheer possibility that a defendant has acted unlawfully.” Id. (citing Twombly, 550 U.S. at 556).
+25
+
+Case: 18-2397	Document: 28 Page: 37 Filed: 01/28/2019
+The purpose of liberal pleading standards (requiring very little more than “sheer possibility”) is to allow the Court to draw “a reasonable inference” regarding the Defendants’ liability.
+Dismissal of Complaint under Rule 12(b)(1). The Court reviews de novo the district court's determination that it does not have personal jurisdiction under FRCP 12(b)(2). Brayton Purcell, LLP v. Recordon & Recordon, 606 F.3d 1124, 1127 (9th Cir., 2010).
+Denial of Right to Conduct Jurisdictional Discovery.
+The Court reviews a district court's decision to grant or deny discovery on jurisdictional facts for abuse of discretion. Cheng v. Boeing Co., 708 F.2d 1406, 1412 (9th Cir.), cert. denied, 464 U.S. 1017, 104 S. Ct. 549, 78 L. Ed. 2d 723 (1983); Harris Rutsky & Co. Ins. Servs., v. Bell & Clements Ltd., 328 F.3d 1122, 1135 (9th Cir. 2003). The Ninth Circuit holds a broad view of the appropriate scope of jurisdictional discovery. Siano Movile Silicon, Inc. V. Mavcom, Inc. C10-04783 LHK PSG, 2011 WL 1483706 (N.D. Cal. Apr. 19, 2011); see also Wells Fargo & Co. v. Wells Fargo Exp. Co., 556 F.2d 406, 431 at n.24 (9th Cir. 1977).
+Denial of Leave to Amend.
+The denial of leave to amend after a responsive pleading has been filed is
+reviewed for abuse of discretion. Ebner v. Fresh, Inc., 838 F.3d 958, 963 (9th Cir.
+26
+
+Case: 18-2397	Document: 28 Page: 38 Filed: 01/28/2019
+2016); Branch Banking & Trust Co. v. D.M.S.I., LLC, 871 F.3d 751, 759 (9th Cir. 2017); United States v. Corinthian Colleges, 655 F.3d 984, 995 (9th Cir. 2011).
+However, because of the strong policy favoring leave to amend, denials of leave to amend are “strictly” reviewed. Sisseton-Wahpeton Sioux Tribe v. United States, 90 F.3d 351, 355 (9th Cir. 1996).
+Factors, including undue delay, bad faith or dilatory motive, futility of amendment, prejudice to the opposing party, and number of previous amendments may justify denial of leave to amend. Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 230 (1962); Moore v. Kayport Package Express, Inc., 885 F.2d 531, 538 (9th Cir. 1989); Western Shoshone Nat'l Council v. Molini, 951 F.2d 200, 204 (9th Cir. 1991)]. Dismissal without leave to amend is improper unless “it is clear, upon de novo review, that the complaint would not be saved by any amendment.” Missouri ex rel. Koster v. Harris, 847 F.3d 646, 655-656 (9th Cir. 2017) (emphasis in original; internal quotes omitted); Carvalho v. Equifax Information Services, LLC, 629 F.3d 876, 892-893 (9th Cir. 2010).
+But where leave to amend was not previously given, “outright refusal” of leave to amend “without any justifying reason appearing for the denial is not an exercise of discretion.” Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 230 (1962) (emphasis added); Levald, Inc. v. City of Palm Desert, 998 F.2d 680, 691 (9th Cir. 1993)]. Thus, denial of leave to amend is likely to be reversed on appeal
+27
+
+Case: 18-2397	Document: 28 Page: 39 Filed: 01/28/2019
+where the record fails to indicate clearly (e.g., by written findings) the district court's reasons. Bowles v. Reade, 198 F.3d 752, 758-759 (9th Cir. 1999).
+ARGUMENT 
+
+A. THE DISTRICT COURT ABUSED ITS DISCRETION BY NOT GRANTING PLAINTIFF LEAVE TO AMEND THE COMPLAINT PARTICULARLY WHERE PLAINTIFF HAD NOT PREVIOUSLY FILED AN AMENDED COMPLAINT.
+Federal Rule of Civil Procedure 15(a)(2) states that a party may amend when the opposing side gives written consent or by the court's leave, which it should give freely. The Ninth Circuit has stated that this policy should be applied with "extreme liberality." Roney v. Miller, 705 Fed. Appx670, 671 (9th Cir. 2017). In an appeal from another case from Judge Real (the District Court Judge involved in the instant matter), the Ninth District noted that “[w]hen justice requires, a district court should ‘freely give leave’ to amend a complaint.” Arizona Students' Ass'n v. Arizona Bd. of Regents, 824 F.3d 858, 871 (9th Cir. 2016) (quoting Fed. R. Civ. P. 15(a)(2).). “Absent prejudice, or a strong showing of any of the remaining Foman factors, there exists a presumption under Rule 15(a) in favor of granting leave to amend.” Eminence Capital, LLC v. Aspeon, Inc., 316 F.3d 1048, 1052 (9th Cir. 2003); see Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222 (1962) (identifying factors that may justify denying leave to amend, including undue delay, bad faith or dilatory motive, repeated failure to cure deficiencies by
+28
+
+Case: 18-2397	Document: 28 Page: 40 Filed: 01/28/2019
+amendments previously allowed, undue prejudice to the opposing party, and futility).
+Here, there was no showing that any Foman factors existed to support the District Court’s Order denial of leave to amend. Moreover, this was Plaintiff’s original Complaint and no prior leave had been granted. Although the repeated failure to cure deficiencies is a proper basis for denying leave to amend, there is no such repeated failure when, as here, the current motion to dismiss is “the first pleading[ ] to attack the sufficiency of [the plaintiffs'] allegations, the current decision [ ] by the district court ... [is] the first to address the sufficiency of those allegations, and [the plaintiffs are] seeking [their] first opportunity to cure those deficiencies.” United States v. United Healthcare Ins. Co., 848 F.3d 1161, 1183 (9th Cir. 2016) (reversing denial of leave to amend even though the plaintiff had previously amended his pleading three times); Eminence Capital, supra, 316 F.3d at 1053, (noting that although the complaint was amended multiple times, “it is not accurate to imply that plaintiffs had filed multiple pleadings in an attempt to cure pre-existing deficiencies”). Additionally, “[u]nder futility analysis, ‘[d]ismissal without leave to amend is improper unless it is clear ... that the complaint could not be saved by any amendment.’” United States v. Corinthian Colleges, 655 F.3d 984, 995 (9th Cir. 2011) (second alteration in original). Here, it is not clear, and on this basis alone, the decision should be reversed and remanded with instructions
+29
+
+Case: 18-2397	Document: 28 Page: 41	Filed: 01/28/2019
+that the District Court modify the Order to grant Plaintiff leave to amend the Complaint.
+Leave to amend specific causes of action is also supported by the Court’s reasoning. On the patent claims, the Court stated:
+However, the Court found that the Complaint does not allege that these steps meet all of the limitations in Claim 14, and after comparing the two, it is clear that they do not. With regard to pH-Bonder, the Complaint simply alleges that Claim 14 “clearly reads ‘on the methodology for using a product that was featured in an instructional video the Court cannot infer from these conclusory allegations that the Accused products infringe on each element of Claim 14, and therefore Plaintiff cannot state a claim for infringement.
+Appx19-26.
+This reflects the Court’s erroneous factual analysis as the purported trier of fact and erroneous conclusion of the meaning of the allegations. It also shows the Court’s failure to give Plaintiff one opportunity to cure any defect by clarifying or adding facts so that the Court need not “infer from these conclusory allegations.” It is fundamental that a plaintiff should be given one opportunity to plead more details to support its claims under such circumstances. Moreover, there was no showing that it would be futile to do so. The District Court made no mention of
+30
+
+Case: 18-2397	Document: 28 Page: 42 Filed: 01/28/2019
+“futility.” But it did make improper factual conclusions based on its erroneous understanding of allegations, which was also improper.
+The Court also acknowledged that more details are required to allege other causes of action; another reason leave to amend should have been given. For example, it stated that “Plaintiff fails to identify the trade secret that L’Oreal U.S. allegedly misappropriated. Although Plaintiff need not describe every detail of the alleged trade secret, it must be described in enough detail to separate it from matters of general or special knowledge in the trade and to “permit the defendant to ascertain at least the boundaries within which the secret lies.” Bladeroom, 2015 WL 8028294, at *3. Here, Plaintiff alleges that L’Oreal U.S. gained a “complete working knowledge of Metricolor’s confidential and trade secret information.” (Order; Appx14-22.) Yet the Court failed to provide one reason why Plaintiff should not be given one opportunity to amend.
+
+In addition, Sal D’Amico of Metricolor subsequently provided additional information to the Court to further highlight the depth of the repeated interactions and circumstances in which the trade secrets which were provided to L’Oreal during the Parties’ lengthy negotiations.5 Therein, he included additional details
+5 Subsequent to the Order Granting Defendants’ Motions to Dismiss, Plaintiff filed a declaration from Salvatore D’Amico in support of its Opposition to Defendants’ Motion for Sanctions in which Mr. D’Amico goes into greater detail regarding the trade secrets divulged to L’Oreal, which further highlights Plaintiff’s ability to allege additional detail and information in its allegations if it were provided leave to amend the complaint, as should have been provided at least once by the court.
+31
+
+Case: 18-2397	Document: 28 Page: 43 Filed: 01/28/2019
+regarding: (1) the L’Oreal executives who participated in the meetings and their relevant positions; (2) the depth and extent of information shared by Metricolor under the false comfort of an NDA; (3) L’Oreal’s reaction and strong interest in Metricolor’s unique design and system; (4) L’Oreal’s interest into the functionality, pricing, and sourcing of specific parts of the Metricolor System; (5) L’Oreal’s excitement and reaction to the information provided by Metricolor regarding the cost savings of its design which could be significantly profitable for L’Oreal; (6) optimal parts, products, and techniques to use with the Metricolor system; and (7) statistics based on significant market research and development regarding the potential effectiveness of the system in the industry.6 If provided leave from the court, Plaintiff could have and would have pleaded additional more specific information as required by the court.
+The same is true of other causes of action. For the breach of confidence claim, the Court stated: “Plaintiff makes nothing more than vague and conclusory allegations that it provided Defendants with ‘confidential and novel information.’” Appx21-22. Yet again, the Court failed to state why Plaintiff should not be given one opportunity to amend and failed to provide any facts or reasons why amendment would be futile – particularly when leave had never been given before.
+Incidentally, the District Court denied L’Oreal’s Motion for Sanctions. See Appx505-508.
+6 See Appx506-508.
+32
+
+Case: 18-2397	Document: 28 Page: 44 Filed: 01/28/2019
+The same reasoning applies to the Court’s finding that “Plaintiff cannot state a claim for breach of the NDA because it fails to allege that Plaintiff provided L’Oreal U.S. with any confidential information.” Appx20.
+Even more egregious of the right to amend, the Court also concluded that because Plaintiff does not plead a doctrine of equivalence claim in the Complaint, the Court will not consider this claim which was raised for the first time in Plaintiff’s Opposition brief. Relying on Iqbal, 556 U.S. at 698. Appx19-20. Assuming this is true, it is also evidence that Plaintiff asserted a reasonable and good faith belief that it can plead a doctrine of equivalence claim. The failure to grant leave to do so was an abuse of discretion.
+In sum, the District Court erred in refusing to give Plaintiff one opportunity to amend its Complaint. This conclusion is supported by the lack of any showing of futility that the Complaint could not be saved by amendment and the failure to allow even one opportunity to amend. This is both a factually and legally complex case. At a minimum, the decision should be reversed and remanded with instructions to modify the Order to grant Plaintiff leave to Amend the Complaint and to conduct jurisdictional discovery as to L’Oreal S.A.
+33
+
+Case: 18-2397	Document: 28 Page: 45 Filed: 01/28/2019
+B. THE DISTRICT COURT ABUSED ITS DISCRETION IN GRANTING L’ORÉAL S.A.’S MOTION TO DISMISS FOR LACK OF JURISDICTION AND DENYING PLAINTIFF THE OPPORTUNITY TO CONDUCT JURISDICTIONAL DISCOVERY AS TO L’ORÉAL S.A.
+Lastly, as to the claims made against L’Oreal S.A. and its separate Motion to Dismiss under Federal Rule 12(b)(2), the Court held that Defendant L’Oreal S.A.’s Motion to Dismiss Metricolor LLC’s Complaint is GRANTED. Appx22. Surprisingly, the Court did not acknowledge Plaintiff’s request to conduct jurisdictional discovery or provide any reason why such a request should not be granted. The failure to do so was an abuse of discretion.
+Under specific jurisdiction, a court may assert jurisdiction for a cause of action that arises out of the defendant's forum-related activities. Rano v. Sipa Press, Inc., 987 F.2d 580, 588 (9th Cir. 1993). The test for specific personal jurisdiction has three parts: (1) The non-resident defendant must purposefully direct his activities or consummate some transaction with the forum or resident thereof; or perform some act by which he purposefully avails himself of the privilege of conducting activities in the forum, thereby invoking the benefits and protections of its laws; (2) the claim must be one which arises out of or relates to the defendant's forum-related activities; and (3) the exercise of jurisdiction must comport with fair play and substantial justice, i.e. it must be reasonable.
+34
+
+Case: 18-2397	Document: 28 Page: 46 Filed: 01/28/2019
+Schwarzenegger v. Fred Martin Motor Co., 374 F.3d 797, 802 (9th Cir. 2004). Appx315.
+Plaintiff alleged that following the extended discussions and exchange of information with L’Oreal, representatives of L’Oreal S.A. also expressed a strong interest in the Metricolor System. On March 10, 2016, Marta Wolska-Brys, the new Director of Open-Innovation and Packaging at L’Oreal Americas contacted the D’Amicos and indicated that L’Oreal was “very interested” in the Metricolor System. In addition, around this time, the D’Amicos also spoke with corporate executives Anne DeBouge and Anne Alcoloumbre from L’Oreal Group France whom specifically asked the D’Amicos for ten (10) samples of the Metricolor System. Appx34¶. Plaintiff argued that as a large conglomerate with major control of its subsidiaries, including the other Defendants herein, and based upon its active involvement in the negotiations with Plaintiff, L’Oreal S.A. should be deemed subject to general jurisdiction. Perkins v. Benguet Consol. Min. Co., 342 U.S. 437, 446-47 (1952); International Shoe Co. v. State of Wash., 326 U.S. 310, 316 (1945). Appx314, Appx315. Defendant should also be subject to specific jurisdiction. Appx315, Appx317.
+In the alternative, Plaintiff requested the District Court to grant Plaintiff leave to take expedited discovery regarding: (1) whether L’Oreal S.A. currently employs any persons in California; (2) how often L’Oreal S.A. executives travel to
+35
+
+Case: 18-2397	Document: 28 Page: 47 Filed: 01/28/2019
+California; (3) whether any L’Oréal S.A. executives live in California (or spend more than six months per year in California); (4) whether L’Oréal S.A. has offices in California; (5) how many agreements L’Oréal S.A. has entered into in California over the last three years; (6) how much revenue L’Oréal S.A. derives from California; and, (7) whether L’Oréal S.A. sells any products in California. Appx315. This request was certainly not unreasonable given L’Oréal S.A.’s direct involvement in the negotiations for the Metricolor System. They did not simply speak in passing; they acquired ten (10) samples of Plaintiff’s product and had apparent authority and significant control regarding key decisions during negotiations with Plaintiff regarding product development. Appx316.
+Due to the direct involvement of L’Oréal S.A. executives in the sensitive negotiations and L’Oréal’s great interest in the Metricolor System, fairness dictates that L’Oréal S.A. should be subject to specific personal jurisdiction of the State of California. Appx315-317. It would be unreasonable to allow companies like L’Oréal to decide where they want to insert themselves into business dealings around the world by picking and choosing among their subsidiaries’ active deals yet evading liability for their actions. Appx317.
+At a minimum, Plaintiff should be given the opportunity to conduct jurisdictional discovery to determine whether jurisdiction is proper. Plaintiff therefore requests that the District Court be ordered to grant Plaintiff leave to take
+36
+
+Case: 18-2397	Document: 28 Page: 48 Filed: 01/28/2019
+expedited discovery regarding: (1) what positions Anne DeBouge and Anne Alcoloumbre hold; (2) for which companies; (3) whether they work directly for L’Oreal S.A.; (4) whether L’Oreal S.A. directed any of the negotiations or strategy in this matter; (5) to what extent L’Oreal S.A. maintains continuous and systematic dealings with California; and, (6) the positions, titles, direct reports, authority of, and in what capacity the L’Oreal representatives were involved in the negotiations with Plaintiff. Appx311-312, Appx318.
+C. THE DISTRICT COURT ERRED IN HOLDING THAT PLAINTIFF’S COMPLAINT DOES NOT SATISFY THE PLEADING STANDARD FOR PATENT INFRINGEMENT
+1.	The Central District Court’s Interpretation of Plausibility Standard in Patent Infringement Cases. 
+Prior to December 2015, Rule 84 of the Federal Rules of Civil Procedure (“FRCP”) included Form 18, for use in patent infringement lawsuits. To satisfy the requirements of Form 18, a complaint must include: (1) an allegation of jurisdiction; (2) a statement that the plaintiff owns the patent; (3) a statement that defendant has been infringing the patent ‘by making, selling, and using [the device] embodying the patent’; (4) a statement that the plaintiff has given the defendant notice of its infringement; and (5) a demand for an injunction and damages. Fed. R. Civ. P. 84 (2015) (repealed 2015).
+37
+
+Case: 18-2397	Document: 28 Page: 49 Filed: 01/28/2019
+Beginning December 2015, both Rule 84, and thus Form 18, were abrogated by amendments to the FRCP. In K-Tech Telecommunications v. Time Warner Cable, Inc., 714 F.3d 1277, 1283-1284 (Fed. Cir. 2013), the Federal Circuit stated that a complaint following Form 18 may very well comply with the plausibility standard set out in Twombly and Iqbal. Since the abrogation, the Federal Circuit has not ruled on whether a cause of patent infringement requires more than the requirements of Form 18 to comply with the plausibility standard. However, district courts across the country have conflicting rulings.
+Some district courts have held a higher standard required for patent infringement. The Northern District of California has stated that a complaint satisfies the plausibility standard if a “complaint describes (i) the Accused Instrumentalities and the functionalities of those products which allegedly infringe on plaintiff’s patents and (ii) the ways in which the Accused Instrumentalities meet claims of the [p]atents.” Windy City Innovations, LLC v. Microsoft Corp., 193 F.Supp.3d 1109, 1115 (N.D. Cal. Jun. 17, 2016). Other district courts, including the Court in this Central District, have held a lesser standard required for patent infringement. The Central District of California has stated that a “Plaintiff has stated a plausible claim for direct infringement by specifically identifying Defendants’ products and alleging that they perform the same unique function as Plaintiff’s patented system.” Incom Corp. v. The Walt Disney Co., et. al., No. 15-
+
+38
+
+Case: 18-2397	Document: 28 Page: 50 Filed: 01/28/2019
+cv-3011-PSG, Dkt 39, at 3-4, 2016 WL 4942032 (C.D. Cal. Feb. 4, 2016). Furthermore, the standard in the Central District is satisfied by attaching the infringed patent to the suit, describing the patented invention and how it was novel, and by naming specific products developed by the infringing party. Ibid. However, some district courts have continued to hold that a complaint that follows Form 18 satisfies the plausibility standard. See Hologram USA, Inc. v. Pulse Evolution Corp., No. 2:14-cv-0772, 2016 WL 199417 (D. Nev. Jan. 15, 2016) (applying Form 18 standard in denying motion to dismiss).
+2.	Plaintiff’s Claims Based on Direct Infringement Satisfy the Plausibility Standard as Well as the Recognized Lesser  Standard for a Direct Infringement of its Patent. 
+Regardless of which standard the Court applies, Plaintiff’s Complaint satisfies the higher, plausibility standard. In its interpretation of the “images” shown in the Complaint, it is clear that the District Court did not understand or ignored the details showing that the Accused’s Products infringes on Plaintiff’s patent. The images were also supported by detailed facts which flatly contradict the District Court’s interpretation of the allegations.
+Metricolor alleges in detail how the Accused Products infringe on the cited claims of ‘587 patent, including how (1) their instructions and advertisements mimic Claim 14 of the Metricolor Patent; (2) the product parts are the same, or indistinguishably similar, to the Metricolor Patent parts, including the syringe,
+39
+
+Case: 18-2397	Document: 28 Page: 51	Filed: 01/28/2019
+orifice-reducer, and air-tight reclosing seal, which infringes on Claims 1, 3, 4, 5, 11, 13; (3) the methods of using the Accused Products infringe on Claims 1, 9, 10, 11, and 14 of the Metricolor Patent; (3) demonstrative YouTube videos regarding the Accused Products illustrate how the methods of using the products, including the syringe, infringes on Claims 1, 9, 10, 11, and 14; (4) how Appx37, Appx40-45. Furthermore, paragraph 73 of the Complaint clearly states how the Accused Products infringe the ‘587 Patent with respect to Claim 1. The Complaint goes on to specifically describe how the Accused Products infringe upon each claim cited thereafter. Appx41-45.
+The Complaint also alleges that Claim 14 of the ‘587 Patent details the methodology of using the Metricolor System. Appx40.
+3.	Plaintiff’s Complaint Satisfies the Plausibility Standard Under the Doctrine of Equivalents. 
+The District Court also erred in refusing to consider whether Plaintiff had sufficiently pled a doctrine of equivalents claim. (“Because Plaintiff does not plead a doctrine of equivalents claim in the Complaint, the Court will not consider this claim.”) Appx20. The Court also noted that the complaint must give a defendant “fair notice of what the claim is and the grounds upon which it rests” relying on Iqbal, 556 U.S. at 698. Appx20.
+40
+
+Case: 18-2397	Document: 28 Page: 52 Filed: 01/28/2019
+Defendants erroneously argued that direct infringement is only accomplished through literal infringement. However, as first set out in Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605 (1950), and later affirmed in Warner-Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17 (1997), direct infringement requires evaluating whether the infringing products fall within the doctrine of equivalents. In essence, the doctrine states that a product infringes a patent “if two devices do the same work in substantially the same way, and accomplish substantially the same result...even though they differ in name, form, or shape.” Machine Co. v. Murphy, 97 U.S. 120, 125 (1878). This sentiment was reiterated by the Supreme Court in Warner-Jenkinson. See Warner-Jenkinson, supra, 520 U.S. at 35.
+Thus, even if the Court properly determined that the original allegations in the complaint did not sufficiently plead a doctrine of equivalents claim, the Court should have, at a minimum, granted Plaintiff leave to amend its complaint to properly include such allegations of infringement. In addition, and as further explained below, Plaintiff’s infringement claims do meet the standard of pleading a doctrine of equivalents, and if given leave, Plaintiff could sufficiently plead such allegations accordingly.
+41
+
+Case: 18-2397	Document: 28 Page: 53 Filed: 01/28/2019
+i.	Plaintiff Alleges that the Accused Products Have An “Airtight Seal.”
+Plaintiff alleged in sufficient detail that Defendants’ Accused Products
+infringe on Plaintiff’s patent. One argument set forth by the Defendants, and erroneously accepted as true, was that the Accused Products do not have an airtight seal. Appx19. The plain meaning of airtight is “impermeable to air or nearly so.” Airtight Definition, Merriam-Webster Online Dictionary,  (last visited June 19, 2018).
+The use of the term “airtight” in the ‘587 Patent describes the seal and the chamber:
+An apparatus for preparing a hair coloring comprising: a graduated measuring and dispensing vessel; a container having a hair dye contained therein, the container comprising an airtight chamber and an opening; the container further including means for engaging the container with a container holder to support the container; an airtight reclosing seal at the opening, such that when the measuring and dispensing vessel engages the airtight reclosing seal, the hair dye may be extracted from the airtight chamber, and when the measuring and dispensing vessel is disengaged from the container, the airtight reclosing seal closes off the airtight chamber; and thereby permitting a known quantity of the hair dye to be withdrawn from the container into the measuring and dispensing vessel, allowing an accurate
+42
+
+Case: 18-2397	Document: 28 Page: 54 Filed: 01/28/2019
+and repeatable quantity of hair dye to be dispensed from the container.” Appx41-42.
+The Accused Products use an orifice reducer that is supplied with their products to create an airtight seal with the original orifice of their bottles; the same orifice reducer creates an airtight seal with the supplied graduated syringe. Id. ¶ 73. Indeed, Figure 14 of Metricolor’s patent shows an identical (or if not identical, indistinguishably similar) orifice reducer to that used within the Accused Products. Appx65. Thus, the Accused Products act in substantially the same manner as the Metricolor System. Furthermore, the Accused Products have a recloseable screw-on-top, which creates an airtight reclosing seal as stated in Metricolor’s patent.
+Therefore, the Accused Products are “airtight” when extracting the products with the graduated syringe, because when the orifice reducer is combined with the syringe, it creates an airtight seal. This is necessary, so that the product does not leak out – it flows into the graduated syringe only. The Accused Products are also “airtight” at all other times as well, because the screw-on top creates an airtight seal when the operator is not extracting product. Thus, the Accused Products satisfy the infringement analysis of this element of the claim pursuant to the doctrine of equivalents.
+43
+
+Case: 18-2397	Document: 28 Page: 55 Filed: 01/28/2019
+ii.	The District Court Erred in determining the Accused Products do not meet the “means for engaging the container holder” limitation.
+The District Court also erroneously accepted as true Defendants’ argument that the container of the Accused Products does not have a “means for engaging the container with a container holder to support the container.” Appx18, Appx106. This argument should have been rejected because any off-the-shelf bottle can be placed in any type of container holder. In other words, both L’Oreal’s Accused Products and Metricolor’s Patented Products can be placed within a container for organizational purposes. Thus, the Accused Products do have containers that are able to engage with a container holder and Defendants’ claim that they can avoid patent infringement by merely not supplying a container to organize the bottles is absurd. Indeed, it is likely that Defendants willfully and strategically avoided providing a container holder for the Accused Products to try to stand on such baseless “distinction” to try to avoid patent infringement claims. Such a distinction fails because the doctrine of equivalents recognizes that avoiding providing a container holder, while otherwise producing products that achieve the same end, will not save Defendants from patent infringement liability.
+L’Oreal argues that since their products are standard off-the-shelf bottles, their means of engaging with container holders are not novel enough to amount to
+
+44
+
+Case: 18-2397	Document: 28 Page: 56 Filed: 01/28/2019
+infringement. Yet, this is not the novelty that makes Metricolor’s Patent patentable. The truth is, the bottles in the Accused Products can engage with any standard container holder, either upright, upside down in a container designed to hold them upright for dispensing, or on a commercial hair dye rack. Regardless, L’Oreal may not sidestep an infringement claim under the doctrine of equivalents simply by avoiding providing a container holder, while otherwise copying a novel product that performs in substantially the same way and achieves substantially the same result. L’Oreal cannot creatively distance itself from patent infringement liability when the products are almost exactly the same. Appx492.
+The District Court also erred in refusing to consider this additional basis, which provides further support to defeat Defendants’ main argument that the Accused Products do not meet all the elements of Claim 1, which would make them immune to infringement upon the dependent claims. In any event, as discussed below, the Accused Products do meet all the elements of Claim 1.
+iii.	The Complaint Sufficiently Alleges that the Accused
+Products Meet all the Elements of Claim 1.
+The Complaint alleges sufficient facts to meet all the elements of Claim 1:
+Each Accused Product has “a graduated measuring and dispensing vessel” in the form of a graduated syringe. Compare Appx69 (U.S. Patent No. 9,301,587 col.8 l.34); with Appx37-41.
+45
+
+Case: 18-2397	Document: 28 Page: 57 Filed: 01/28/2019
+The Accused Products also include, comparable to what is seen within lines 35-36 of the ‘587 Patent, “a container having a hair dye contained therein, the container comprising an air-tight chamber and an opening.” Appx38 (U.S. Patent No. 9,301,587 col.8 l.35-36). As discussed above the Accused Products include an “airtight” chamber and an opening. Further, that container is a standard-looking off-the-shelf bottle that contains hair dye additive.78 Compare Appx38 (U.S. Patent No. 9,301,587 col.8 l.34); with Appx37-41.
+Since the Accused Products use a standard-looking off-the-shelf bottle, they can engage with any standard container holder. The
+7 The L’Oreal Defendants claim that the Accused Products do not need an air-tight seal because their products are not hair dyes and do not oxidize. Appx106. However, the fact that the Accused Products do not oxidize does not affect the analysis for patent infringement with regard to Claim 1 because oxidization is not mentioned anywhere within Claim 1. (Tip Systems, LLC v. Philips & Brooks/Gladwin, 529 F.3d 1364, 1373 (Fed. Cir. 2008) (holding that construing a “claim term to encompass [an] alternative embodiment” discussed outside of the claims “would contradict the language of the claims.”)
+8 It should be noted that in the District of Delaware, L’Oreal Defended another one of its “efficient infringement” lawsuits against similar claims, including patent infringement, misappropriation of trade secrets, and breach of contract (also a Non-Disclosure Agreement). There, [t]he parties’ infringement dispute center[ed] on the “hair coloring agent” found in the same Accused Products. In their defense, Defendants’ rebuttal expert witness acknowledged the Reken pH-Bonder’s Bond Protecting Additive, and Matrixcolor Bond Ultim8’s Bond Protecting System Amplifier contain “direct action dyes [which] are know to be used for coloring hair, and are each capable of changing he color of hair.” The Court determined that the Accused Products contained a “hair coloring agent.” Liqwd, Inc. v. L'Oreal USA, Inc., No. CV 17-14-SLR, 2017 WL 2881351, at *3 (D. Del. July 6, 2017), vacated, 720 F. Appx623 (Fed. Cir. 2018). Appx481.
+46
+
+Case: 18-2397	Document: 28 Page: 58 Filed: 01/28/2019
+included orifice reducer with the Accused Products allows for the included syringe to engage with the bottle and create an air-tight seal.
+Finally, the use of the Accused Products’ graduated syringe allows for the repeated measuring and dispensing of the contents of the container.
+Accordingly, the elements of Claim 1 are satisfied. Thus, based on the District Court’s erroneous analysis and the sufficiency of the allegations which must be accepted as true, the Order granting Defendants’ Motion to Dismiss should be reversed.
+iv.	The Accused Product Meets all the Elements of Claim 14.
+The District Court erred in its factual analysis regarding pictures relating to infringement of Claim 14, which was both incorrect and a factual issue to be determined by the trier of fact, and by concluding that the Accused Products do meet all the elements of Claim 14. Appx41.
+With regard to Claim 14, the method claim, the Complaint illustrates a sample set of instructions from the Accused Products that follow the same method set forth in Claim 14 of the Metricolor patented system. Appx37. Furthermore, the instructions on the box of the BondUltim8 product includes specific instructions on how much of their product to use with specific amounts of hair
+47
+
+Case: 18-2397	Document: 28 Page: 59 Filed: 01/28/2019
+coloring additives and includes diagrams that mimic those in Claim 14 step-by-step. Appx148, Appx154, Appx493.
+Finally, the Defendants argue that contributory and induced infringement is not proper since they argue that Claim 1 is not infringed. As stated above, the Accused Products do infringe on Claim 1, Claim 14, and all other cited claims. Furthermore, the Defendants make exclusive contracts with salons and/or hairstylists requiring the use of their products. Since these salons and hairstylists are not allowed to use any product other than those of the L’Oreal Defendants, they contribute and are induced into infringing the Metricolor Patent.
+.
+D. THE DISTRICT COURT ERRED IN DISMISSING
+METRICOLOR’S BREACH OF CONTRACT CLAIM.
+1.	Plaintiff Alleged Defendants’ Acquisition and Use of Plaintiff’s Confidential Information was a Breach of the Non-Disclosure Agreement. 
+In their Motion to Dismiss, Defendants did not deny the creation of a valid contract between Metricolor and L’Oreal. Appx101-102, referencing Appx25; see  also Appx34. Rather, they simply argued that Metricolor failed to allege plausible facts in its Complaint that L’Oreal violated the NDA.
+Unfortunately, the District Court ignored Plaintiff’s detailed, plausible allegations in concluding that Plaintiff failed to allege a cause of action for breach of contract. Appx20. The Court cited the proper elements for a cause of action for
+48
+
+Case: 18-2397	Document: 28 Page: 60 Filed: 01/28/2019
+breach of contract by relying on McKell vs. Washington Mut., Inc., 142 Cal.App.4th 1457, 1489 (2006). The Court found “Plaintiff cannot state a claim for breach of the NDA because it fails to allege that Plaintiff provided L’Oreal U.S. with any confidential information.” Appx20.
+The Court noted the definition of “confidential information” under the NDA, as follows:
+Under the NDA, “confidential information” is defined as “all information disclosed, directly or indirectly, through any means of communication or observation, by or on behalf of one party...to or for the benefit of the other party...that relates to or is derived from a party’s scientific, technical, business, strategic, marking or creative affairs, including...any other matter that the Receiving Party is advised or has reason to know is the confidential or proprietary information of the Disclosing Party.” Confidential information does not include information which “(a) is or becomes generally known or available to the public through no act or failure to act by the Receiving Party...; (b) is or becomes known to the Receiving Party from a third party in rightful possession...; (c) is or was developed independently by or for the Receiving Party...; or (d) was in the possession of the Receiving Party or any of its Affiliates prior to the time of disclosure.
+49
+
+Case: 18-2397	Document: 28 Page: 61	Filed: 01/28/2019
+Appx20.
+The Court also noted that Plaintiff alleges that L’Oreal U.S. breached the NDA by creating products that “infringe the 587 Patent.” However, the Court found that the 587 Patent Application was published on July 14, 2014 – before the parties ever met or entered into an NDA. Therefore, the Court reasoned that the alleged infringement in the 587 Patent Application did not include “confidential information” under the NDA because such information was already “generally known or available to the public” when the parties met. The Court concluded: “because Plaintiffs failed to allege that L’Oreal U.S. used any confidential information beyond what the 587 Patent Application disclosed to the public, its claim for breach of contract fails.” Appx20-28.
+The Court’s conclusion is incorrect and based on the Court’s consideration of the veracity of the allegations, its weighing of the alleged facts, and inappropriately sets a standard not required at the pleadings stage. Moreover, the Court admits additional facts may have sufficed but, as discussed infra, failed to even consider whether the Complaint could be amended and erroneously denied leave to amend. See, Section VI, infra.
+According to California law, “to be entitled to damages for breach of contract, a plaintiff must plead and prove (1) a contract, (2) plaintiff’s damage to plaintiff.” Troyk v. Farmers Grp., Inc., 171 Cal. App. 4th 1305, 1352. Plaintiff
+50
+
+Case: 18-2397	Document: 28 Page: 62 Filed: 01/28/2019
+alleged plausible facts to support the Defendants’ alleged breach of the NDA entered into between the parties. The facts pled explicitly state that confidential information beyond that included in the 587 patent was shared and misappropriated.
+Metricolor alleges that L’Oreal violated the NDA created between the parties. Appx35, Appx45-46. The Complaint clearly alleges that Stephen D’Amico, a master hairstylist and the creator and co-founder of the Metricolor System flew to New York in order to present and demonstrate the System. Appx24, Appx33-34. Reviewing a patent on paper is one thing; it is another concept entirely to have the creator of a patented invention bring prototypes to New York to demonstrate their implementation of a novel system in person and explain: (1) how he came up with the novel idea; (2) why the invention will disrupt the industry (from the perspective of a master hairstylist); (3) the System’s importance, value and marketability; (4) the confidential manufacturing process; and, (5) the details that are not included in the patent application. Appx33-34.
+In fact, during the Parties’ initial meetings in 2014, Scott Schienver, L’Oreal’s Vice President of Operations-Supply Chain, specifically noted L’Oreal’s surprise at the simplicity and uniqueness of the Metricolor system, and both him and Patrick Parenty, President of the Professional Products Division of L’Oreal USA, stated explicitly that they had never seen anything like it before in the
+51
+
+Case: 18-2397	Document: 28 Page: 63 Filed: 01/28/2019
+industry. Appx506. Mr. Schienver even excitedly commented about how significant the Metricolor system could be for the industry. Id. Furthermore, Mr. Schienver demonstrated an intense interest in the orifice reducer Metricolor included within its prototype and asked Metricolor several questions regarding the orifice reducer, including: (1) whether a full seal was necessary to avoid oxidization; (2) the pricing for the orifice reducer; and, (3) where Metricolor obtained the orifice reducers. Appx506-507. After learning more, he commented how the orifice reducers could save L’Oreal a very large amount of money. Appx507.
+The fact is, L’Oreal sought, and the D’Amicos provided L’Oreal with all of the confidential and trade-secret information required to create a competing system. Moreover, whether any such information meets the level of confidential information is a fact to be determined by the trier of fact, not by the Court at the pleadings stage.
+2.	Given L’Oréal’s History of Stealing Confidential  Information from Many Inventors, L’Oréal’s Arguments Lacked Credibility and Should Have Been Rejected. 
+Prior to its infringement against Metricolor, L’Oreal already had track record of coaxing exactly this type of information out of inventors for the sole and same purpose of copying their products under the guise of being interested in acquisition or licensing of the products in question. As here, that wrongful strategy provided
+52
+
+Case: 18-2397	Document: 28 Page: 64 Filed: 01/28/2019
+L’Oreal with the information it needed to make very similar products, while taking care to change just enough details to plausibly argue that it is not infringing upon patent rights and has not stolen confidential trade secrets. This track record provided an inference that L’Oreal engaged in the same wrongful conduct here, in yet another “efficient infringement” case, where L’Oreal executes its strategy of blatantly robbing a smaller company of its trade secrets rather than paying (more) for such trade secrets through licensing or acquisition. This inference demonstrates that the facts here easily cross the threshold of plausibility.
+Plaintiff provided the District Court with numerous instances of this record or similar, improper conduct. L’Oreal was alleged to have done the exact same within Liqwd, Inc. and Olaplex LLC v. L’Oréal USA, Inc, et al., No. 16-cv-08708-R-AFM (N.D. Cal. Nov. 22, 2016) (hereinafter, the “Olaplex Litigation”):
+[The patented product’s] remarkable performance and the extremely positive response of hair care professionals to the product spurred L'Oreal to approach Olaplex in mid-2015 about a possible acquisition. Under the guise of a potential acquisition of Olaplex, L'Oreal received access to non-public, confidential, proprietary information from Olaplex about its technology.
+53
+
+Case: 18-2397	Document: 28 Page: 65 Filed: 01/28/2019
+Liqwd, Inc. v. L’Oréal USA, Inc, No. 16-cv-08708-R-AFM, Dkt. No. 1 at ¶ 5 (N.D. Cal. Nov. 22, 2016).9 Appx200-249.
+L’Oreal is alleged to have similarly stolen patents after speaking to the
+inventor thereof within University of Massachusetts Medical School, et al. v.
+L’Oréal S.A., et al., No. 17-cv-00868-UNA (Del. Dist. Ct. June 30, 2017).
+Appx256-269. The plaintiff in that action made similar allegations to those here: In fall of 2003, an agent of both Defendants contacted Dr. Dobson to discuss the patents-in-suit. Defendants, however, did not obtain a license to the patents-in-suit. Nonetheless, after speaking to Dr. Dobson, and with full knowledge of the technology exclusively licensed to Carmel Labs, Defendants began creating, marketing, and selling cosmetic products using the patented adenosine technology.
+Univ. of Mass. Med. School v. L’Oréal S.A., No. 17-cv-00868-UNA at ¶¶ 23-24
+(Del. Dist. Ct. June 30, 2017). Appx260.
+Metricolor’s Complaint alleges that the Defendants violated the NDA by copying, reproducing, and reverse engineering the “Metricolor System” and using
+9 The Northern District of California lawsuit was voluntarily dismissed by Olaplex on January 6, 2017 in favor of proceeding in Delaware, where it filed Liqwd, Inc. and Olaplex LLC v. L’Oréal USA, Inc, et al., Civ. No. 17-cv-00014-JFB-SRF (Del. Dist. Ct. January 5, 2017). In addition, Olaplex has proceeded in concurrent litigation within the United Kingdom, where it recently won its patent infringement lawsuit:
+
+54
+
+Case: 18-2397	Document: 28 Page: 66 Filed: 01/28/2019
+confidential information to do so. Appx33, Appx45. The Complaint alleges that L’Oreal misappropriated confidential and trade-secret information relayed to it during in-person meetings between Metricolor’s founders and L’Oreal executives. Appx33-34. Given L’Oreal’s track record of similar actions, the plausibility of such allegations is easily established and the District Court erred in not accepting these allegations as true.
+E. THE COMPLAINT PLAUSIBLY ALLEGES THAT PLAINTIFF PROVIDED TRADE SECRET INFORMATION TO THE L'ORÉAL DEFENDANTS
+1.	L’Oreal Sought, and the D’Amicos Provided L’Oreal with all of the Confidential and Trade-Secret Information 
+Required to Create a Competing System. 
+A claim under the Defend Trade Secrets Act (“DTSA”) requires a plaintiff to allege that: “(1) the plaintiff owned a trade secret; (2) the defendant misappropriated the trade secret; and (3) the defendant’s actions damaged the plaintiff.” Cedars Sinai Medical Center v. Quest Diagnostic Inc., No. CV 17-5169-GW(FFMx), 2018 WL 2558388, at *2 (C.D. Cal. Feb. 27, 2018) (citation omitted). Furthermore, pleading trade secret misappropriation only requires the standard stated in Rule 8(a)(2) of the FRCP. Id. at *4; see also FED. R. CIV. P. 8(a)(2) (“A pleading that states a claim for relief must contain...a short and plaint statement of the claim showing that the pleader is entitled to relief”).
+55
+
+Case: 18-2397	Document: 28 Page: 67 Filed: 01/28/2019
+L’Oreal repeatedly argued that Metricolor claims the public information included within the ‘587 Patent and its application forms the basis of its trade-secret claim. Obviously, Metricolor agrees publicly disclosed information cannot form the basis of a trade secret claim, however, where patented apparatus contain features that are not disclosed in patent, the undisclosed features may qualify for protection as trade secrets. See Henry Hope X-Ray Prods., Inc. v. Marron Carrel, Inc., 674 F.2d 1336, 1342 (9th Cir.1982). A trade secret’s necessary element of secrecy is not lost if the holder of the trade secret reveals the trade secret to another “in confidence, and under an implied obligation not to use or disclose it.” Kewanee, 416 U.S. 470, 475 (1974). Unfortunately, the District Court ignored the relevant facts pertaining to Plaintiff’s disclosure of trade secrets to Defendants, which satisfy this cause of action.
+The Complaint clearly alleges that Metricolor’s founders flew to New York for a private, confidential, and detailed presentation regarding the implementation of the Patented Products under the security of a mutual NDA. L’Oreal could have simply reviewed the publicly filed patent application materials submitted by Metricolor. It did not. Instead, it invited Stephen D’Amico, a master hairstylist and the creator and co-founder of The Metricolor System to fly to New York in order to present and demonstrate the Metricolor System to L’Oreal executives. Appx24, Appx33-34. In person, he demonstrated and provided a hands-on look at
+56
+
+Case: 18-2397	Document: 28 Page: 68 Filed: 01/28/2019
+the implementation of the soon-to-be Patented Products using prototypes and explained: (1) how he came up with the novel idea; (2) why the invention will disrupt the industry (from the perspective of a master hairstylist); (3) the System’s importance, value and marketability; (4) the confidential manufacturing process; and, (5) the details that are not included in the patent application. Appx33-34.
+“[A] trade secret can include a system where the elements are in the public domain, but there has been accomplished an effective, successful and valuable integration of the public domain elements and the trade secret gave the claimant a competitive advantage which is protected from misappropriation.” Altavion, Inc. v. Konica Minolta Sys. Lab., Inc., (2014) 226 Cal.App.4th 26, 48. Again, the fact remains, L’Oreal sought, and the D’Amicos provided L’Oreal with all of the confidential and trade-secret information required to create a competing system, all while being under the guise of an NDA.
+Given L’Oreal’s track record of meeting with other creators of patented products for purposes of obtaining the sensitive, direct, and intimate knowledge regarding implementation of such products, only to then release similar competing products a short time after, the plausibility of Plaintiff’s allegations that trade secrets were deceptively coaxed out of the D’Amicos here and misappropriated are easily established.
+57
+
+Case: 18-2397	Document: 28 Page: 69 Filed: 01/28/2019
+Unfortunately, the District Court failed to appreciate the gravity of the allegations as to both L’Oreal’s wrongful and deceptive track record and its wrongful acts vis a vis Metricolor’s trade secrets and confidential information. The Court stated that Plaintiff failed to identify the trade secret that L’Oreal U.S. allegedly misappropriated. Plaintiff only alleged that L’Oreal U.S. gained “a complete working knowledge of Metricolors’ confidential and trade secret information.” The Court concluded these allegations are insufficient to identify a trade secret and concluded that because “Plaintiff does not allege a trade secret, and the information in the 587 Patent cannot protected as a trade secret, Plaintiff’s claim fails.” Appx21-22.
+To the contrary, “courts are in general agreement that trade secrets need not be disclosed in detail in a complaint alleging misappropriation for the simple reason that such a requirement would result in public disclosure of the purported trade secrets.” Yeiser Research & Dev. LLC V. Teknor Apex Co., 281 F. Supp. 3d 1021, 1043 (S.D. Cal. 2017) (citing Leucadia, Inc. v. Applied Extrusion Techs., Inc., 755 F.Supp. 635, 636 (D. Del. 1991)). “Moreover, because it is the defendant who knows what it misappropriated, a plaintiff should not be required to plead with specificity all of its possible trade secrets in order to proceed to discovery.” Yeiser Research, supra, 281 F. Supp. 3d at 1044. Indeed, a plaintiff “may have minimal facts available to it at the pleading stage.” Id. at 1048.
+58
+
+Case: 18-2397	Document: 28 Page: 70 Filed: 01/28/2019
+Thus, the Court’s conclusion was wrong because it ignored the sufficiency of the detail in the allegations to meet this threshold. Furthermore, and as discussed infra, the Court also clearly erred by failing to provide Plaintiff the opportunity to amend its Complaint.
+F. PLAINTIFF ALLEGED A BREACH OF CONFIDENCE CLAIM.
+To successfully plead a breach of confidence claim, “a plaintiff must demonstrate: (1) plaintiff conveyed confidential and novel information to the defendant; (2) defendant knew the information was being disclosed in confidence; (3) defendant understood the confidence was to be maintained; and (4) there was a disclosure or use in violation of the understanding.” Friedman v. DirecTV, 262 F. Supp. 3d 1000, 1006 (C.D. Cal. 2015) (citing Berkla v. Corel Corp., 302 F.3d 909, 917 (9th Cir. 2002)). Furthermore, “the information need not be a trade secret.” Ibid (citing Tele-Count Eng’rs., Inc. v. Pac. Tel. & Tel. Co., 168 Cal.App.3d 455, 462, (1985)).
+For the same reasons above, Metricolor’s Complaint alleges in great detail that L’Oreal deceptively met with Metricolor’s founders under the guise of acquiring their company or licensing the Patented Products, for the ulterior motive of coaxing the most sensitive confidential information out of them, and with the unfair intention of creating competing products. These allegations meet the
+59
+
+Case: 18-2397	Document: 28 Page: 71	Filed: 01/28/2019
+plausibility standard applicable to a trade secret claim, and just as well meet the standard applicable to Metricolor’s breach of confidence claim.
+The District Court erred in concluding that Plaintiff failed to state a claim for breach of confidence based on the same conclusions discussed above, noting that apart from the fact that the patent is not confidential, Plaintiff makes nothing more than vague and conclusory allegations that it provided Defendants with “confidential and novel information.” Appx21-22.
+G. PLAINTIFF’S CAUSE OF ACTION FOR UNFAIR
+COMPETITION CLAIM IS SUFFICIENTLY PLED
+Lastly the District Court concluded that Plaintiff also failed to allege a cause of action for California Unfair Competition Law, Cal. Bus. & Professions Code §17200 because all of the causes of action discussed above fail and therefore Plaintiff has not stated a claim for the predicate acts of “unlawful, unfair or fraudulent business acts” required to state such a claim. Appx22.
+Section 17200 of the California Business and Professions Code defines unfair competition as “any unlawful, unfair or fraudulent business act or practice.” Cal. Bus. & Prof. Code § 17200. “It is written in the disjunctive, establishing ‘three varieties of unfair competition.’” Shroyer v. New Cingular Wireless Servs., Inc., 622 F.3d 1035, 1043 (citing People ex re. Lockyer v. Fremont Life Ins. Co., 104 Cal.App.4th 508, 515, (2002)).
+60
+
+Case: 18-2397	Document: 28 Page: 72 Filed: 01/28/2019
+When attempting to establish an unfair competition claim based on unlawful conduct, a plaintiff must allege that the defendant “engaged in a business practice ‘forbidden by law, be it civil or criminal, federal, state, or municipal, statutory, regulatory, or court-made.’” Shroyer, supra, 622 F.3d at 1044 (citing Saunders v. Sup. Ct., 27 Cal.App.4th 832, 838-39 (1994)). A claim based on unfair conduct “means any practice whose harm to the victim outweighs its benefits.” Id. at 1044 (citing Saunders, supra, 27 Cal.App.4th at 839). The unfair prong depends on “whether the plaintiff in a [Unfair Competition Law] case is a competitor of the defendant or a consumer.” Drum v. San Fernando Valley Bar Ass’n, 182 Cal.App.4th 247, 253 (2010). “In competitor cases, a business practice is ‘unfair’ only if it ‘threatens an incipient violation of an antitrust law, or violates the policy or spirit of one of those laws because its effects are comparable to or the same as a violation of the law, or otherwise significantly threatens or harms competition.’” Id. at 254 (citing Cel-Tech Communications, Inc. v. Los Angeles Cellular Tel. Co., 20 Cal.4th 163, 83 Cal.Rptr.2d 548 (1999)).
+Here, Metricolor alleged that L’Oreal violated a law with its valid claims under the DTSA, as well as patent infringement. Furthermore, Metricolor satisfies the unfair prong of the Unfair Competition Law (“UCL”). Unless L’Oreal entered into an agreement by which they became partners or shared ownership in any products, Metricolor, as a product developer in the same industry as L’Oreal,
+61
+
+Case: 18-2397	Document: 28 Page: 73 Filed: 01/28/2019
+should be considered a competitor of L’Oreal. The allegations that L’Oreal deceptively met with Metricolor’s founders under the guise of acquiring their company or licensing the patented product, for the ulterior motive of coaxing the most sensitive confidential information out of them, with the unfair intention of creating competing products include actions that clearly threaten competition.
+In addition, Metricolor provided evidence that within the same Court, L’Oreal was presently prosecuting L’Oréal USA, Inc. v. Spatz Laboratories, No. 16-cv-03572-AB-AS (C.D. Cal. May 23, 2016). Appx270-304. L’Oreal alleged a UCL violation based on similarly deceptive conduct:
+Once Spatz decided to become a direct competitor of L’Oreal USA, it concocted a plan to lure L’Oréal USA into believing that Spatz would continue to supply product to L’Oreal USA, so that it could then abandon L’Oreal USA on short notice, leaving L’Oreal USA with insufficient time to find an alternate supplier. Spatz’s actions harmed its consumer and customer L’Oreal USA....
+If Spatz proceeds with its scheme to remove L’Oreal USA as a competitor, it will cause L’Oreal USA to lose valuable shelf space and suffer irreparable harm to its goodwill and reputation, and loss of consumer confidence.
+62
+
+Case: 18-2397	Document: 28 Page: 74 Filed: 01/28/2019
+The gravity of Spatz’s conduct as alleged above outweighs any justification, motive or reason therefor. Such misconduct is immoral, unethical, unscrupulous, and offends established public policy. In addition, such misconduct significantly threatens and harms competition. Finally, the public is likely to be deceived into believing that the absence of L’Oreal USA products on store shelves is due to a problem with the products or with L’Oreal USA, when, in fact, the harm is caused entirely by Spatz’s unfair conduct.
+As a result, Spatz has engaged in unfair business acts or practices in violation of California Business and Professions Code Sections 17200 et seq. (the “UCL”).
+Appx286-287 (emphasis added).
+L’Oreal’s admission that under the UCL, Spatz harmed L’Oreal by
+concocting “a plan to lure” it into harm’s way, is an admission meriting judicial estoppel, making its contrary position that its own similar actions against Metricolor do not constitute violations of the UCL frivolous and without merit. Unfortunately, the District Court also disregarded this relevant information, which, at a minimum, should be determined by the trier of fact.
+63
+
+Case: 18-2397	Document: 28 Page: 75 Filed: 01/28/2019
+
+In sum, the District Court erred in dismissing this cause of action because Plaintiff provided extensive detailed facts supporting Defendant’s wrongful actions which support its UCL cause of action.
+CONCLUSION 
+
+Appellant, Metricolor, LLC, respectfully requests that the Court reverse the Order of the District Court in its entirety; and, as to Defendant, L’Oreal S.A., that the Court remand with instructions that Plaintiff be given the opportunity over a minimum of 90 days to complete jurisdictional discovery, including the deposition of the personal most knowledgeable of defendant, L’Oreal, S.A., and that until such discovery is complete, any further motions to dismiss shall be held in abeyance.
+DATED: 1/28/2019	Respectfully submitted,
+/s/ Eduardo Martorell
+Eduardo Martorell
+
+64
+
+Case: 18-2397	Document: 28 Page: 76 Filed: 01/28/2019
+
+ADDENDUM
+
+Case: 18-2397	Document: 28 Page: 77 Filed: 01/28/2019
+TABLE OF CONTENTS
+Addendum
+Page:
+Order Granting Defendant’s Motion to Dismiss
+Filed August 15, 2018	Appx13
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 1 of 10 Page ID #:499
+Case: 18-2397	Document: 28 Page: 78 Filed: 01/28/2019
+JS-6
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+
+Before the Court is Defendants’ L’Oréal USA, Inc., L’Oréal USA Products, Inc., L’Oréal USA S/D, Inc., and Redken 5th Avenue NYC, LLC’s (“L’Oréal U.S.”) Motion to Dismiss Metricolor LLC’s Complaint, filed on April 23, 2018, and Defendant L’Oréal S.A.’s Motion to Dismiss Metricolor LLC’s Complaint, filed on May 23, 2018. (Dkts. 20, 26). Having been thoroughly briefed by the parties, this Court took the matters under submission on July 11, 2018.
+This case arises from alleged infringement on Plaintiff’s patented Metricolor System. Plaintiff alleges the following. The Metricolor System was developed by hairstylist Stephen D’Amico. The Metricolor System is a system to store, formulate, and dispense hair coloring agents and additives using airtight containers and a graduated syringe. On January 14, 2013, Plaintiff filed a provisional patent application for the Metricolor System with the United States Patent and Trademark Office. The provisional application was published on July 17, 2014.
+Appx13
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 2 of 10 Page ID #:500 Case: 18-2397	Document: 28 Page: 79 Filed: 01/28/2019
+Shortly after the patent was published, Plaintiff met with Defendants and engaged in confidential discussions regarding the use and potential sale of the Metricolor System. On August 25, 2014, the parties signed a mutual non-disclosure agreement (“NDA”), which prohibits the parties from using or disclosing, copying or reproducing, or decompiling, disassembling, or reverse
+engineering confidential information.
+After the parties entered into the NDA, Plaintiff presented and demonstrated the Metricolor System to Defendants and provided Defendants with product samples. Discussions were ongoing for nearly two years. In March 2016, Plaintiff spoke with two corporate executives from L’Oreal S.A. who asked for ten samples of the Metricolor System. On June 16, 2016, Defendants informed Plaintiff was that they would be terminating negotiations. In September 2016, Defendants launched two new products, the Matrix brand’s Matrixcolor Bond Ultim8 product and the Redken brand’s pH-Bonder (the “Accused Products”), which include and advertise Plaintiff’s patented components.
+Plaintiff is the owner of Patent No. 9,301,587 (“the ‘587 Patent”), entitled “Hair Color (or Dye) Storage, Dispensing and Measurement (or Measuring) System.” The USPTO issued the patent on April 5, 2016. The ‘587 Patent claims describe an apparatus and method for storing, measuring, and dispending various hair coloring agents and additives. The ‘587 Patent has 17 claims. Plaintiff alleges that Defendants infringed claims 1, 3, 4, 5, 9, 10, 11, 13, and 14.
+Claim 1 of the ‘587 Patent describes the apparatus for storing, measuring and dispensing hair coloring agents and additives. The apparatus consists of: (1) a graduated measuring and dispensing vessel; (2) a container comprising an air-tight chamber, an opening with an air-tight reclosing seal which can engage with the graduated measuring vessel; and, (3) a means for engaging the container with a supporting container-holder, such as a rack. Claims 3, 4, 5, 9, 10, 11, and 13 depend on Claim 1.
+Claim 14 of the ‘587 Patent describes a methodology for storing, measuring and
+dispensing hair coloring agent or additive using the apparatus described in the ‘587 Patent. Specifically, Claim 14 of the ‘587 Patent describes the following steps: (1) providing a first container with an air-tight, reclosable seal containing a quantity of hair coloring agent or additive;
+
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 4 of 10 Page ID #:502 Case: 18-2397	Document: 28 Page: 81	Filed: 01/28/2019
+L’Oréal S.A.’s Motion to Dismiss
+Federal courts apply state law to determine whether there is personal jurisdiction over a party. Fed. R. Civ. P. 4(k)(1)(A). California’s long-arm statute permits the exercise of jurisdiction to the full extent that such exercise comports with due process. Cal. Code Civ. P. § 410.10. Courts have general jurisdiction over a foreign corporation “if the corporation’s connected to the forum state are so ‘continuous and systematic’ as to render it essentially at home in the forum State.” Williams v. Yamaha Motor Co. Ltd., 851 F.3d 1015, 1020 (9th Cir. 2017). A corporation is “at home” where it is incorporated or where it has its principal place of business (“PPB”). See id.
+The Ninth Circuit applies a three-prong test to determine whether a defendant has sufficient contacts to be subject to specific personal jurisdiction in a particular state: “(1) The nonresident defendant must purposefully direct his activities or consummate some transaction with the forum or resident thereof; or perform some act by which he purposefully avails himself of the privilege of conducting activities in the forum, thereby invoking the benefits and protections of its laws; (2) the claim must be one which arises out of or relates to the defendant’s forum-related activities; and (3) the exercise of jurisdiction must comport with fair play and substantial justice, i.e. it must be reasonable.” Morrill v. Scott Fin. Corp., 873 F.3d 1136, 1142 (9th Cir. 2017). The plaintiff has the burden of proving the first two prongs. Id. If the plaintiff satisfies the first two prongs, the burden then shifts to the defendant to prove that exercising jurisdiction would not be reasonable. Id.
+“Purposeful direction requires that the defendant have (1) committed an intentional act, (2) expressly aimed at the forum state, (3) causing harm that the defendant knows is likely to be suffered in the forum state.” Morrill, 873 F.3d at 1142. Courts consider two factors to determine whether conduct is “expressly aimed” at the forum state. “First, the relationship must arise out of contacts that the defendant himself creates with the forum State. Put simply, however significant the plaintiff’s contact with the forum may be, those contacts cannot be decisive in determining whether the defendant’s due process rights are violated.... Second, our ‘minimum contacts’ analysis looks to the defendant’s contacts with the forum State itself, not the defendant’s contacts
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 5 of 10 Page ID #:503 Case: 18-2397	Document: 28 Page: 82 Filed: 01/28/2019
+with the persons who reside there.” Morrill, 873 F.3d at 1143.
+In this case, the allegations in the complaint do not justify the exercise of general jurisdiction. Plaintiff alleges that L’Oréal S.A. is a French corporation with its principal place of business in France. Although Plaintiff alleges that L’Oréal S.A. has a corporate presence in California and that two executives communicated with Plaintiff, a California resident, on a single occasion, these hardly constitute “continuous and systematic contacts” such that L’Oréal S.A. is essentially “at home” in the State. See Williams, 851 F.3d at 1020-21.
+L’Oréal S.A.’s alleged contacts with Plaintiff do not justify the exercise of specific jurisdiction either. Plaintiff alleges that it communicated with two executives from L’Oréal S.A., who requested that Plaintiff send them ten samples of its product. Under Morrill, this conduct fails the purposeful direction test because the conduct is not “expressly aimed” at the forum State. Here, L’Oréal S.A.’s alleged contacts are only with Plaintiff, they are not with California. A single conversation with a California citizen is not sufficient to justify the exercise of specific jurisdiction over L’Oréal S.A. See Walden v. Fiore, 571 U.S. 277, 277 (2014) (“The plaintiff cannot be the only link between the defendant and the forum.”). Therefore, L’Oréal S.A. lacks sufficient minimum contacts with California to justify the exercise of jurisdiction.
+L’Oréal U.S.’s Motion to Dismiss
+Dismissal under Rule 12(b)(6) is proper when a complaint exhibits either “the lack of a cognizable legal theory or the absence of sufficient facts alleged under a cognizable legal theory.” Balistreri v. Pacifica Police Dep’t, 901 F.2d 696, 699 (9th Cir. 1988). Under the heightened pleading standards of Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007) and Ashcroft v. Iqbal, 556 U.S. 662 (2009), a plaintiff must allege “enough facts to state a claim to relief that is plausible on its face,” so that the defendant receives “fair notice of what the...claim is and the grounds upon which it rests.” Twombly, 550 U.S. at 547; Iqbal, 556 U.S. at 698. “All allegations of
+material fact are taken as true and construed in the light most favorable to the nonmoving party.” Sprewell v. Golden State Warriors, 266 F.3d 979, 988 (9th Cir. 2001). A court may consider “documents whose contents are alleged in a complaint and whose authenticity no party questions, but which are not physically attached to the [plaintiff’s] pleading.” Davis v. HSBC Bank Nev.,
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 6 of 10 Page ID #:504 Case: 18-2397	Document: 28 Page: 83 Filed: 01/28/2019
+N.A., 691 F.3d 1152, 1160 (9th Cir. 2012).
+Patent Infringement 
+This district has examined the application of Iqbal and Twombly’s pleading standard to direct patent infringement actions such as this one. Apollo Fin., LLC v. Cisco Sys., Inc., 190 F. Supp. 3d 939, 941 (C.D. Cal. 2016); see Paz Gaming, Inc. v. RCD Holdings Ltd., 2017 WL 8220431, at *4 (C.D. Cal. Apr. 14, 2017). In patent cases, a plaintiff must “plausibly allege that the accused product practices each of the limitations found in at least one asserted claim.” e.Digital Corp. v. iBaby Labs, Inc., 2016 WL 4427209, at *3 (N.D. Cal. Aug. 22, 2016). “[F]actual allegations that do not permit a court to infer that the accused product infringes each element of at least one claim are not suggestive of infringement—they are merely compatible with infringement.” Atlas IP, LLC v. Exelon Corp., 189 F. Supp. 3d 768, 775 (N.D. Ill. 2016). This is because “the failure to meet a single limitation is sufficient to negate infringement of a claim.” e.Digital, 2016 WL 4427209, at *3. “Because the failure to practice even a single element is all that separates innovation from infringement...there is always an obvious alternative explanation where a plaintiff does not allege facts about each element.” Atlas, 189 F. Supp. 3d at 775.
+Claim 1 of the ‘587 Patent reads as follows: “An apparatus for preparing a hair coloring comprising: a graduated measuring and dispensing vessel; a container having a hair dye contained therein, the container comprising an airtight chamber and an opening; the container further including means for engaging the container with a container holder to support the container; an airtight reclosing seal at the opening, such that when the measuring and dispensing vessel engages the airtight reclosing seal, the hair dye may be extracted from the airtight chamber, and when the measuring and dispending vessel is disengaged from the container, the airtight reclosing seal closes off the airtight chamber; and thereby permitting a known quantity of the hair dye to be withdrawn from the container into the measuring and dispensing vessel, allowing an accurate and repeatable quantity of hair dye to be dispensed from the container.”
+In this case, the Complaint does not allege that the Accused Products meet all of the limitations of Claim 1. First, the Complaint fails to allege that either product contains a “means for engaging the container with a container holder to support the container.” The images in the
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 7 of 10 Page ID #:505 Case: 18-2397	Document: 28 Page: 84 Filed: 01/28/2019
+Complaint show that these containers are standard, off-the-shelf bottles that have no means for engaging the container with a container holder, as described in Claim 1.
+Second, although the Complaint alleges that the pH-Bonder product has an airtight seal, this is plainly contradicted by images of the product contained in the Complaint, which plainly show an open hole at the base of the bottle. Likewise, the Complaint alleges that the Bond Ulim8 product contains a “similar air-tight chamber and opening” to the Metricolor System, however, the Complaint does not allege that the product contains an “airtight reclosing seal at the opening” that closes off the airtight chamber after the syringe extracts product. It is not enough that the Bond Ultim8 contains a “similar” air-tight chamber to the one in the Metricolor system because “the failure to practice one element is all that separates innovation from infringement.” Atlas, 189 F. Supp. 3d at 775. Therefore, the products do not meet all of the limitations in Claim 1. The other patent claims identified in the Complaint, Claims 3, 4, 5, 9, 10, 11, and 13, all depend from Claim 1 and therefore incorporate all of Claim 1’s limitations. Accordingly, Plaintiff cannot state a claim for infringement based on these claims.
+Claim 14 of the ‘587 Patent describes an eight-step methodology for storing, measuring and dispensing hair coloring agent or additive using the apparatus described in the ‘587 Patent. The Complaint vaguely alleges that the Accused Products “use this very methodology described in Claim 14 of the ‘587 Patent.” The Complaint also alleges the steps for using Bond Ulim8 and then states “Claim 14 of the ‘587 Patent clearly reads on this set of steps and instructs users on how to use the graduated syringe in the same way as the Bond Ultim8 product.” However, the Complaint does not allege that these steps meet all of the limitations in Claim 14, and after comparing the two, it is clear that they do not. With regard to pH-Bonder, the Complaint simply alleges that Claim 14 “clearly reads” on the methodology for using the product that was featured in an instructional video. The Court cannot infer from these conclusory allegations that the accused products infringe on each element of Claim 14, therefore Plaintiff cannot state a claim for infringement. See id.
+To allege a claim for indirect infringement, Plaintiff must sufficiently allege a claim for direct infringement. e.Digital Corp., 2016 WL 4427209, at *5. Accordingly, because Plaintiff has
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 8 of 10 Page ID #:506 Case: 18-2397	Document: 28 Page: 85 Filed: 01/28/2019
+failed to state a claim for direct infringement, Plaintiff’s claims for contributory and induced infringement also fail. Because Plaintiff does not plead a doctrine of equivalents claim in the Complaint, the Court will not consider this claim, which was raised for the first time in Plaintiff’s opposition brief. See Iqbal, 556 U.S. at 698 (the complaint must give a defendant “fair notice of what the claim is and the grounds upon which it rests.”).
+Breach of Contract 
+To state a claim for breach of contract, a plaintiff must allege: (1) the existence of a valid contract; (2) the plaintiff’s performance or excuse for failure to perform; (3) the defendant’s breach; and (4) damage resulting from the breach. McKell v. Washington Mut., Inc., 142 Cal. App. 4th 1457, 1489 (2006). Plaintiff cannot state a claim for breach of the NDA because it fails to allege that Plaintiff provided L’Oréal U.S. with any confidential information.
+Under the NDA, “confidential information” is defined as “all information disclosed, directly or indirectly, through any means of communication or observation, by or on behalf of one party...to or for the benefit of the other party...that relates to or is derived from a party’s scientific, technical, business, strategic, marking or creative affairs, including...any other matter that the Receiving Party is advised or has reason to know is the confidential or proprietary information of the Disclosing Party.” Confidential information does not include information which “(a) is or becomes generally known or available to the public through no act or failure to act by the Receiving Party...; (b) is or becomes known to the Receiving Party from a third party in rightful possession...; (c) is or was developed independently by or for the Receiving Party...; or (d) was in the possession of the Receiving Party or any of its Affiliates prior to the time of disclosure.”
+Plaintiff alleges that L’Oréal U.S. breached the NDA by creating products that “infringe the ‘587 Patent.” However, the ‘587 Patent application was published on July 14, 2014—before the parties ever met or entered into an NDA. Therefore, the information in the ‘587 Patent application is not “confidential information” under the NDA because it was already “generally known or available to the public” when the parties met. Because Plaintiff fails to allege that L’Oréal U.S. used any confidential information beyond what the ‘587 Patent application disclosed to the public, its claim for breach of contract fails.
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 9 of 10 Page ID #:507 Case: 18-2397	Document: 28 Page: 86 Filed: 01/28/2019
+Trade Secret Misappropriation
+To state a claim under the Defend Trade Secrets Act (“DTSA”), a plaintiff must alleges
+that “(1) the plaintiff owned a trade secret; (2) the defendant misappropriate the trade secret; and
+the defendant’s actions damages the plaintiff.” Space Data Corp. v. X, 2017 WL 5013363, at *1 (N.D. Cal. Feb. 16, 2017). A trade secret is secret information that “derives independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable through proper means by, another person who can obtain economic value from the disclosure or use of the information.” 18 U.S.C. § 1839(3). Information that is “part of patents and pending patent applications” cannot be protected as trade secrets. Bladeroom Grp. Ltd. v. Facebook, Inc., 2015 WL 8028294, at *3 (N.D. Cal. Dec. 7, 2015). “Once the information is in the public domain and the element of secrecy is gone, the trade secret is extinguished and the patentee’s only protection is that afforded under the patent law.” Forcier v. Microsoft Corp., 123 F. Supp. 2d 520, 528 (N.D. Cal. 2000).
+Here, Plaintiff fails to identify the trade secret that L’Oreal U.S. allegedly misappropriated. Although Plaintiff need not describe every detail of the alleged trade secret, it must be described in enough detail to separate it from matters of general or special knowledge in the trade and to “permit the defendant to ascertain at least the boundaries within which the secret lies.” Bladeroom, 2015 WL 8028294, at *3. Here, Plaintiff alleges that L’Oréal U.S. gained a “complete working knowledge of Metricolor’s confidential and trade secret information.” These allegations are insufficient to identify a trade secret. Because Plaintiff does not allege a trade secret, and the information in the ‘587 Patent cannot be protected as a trade secret, Plaintiff’s claim fails.
+Breach of Confidence 
+To state a claim for breach of confidence, a plaintiff must plead “(1) plaintiff conveyed confidential and novel information to the defendant; (2) defendant knew the information was being disclosed in confidence; (3) defendant understood the confidence was to be maintained; and
+there was a disclosure or use in violation of the understanding.” Friedman v. DirecTV, 262 F. Supp. 3d 1000, 1006 (C.D. Cal. 2015). In this case, Plaintiff’s claims center around information
+
+
+Case 2:18-cv-00364-R-E Document 35 Filed 08/15/18 Page 1 of 10 Page ID #:508 Case: 18-2397	Document: 28 Page: 87 Filed: 0 1/28/2019
+contained in the ‘587 Patent. Information in the ‘587 Patent is not confidential, and a breach of confidence claim cannot be founded on the disclosure of already public information. Apart from the patent claims, Plaintiff makes nothing more than vague and conclusory allegations that it provided Defendants with “confidential and novel information.” This claim also fails. California Unfair Competition 
+Under the California unfair competition law (“UCL”), a plaintiff may recover civil damages for unfair competition, defined as “any unlawful, unfair or fraudulent business act or practice.” Cal. Bus. & Prof. Code § 17200. “A UCL claim must be dismissed if the plaintiff has not stated a claim for the predicate acts upon which he bases the claim.” Pellerin v. Honeywell Int’l, Inc., 877 F. Supp. 2d 983, 992 (S.D. Cal. 2012). Here, Plaintiff’s claims for patent infringement, breach of contract, trade secret misappropriation, and breach of confidence are insufficient to survive the present motion to dismiss. Accordingly, Plaintiff’s UCL claim fails.
+IT IS HEREBY ORDERED that Defendants’ L’Oréal USA, Inc., L’Oréal USA Products, Inc., L’Oréal USA S/D, Inc., and Redken 5th Avenue NYC, LLC’s Motion to Dismiss Metricolor LLC’s Complaint is GRANTED. (Dkt. 20).
+IT IS FURTHER ORDERED that Defendant L’Oreal S.A.’s Motion to Dismiss Metricolor LLC’s Complaint is GRANTED. (Dkt. 26).
+Dated: August 15, 2018.
+
+
+	Case: 18-2397	Document: 28 Page: 88 Filed: 01/28/2019
+CERTIFICATE OF FILING AND SERVICE 
+I hereby certify that, on January 28, 2019, I electronically filed the foregoing Brief of Appellant with the Clerk of Court using the CM/ECF system, which will send notice of such filing to all registered users.
+I further certify that, upon acceptance and request from the Court, the required paper copies of the foregoing will be deposited with United Parcel Service for delivery to the Clerk, UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT 717 Madison Place, N.W., Washington D.C. 20439.
+The necessary filing and service were performed in accordance with the instructions given to me by counsel in this case.
+	Dated: January 28, 2019	/s/ Annie Pulido 
+Annie Pulido
+Martorell Law APC
+6100 Center Dr., Suite 1130 Los Angeles, CA 90045 (323) 840-1200 
+
+
+	Case: 18-2397	Document: 28 Page: 89 Filed: 01/28/2019
+CERTIFICATE OF COMPLIANCE 
+This brief complies with the type-volume limitation of Federal Circuit
+Rule 32(a) because:
+this brief contains 13,337 words, excluding parts of the brief exempted by Fed. R. App. P. 32(f).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and the type style requirements of Fed R. App. P. 32(a)(6) because:
+this brief has been prepared in a proportionally spaced typeface using Microsoft Word in 14 point Times New Roman. 
+	Dated: January 28, 2019	/s/ Eduardo Martorell
+Eduardo Martorell

@@ -1,0 +1,399 @@
+Case: 18-1559	Document: 78 Page: 1 Filed: 07/31/2018
+2018-1559, -1560, -1561, -1562, -1563, -1564, -1565
+United States Court of Appeals
+for the Federal Circuit
+
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Appellant,
+– v. –
+LSI CORPORATION, AVAGO TECHNOLOGIES U.S. INC.,
+Appellees.
+(For Continuation of Caption See Inside Cover)
+On Appeal from the United States Patent and Trademark Office,
+Patent Trial and Appeal Board in Nos. IPR2017-01068,
+IPR2017-01186, IPR2017-01197, IPR2017-01200, IPR2017-01213,
+IPR2017-01214 and IPR2017-01219
+BRIEF OF APPELLEES LSI CORPORATION
+AND AVAGO TECHNOLOGIES U.S., INC.
+DAVID E. SIPIORA
+KRISTOPHER L. REED
+EDWARD J. MAYLE
+KILPATRICK TOWNSEND & STOCKTON LLP
+1400 Wewatta Street, Suite 600
+Denver, Colorado 80202
+(303) 571-4000
+
+
+
+
+
+
+Attorneys for Appellees LSI Corporation and Avago Technologies U.S. Inc.
+
+JULY 31, 2018
+COUNSEL PRESS, LLC	(888) 277-3259
+
+Case: 18-1559	Document: 78 Page: 2 Filed: 07/31/2018
+GILEAD SCIENCES INC.,
+Intervenor.
+REGENTS OF THE UNIVERSITY OF MINNESOTA,
+Appellant,
+V.
+ERICSSON INC., TELEFONAKTIEBOLAGET LM ERICSSON,
+Appellees.
+GILEAD SCIENCES INC.,
+Intervenor.
+
+Case: 18-1559	Document: 78 Page: 3 Filed: 07/31/2018
+CERTIFICATE OF INTEREST
+Counsel for Appellees LSI Corporation and Avago Technologies U.S., Inc. certifies the following:
+The full names of every party represented by me are:
+LSI Corporation and Avago Technologies U.S., Inc.
+The names of the real parties in interest (if the parties named in the caption are not the real party in interest) represented by me are:
+None.
+The parent corporations and publicly held companies that own 10% or more of stock in LSI Corporation:
+Broadcom Inc.
+The parent corporations and publicly held companies that own 10% or more of stock in Avago Technologies U.S., Inc.:
+Broadcom Inc.
+The names of all law firms and the partners or associates that appeared for the party or amicus curiae now represented by me in the trial court or are expected to appear in this Court (and who have not or will not enter an appearance in this case) are:
+KILPATRICK TOWNSEND & STOCKTON LLP
+David E. Sipiora, Kristopher L. Reed, Scott E. Kolassa, Edward J. Mayle
+While the case was pending in the District of Minnesota, the following additional law firm, and the partners or associates from that law firm named below, appeared for the party or amicus curiae now represented by me:
+BASSFORD REMELE, P.A.
+Lewis A. Remele, Jr., Jessica L. Klander, Amie E. Penny Sayler, Jeffrey R. Mulder
+i
+
+Case: 18-1559	Document: 78 Page: 4 Filed: 07/31/2018
+
+5.	The title and number of any case known to counsel to be pending in this or
+any other court or agency that will directly affect or be directly affected by this court’s decision in the pending appeal are:
+LSI Corporation and Avago Technologies U.S., Inc. v. Regents of the University of Minnesota, Case No. IPR2017-01068 (PTAB)
+Regents of the University of Minnesota v. LSI Corporation and Avago Technologies U.S., Inc., Case No. 5:18-cv-00821-EJD (N.D. Cal.)
+
+ii
+
+Case: 18-1559	Document: 78 Page: 5 Filed: 07/31/2018
+TABLE OF CONTENTS
+CERTIFICATE OF INTEREST	i
+STATEMENT OF RELATED CASES	1
+JURISDICTIONAL STATEMENT	2
+STATEMENT OF THE ISSUES	4
+STATEMENT OF THE CASE	4
+District Court Proceeding Against LSI	4
+LSI’s Petition for Inter Partes Review	6
+SUMMARY OF THE ARGUMENT	7
+ARGUMENT	9
+Sovereign Immunity Cannot Be Asserted in Inter Partes Review	9
+UMN Waived Any Claim to Sovereign Immunity in IPR When
+It Sued LSI on the Same Patent in District Court	12
+LSI’s IPR Petition is a Compulsory Claim Prescribed by
+Federal Statute	 13
+UMN’s Waiver of Sovereign Immunity Extends to LSI’s
+Compulsory IPR Petition	 13
+The Board’s Decision is Consistent with This Court’s
+Prior Decisions in Tegic and A123	14
+Endorsing UMN’s Selective Use of Immunity Would
+Result in “Inconsistency, Anomaly, and Unfairness”	20
+CONCLUSION AND STATEMENT OF RELIEF SOUGHT	22
+iii
+
+Case: 18-1559	Document: 78 Page: 6 Filed: 07/31/2018
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+A123 Systems, Inc. v. Hydro-Quebec,
+626 F.3d 1213 (Fed. Cir. 2010)	8, 14, 15, 16
+Alden v. Maine,
+527 U.S. 706	11
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131, 195 L. Ed. 2d 423 (2016)	8, 11, 17
+Fed. Mar. Comm’n v. S.C. State Ports Auth.,
+535 U.S. 743 (2002)	9, 11
+Lapides v. Bd. of Regents of Univ. Sys. of Ga.,
+535 U.S. 613 (2002)	passim
+LSI Corporation and Avago Technologies U.S., Inc. v. Regents of the University of Minnesota,
+Case No. IPR2017-01068	i, 2
+Reactive Surfaces Ltd. v. Toyota Motor Company,
+IPR2016-01914, Paper No. 23 (March 3, 2017)	19, 20
+Regents of Univ. Of New Mexico v. Knight,
+321 F.3d 1111 (Fed. Cir. 2003)	passim
+Regents of the University of Minnesota v. LSI Corporation and Avago Technologies U.S., Inc.,
+Case No. 5:18-cv-00821-EJD (N.D. Cal.)	i
+Saint Regis Mohawk Tribe v. Mylan Pharms. Inc.,
+--- F.3d --- (Fed. Cir. 2018)	passim
+Shaw Indus. Grp., Inc. v. Automated Creel Sys., Inc.,
+817 F.3d 1293 (Fed. Cir. 2016), cert. denied, 137 S. Ct. 374, 196
+L. Ed. 2d 292 (2016)	3
+iv
+
+Case: 18-1559	Document: 78 Page: 7 Filed: 07/31/2018
+Silicon Image, Inc. v. Genesis Microchip Inc.,
+395 F.3d 1358 (Fed. Cir. 2005)	2
+In re Swanson,
+540 F.3d at 1377-78	17
+Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Texas Sys.,
+458 F.3d 1335 (Fed. Cir. 2006)	8, 14, 15, 16
+Texas v. United States,
+523 U.S. 296 (1998)	3
+Ultratec, Inc. v. CaptionCall, LLC,
+872 F.3d 1267 (Fed. Cir. 2017)	17
+Vas-Cath, Inc. v. Curators of Univ. of Missouri,
+473 F.3d 1376 (Fed. Cir. 2007)	17, 18, 19
+Will v. Hallock,
+546 U.S. 345 (2006)	3
+Statutes
+5 U.S.C. § 704	2
+28 U.S.C. § 1295(a)(4)(A)	2
+28 U.S.C. § 1406(a)	5
+35 U.S.C. § 141	2
+35 U.S.C. § 313	3
+35 U.S.C. § 315(b)	13, 14, 17, 19
+35 U.S.C. § 315(e)(2)	17
+35 U.S.C. §§ 316	17
+35 U.S.C. § 318	17
+Other Authorities
+157 Cong. Rec. S1377 (daily ed. Mar. 8, 2011)	2
+v
+
+Case: 18-1559	Document: 78 Page: 8 Filed: 07/31/2018
+
+Black’s Law Dictionary (10th ed. 2014)	13
+
+vi
+
+Case: 18-1559	Document: 78 Page: 9 Filed: 07/31/2018
+
+STATEMENT OF RELATED CASES
+Appellees LSI Corporation and Avago Technologies U.S., Inc. (collectively,
+“LSI”) concur with the Statement of Related Cases submitted with the principal brief of Appellant the University of Minnesota (“UMN”), and incorporate the same herein by reference. See UMN Br. at 1-2.
+
+1
+
+Case: 18-1559	Document: 78 Page: 10 Filed: 07/31/2018
+JURISDICTIONAL STATEMENT
+The Court lacks jurisdiction because UMN’s interlocutory appeal is not ripe.
+UMN argues that jurisdiction exists “pursuant to 28 U.S.C. § 1295(a)(4)(A) and the collateral order doctrine.” UMN Br. at 3-4. Neither purported basis confers jurisdiction here. The appeal, therefore, should be dismissed as premature.
+Title 28 U.S.C. § 1295(a)(4)(A) does not provide the Court with jurisdiction over an interlocutory appeal of a denial of a motion to dismiss before the Board. Section 1295(a)(4)(A) merely allows for appeal “from a decision” of the PTAB “with respect to . . . inter partes review under title 35.” Nothing in the statutory language amends the long-standing Federal Circuit rule that “[i]n order for a party to appeal from a judgment, that judgment must be final.” Silicon Image, Inc. v. Genesis Microchip Inc., 395 F.3d 1358, 1362 (Fed. Cir. 2005); see also 5 U.S.C. § 704 (“A preliminary, procedural, or intermediate agency action or ruling not directly reviewable is subject to review on the review of the final agency action.”). To hold otherwise would allow for immediate appeal of any Board “decision,” however minor. Nothing in the statutory language or legislative history supports such a broad interpretation. See 157 Cong. Rec. S1377 (daily ed. Mar. 8, 2011) (“[T]he details of what is appealable will be in [35 U.S.C.] sections 134 and 141”) (statement of Sen. Kyl); also 35 U.S.C. § 141 (limiting appeal to a party “who is dissatisfied with the final written decision of the Patent Trial and Appeal Board.”)
+2
+
+Case: 18-1559	Document: 78 Page: 11 Filed: 07/31/2018
+
+The collateral order doctrine does not resolve this jurisdictional deficiency. The collateral order doctrine applies under “stringent” conditions, and only certain “orders denying an asserted right to avoid the burdens of trial qualify.” Will v. Hallock, 546 U.S. 345, 349-51 (2006). In the IPR context, the “burdens of trial” before the Board do not begin until institution—nothing is required of UMN unless and until the Board institutes review. Shaw Indus. Grp., Inc. v. Automated Creel Sys., Inc., 817 F.3d 1293, 1300 (Fed. Cir. 2016) (“The IPR does not begin until it is instituted.”), cert. denied, 137 S. Ct. 374, 196 L. Ed. 2d 292 (2016); cf. 35 U.S.C. § 313 (providing an option of filing a preliminary response, but no requirement).
+Here, UMN sought dismissal before the Board made a decision on whether to institute an IPR. The denial of that motion preceded the only event that could trigger application of the collateral order doctrine: institution of the IPR. Therefore, because UMN’s appeal “rests upon contingent future events” that “may not occur at all,” the appeal “is not ripe for adjudication” and must be dismissed. Texas v. United States, 523 U.S. 296, 300 (1998) (internal quotations omitted).
+
+3
+
+Case: 18-1559	Document: 78 Page: 12 Filed: 07/31/2018
+STATEMENT OF THE ISSUES
+Whether a state actor can invoke sovereign immunity during inter partes review proceedings to prevent the Federal Government from reconsidering its decision to grant a public franchise (patent)?
+If sovereign immunity can prevent the Government’s reconsideration of a public franchise (patent) via inter partes review, does a state actor waive that immunity by first filing a civil action in U.S. district court alleging infringement of that patent?
+STATEMENT OF THE CASE
+I.	District Court Proceeding Against LSI
+UMN filed its lawsuit against LSI on August 25, 2016. UMN Br. at 13. UMN seeks hundreds of millions of dollars in damages from LSI for infringement of a patent that expired shortly after UMN filed suit. Appx251; Appx811. Thus, far from using the “patent system to promote the utilization of inventions arising from federally supported research or development” (UMN Br. at 11), UMN is trying to use its patent to extract ex post licensing revenue from LSI for technology that was commercialized long ago.
+Specifically, in the underlying litigation, UMN alleges that LSI infringes Patent No. 5,859,601 (“the ’601 patent”), and demands “worldwide damages” based on LSI’s alleged sales of “read channel” chips. Appx346 ¶ 37. This despite
+4
+
+Case: 18-1559	Document: 78 Page: 13 Filed: 07/31/2018
+the fact that the ’601 patent expired on October 15, 2016—less than two months after UMN filed suit. Indeed, LSI’s accused products were perfected and on the market years before UMN sued LSI. And contrary to UMN’s claim that “UMN approached each of Appellees . . . and offered to license one or more of these patents” (UMN Br. at 12), UMN provided no notice of the ‘601 patent to LSI before UMN filed its lawsuit.1
+
+On February 1, 2018, the District of Minnesota transferred the case to the Northern District of California under 28 U.S.C. § 1406(a). Case 0:16-cv-02891-WMW-SER (D. Minn.), Dkt. 144. On May 11, 2018, the Northern District of California stayed the action pending resolution of the IPR proceedings from which UMN has filed this appeal. Case 5:18-cv-00821-EJD (N.D. Cal.), Dkt. 211.
+1 Surprisingly, UMN cites Appx1242 in support of its claim that it “approached” LSI “and offered to license” the patent. UMN Br. at 12. Appx1242 is a page from UMN’s original Complaint in the underlying litigation, wherein UMN alleged in paragraph 111 that the “University notified LSI of the ’601 Patent directly in April 2013.” UMN fails to inform the Court that LSI moved to dismiss the Complaint because, inter alia, that allegation was a fabrication. Case 0:16-cv-02891-WMW-SER (D. Minn.), Dkt. 33 at 2-3. UMN never provided LSI with any notice of the ’601 patent before filing suit in August 2016. Id. In response to LSI’s motion to dismiss, UMN filed an Amended Complaint wherein it removed the false allegation of prior notice to LSI from paragraph 111 of its original Complaint. Compare Appx1242 ¶ 111 with Appx362.
+5
+
+Case: 18-1559	Document: 78 Page: 14 Filed: 07/31/2018
+
+II.	LSI’s Petition for Inter Partes Review
+On March 10, 2017, LSI timely petitioned for inter partes review,
+challenging the patentability of all claims asserted by UMN in the district court litigation. Appx234-246. UMN moved to “dismiss” LSI’s petition based on a claim of state sovereign immunity. Appx688-710. An expanded panel of the Board denied UMN’s motion, finding that, while UMN could assert state sovereign immunity in an IPR, UMN had waived its sovereign immunity by previously filing a lawsuit against LSI on the same patent in federal district court. Appx1-10. Notably, one concurring APJ disagreed with the majority, opining that state sovereign immunity cannot be invoked at all in IPR proceedings. Appx11-17. The Board stayed the IPR pending UMN’s appeal of the Board’s denial. Appx1086.
+
+6
+
+Case: 18-1559	Document: 78 Page: 15 Filed: 07/31/2018
+SUMMARY OF THE ARGUMENT
+The threshold question in this appeal is whether state sovereign immunity
+can be asserted in an inter partes review before the Patent Office. This Court recently answered that question in Saint Regis Mohawk Tribe v. Mylan Pharms. Inc., --- F.3d ---, 2018 WL3484448, (Fed. Cir. 2018), holding that “sovereign immunity cannot be asserted in IPR.” Id. at *2. Although Saint Regis dealt with tribal sovereign immunity, the rationale behind that decision applies equally to state sovereign immunity under the Eleventh Amendment. Therefore, the Court should affirm the Board’s denial of UMN’s motion to dismiss below on this basis alone, and need not reach the question of UMN’s waiver.
+Should the Court nonetheless consider the question of whether UMN waived sovereign immunity in the underlying IPR—the basis on which the Board denied UMN’s motion to dismiss below—the Court should still affirm. UMN waived sovereign immunity when it sued LSI in federal district court. Because UMN’s lawsuit rendered LSI’s request for inter partes view a compulsory claim, UMN’s waiver extends to LSI’s IPR under the rationale set forth by the Court in Regents of Univ. Of New Mexico v. Knight, 321 F.3d 1111 (Fed. Cir. 2003). Construing UMN’s waiver to encompass LSI’s IPR also satisfies the requirements of consistency and fairness mandated by the Supreme Court in Lapides v. Bd. of Regents of Univ. Sys. of Ga., 535 U.S. 613, 620 (2002), and does not contradict this
+7
+
+Case: 18-1559	Document: 78 Page: 16 Filed: 07/31/2018
+
+Court’s holdings in either Tegic Commc'ns Corp. v. Bd. of Regents of Univ. of Texas Sys., 458 F.3d 1335, 1343 (Fed. Cir. 2006) or A123 Systems, Inc. v. Hydro-Quebec, 626 F.3d 1213 (Fed. Cir. 2010). Therefore, for the additional reason of UMN’s waiver, the Court should affirm the Board’s denial of UMN’s motion to dismiss below.2
+
+
+2 The various Bayh-Dole and other “policy” arguments advanced by UMN and certain amici (see UMN Br. at 8-9, 11-12; Dkt. 49 (Br. of Association of Public and Land-Grant Universities); Dtk. 54 (Br. of STC.UNM et al.); Dkt. 60 (Br. of States of Indiana et al.)) have no bearing on the specific legal questions before the Court and can be disregarded. See, e.g., Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2146, 195 L. Ed. 2d 423 (2016) (“Cuozzo and its supporting amici offer various policy arguments . . . we do not decide whether there is a better alternative as a policy matter.”).
+8
+
+Case: 18-1559	Document: 78 Page: 17 Filed: 07/31/2018
+ARGUMENT
+I.	Sovereign Immunity Cannot Be Asserted in Inter Partes Review States are not immune from actions brought by the Federal Government.
+E.g., Fed. Mar. Comm'n v. S.C. State Ports Auth., 535 U.S. 743 (2002). This Court must, therefore, determine whether inter partes reviews “are the type of proceedings from which the Framers would have thought the States possessed immunity when they agreed to enter the Union.” Id. Recently, the Court provided a definitive answer to this question in Saint Regis, --- F.3d ---, 2018 WL3484448.
+In Saint Regis, the Court held that “several factors convince us that IPR is more like an agency enforcement action than a civil suit brought by a private party,” and therefore “immunity is not implicated.” Id., at *3. Specifically, the Court found that:
+The Director’s important role as a gatekeeper and the Board’s
+authority to proceed in the absence of the parties convinces us that the USPTO is acting as the United States in its role as a superior
+sovereign to reconsider a prior administrative grant and protect the public interest in keeping patent monopolies “within their legitimate scope.” See Cuozzo, 136 S. Ct. at 2144. The United States, through the Director, does “exercise . . . political responsibility” over the decision to proceed with IPR. FMC, 535 U.S. at 764 (quoting Alden, 527 U.S. at 756).
+Id., at 4. Judge Dyk expanded on this in his concurrence, observing:
+As the panel describes, significant features of the system confirm that
+inter partes review is an agency reconsideration rather than an adjudication of a private dispute and does not implicate sovereign immunity. Inter partes review brings to bear the same agency
+9
+
+Case: 18-1559	Document: 78 Page: 18 Filed: 07/31/2018
+expertise as exists in initial examination. There is no requirement that a third party petitioner have any interest in the outcome of the proceeding, much less Article III standing. See 35 U.S.C. § 311(a). Upon receiving a petition, the Director has complete discretion regarding whether to institute review. § 314; Oil States, 138 S. Ct. at 1371. The inter partes review procedures limit discovery, typically preclude live testimony in oral hearings, and do not mirror the Federal Rules of Civil Procedure. § 316(a)(5); see also 37 C.F.R. §§ 42.51, 42.70; Ultratec, Inc. v. CaptionCall, LLC, 872 F.3d 1267, 1270 n.2 (Fed. Cir. 2017). And if the third party settles, the proceeding does not end, and the USPTO may continue on to a final written decision. § 317(a). The USPTO may intervene to defend its decisions on appeal, whether or not the third party petitioner remains in the case. § 143; Cuozzo, 136 S. Ct. at 2144. It does not involve exercise of personal jurisdiction over the patent holder or adjudication of infringement. The only possible adverse outcome is the cancelation of erroneously granted claims. Notably, the Supreme Court has held that “adversarial proceedings” that do not involve the exercise of personal jurisdiction do not necessarily raise sovereign immunity concerns. See Tenn. Student Assistance Corp. v. Hood, 541 U.S. 440, 448 (2004)
+(bankruptcy).
+Saint Regis, 2018 WL3484448, at *9 (Dyk, J., concurring). Therefore, the Court concluded that “sovereign immunity cannot be asserted in IPR.” Id., at *2.
+The fact that Saint Regis involved tribal immunity and this appeal involves state immunity under the Eleventh Amendment makes no difference. In fact, in reaching its decision in Saint Regis, this Court relied heavily on the Supreme Court’s decision in FMC—a case involving state sovereign immunity, not tribal immunity.3 See id., 2018 WL3484448, at *2-*4. In particular, the Court found
+3 FMC also is the decision on which UMN primarily relies in its opening brief. UMN Br. at 30-36.
+10
+
+Case: 18-1559	Document: 78 Page: 19 Filed: 07/31/2018
+“[a]lthough the precise contours of tribal sovereign immunity differ from those of state sovereign immunity, the FMC analysis is instructive,” and ultimately held that inter partes review differs from the proceeding in FMC in several ways that proved dispositive. Id. (“In short, the agency procedures in FMC much more closely approximated a civil litigation than those in IPR.”) Further, the additional Supreme Court decisions which the Court also closely analyzed—Oil States, Cuozzo, and SAS—provide no basis for distinction between tribal and state sovereign immunity. See id., 2018 WL3484448, at *2-*4.
+The question at the heart of Saint Regis is whether “IPR is more like an agency enforcement action than a civil suit brought by a private party.” Id., at *3. This is the same question that must be answered here when considering state sovereign immunity under the Eleventh Amendment. See Alden v. Maine, 527 U.S. 706, 755-56 (“While the Constitution contemplates suits among the members of the federal system as an alternative to extralegal measures, the fear of private suits against nonconsenting States was the central reason given by the Founders who chose to preserve the States’ sovereign immunity.”); also FMC, 535 U.S. 743 at 759 (finding that “the similarities between FMC proceedings and civil litigation are overwhelming”). Having answered that question in the affirmative in Saint Regis, there is no basis for the Court reaching a different conclusion in this appeal.
+11
+
+Case: 18-1559	Document: 78 Page: 20 Filed: 07/31/2018
+II.	UMN Waived Any Claim to Sovereign Immunity in IPR When It Sued LSI on the Same Patent in District Court
+Because “sovereign immunity cannot be asserted in IPR, [the Court] need not reach the parties’ other arguments.” See Saint Regis, 2018 WL3484448, at *2. But should the Court go beyond that question, the Court should affirm the Board’s holding that UMN “has waived its Eleventh Amendment immunity by filing an action in federal court alleging infringement of the patent challenged in [the IPR] proceeding.” Appx10.
+There can be no dispute that UMN filing its lawsuit against LSI resulted in some species of waiver. Regents Of Univ. Of New Mexico v. Knight, 321 F.3d 1111, 1124 (Fed. Cir. 2003) (“[I]t has long been established that a state waives its Eleventh Amendment immunity when it consents to federal court jurisdiction by voluntarily appearing in federal court.”); Lapides v. Bd. of Regents of Univ. Sys. of Georgia, 535 U.S. 613, 619 (2002) (“[M]ore than a century ago this Court indicated that a State’s voluntary appearance in federal court amounted to a waiver of its Eleventh Amendment immunity.”). Thus, the only “question before us is the extent to which [UMN] waived its Eleventh Amendment by that action.” See Knight, 321 F.3d at 1124.
+As the Board correctly held, the underlying IPR request falls within the scope of UMN’s voluntary waiver. For this additional reason, this Court should affirm the Board’s denial of UMN’s motion to dismiss.
+12
+
+Case: 18-1559	Document: 78 Page: 21 Filed: 07/31/2018
+LSI’s IPR Petition is a Compulsory Claim Prescribed by Federal Statute
+UMN’s suit against LSI alleging infringement of the ’601 patent rendered any IPR petition filed by LSI on the ’601 patent compulsory. A “compulsory” action is one that is “[r]equired or compelled; mandated by legal process or by statute.” Black's Law Dictionary (10th ed. 2014). The hallmark of a compulsory action is that a party must timely assert it or “be forever barred from doing so.” Knight, 321 F.3d at 1126 (Fed. Cir. 2003). Upon service of UMN’s suit against LSI, 35 U.S.C. § 315(b) mandated that LSI must file any request for IPR “within one year” or be forever barred from doing so. Therefore, LSI’s filing of the IPR petition below was compulsory.
+UMN’s Waiver of Sovereign Immunity Extends to LSI’s Compulsory IPR Petition
+Waiver of state sovereign immunity extends to compulsory claims such as the filing of LSI’s IPR petition. In Knight, the Court found that the state’s waiver extended to asserted compulsory counterclaims, although such claims were not “strictly of the ‘same kind or nature.’” 321 F.3d at 1125. In so holding, the Court reasoned that “because a state as plaintiff can surely anticipate that a defendant will have to file any compulsory counterclaims or be forever barred from doing so, it is not unreasonable to view the state as having consented to such counterclaims.” Id. at 1126.
+13
+
+Case: 18-1559	Document: 78 Page: 22 Filed: 07/31/2018
+As the Board found, “the rationale given in Knight . . . similarly supports determining [UMN] waived its Eleventh Amendment immunity as to this [IPR] proceeding.” Appx7 n.3. As discussed, UMN’s service of its federal complaint triggered a one-year statutory bar for the filing of LSI’s petition under § 315(b)—a statute enacted well before UMN filed suit. See Appx7-8 (“[T]he State filed its patent infringement action well after the AIA was enacted.”). As such, UMN “could ‘surely anticipate’ that such [IPR petition], which would otherwise be forever barred, would be asserted.” See Tegic Commc'ns Corp. v. Bd. of Regents of Univ. of Texas Sys., 458 F.3d 1335, 1343 (Fed. Cir. 2006) (citing Knight, 321 F.3d at 1126). Therefore, under Knight, UMN “consented” to LSI filing its compulsory IPR petition when it filed suit in federal court, and thus “waived its Eleventh Amendment immunity.” See Knight, 321 F.3d at 1125-26.4
+
+C.	The Board’s Decision is Consistent with This Court’s Prior Decisions in Tegic and A123
+Contrary to UMN’s central argument, neither Tegic nor A123 compel reversal of the Board’s decision. UMN Br. at 39-43.
+4 The Board’s finding of waiver is consistent with, if not independently justified by, UMN’s voluntarily participation in the underlying proceedings prior to filing its motion to dismiss in May 2017. See Appx38 (“Patent Owner’s Mandatory Notices” filed March 21, 2017; “Patent Owner’s Power of Attorney” filed March 21, 2017; “Patent Owner’s Updated Mandatory Notices” filed April 10, 2017; “Patent Owner’s Updated Power of Attorney” filed April 10, 2017).
+14
+
+Case: 18-1559	Document: 78 Page: 23 Filed: 07/31/2018
+In Tegic Commc’ns Corp. v. Bd. of Regents of Univ. of Texas Sys., the University of Texas (“UT”) filed suit in Texas federal court against “forty-eight cellular-telephone companies.” 458 F.3d 1335, 1337 (Fed. Cir. 2006). Although the suit included a number of “Tegic’s customers and licensees,” UT did not name Tegic as a defendant. Id. Tegic later filed a declaratory judgment suit against UT in federal court in Washington. Id. In response, UT “filed with the district court in Washington a covenant not to sue Tegic for past, present, or future acts of infringement.” Id. at 1338.
+Under these specific facts, a panel of this Court held that UT had not “waived” sovereign immunity in the Washington case because UT did not “voluntarily submit itself” to litigation against Tegic. Id. at 1342-43. In particular, the panel found that allowing UT to assert sovereign immunity in the later-filed case would not result in “an unfair litigation advantage” because UT had “committed itself not to sue Tegic.” Id. at 1344 (citing Lapides, 535 U.S. at 620). Further, the Court emphasized that it “has not been shown that Tegic’s action is necessary to a ‘complete determination’ of the claims brought by the University in the Texas court, or that the adjudication of Tegic’s claims of noninfringement and invalidity is not available in the Texas action.” Id.
+In A123 Systems, Inc. v. Hydro-Quebec, 626 F.3d 1213 (Fed. Cir. 2010), A123 filed a declaratory judgment action in Massachusetts before the patentee
+15
+
+Case: 18-1559	Document: 78 Page: 24 Filed: 07/31/2018
+(again UT) had ever filed suit. Id. at 1215-16. Several months later, UT filed a separate infringement case against A123 in Texas. Id. This Court held that UT’s lawsuit did not constitute a “retroactive waiver” extending to “an entirely separate lawsuit.” Id. at 1219-20 (emphasis added).
+Unlike the proceedings at issue in Tegic and A123, LSI’s IPR request is not an “entirely separate action[] from the district court litigation[]” as UMN alleges. UMN Br. at 40. UMN has never “committed itself not to sue” LSI like the patentee in Tegic, nor did LSI’s IPR petition precede UMN’s lawsuit like the declaratory judgment action in A123. To the contrary, UMN—without notice or provocation—first sued LSI in federal district court alleging infringement of the ’601 patent. And because LSI’s IPR request is a compulsory claim triggered by UMN’s lawsuit (see Section II.A, supra), LSI’s IPR is “necessary to a complete determination” of UMN’s lawsuit against LSI and is not an “entirely separate lawsuit” like those in Tegic and A123. Moreover, unlike the “claims of noninfringement and invalidity” raised by Tegic and A123 in those cases, LSI cannot file a request for inter partes review in the UMN district court litigation.5
+
+5 UMN is incorrect in asserting that “Appellees and Intervenor have a full, fair, and unfettered opportunity to litigate any and all challenges to the patent they may wish to assert in the federal forum in which they have been sued[.]” UMN Br. at 54. Federal district courts (and state courts) do not and cannot entertain challenges to the patentability of issued patent claims as asserted in an IPR—challenges that implicate, inter alia, a different burden of proof, a different claim construction standard, and different finders of facts than invalidity challenges in district court.
+16
+
+Case: 18-1559	Document: 78 Page: 25 Filed: 07/31/2018
+As such, UMN’s lawsuit and the LSI IPR petition “should be litigated together,” and UMN’s waiver covers both. See Knight, 321 F.3d at 1125.
+UMN itself acknowledged in the underlying motion to dismiss that IPRs and district court litigations are not “entirely separate,” highlighting the “statutory interplay between IPRs and civil actions.” Appx699 n.1. For example, the statutory deadline for filing the IPR hinges off the service date for the complaint in the litigation. 35 U.S.C. § 315(b). And the final written decision in an IPR has a significant impact on the underlying litigation, either by cancelling patent claims (35 U.S.C. § 318(a)-(b)), or by estopping the petitioner from asserting arguments in the litigation that were “raised or reasonably could have been raised” in the IPR (35 U.S.C. § 315(e)(2)). This “statutory interplay” manifests Congress’s intent for IPR proceedings to constitute a compulsory “authorized phase” of the underlying litigation, not an “entirely separate” proceeding as UMN suggests. See Vas-Cath, Inc. v. Curators of Univ. of Missouri, 473 F.3d 1376, 1382 (Fed. Cir. 2007) (extending waiver to a district court review of a Patent Office decision because it represented a statutorily “authorized phase” of the same).
+See 35 U.S.C. §§ 316, 318(a); Cuozzo, 136 S. Ct. at 2143-46; also Aqua Prod., Inc., 872 F.3d at 1307 (“Congress’s use of ‘unpatentability,’ rather than ‘invalidity,’ in § 316(e) ... in IPRs is significant[.]”) (en banc); In re Swanson, 540 F.3d at 1377-78 (“In PTO examinations and reexaminations ... the examiner is not attacking the validity of the patent[.]”).
+17
+
+Case: 18-1559	Document: 78 Page: 26 Filed: 07/31/2018
+Despite acknowledging BPMC’s admonition “that no ‘bright-line rule’ precludes waiver in one action from extending to another action” (UMN Br. at 59 (citing Biomedical Patent Mgmt. Corp. v. California, Dep't of Health Servs., 505 F.3d 1328, 1339 (Fed. Cir. 2007)), UMN effectively asks this Court to establish such a bright-line rule. Specifically, UMN asks the Board to establish a bright-line rule that a voluntary waiver of state sovereign immunity can never cross the boundary between federal litigation and agency proceedings, even where a federal statute links the two proceedings and the same parties and patent are involved. E.g., UMN Br. at 47 (arguing that waiver of sovereign immunity is limited to “that same action and forum”).
+UMN’s proposed bright-line division between federal court and the Patent Office is refuted by the Court’s decision in Vas-Cath. In that case, the state actor—the University of Missouri—invoked an interference before the Patent Office, and ultimately prevailed. Vas-Cath, 473 F.3d at 1379. When the losing party in the interference challenged the Board’s decision in federal district court, the University “asserted Eleventh Amendment immunity from suit in federal court” and moved to dismiss. Id. In reversing the district court’s grant of that motion, the Federal Circuit panel found that the federal court challenge to the PTO decision was “established by statute,” and thus “is not a new claim, but an authorized phase of the interference proceeding.” See id. at 1382. Vas-Cath
+18
+
+Case: 18-1559	Document: 78 Page: 27 Filed: 07/31/2018
+emphasized that because the university “invoked and participated in [the interference] with no claim of immunity,” it could not subsequently object to the federal court action because “the statute authorizes judicial review” and “principles of federalism are not designed for tactical advantage.” Id. at 1382-83.
+Like the University of Missouri in Vas-Cath, UMN here “invoked and participated in [district court litigation] with no claim of immunity.” See id. Because “the statute authorizes [PTO] review”—in fact mandates it must be filed within one year—LSI’s request for inter partes review “authorized by [§ 315(b)] is not a new claim, but an authorized phase” of UMN’s litigation. See id. at 1382. Therefore, UMN “cannot escape the result of its own voluntary act by invoking the prohibitions of the Eleventh Amendment” (see id. at 1383), and the Court should affirm the Board’s denial of UMN’s motion to dismiss on the basis of waiver.
+Further, as the Board recognized in denying UMN’s motion (Appx8-9), UMN’s position that an IPR is “entirely separate” from litigation contradicts UMN’s earlier position before the Board. In an earlier IPR, UMN acknowledged that “the doctrine of waiver by litigation conduct serves to prevent ‘unfairness,’ ‘inconsistency,’ and the ‘selective use of immunity to achieve litigation advantages.’” Reactive Surfaces Ltd. v. Toyota Motor Company, IPR2016-01914, Paper No. 23 at 19 (March 3, 2017) (UMN citing Lapides, 535 U.S. at 620).6
+
+6 UMN is the joint owner of the patent-at-issue in IPR2016-01914. Appx819 n.6.
+19
+
+Case: 18-1559	Document: 78 Page: 28 Filed: 07/31/2018
+Accordingly, in that IPR, UMN argued against categorically limiting waiver to the underlying district court litigation:
+As the Federal Circuit has made clear, there is “no bright-line rule” that prevents waiver in one forum (e.g., a district court) from giving rise to waiver in another forum (e.g., an agency tribunal); rather, how far waiver will extend is dictated by the need to avoid “unfairness” and “inconsistency.”
+Id. at 20 (citing Biomedical Patent Mgmt. Corp. v. California, 505 F.3d 1328, 1329 (Fed. Cir. 2007)). UMN went so far as to conclude in that previous IPR that “[b]y voluntarily invoking federal jurisdiction in the infringement litigation, the state entity could be deemed to have waived its sovereign immunity to the IPR process.” Id. at 19-20. Such prior arguments demonstrate that UMN’s current position that IPR is an “entirely separate action” is premised more on expedience than the law. See UMN Br. at 40.
+D.	Endorsing UMN’s Selective Use of Immunity Would Result in “Inconsistency, Anomaly, and Unfairness”
+UMN does not dispute that its attempted use of sovereign immunity would result in litigation advantages to UMN, only arguing that “‘evenhandness’ between individuals and States is not to be expected.” UMN Br. at 37 (quoting Coll. Sav. Bank v. Fla. Prepaid Postsecondary Educt. Expense Bd., 527 U.S. 666, 685-86 (1999)). UMN’s argument fails to appreciate, however, that a state relinquishes its favored status under the Eleventh Amendment by voluntary litigation conduct. As the Supreme Court explained in Lapides:
+20
+
+Case: 18-1559	Document: 78 Page: 29 Filed: 07/31/2018
+[A]n interpretation of the Eleventh Amendment that finds waiver in the litigation context rests upon the Amendment's presumed
+recognition of the judicial need to avoid inconsistency, anomaly, and unfairness, and not upon a State’s actual preference or desire, which might, after all, favor selective use of “immunity” to achieve litigation advantages.
+535 U.S. at 620 (2002).
+Here, UMN seeks precisely what Lapides proscribes—“selective use of immunity to achieve litigation advantages.” See id. Specifically, UMN selectively asserts immunity to prohibit LSI from availing itself of all statutory methods provided by the Patent Act for defending against UMN’s infringement suit (i.e., IPR), while UMN enjoys the full measure of statutory options available to federal patent plaintiffs. There is nothing to suggest the Framers ever intended such manifest “inconsistency and unfairness.” See id. at 622 (“In large part the rule governing voluntary invocations of federal jurisdiction has rested upon the problems of inconsistency and unfairness that a contrary rule of law would create . . . [a]nd that determination reflects a belief that neither those who wrote the Eleventh Amendment nor the States themselves (insofar as they authorize litigation in federal courts) would intend to create that unfairness.”).
+In sum, once UMN made the deliberate decision to waive sovereign immunity by filing suit against LSI, that waiver necessarily extended to the complete determination of all claims rendered compulsory by that decision. And that includes the Board’s consideration of LSI’s IPR petition below. To hold
+21
+
+Case: 18-1559	Document: 78 Page: 30 Filed: 07/31/2018
+otherwise would violate the fairness principles set forth in Lapides. Therefore, if the Court reaches the question of waiver addressed by the Board below, the Court should affirm.
+CONCLUSION AND STATEMENT OF RELIEF SOUGHT
+For the reasons set forth in the Court’s Saint Regis decision, the Court should hold that state sovereign immunity cannot be asserted in inter partes review before the Patent Office. And even if it could, UMN’s filing of a lawsuit on the ’601 patent waived any immunity with respect to LSI’s subsequent IPR petition on the same patent. Therefore, the Court should affirm the Board’s denial of UMN’s motion to dismiss.
+July 31, 2018	/s/ Kristopher L. Reed 
+David E. Sipiora
+Kristopher L. Reed
+Edward J. Mayle
+Kilpatrick Townsend & Stockton LLP
+1400 Wewatta Street, Suite 600
+Denver, CO 80202
+303.571.4000
+Attorneys for Appellees LSI
+Corporation
+and Avago Technologies, U.S., Inc.
+22
+
+Case: 18-1559	Document: 78 Page: 31 Filed: 07/31/2018
+
+United States Court of Appeals
+for the Federal Circuit
+Regents of the University of Minnesota v. LSI Corporation et al.,
+Appeal Nos. 2018-1559, -1560, -1561, -1562, -1563, -1564, -1565
+PROOF OF SERVICE
+I, Robyn Cocho, being duly sworn according to law and being over the age
+of 18, upon my oath depose and say that:
+Counsel Press was retained by KILPATRICK TOWNSEND & STOCKTON LLP, counsel for Appellees LSI Corporation and Avago Technologies U.S., Inc. to print this document. I am an employee of Counsel Press. On July 31, 2018, 2018, counsel has authorized me to electronically file the foregoing BRIEF OF APPELLEES LSI CORPORATION AND AVAGO TECHNOLOGIES U.S., INC. with the Clerk of Court using the CM/ECF System, which will serve via e-mail notice of such filing to all counsel registered as CM/ECF users, including any of the following:
+
+Adam Mortara
+Bartlit Beck Herman Palenchar
+& Scott LLP
+54 West Hubbard Street
+Chicago, IL 60654
+312.494.4400
+Counsel for Intervenor Gilead Sciences Inc.
+Michael Albert
+Wolff, Greenfield & Sacks, P.C.
+600 Atlantic Avenue
+Boston, MA 02210
+617.646.8000
+Counsel for Appellant Regents of the
+University of Minnesota 
+
+Mark S. Davies
+Orrick, Herrington & Sutcliffe LLP 1152 15th Street NW
+Washington, DC 20005
+202.339.8400
+Counsel for Appellee Ericsson Inc. and Telefonaktiebolaget LM Erricsson
+
+23
+
+Case: 18-1559	Document: 78 Page: 32 Filed: 07/31/2018
+
+Upon acceptance by the Court of the e-filed document, six paper copies will be filed with the Court within the time provided in the Court’s rules. Paper copies will also be mailed to the above principal counsel at that time.
+July 31, 2018	/s/ Robyn Cocho
+Counsel Press
+
+24
+
+Case: 18-1559	Document: 78 Page: 33 Filed: 07/31/2018
+
+CERTIFICATE OF COMPLIANCE WITH TYPE-VOLUME LIMITATION, TYPEFACE REQUIREMENTS AND TYPE STYLE REQUIREMENTS
+This brief complies with the type-volume limitation of Federal Rule of Appellate Procedure 32(a)(7)(B) or Federal Rule of Appellate Procedure 28.1(e)
+X 	The brief contains  4,883 words, excluding the parts of the brief exempted by Federal Rule of Appellate Procedure 32(a)(7)(B)(iii),or
+
+This brief complies with the typeface requirements of Federal Rule of Appellate Procedure 32(a)(5) or Federal Rule of Appellate Procedure 28.1(e) and the type style requirements of Federal Rule of Appellate Procedure 32(a)(6)
+X 	The brief has been prepared in a proportionally spaced typeface using
+MS Word 2013 in a 14 point Times New Roman font or
+	 The brief has been prepared in a monospaced typeface using	
+
+characters per inch	font.
+July 31, 2018	/s/ David E. Sipiora 
+David E. Sipiora
+Kilpatrick Townsend & Stockton LLP
+Attorneys for Appellees LSI
+Corporation and Avago Technologies U.S., Inc.
+
+25

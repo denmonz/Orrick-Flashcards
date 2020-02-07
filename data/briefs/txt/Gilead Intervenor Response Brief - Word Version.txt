@@ -1,0 +1,484 @@
+Case: 18-1559	Document: 95 Page: 1 Filed: 07/31/2018
+
+Nos. 2018-1559 (Lead), -1560, -1561, -1562, -1563, -1564, -1565
+United States Court of Appeals for the Federal Circuit
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+LSI CORPORATION, AVAGO
+TECHNOLOGIES U.S. INC.,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+(Lead) Appeal from the U.S. Patent and
+Trademark Office, Patent Trial and
+Appeal Board in No. IPR2017-01068
+
+REGENTS OF THE UNIVERSITY
+OF MINNESOTA,
+Appellant
+v.
+ERICSSON INC.,
+TELEFONAKTIEBOLAGET LM
+ERICSSON,
+Appellees
+GILEAD SCIENCES, INC.,
+Intervenor
+Appeals from the U.S. Patent and
+Trademark Office, Patent Trial and
+Appeal Board in Nos. IPR2017-01186,
+IPR2017-01197, IPR2017-01200,
+IPR2017-01213, IPR2017-01214,
+and IPR2017-01219
+
+INTERVENOR RESPONSE BRIEF
+July 31, 2018	Adam K. Mortara
+Nevin M. Gewertz
+BARTLIT BECK HERMAN
+PALENCHAR & SCOTT LLP
+54 West Hubbard Street, Suite 300
+Chicago, IL 60654
+Meg E. Fasulo
+BARTLIT BECK HERMAN PALENCHAR & SCOTT LLP
+1801 Wewatta Street, Suite 1200 Denver, CO 80202
+Attorneys for Intervenor
+
+Case: 18-1559	Document: 95 Page: 2 Filed: 07/31/2018
+CERTIFICATE OF INTEREST 
+Counsel for movant and proposed intervenor on behalf of consolidated
+appellees, certifies the following:
+The full name of every party represented by me is:
+Gilead Sciences, Inc.
+The name of the real party in interest (Please only include any real party in interest NOT identified in Question 3 below) represented by me is:
+None.
+All parent corporations and any publicly held companies that own 10 percent or more of the stock of the party represented by me are:
+None.
+The names of all law firms and the partners or associates that appeared for the party now represented by me in the trial court or agency or are expected to appear in this court are:
+The following law firms and attorneys represent Gilead Sciences, Inc. in its pending litigation in the Northern District of California: Bartlit Beck Herman Palenchar & Scott LLP (Adam K. Mortara, J. Scott McBride, Glen E.
+Summers, Alison G. Wheeler, Nevin M. Gewertz, Rebecca T. Horwitz, Nosson D. Knobloch, Faye E. Paul, Meg E. Fasulo, and Mark Ouweleen) and Sidley Austin LLP (Irene Yang and Sue Wang).
+The following additional law firms and attorneys represented Gilead Sciences, Inc. when litigation was pending in the District of Minnesota: Berens & Miller, PA (Barbara P. Berens, Erin Forgery Lisle, and Carrie L. Zochert).
+The following law firms and attorneys represent Gilead Sciences, Inc. in its pending petitions for IPR: Bartlit Beck Herman Palenchar & Scott LLP (Adam K. Mortara, J. Scott McBride, and Nevin M. Gewertz) and Fitzpatrick, Cella, Harper & Scinto (Alicia A. Russo, Frederick C. Millett, and Robert S.
+Schwartz).
+i
+
+Case: 18-1559	Document: 95 Page: 3 Filed: 07/31/2018
+Adam K. Mortara, Nevin M. Gewertz, and Meg E. Fasulo of Bartlit Beck Herman Palenchar & Scott LLP appear in this court.
+5.	The title and number of any case known to counsel to be pending in this or any other court or agency that will directly affect or be directly affected by this court’s decision in the pending appeal. See Fed. Cir. R. 47(a)(5) and 47.5(b). (The parties should attach continuation pages as necessary).
+Gilead Scis., Inc. v. Regents of the Univ. of Minn., IPR Nos. 2017-01712 (June 30,
+2017), 2017-01753 (July 7, 2017), 2017-02004 (Aug. 28, 2017), 2017-02005 (Aug. 29, 2017).
+Regents of the Univ. of Minn. v. Gilead Scis., Inc., C.A. No. 17-cv-06056-VC (N.D. Cal.).
+July 31, 2018	/s/ Adam K. Mortara
+Adam K. Mortara
+Counsel for Gilead Sciences, Inc.
+
+Case: 18-1559	Document: 95 Page: 4 Filed: 07/31/2018
+
+TABLE OF CONTENTS 
+TABLE OF AUTHORITIES	v
+STATEMENT OF RELATED CASES	ix
+INTRODUCTION	1
+STATEMENT OF THE CASE	4
+ARGUMENT	5
+SOVEREIGN IMMUNITY DOES NOT APPLY TO INTER PARTES REVIEW BECAUSE STATES HAVE NO SOVEREIGN IMMUNITY IN PROCEEDINGS INVOLVING THE UNITED
+STATES	6
+
+STATES ARE NOT IMMUNE FROM PROCEEDINGS, SUCH AS INTER PARTES REVIEW, IN WHICH THEY VOLUNTARILY
+PARTICIPATE	11
+
+INTER PARTES REVIEWS ARE DISTINCT FROM THE
+MARITIME COMMISSION PROCEEDINGS OF FMC	17
+
+1.	Private Parties Do Not Commence Inter Partes Review	20
+iii
+
+Case: 18-1559	Document: 95 Page: 5 Filed: 07/31/2018
+
+Inter Partes Review Does Not Concern Lawfulness of State
+Action	21
+Inter Partes Review Does Not Provide Relief Against State
+Patent Owners	23
+IV.	GIVING STATE-OWNED PATENTS IMMUNITY FROM INTER PARTES REVIEW THREATENS THE AIA ITSELF AND RAISES
+SERIOUS ADDITIONAL QUESTIONS	25
+CONCLUSION	26
+
+iv
+
+Case: 18-1559	Document: 95 Page: 6 Filed: 07/31/2018
+TABLE OF AUTHORITIES
+Cases
+Albano v. Norwest Fin. Hawaii, Inc.,
+244 F.3d 1061 (9th Cir. 2001)	15
+Alden v. Maine,
+527 U.S. 706 (1999)	passim
+Allergan, Inc. v. Teva Pharm. USA, Inc.,
+No. 2:15-cv-1455-WCB, 2017 WL 4619790 (E.D. Tex. Oct. 16, 2017)	25
+Cent. Va. Cmty. Coll. v. Katz,
+546 U.S. 356 (2006)	22
+Clark v. Martinez,
+543 U.S. 371 (2005)	16
+Crowell v. Benson,
+285 U.S. 22 (1932)	7
+Cuozzo Speed Techs., LLC v. Lee,
+136 S. Ct. 2131 (2016)	2, 7, 13
+Ericsson Inc. v. Regents of the Univ. of Minn,
+IPR2017-01186 (Paper 14), IPR2017-01197 (Paper 14), IPR2017-01200
+(Paper 16), IPR2017-01213 (Paper 14), IPR2017-01214 (Paper 14), IPR2017-
+
+01219 (Paper 15) (PTAB Dec. 19, 2017)	5
+Fed. Mar. Comm’n v. S.C. State Ports Auth.,
+535 U.S. 743 (2002)	passim
+Federal-Mogul Corp. v. United States,
+63 F.3d 1572 (Fed. Cir. 1995)	26
+Freytag v. Comm’r of Internal Revenue,
+501 U.S. 868 (1991)	2
+Gilead Scis., Inc. v. Regents of the Univ. of Minn.,
+IPR2017-01712, Paper 18 (PTAB Sept. 28, 2017)	14
+v
+
+Case: 18-1559	Document: 95 Page: 7 Filed: 07/31/2018
+Graham v. John Deere Co. of Kansas City,
+383 U.S. 1 (1966)	19
+Hans v. Louisiana,
+134 U.S. 1 (1890)	8
+Idaho v. Coeur d’Alene Tribe of Idaho,
+521 U.S. 261 (1997)	11
+K/S Himpp v. III Holdings 7, LLC,
+IPR2017-00929, 2018 WL 357361 (PTAB Jan. 10, 2018)	16
+LSI Corp. v. Regents of the Univ. of Minn.,
+IPR2017-01068, Paper 19 (PTAB Dec. 19, 2017)	4
+Murray v. Schooner Charming Betsy,
+6 U.S. (2 Cranch) 64 (1804)	26
+Oil States Energy Servs. LLC v. Greene’s Energy Grp., LLC,
+138 S. Ct. 1365 (2018)	passim
+Principality of Monaco v. Mississippi,
+292 U.S. 313 (1934)	8
+Reactive Surfaces Ltd. v. Toyota Motor Corp.,
+IPR2017-00572, Paper 32 (PTAB July 13, 2017)	13
+Return Mail, Inc. v. United States Postal Serv.,
+868 F.3d 1350 (Fed. Cir. 2017)	21
+Riehle v. Margolies,
+279 U.S. 218 (1929)	15
+Saint Regis Mohawk Tribe v. Mylan Pharm. Inc.,
+No. 2018-1638, 2018 WL 3484448 (Fed. Cir. July 20, 2018)	passim
+SAS Inst. Inc. v. Iancu,
+138 S. Ct. 1348 (2018)	18
+Seminole Tribe of Fla. v. Florida,
+517 U.S. 44 (1996)	8
+Seymour v. Osborne,
+11 Wall. 516 (1871)	22
+vi
+
+Case: 18-1559	Document: 95 Page: 8 Filed: 07/31/2018
+Stuller, Inc. v. Steak N Shake Enters., Inc.,
+695 F.3d 676 (7th Cir. 2012)	14
+Tenn. Student Assistance Corp. v. Hood,
+541 U.S. 440 (2004)	22
+Teva Pharm. USA, Inc. v. Sandoz, Inc.,
+135 S. Ct. 831 (2015)	19
+United States v. Mississippi,
+380 U.S. 128 (1965)	8
+United States v. Texas,
+143 U.S. 621 (1892)	9
+Vas-Cath, Inc. v. Curators of Univ. of Mo.,
+473 F.3d 1376 (Fed. Cir. 2007)	24
+VDF Futurceuticals, Inc. v. Kazerooni,
+IPR2017-00547, 2018 WL 842176 (PTAB Feb. 9, 2018)	16
+Wi-Fi One, LLC v. Broadcom Corp.,
+878 F.3d 1364 (Fed. Cir. 2018)	9
+Statutes
+28 U.S.C § 2403	10
+35 U.S.C. § 101	23
+35 U.S.C. § 143	7
+35 U.S.C. § 302	21
+35 U.S.C. § 311	21, 23, 25
+35 U.S.C. § 312	23
+35 U.S.C. § 313	12, 23
+35 U.S.C. § 314	passim
+35 U.S.C. § 315	23
+35 U.S.C. § 316	3, 16, 18, 23
+vii
+
+Case: 18-1559	Document: 95 Page: 9 Filed: 07/31/2018
+35 U.S.C. § 317	2, 7, 23
+35 U.S.C. § 318	7, 23, 24
+35 U.S.C. § 319	23
+35 U.S.C. § 325	9
+46 U.S.C. App. § 1701	22
+46 U.S.C. App. § 1709	22
+46 U.S.C. App. § 1713	15
+Rules
+Fed. R. Civ. P. 55	3, 15
+Regulations
+37 C.F.R. § 42.107	12
+37 C.F.R. § 42.108	12
+37 C.F.R. § 42.120	3, 12
+37 C.F.R. § 42.73	16
+Other
+Brief for the United States, FMC,
+535 U.S. 743 (2002) (No. 01-46), 2001 WL 1530159	10
+Mark A. Lemley, Why Do Juries Decide if Patents are Valid?,
+99 Va. L. Rev. 1673 (2013)	19
+Office Patent Trial Practice Guide,
+77 Fed. Reg. 48 (Aug. 14, 2012)	13
+Paris Convention for the Protection of Industrial Property,
+Aug. 25, 1973, 24 U.S.T. 2140; Sept. 5, 1970, 21 U.S.T. 1583	26
+William Martin, The English Patent System (1904)	19
+viii
+
+Case: 18-1559	Document: 95 Page: 10 Filed: 07/31/2018
+
+STATEMENT OF RELATED CASES 
+No other appeals from the inter partes reviews at issue here have been before any appellate court.
+These appeals will indirectly affect the following inter partes reviews: Gilead Scis., Inc. v. Regents of the Univ. of Minn., IPR Nos. IPR2017-01753, -01712, -02004, -02005.
+These appeals will indirectly affect the following litigations pending in the United States District Court for the Northern District of California: Regents of the Univ. of Minn. v. Gilead Scis., Inc., No. 17-cv-06056; Regents of the Univ. of Minn. v. LSI Corp., No. 5:18-cv-00821. These appeals will also indirectly affect the following litigation pending in the United States District Court for the District of Minnesota: Regents of the Univ. of Minn. v. AT&T Mobility LLC, No. 0:14-cv-04666; Regents of the Univ. of Minn. v. Sprint Sols., Inc., No. 0:14-cv-04669; Regents of the Univ. of Minn. v. T-Mobile USA, Inc., No. 0:14-cv-04671; Regents of the Univ. of Minn. v. Cellco P’ship, No. 0:14-cv-04672.
+
+ix
+
+Case: 18-1559	Document: 95 Page: 11 Filed: 07/31/2018
+INTRODUCTION 
+
+The doctrine of state sovereign immunity is about the indignity a State suffers when a private party coerces an unwilling State defendant to participate in legal process. If the United States, acting through the Executive Branch, also participates in that proceeding a State has no sovereign immunity because it surrendered that aspect of its sovereignty on admission to the Union. If a State appears voluntarily and not because it is coerced by a threat of default judgment, there is also no sovereign immunity. For both of these reasons, sovereign immunity does not apply to inter partes review of State-owned patents.
+As to the first question, in another context the Supreme Court has already decided that inter partes review is a matter “arising between the government and others,” and not a suit between private parties in an agency forum. Oil States Energy Servs. LLC v. Greene’s Energy Grp., LLC, 138 S. Ct. 1365, 1373 (2018) (holding that inter partes review does not violate Article III’s restricted assignment of the “judicial power” to federal courts). More importantly, a panel of this Court just explained that tribal sovereign immunity does not apply in inter partes review because, inter alia, it “is more like an agency enforcement action than a civil suit brought by a private party.” Saint Regis Mohawk Tribe v. Mylan Pharm. Inc., No. 2018-1638, 2018 WL 3484448, at *3 (Fed. Cir. July 20, 2018). Minnesota is not being coerced by intervenor Gilead, or any of the private petitioners in these inter partes reviews, because States long ago waived their
+1
+
+Case: 18-1559	Document: 95 Page: 12 Filed: 07/31/2018
+sovereign immunity for suits initiated by the United States. While private parties may call to the Office’s attention the arguments for consideration,
+inter partes review is not initiated by private parties in the way that a common-law cause of action is. To be sure, a private party files the petition for review. 35 U.S.C. § 311(a). But the decision to institute review is made by the Director and committed to his unreviewable discretion.
+Oil States, 138 S. Ct. at 1378 n.5; 35 U.S.C. § 314. And the Director of the Office can even continue the proceedings without the petitioner. 35 U.S.C. § 317(a).
+When the United States, through the Director, reconsiders its grant of a “public franchise” in an inter partes review it is “exercising the executive power,” Freytag v. Comm’r of Internal Revenue, 501 U.S. 868, 910 (1991) (Scalia, J., concurring in part and concurring in judgment), and protecting the “public’s paramount interest in seeing that patent monopolies are kept within their legitimate scope.” Cuozzo Speed Techs., LLC v. Lee, 136 S. Ct. 2131, 2144 (2016) (internal quotes and alteration omitted). Whatever immunity the States may otherwise enjoy does not exist when the Executive Branch starts the suit.
+Even if the Executive Branch were not involved there would be the question of whether patent owners are coerced into appearing in inter partes review proceedings. They are not. Patent owners, whether States or not, do not have to participate in inter partes reviews. Patent owners need not respond to petitions, or even file a response if the Director initiates a proceeding. And, unlike civil litigation, where a choice to not appear means the defendant loses a default judgment, no such result can lawfully
+2
+
+Case: 18-1559	Document: 95 Page: 13 Filed: 07/31/2018
+occur in inter partes review; petitioners should not automatically win when patent owners decide it offends their dignity to file a response. Compare Fed. R. Civ. P. 55 with 35 U.S.C. § 316(a)(8); 37 C.F.R. § 42.120. This is simply not the “coercive process of [a] judicial tribunal[] at the instance of private parties.” Alden v. Maine, 527 U.S. 706, 749, 755 (1999).
+The University focuses its attention on analogizing inter partes review to either district court proceedings or the adjudications of private party complaints before the Federal Maritime Commission. Br. at 30–36 (citing Fed. Mar. Comm’n v. S.C. State Ports Auth., 535 U.S. 743 (2002) (“FMC”)). But the Executive Branch has no role whatsoever in private civil litigations to which sovereign immunity applies. Nor did the Executive Branch initiate the dispute in FMC. The suit in FMC was one in which the State was coerced to answer the complaint of a private party by threat of a default judgment.
+Applying state sovereign immunity in inter partes review would raise more questions than it would answer. First, is there a rational basis to award the States— and not private citizens—patents unchallengeable under the most popular procedural mechanism for doing so? If there is not, then the AIA may be unconstitutional under the Due Process Clause of the Fifth Amendment. Second, does giving the States super patents violate the Paris Convention and other international treaties and norms by treating foreign patent owners as second-class? Would the brazen purchase of state sovereign immunity in the form of opportunistic licensing agreements amount to a
+3
+
+Case: 18-1559	Document: 95 Page: 14 Filed: 07/31/2018
+“sham” transaction? Luckily, these questions do not need to be asked or answered: inter partes review is a proceeding between the United States and the patent owner in which the State is not coerced to appear.
+STATEMENT OF THE CASE 
+Gilead Sciences, Inc. invented sofosbuvir, a breakthrough drug used to cure Hepatitis C. Three months after Gilead launched its first sofosbuvir product, Solvadi®, and years after sofosbuvir was publicly disclosed, the Regents of the University of Minnesota filed a patent application attempting to claim invention of sofosbuvir. That application was granted as U.S. Patent No. 8,815,830.
+The University filed suit against Gilead seeking more than $2.5 billion in damages. In the summer of 2017 and less than one year after the University’s suit, Gilead filed four petitions for inter partes review of the asserted patent. See IPR Nos. 2017-01712 (June 30, 2017), 2017-01753 (July 7, 2017), 2017-02004 (Aug. 28, 2017), and 2017-02005 (Aug. 29, 2017).
+Rather than respond to the merits of Gilead’s petitions, the University asserted it was immune from inter partes review. The University asserted the same sovereign immunity argument (and filed substantively identical briefing) in two other inter partes review proceedings, those brought by appellees Ericsson and Avago. The decisions on appeal here are orders from two expanded panels of the Board rejecting the University’s sovereign immunity argument in the Ericsson and Avago proceedings. See LSI Corp. v. Regents of the Univ. of Minn., IPR2017-01068, Paper 19 (PTAB Dec. 19,
+4
+
+Case: 18-1559	Document: 95 Page: 15 Filed: 07/31/2018
+2017); Ericsson Inc. v. Regents of the Univ. of Minn, IPR2017-01186 (Paper 14), IPR2017-01197 (Paper 14), IPR2017-01200 (Paper 16), IPR2017-01213 (Paper 14), IPR2017-01214 (Paper 14), IPR2017-01219 (Paper 15) (PTAB Dec. 19, 2017).
+Because the Board has yet to render a decision with respect to the University’s motion to dismiss, Gilead’s petitions remain pending. Yet the present appeals will effectively decide the issue of sovereign immunity as applied to Gilead’s petitions, as there is nothing distinguishing the circumstances of Gilead’s proceedings from those of Ericsson and Avago. Gilead also raised arguments in response to the University’s motion to dismiss that Ericsson and Avago did not.1 Gilead therefore moved to intervene in these appeals, and the Court granted Gilead’s motion. ECF No. 35.
+ARGUMENT 
+
+The Eleventh Amendment immunizes States from being “summoned as defendants to answer the complaints of private persons.” FMC, 535 U.S. at 760 (quoting Alden, 527 U.S. at 748). It provides:
+The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+1 Ericsson, Avago, and Gilead each argued that the University waived its immunity by filing a patent infringement action in federal court. Because that argument is not unique to Gilead, Gilead agreed to limit this brief to 7,000 words and not address the waiver argument as a condition of being allowed to intervene. ECF No. 31 at 1 n.1, 6–7. The Court accepted that condition. ECF No. 35 at 4. This brief therefore does not address waiver, and Gilead adopts the position set out by Ericsson and Avago in their briefs.
+5
+
+Case: 18-1559	Document: 95 Page: 16 Filed: 07/31/2018
+Although its literal text extends only to “[t]he Judicial power” of Article III courts, the Supreme Court has held that sovereign immunity also applies to proceedings before agencies, but only if such proceedings have “strong similarities” to civil litigation and would be an “impermissible affront to a State’s dignity.” FMC, 535 U.S. at 755–57, 760. Such was “the ‘precise nature’ of the procedures employed by the [Federal Maritime Commission] for resolving private complaints” in FMC. Id. at 751. There, neither the Maritime Commission nor the United States disputed that the Maritime Commission adjudications “walk[ed], talk[ed], and squawk[ed] like a lawsuit.” Id. at 757.
+But it does not matter if inter partes review runs, yells, and roars like a lawsuit. The role of the Executive Branch and the absence of any coercive element mean there is no sovereign immunity debate to be had. States are not immune from proceedings involving the United States and they are not immune from proceedings in which they voluntarily participate and need not appear at all. This Court’s reasoning in St. Regis Mohawk Tribe, rejecting application of tribal sovereign immunity to inter partes review, applies with equal force to this separate question.
+
+The Office is not a “Citizen” or “Subject” of any State; it is an arm of the Executive Branch of the United States. Because the Office, through the Director, is
+6
+
+Case: 18-1559	Document: 95 Page: 17 Filed: 07/31/2018
+necessarily involved in all inter partes review proceedings (and subsequent appeals of
+those proceedings), sovereign immunity does not apply.
+The Executive Branch Participates In All Inter Partes Reviews
+When the Office grants a patent, it is carrying out “the constitutional functions” of the Executive. Oil States, 138 S. Ct. at 1373 (quoting Crowell v. Benson, 285 U.S. 22, 50 (1932)). Inter partes review also begins and ends with the Executive, a decision of the Director. The Director commences the proceeding with his institution decision, which is discretionary, “final and nonappealable.” 35 U.S.C. § 314(d); see Oil States, 138 S. Ct. at 1378 n.5; Cuozzo, 136 S. Ct. at 2140. “Although this is only one decision, it embraces the entirety of the proceeding,” and it is the Director who “bears the political responsibility of determining which cases should proceed.” St. Regis Mohawk Tribe, 2018 WL 3484448, at *3.
+Inter partes review concludes when the Director “issue[s] and publish[es] a certificate” canceling patent claims “finally determined to be unpatentable,” confirming patent claims “determined to be patentable,” or incorporating into a patent “any new or amended claim determined to be patentable.” 35 U.S.C. § 318(b). The AIA confirms that the Director not only begins and ends the proceeding but also remains in the case, because she may continue inter partes review proceedings even if the petitioner and patent owner agree to terminate them. Id. §§ 317, 143 (authorizing participation in appeals). (Gilead challenges the University to name a type of civil litigation where the parties can settle but the court can just decide to keep on going.)
+7
+
+Case: 18-1559	Document: 95 Page: 18 Filed: 07/31/2018
+Because the Director participates and because the Director is part of the Executive Branch, States have no sovereign immunity in inter partes review.
+States Have No Sovereign Immunity From Suits Where The United States Participates
+State sovereign immunity derives not just from the Eleventh Amendment, but from the structure and background principles of the Constitution. See Hans v. Louisiana, 134 U.S. 1, 11–12 (1890); Alden, 527 U.S. at 713. Although the States maintained attributes of sovereignty in the Constitution’s design—notably, their immunity from being compelled to answer coercive suits and be subject to judgments arising from such process—this immunity did not extend to areas “where there has been a surrender of this immunity in the plan of the convention.” Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 68 (1996) (internal quotes omitted). In other words, the States are not immune from coercive proceedings involving the United States itself. See FMC, 535 U.S. at 756; Principality of Monaco v. Mississippi, 292 U.S. 313, 328–29 (1934) (collecting cases).
+A suit against a State in the name of the United States “differs in kind from the suit of an individual.” Alden, 527 U.S. at 755–56 (indicating that the Constitution contemplates suits among the members of the federal system as an alternative to extralegal measures); see also FMC, 535 U.S. at 752 (“States, in ratifying the Constitution, did surrender a portion of their inherent immunity by consenting to suits brought by sister States or by the Federal Government.”); United States v.
+8
+
+Case: 18-1559	Document: 95 Page: 19 Filed: 07/31/2018
+Mississippi, 380 U.S. 128, 140–41 (1965) (“[I]t seems rather surprising that the District Court entertained seriously the argument that the United States could not constitutionally sue a State.”); United States v. Texas, 143 U.S. 621, 644–45 (1892) (finding the power of the federal government to bring suit against States necessary to the “the permanence of the Union”). Suits in the “name of the United States [are prosecuted] by those who are entrusted with the constitutional duty to ‘take Care that the Laws be faithfully executed.’” Alden, 527 U.S. at 755–56 (quoting U.S. Const. art. II, § 3).
+Applied here, Minnesota’s accession to the Union surrendered its sovereign immunity in proceedings involving the United States. And inter partes review does indeed involve the United States. That is no surprise since at issue is a United States patent, a federal public right, Oil States, 138 S. Ct. at 1374, and the Director decides in her discretion whether to even begin the “case,” retaining the power to even take it over after the petitioner and patent owner have settled.2 The role of the United States in inter partes review is not akin to the role of a District Court in private civil litigation.
+2 Further confirming that the Director, not the petitioner, actually institutes inter partes review is the permissive discretion of the Director to refuse to institute because she decides the Office has heard the same questions raised by the petition before. 35 U.S.C. § 325(d); see also Wi-Fi One, LLC v. Broadcom Corp., 878 F.3d 1364, 1372 (Fed. Cir. 2018) (en banc). This is not civil litigation in any way, shape, or form.
+9
+
+Case: 18-1559	Document: 95 Page: 20 Filed: 07/31/2018
+The United States’ Role In Inter Partes Review Is Not Akin To A District Court In Private Civil Litigation
+The University suggests that the United States’ role in inter partes review is limited to its right to intervene on appeal and “that fact makes no difference to the Eleventh Amendment analysis.” Br. at 27–28. In support, the University notes that the United States was a party to the appeal in FMC, but the Supreme Court held that state sovereign immunity applied anyway. Id. at 28.
+The University is deeply confused about the role of the United States in the FMC case—there the Justice Department intervened to make legal arguments
+separate from those being made by the Maritime Commission, as its brief at the Supreme Court states. See 28 U.S.C § 2403(a) (authorizing intervention by the Attorney General to defend the constitutionality of an Act of Congress). Nowhere did the Justice Department purport to take over the prosecution of the action from the private plaintiff or to have the power to continue if the parties had settled. Brief for the United States at 9 n.3, FMC, 535 U.S. 743 (2002) (No. 01-46), 2001 WL 1530159. At the Court, all agreed that there would have been no sovereign immunity if the Maritime Commission brought a complaint in its own name, which it could have done under the Shipping Act of 1984 either on its own accord or at the behest of a private party. See FMC, 535 U.S. at 767–68.
+In any event, the University’s argument that the “limited” power of the Director does not amount to participation by the United States conflicts with St. Regis
+10
+
+Case: 18-1559	Document: 95 Page: 21 Filed: 07/31/2018
+Mohawk Tribe and is wrong. 2018 WL 3484448, at *4 (“[T]he USPTO is acting as the United States in its role as a superior sovereign to reconsider a prior administrative grant and protect the public interest in keeping patent monopolies within their legitimate scope.”) (internal quotations omitted).
+The primacy of the Director’s role in inter partes review is further confirmed when one consults the AIA and observes that private parties cannot force a patent owner to participate in inter partes review—another requirement for the application of State sovereign immunity. States are not immune from proceedings in which they voluntarily participate.
+Sovereign immunity protects “the dignity and respect afforded a State” as a member of the federation. Idaho v. Coeur d’Alene Tribe of Idaho, 521 U.S. 261, 268 (1997). This constitutional design choice was a “deliberate departure from the Articles of Confederation,” which allowed “coercive sanctions” for the States. Alden, 527 U.S. at 714. The Supreme Court says that the Constitution protects the dignity of the States by immunizing them from “the coercive process of judicial tribunals at the instance of private parties.” Id. at 749. This Court acknowledged the same in St. Regis Mohawk Tribe. 2018 WL 3484448, at *3 (noting that “in federal civil litigation, a private party can compel a defendant’s appearance in court and the court has no discretion to refuse to hear the suit”).
+11
+
+Case: 18-1559	Document: 95 Page: 22 Filed: 07/31/2018
+States that consent to judicial process do not experience the same assault to their dignity, however.3 By consenting, a State makes the choice to defend itself and accept whatever consequences may befall it, as opposed to having to “defend or default” and “face the prospect of being thrust . . . against its will, into the disfavored status of a debtor.” Alden, 527 U.S. at 749. Patent owner participation in inter partes review is entirely voluntary and no one is coerced into appearing—because default judgments and similar sanctions are not available under the statute, which expressly contemplates non-participation by the patent owner.
+Patent Owner Participation In Inter Partes Review Is Voluntary
+The Office cannot coerce patent owners to participate in inter partes review. The AIA and governing regulations provide that patent owners may choose to respond to petitions filed by private parties but do not have to do so. See 37 C.F.R. §§ 42.107(a) (“The patent owner may file a preliminary response to the petition.”), 42.108(c) (“The Board’s decision will take into account a patent owner preliminary response where such a response is filed . . . .”); 35 U.S.C. §§ 313, 314(b)(2) (discussing timing of inter partes review “if no such preliminary response is filed”). Nor do patent owners have to file a response in the event the Director institutes the proceedings. See 37 C.F.R. § 42.120(a) (“A patent owner may file a response to the petition addressing any
+3 The University argues that Congress expressed no intent to abrogate sovereign immunity in the AIA. Br. at 50. That misses the point. Abrogation or waiver are not required if sovereign immunity does not apply at all.
+12
+
+Case: 18-1559	Document: 95 Page: 23 Filed: 07/31/2018
+ground for unpatentability not already denied.”). “The Board has construed its rules to allow it to continue review even in the absence of patent owner participation.” St. Regis Mohawk Tribe, 2018 WL 3484448, at *3 (citing Reactive Surfaces Ltd. v. Toyota Motor Corp., IPR2017-00572, Paper 32 (PTAB July 13, 2017)).
+Indeed, it is a patent owner’s choice to participate in inter partes review (once instituted) that triggers all of the adversarial discovery processes the University cites as assaults on its sovereign dignity. See, e.g., Office Patent Trial Practice Guide, 77 Fed. Reg. 48,756, 48,757 (Aug. 14, 2012) (“Once the patent owner’s response and motion to amend have been filed, the Scheduling Order might provide the petitioner with three months for discovery and for filing a petitioner’s reply to the response and the petitioner’s opposition to the amendment.”); id. (“Once instituted, absent special circumstances, discovery will proceed in a sequenced fashion. For example, the patent owner may begin deposing the petitioner’s declarants once the proceeding is instituted.”).
+It is only through the patent owner’s voluntary behavior that inter partes review may “resemble” civil litigation. Absent the patent owner joining the fight, inter partes review should look more like ex parte reexamination requested by a third party—a post issuance proceeding, conducted on the papers, in which the Board “reexamine[s] an earlier agency decision” and “protect[s] the public’s paramount interest in seeing that patent monopolies are kept within their legitimate scope.” Cuozzo, 136 S. Ct. at 2144 (internal quotes and alteration omitted).
+13
+
+Case: 18-1559	Document: 95 Page: 24 Filed: 07/31/2018
+The University may argue that it is in its best interest to appear in inter partes review even if failing to appear does not automatically mean their claims will be canceled. But any such interest does not rise to assault on a State’s dignity. Rather, it is driven by the University’s desire to participate and control how arguments are presented. That interest is the same in ex parte reexam, a proceeding in which patent owners may voluntarily participate and which the University conceded before the Board raises no sovereign immunity concerns. See Gilead Scis., Inc. v. Regents of the Univ. of Minn., IPR2017-01712, Paper 18 at 3 (PTAB Sept. 28, 2017); see also St. Regis Mohawk Tribe, 2018 WL 3484448, at *4 (referring to a similar concession on behalf of patent owners regarding tribal sovereign immunity). The University in these petitions is acting like a guest invited to a party, who shows up, collects their party gift (i.e., a patent monopoly against the public), and then declares the entire event offensive to him, demanding it be shut down. Cf. Stuller, Inc. v. Steak N Shake Enters., Inc., 695 F.3d 676, 679 (7th Cir. 2012) (holding that a “self-inflicted wound[]” is not irreparable injury and cognizable for purposes of a preliminary injunction).
+To determine whether a State patent owner is coerced into participation in inter partes review, this Court will have to decide whether non-participation in an inter partes review can result in a default judgment. It cannot.
+14
+
+Case: 18-1559	Document: 95 Page: 25 Filed: 07/31/2018
+Default Judgment Cannot Result From A Patent Owner’s Failure To Participate In Inter Partes Review
+In civil litigation, a defendant’s choice to not participate has real consequences. A plaintiff may seek a default judgment, Fed. R. Civ. P. 55(a), which the clerk of the court must enter when proper notice is given. Fed. R. Civ. P. 55(b)(1). A default judgment is the same as any other valid judgment. See Riehle v. Margolies, 279 U.S. 218, 225 (1929) (“A judgment of a court having jurisdiction of the parties and of the subject-matter operates as res judicata, in the absence of fraud or collusion, even if obtained upon a default.”). And a party with a default judgment in hand can seek all available remedies, including attachment of assets. See Albano v. Norwest Fin. Hawaii, Inc., 244 F.3d 1061, 1063 (9th Cir. 2001) (foreclosing on property after a default judgment).
+The same was true of South Carolina’s participation in the Maritime Commission proceedings in FMC. There, any State charged in a complaint by a private party had to either appear before the Maritime Commission “or stand defenseless.” FMC, 535 U.S. at 763.4 The Maritime Commission could issue a nonreparation order enforceable in federal district court and impose monetary penalties for noncompliance with its orders. Id. The Attorney General of the United
+4 The United States argued in FMC that sovereign immunity did not apply because the Maritime Commission’s orders were not “self-executing,” and had to be “enforced by a federal district court.” FMC, 535 U.S. at 761–62. The Court rejected this argument, noting that the Shipping Act does not allow the sanctioned party to “litigate the merits of its position” in district court. Id. at 762 (discussing 46 U.S.C. App. § 1713(c)).
+15
+
+Case: 18-1559	Document: 95 Page: 26 Filed: 07/31/2018
+States could seek to recover any amounts assessed by the Maritime Commission. Id. “[A]nd a State’s sovereign immunity would not extend to that action, as it is one brought by the United States.” Id.
+Unlike civil litigation and the agency proceedings in FMC, under the AIA the Board lacks authority to enter a default judgment. This is because the AIA precludes cancellation of claims in the absence of a finding that such claims are unpatentable by a preponderance of the evidence. 35 U.S.C. § 316(e). The Board has, on occasion, purported to enter adverse judgments against patent owners that do not appear. See, e.g., K/S Himpp v. III Holdings 7, LLC, IPR2017-00929, 2018 WL 357361, at *1 (PTAB Jan. 10, 2018) (citing 37 C.F.R. § 42.73(b) (authorizing patent owner requests for adverse judgment against themselves)); VDF Futurceuticals, Inc. v. Kazerooni, IPR2017-00547, 2018 WL 842176, at *1 (PTAB Feb. 9, 2018) (same). That practice is unlawful. Patent owners always have the right to disclaim their patents; the Board only has authority to cancel claims when they are found to be unpatentable or when the patent owner explicitly agrees to such cancellation.
+To the extent the University argues otherwise, the canon of constitutional avoidance counsels in favor of Gilead’s interpretation. Clark v. Martinez, 543 U.S. 371, 381 (2005). To explain, the AIA is an Act of Congress that on its face permits inter partes review against all patent owners, including unconsenting States. Gilead argues it should be construed to be a voluntary proceeding in which patent owners need not appear. Should the University argue that its appearance is coerced by the statutory
+16
+
+Case: 18-1559	Document: 95 Page: 27 Filed: 07/31/2018
+text, that text should be construed to avoid this unconstitutional outcome the University seeks—i.e., this Court should hold that a patent owner’s participation is fully voluntary and default judgments are unavailable.
+With the AIA properly construed, it is hard to understand how Minnesota is being coerced into a participating in a court-like proceeding if it does not have to appear at all and faces no default judgment from choosing not to do so. This is simply not a “coercive process of [a] judicial tribunal[] at the instance of private parties.” Alden, 527 U.S. at 749. The University does not argue to the contrary. The word “coercion” appears in its opening brief, but only in the context of a quotation. See Br. at 7, 17, 39. Not once does the University argue that the “party-directed, adversarial process” of inter partes review compels its participation.
+Even if the Director were not a participant, and even if patent owners’ participation in inter partes review were compelled, inter partes reviews are grounded in historical Executive practice, and differ in important ways from the Maritime Commission Proceedings of FMC. Therefore, sovereign immunity should not apply.
+
+The Court was adrift in FMC because there was no historical analog for proceedings in front of the Maritime Commission. FMC, 535 U.S. at 755, 757–59. Such an analog could have been compared to scenarios in which the Constitution protects the dignity of the States and contrasted with those where the States should be
+17
+
+Case: 18-1559	Document: 95 Page: 28 Filed: 07/31/2018
+assumed to possess no such protection. Id. Not so here, where there is ample historical evidence that the States should understand that owning patents means the Executive can take them away. Coupled with other significant distinctions, such as who actually starts the proceeding, whether the lawfulness of state action is at issue, and the type of relief available, and these proceedings are worlds away from FMC.
+To be sure, the evidentiary rules and discovery procedures in inter partes review echo those in civil litigation and the adjudicatory proceedings in FMC. See 35 U.S.C. § 316; but see St. Regis Mohawk Tribe, 2018 WL 3484448, at *3 (detailing differences). It is also true that outside of Cuozzo and Oil States, the Supreme Court has described inter partes review as “litigation” and a “party-directed, adversarial process.” SAS Inst. Inc. v. Iancu, 138 S. Ct. 1348, 1355–56 (2018). But the constitutional analysis of inter partes review does not depend on what it “looks like.” Oil States, 138 S. Ct. at 1378.
+Historical Precedent Exists For Patent Reexamination By The Executive
+The Supreme Court’s sovereign immunity analysis in FMC necessarily began with consideration of the historical record and whether administrative adjudications such as those before the Maritime Commission were “the type of proceedings from which the Framers would have thought the States possessed immunity when they agreed to enter the Union.” FMC, 535 U.S. at 754–56. Because of the “relatively barren historical record,” id. at 755, the Court turned its attention to a comparison of
+18
+
+Case: 18-1559	Document: 95 Page: 29 Filed: 07/31/2018
+the features of Maritime Commission adjudications and civil litigation in federal courts. Id. at 757–59.
+The historical record in this case is far more robust. See William Martin, The English Patent System 16 (1904). A patent could be canceled in 18th-century England by petition to the Privy Council, a collection of six or seven counsellors vested with the authority “to declare a patent void if they determined the invention was contrary to law, ‘prejudicial’ or ‘inconvenient,’ not new, or not invented by the patent owner.” Oil States, 138 S. Ct. at 1377; see also Teva Pharm. USA, Inc. v. Sandoz, Inc., 135 S. Ct. 831, 847 (2015) (Thomas, J., dissenting). “Based on the practice of the Privy Council, it was well understood at the founding that a patent system could include a practice of granting patents subject to potential cancellation in the executive proceeding of the Privy Council.” Oil States, 138 S. Ct. at 1377; see also Mark A. Lemley, Why Do Juries Decide if Patents are Valid?, 99 Va. L. Rev. 1673, 1681–82 (2013).
+The existence of the Privy Council in the English system is important for at least two reasons here. First, “[t]he Patent Clause in our Constitution ‘was written against the backdrop’ of the English system.” Oil States, 138 S. Ct. at 1377 (quoting Graham v. John Deere Co. of Kansas City, 383 U.S. 1, 5 (1966)). In turn, the Government’s reconsideration of a patent is not the type of proceeding that was “anomalous and unheard of when the Constitution was adopted.” FMC, 535 U.S. at 755. Second, the Privy Council reinforces the involvement of the United States in inter partes review. “The Privy Council was composed of the Crown’s advisers,” acting as an arm of the
+19
+
+Case: 18-1559	Document: 95 Page: 30 Filed: 07/31/2018
+Crown. Oil States, 138 S. Ct. at 1377. That the Office through the Director—an executive agency and arm of the United States—has the power to reconsider patents in inter partes review proceedings is thus no surprise. Unlike in FMC the historical record is not barren and leads to a conclusion that sovereign immunity is absent in inter partes review. But even without this historical record, there are important differences between the proceedings in inter partes review and those in FMC.
+Inter Partes Reviews Differ From Maritime Commission Adjudications
+The University ignores other aspects of inter partes review that distinguish it from the Maritime Commission adjudications in important respects: complaints of private parties do not commence inter partes review; inter partes review does not concern wrongdoing by a State; and no monetary relief (or other form of legal liability) is available in an inter partes review.
+1.	Private Parties Do Not Commence Inter Partes Review
+The complaint of a private party instituted the adversarial proceedings before the Maritime Commission in FMC. There, the plaintiff filed a complaint alleging that an arm of the State of South Carolina violated federal law by refusing to provide berthing space for one of the private plaintiff’s vessels. 535 U.S. at 747. Consistent with its procedures, the Maritime Commission referred the complaint to an ALJ, who adjudicated the dispute. Id. at 749. The Maritime Commission did not control whether the prosecution of a complaint by a private party against a State would go forward. Id.
+20
+
+Case: 18-1559	Document: 95 Page: 31 Filed: 07/31/2018
+at 764. A dispute existed between a private party and a State about the State’s alleged wrongdoing, and the Maritime Commission had no discretion to refuse to be the judge. Id.
+“[I]nter partes review is not initiated by private parties in the way that a common-law cause of action is.” Oil States, 138 S. Ct. at 1378 n.5. This dispute is between the University as patentee and the United States as the grantor of patents. Gilead as petitioner has merely called to the Office’s attention arguments and prior art that it did not consider in the first instance (just as a party can petition the Director for an ex parte reexamination, 35 U.S.C. § 302). See generally St. Regis Mohawk Tribe, 2018 WL 3484448, at *4–9 (Dyk, J., concurring). “[A] person who is not the owner of a patent may file with the Office a petition” requesting to institute an inter partes review. 35 U.S.C. § 311(a).5 It is the “Director,” with all the powers and duties vested in him by the Executive Branch, who “shall determine whether to institute an inter partes review . . . pursuant to a petition filed.” Id. § 314(b).
+2.	Inter Partes Review Does Not Concern Lawfulness of State Action
+At issue in FMC was whether the Port Authority of South Carolina’s refusal to give a berthing space violated the Shipping Act of 1984, which prohibits
+5 If the Office or another agency filed a petition, there would be no question that sovereign immunity would not apply. At least one panel of this Court has determined that agencies may file petitions for post-grant review. See Return Mail, Inc. v. United States Postal Serv., 868 F.3d 1350, 1355 (Fed. Cir. 2017) (affirming Board’s decision that the Postal Service could file a petition for CBM review).
+21
+
+Case: 18-1559	Document: 95 Page: 32 Filed: 07/31/2018
+discrimination by carriers and terminal operators. See FMC, 535 U.S. at 748; see also 46 U.S.C. App. §§ 1701(1), 1709. The dispute necessarily required the Maritime Commission to determine the lawfulness of state action, much in the same way it would have had to determine the lawfulness of a private terminal operator had the allegations been levied against it.
+These inter partes review proceedings are not about a State’s alleged wrongdoing, whether a State owes anything to anyone, or any other object of common law or state law. The issue here is whether the Office erred in concluding that a patentable invention—a “public franchise” granted by the Government—was made. See Oil States, 138 S. Ct. at 1373 (quoting Seymour v. Osborne, 11 Wall. 516, 533 (1871)). That inter partes review occurs after the initial grant of a patent does not change the nature of the proceeding. Id. at 1374. Inter partes review “involves the same interests as the determination to grant a patent in the first instance,” even if it has some of the trappings of judicial process. Id.; see also St. Regis Mohawk Tribe, 2018 WL 3484448, at *4.
+Post-FMC decisions explain that certain questions—like whether a debt owed to a State is dischargeable in bankruptcy—do not offend state sovereignty in the same way that the allegations of wrongdoing did in FMC. See, e.g., Cent. Va. Cmty. Coll. v. Katz, 546 U.S. 356, 373–78 (2006) (explaining that bankruptcy and habeas corpus proceedings necessarily tax the sovereign interests of state entities without running afoul of the Eleventh Amendment); Tenn. Student Assistance Corp. v. Hood, 541 U.S. 440,
+22
+
+Case: 18-1559	Document: 95 Page: 33 Filed: 07/31/2018
+450–51 (2004) (explaining that “the bankruptcy court’s jurisdiction is premised on the res, not on the persona” of the state entity). So too here, the reason these patents are subject to inter partes review is that they are United States patents, not because they belong to the University.6
+
+3.	Inter Partes Review Does Not Provide Relief Against State Patent Owners
+Private party petitioners do not seek any judgment against the University because such relief is not available in inter partes review. To remedy its injuries in FMC, the private party plaintiff prayed that the Maritime Commission direct South Carolina to pay reparations and enjoin it from refusing to provide berthing space at its port. FMC, 535 U.S. at 748–49. Had South Carolina not appeared in the proceeding (or lost on the merits), the Maritime Commission could have imposed monetary penalties and issued a nonreparation order against it, subjecting the State to real consequences and “a levy upon th[e] State’s treasury.” FMC, 535 U.S. at 767.
+6 In Oil States, the Supreme Court rejected the argument that once granted, a patent was a private right immune from reconsideration. 138 S. Ct. at 1375–78. Instead, the Court construed the post-grant nature of inter partes review as a qualification of the initial public franchise granted to the inventor by the United States as representative of the public. Id. at 1373. A patentee takes a patent “subject to the conditions and requirements of [the Patent Act.]” 35 U.S.C. § 101. In Gilead’s case, as of the date the University applied for the ’830 patent (March 2014), those conditions included being subject to post-grant proceedings conducted by the Office, such as ex parte reexamination and inter partes review. See 35 U.S.C. §§ 311–319. Should the University prevail in its assertion of sovereign immunity, its patent should be held invalid for failure to be “subject to the conditions and requirements of [the Patent Act].” Gilead will seek that relief in related district court litigation if necessary.
+23
+
+Case: 18-1559	Document: 95 Page: 34 Filed: 07/31/2018
+By comparison, there is only one type of relief available in inter partes review. The Director must “issue and publish a certificate,” if the Board’s decision becomes final. 35 U.S.C. § 318(b). The certificate issued by the Director at the end of an inter partes review cancels, confirms, or amends any challenged claims. Id. And while such a certificate may impact the scope of rights a patent affords, it has no compulsive effect on patent owners themselves. It does not require patent owners to pay damages or be enjoined from some action they would otherwise take.
+In short, there are manifold differences between FMC and these cases, and the University makes too much of the similarities.7 In addition to a close look at the distinctions between FMC and these cases, this Court should also consider the consequences of immunizing State-owned patents from inter partes review, consequences that include the potential invalidation of the AIA itself.
+7 Gilead acknowledges that a panel of this Court previously suggested that state sovereign immunity applied in interference proceedings. Vas-Cath, Inc. v. Curators of Univ. of Mo., 473 F.3d 1376, 1382 (Fed. Cir. 2007). On appeal, Missouri argued that sovereign immunity applied to a district court appeal of an interference ruling. Id. at 1380–81. This Court found that because Missouri commenced the proceedings before the Office, it could not invoke sovereign immunity to shield the Office’s decision from review. Id. at 1383–84. Vas-Cath does not make any broad rulings about the applicability of state sovereign immunity to Office proceedings. Nor did the Vas-Cath panel consider any of the arguments Gilead makes here, which are in many respects applicable to interferences. To the extent Vas-Cath’s dicta regarding FMC and state sovereign immunity is read to answer the question in this case, its rationale is dubious.
+24
+
+Case: 18-1559	Document: 95 Page: 35 Filed: 07/31/2018
+
+Immunizing State-owned patents from inter partes review would create other concerns. The “public franchise” a state patent owner would receive would comprise a different and broader bundle of rights than other patent owners. State-owned patents would be less susceptible to invalidation or amendment by virtue of more limited post-grant review possibilities. Incentives would exist for state patent ownership, and all innovators would have to at least consider paying rents to the States for the strategic advantages their ownership may afford. See, e.g., Allergan, Inc. v. Teva Pharm. USA, Inc., No. 2:15-cv-1455-WCB, 2017 WL 4619790, at *2 (E.D. Tex. Oct. 16, 2017) (Bryson, J.) (noting that “Allergan purports to have sold the patents to the Tribe, but in reality it has paid the Tribe to allow Allergan to purchase—or perhaps more precisely, to rent—the Tribe’s sovereign immunity in order to defeat the pending IPR proceedings in the PTO,” in a “ploy” that other patentees would have incentive to pursue).
+Whether a distinction between State and private patent owners could survive a due process challenge under the Constitution is a question for another day. Not to mention whether a distinction between State patent owners and patents owned by the United States government itself could survive such a challenge. But if there is a conceivable rational basis for these distinctions, Congress certainly did not mention it in the AIA. 35 U.S.C. § 311 et seq.
+25
+
+Case: 18-1559	Document: 95 Page: 36 Filed: 07/31/2018
+There is also the issue of the United States’ international obligations. Distinguishing between state patent owners and all others would reduce the property rights of foreign patentees to second-class status. That result is irreconcilable with Articles 2 and 3 of the Paris Convention for the Protection of Industrial Property, Aug. 25, 1973, 24 U.S.T. 2140 (art. 1–12); Sept. 5, 1970, 21 U.S.T. 1583 (art. 13–30). The AIA should not be erroneously construed, if a saving construction is available, to conflict with the United States’ international obligations. See Federal-Mogul Corp. v. United States, 63 F.3d 1572, 1581(Fed. Cir. 1995); Murray v. Schooner Charming Betsy, 6 U.S. (2 Cranch) 64, 118 (1804).
+Finally, a holding that sovereign immunity applies to inter partes review will potentially require this Court to referee whether transactions that effectively purchase such immunity and create super patents are “sham” or not. Cf. St. Regis Mohawk Tribe, 2018 WL 3484448, at *2. It is therefore a good thing that the involvement of the Director and voluntary nature of inter partes review makes such inquiry, along with the analysis of international law and due process objections to the AIA, unnecessary.
+CONCLUSION 
+
+State patent owners are not immune from inter partes review because the States are not immune from proceedings with the United States in which they choose to voluntarily participate.
+26
+
+Case: 18-1559	Document: 95 Page: 37 Filed: 07/31/2018
+July 31, 2018	Respectfully submitted,
+/s/ Adam K. Mortara 
+Adam K. Mortara
+Nevin M. Gewertz
+BARTLIT BECK HERMAN
+PALENCHAR & SCOTT LLP
+54 W. Hubbard Street, Suite 300
+Chicago, IL 60654
+Tel: (312) 494-4400
+Fax: (312) 494-4440
+
+
+
+
+Meg E. Fasulo
+BARTLIT BECK HERMAN
+PALENCHAR & SCOTT LLP 1801 Wewatta Street, Suite 1200 Denver, CO 80202 Tel: (303) 592-3100 Fax: (303) 592-3140 
+
+Counsel for Gilead Sciences, Inc.
+
+Case: 18-1559	Document: 95 Page: 38 Filed: 07/31/2018
+CERTIFICATE OF COMPLIANCE WITH TYPE-VOLUME 
+LIMITATION, TYPEFACE REQUIREMENTS, AND TYPE STYLE
+REQUIREMENTS 
+This brief complies with the type-volume limitation of Federal Rule of Appellate Procedure 32(a)(7)(B) because this brief contains 6,971 words, excluding the parts of the brief exempted by Federal Rule of Appellate Procedure 32(f) and Federal Circuit Rule 32(b).
+This brief complies with the typeface requirements of Federal Rule of Appellate Procedure 32(a)(5) and the style requirements of Federal Rule of Appellate Procedure 32(a)(6) because this brief has been prepared in a proportionally spaced typeface using Microsoft Word version 2016 in 14-point Garamond.
+July 31, 2018	Respectfully submitted,
+/s/ Adam K. Mortara 
+Adam K. Mortara
+BARTLIT BECK HERMAN
+PALENCHAR & SCOTT LLP
+54 W. Hubbard Street, Suite 300
+Chicago, IL 60654
+Tel: (312) 494-4400
+Fax: (312) 494-4440
+
+
+Counsel for Gilead Sciences, Inc.
+
+
+
+UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+CERTIFICATE OF SERVICE
+
+I certify that I served a copy on counsel of record on
+U.S. Mail
+Fax
+Hand
+Electronic Means (by E-mail or CM/ECF)
+
+Adam K. Mortara	/s/ Adam K. Mortara
+Name of Counsel	Signature of Counsel
+
+Address	54 W. Hubbard Street, Suite 300
+City, State, Zip	Chicago, IL 60654
+Telephone Number	312-494-4400
+Fax Number	312-404-4440
+E-Mail Address	
+
+NOTE: For attorneys filing documents electronically, the name of the filer under whose log-in and password a document is submitted must be preceded by an "/s/" and typed in the space where the signature would otherwise appear. Graphic and other electronic signatures are discouraged.
+Reset Fields

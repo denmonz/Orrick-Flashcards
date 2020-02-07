@@ -1,0 +1,471 @@
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 1 of 46
+No. 18-1518
+IN THE
+United States Court of Appeals for the Fourth Circuit
+THOMAS KRAKAUER,
+Plaintiff-Appellee,
+v.
+DISH NETWORK L.L.C.,
+Defendant-Appellant.
+On Appeal from the United States District Court
+for the Middle District of North Carolina
+No. 1:14-cv-00333-CCE-JEP,
+Hon. Catherine C. Eagles
+REPLY BRIEF FOR DEFENDANT-APPELLANT DISH NETWORK LLC
+Eric A. Shumsky Kelsi Brown Corkran Jeremy R. Peterman ORRICK, HERRINGTON &
+SUTCLIFFE LLP 1152 15th Street Washington, DC 20005 (202) 339-8400
+Paul David Meyer ORRICK, HERRINGTON &
+SUTCLIFFE LLP 405 Howard Street San Francisco, CA 94105 (415) 773-5700
+Counsel for Defendant-Appellant
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 2 of 46
+TABLE OF CONTENTS
+Page
+TABLE OF AUTHORITIES	iii
+INTRODUCTION	1
+ARGUMENT	3
+I.	The Class Must Be Decertified And The Judgment
+Vacated Because The Class Is Fatally Overbroad.	3
+A.	Krakauer defined the class to include numerous
+improper plaintiffs.	3
+The class contains non-subscribers who
+have no possible claim.	3
+The class contains individuals who suffered
+no Article III injury.	8
+B.	The district court erred in certifying an overbroad
+class. 	12
+II.	The Court Failed To Instruct The Jury To Determine Whether Each Class Member Received Two Calls
+Within A Year.	 16
+III. As A Matter Of Law, DISH Is Not Liable For The Calls
+Made By SSN.	18
+SSN was not DISH’s agent.	18
+Even if SSN were DISH’s agent, it exceeded its
+authority.	25
+IV.	The Treble-Damages Award Must Be Overturned.	 29
+The court applied the wrong standards.	29
+DISH did not willfully violate the TCPA.	33
+DISH had an objectively reasonable belief
+that it was complying with the TCPA.	33
+DISH disregarded no substantial risk that SSN was placing tens of thousands of
+Registry calls in 2010 and 2011.	35
+i
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 3 of 46
+
+CONCLUSION	37
+CERTIFICATE OF COMPLIANCE
+CERTIFICATE OF SERVICE
+
+ii
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 4 of 46
+TABLE OF AUTHORITIES
+Page(s)
+Cases
+The Amiable Nancy,
+16 U.S. 546 (1818) 	31
+Arguello v. Conoco,
+207 F.3d 803 (5th Cir. 2000)	21
+In re Asacol Antitrust Litigation,
+907 F.3d 42 (1st Cir. 2018)	13, 14
+Bank of Am. Corp. v. City of Miami,
+137 S. Ct. 1296 (2017)	4
+Berry v. Schulman,
+807 F.3d 600 (4th Cir. 2015)	33
+Bridgeview Health Care Ctr. v. Clark,
+816 F.3d 935 (7th Cir. 2016)	26
+Charvat v. EchoStar Satellite, LLC,
+630 F.3d 459 (6th Cir. 2010)	34
+Cislaw v. Southland Corp.,
+4 Cal. App. 4th 1284 (1992)	21
+City of Monterey v. Del Monte Dunes at Monterey,
+526 U.S. 687 (1999) 	17
+Clarke v. Sec. Indus. Ass’n,
+479 U.S. 388 (1987) 	4
+FedEx Home Delivery v. NLRB,
+563 F.3d 492 (D.C. Cir. 2009)	24
+Glen Ellyn Pharmacy v. Promius Pharma, LLC,
+2009 WL 2973046 (N.D. Ill. Sept. 11, 2009)	35
+iii
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 5 of 46
+Hoffnagle v. McDonald’s Corp.,
+522 N.W.2d 808 (Iowa 1994)	22
+Huggins v. FedEx Ground Package Sys.,
+592 F.3d 853 (8th Cir. 2010)	18, 23
+Jones v. Royal Admin. Servs.,
+887 F.3d 443 (9th Cir. 2018)	26
+Kolstad v. Am. Dental Ass’n,
+527 U.S. 526 (1999) 	30, 31
+Lake Shore & Mich. S. Ry. v. Prentice,
+147 U.S. 101 (1893)	30
+Lary v. Trinity Physician Fin. & Ins. Servs.,
+780 F.3d 1101 (11th Cir. 2015)	33
+Leon v. Caterpillar Indus.,
+69 F.3d 1326 (7th Cir. 1995)	24, 25
+Lexmark Int’l v. Static Control Components,
+572 U.S. 118 (2014) 	4, 5
+Leyse v. Bank of Am. Nat’l Ass’n,
+804 F.3d 316 (3d Cir. 2015)	6, 8
+Logue v. United States,
+412 U.S. 521 (1973)	20
+Louis Pizitz Dry Goods v. Yeldell,
+274 U.S. 112 (1927) 	29, 30
+Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak,
+567 U.S. 209 (2012)	4
+McKee v. Brimmer,
+39 F.3d 94 (5th Cir. 1994)	18
+Raleigh Wake Citizens Ass’n v. Wake Cty. Bd. of Elections,
+827 F.3d 333 (4th Cir. 2016)	31
+iv
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 6 of 46
+Rankow v. First Chicago Corp.,
+870 F.2d 356 (7th Cir. 1989)	20
+Redman v. RadioShack Corp.,
+768 F.3d 622 (7th Cir. 2014)	33
+Robb v. United States,
+80 F.3d 884 (4th Cir. 1996)	19
+Safeco Ins. Co. of Am. v. Burr,
+551 U.S. 47 (2007)	33, 35
+Stanley’s Cafeteria, Inc. v. Abramson,
+306 S.E.2d 870 (Va. 1983)	20
+Terry v. SunTrust Banks, Inc.,
+493 F. App’x 345 (4th Cir. 2012)	20
+Thompson v. North Am. Stainless, LP,
+562 U.S. 170 (2011) 	4
+United States v. Blankenship,
+846 F.3d 663 (4th Cir. 2017)	33
+United States v. Clarke,
+573 U.S. 248 (2014) 	19
+Valenti v. Qualex,
+970 F.2d 363 (7th Cir. 1992)	20
+Williams v. United States,
+50 F.3d 299 (4th Cir. 1995)	20
+Zhu v. DISH Network LLC,
+808 F. Supp. 2d 815 (E.D. Va. 2011)	34
+Statutes
+47 U.S.C. § 227(b)	6, 8
+47 U.S.C. § 227(c)	4, 5, 6
+v
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 7 of 46
+
+47 U.S.C. § 227(c)(1)	5
+47 U.S.C. § 227(c)(3)	5
+47 U.S.C. § 227(c)(3)(F)	6
+47 U.S.C. § 227(c)(5)	3, 4, 5, 16, 30
+47 U.S.C. § 227(c)(5)(C)	30, 32
+Regulations
+47 C.F.R. § 64.1200(c)	5
+Other Authorities
+137 Cong. Rec. 30,816 (1991)	7
+In re Joint Pet. Filed by DISH Network,
+28 FCC Rcd. 6574 (2013)	31, 34
+In re Rules and Regulations Implementing the TCPA,
+30 FCC Rcd. 7961 (2015)	7
+Restatement (Second) of Torts § 284	32
+Restatement (Second) of Torts § 314	32
+Restatement (Third) of Agency § 1.01	21
+Restatement (Third) of Agency § 2.02	25
+Restatement (Third) of Agency § 4.01	26
+
+vi
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 8 of 46
+INTRODUCTION1
+
+You know something is terribly wrong with a judgment when the
+appellee ducks the key challenges to it. Granted, Krakauer makes many arguments. But over and over, he simply fails to respond—not just to one or two peripheral arguments, but to numerous foundational and case-dispositive points. We detail these omissions throughout the brief; here are just a few:
+Class certification: Krakauer does not dispute that thousands of people have been admitted to the class, and authorized to recover millions, without having to prove they were telephone subscribers, answered a call, or even lived in the house where the phone rang. Nor does he defend the district court’s rationale for how such individuals could have been injured.
+Jury instructions: Krakauer does not deny that two calls to a phone number is not the same as what the statute requires: two calls to a person. Having been erroneously instructed, the jury never found an element of the claim.
+Agency: Krakauer cannot dispute what blackletter law recognizes—that when a principal directs an agent not to violate the law, the principal is not legally responsible unless it clearly countermanded its original prohibition. More specifically, Krakauer ignores the point—itself case-dispositive—that DISH explicitly directed SSN not to call Krakauer himself.
+Treble damages: Krakauer does not dispute that the $40 million treble-damages award must be reversed if it was
+1 We cite our Opening Brief as “OB” and Krakauer’s Answering Brief as “AB.”
+1
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 9 of 46
+reasonable to believe SSN was not DISH’s agent. But he does not even argue that DISH’s view of agency is unreasonable.
+Krakauer tries to patch the gaps with mud—essentially urging the Court to affirm because DISH must be guilty of something. Krakauer repeatedly invokes supposed “legal action” by 46 state attorneys general. AB1. But there was no legal action, much less liability. There was an Assurance of Voluntary Compliance, which acknowledged that retailers (like SSN) were independent contractors— not agents. Krakauer invokes a lawsuit brought by the FTC. The district court there is the only other court to accept Krakauer’s sweeping agency theory (in a decision now on appeal to the Seventh Circuit). It did so in the face of dozens of appellate decisions rejecting its core legal premises, and it split with another district court that concluded DISH retailers are not agents.
+All that mud cannot overcome basic legal rules that constrain the TCPA’s substantial liability provisions and the class action mechanism. The decision below must be overturned.
+2
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 10 of 46
+ARGUMENT
+I.	The Class Must Be Decertified And The Judgment Vacated Because The Class Is Fatally Overbroad.
+A.	Krakauer defined the class to include numerous improper plaintiffs.
+A class cannot be certified if it includes many people who cannot recover. Krakauer does not dispute this. Here, the class suffered from two such defects. Either requires that the class be decertified and the judgment vacated.
+1.	The class contains non-subscribers who have no possible claim.
+The class improperly encompasses thousands of people who are not telephone subscribers, did not place their numbers on the Registry, and who therefore have no claim under § 227(c)(5). OB20-27. Krakauer does not dispute that the class contains thousands of non-subscribers; rather, he argues that non-subscribers are proper plaintiffs. But he does not demonstrate that non-subscribers fall within the zone of interests § 227(c)(5) protects.
+a. Krakauer starts by putting a thumb on the scale. He says he need demonstrate only that non-subscribers are “arguably” within
+§ 227(c)(5)’s zone of interests. AB29. But, as his own cases reflect, that
+3
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 11 of 46
+“lenient approach” applies only to Administrative Procedure Act suits— because of that statute’s uniquely strong presumption of judicial review—and to statutes incorporating the APA’s “aggrieved person” language.2 Under Lexmark, the proper inquiry is what interests actually (not arguably) are “protected by” § 227(c), and whether non-subscribers do “come within th[at] zone of interests,” 572 U.S. at 131.
+b. On the merits, Krakauer makes a two-part textualist appeal. First, he argues that § 227(c)(5) “says ‘person.’” AB30-32. But Congress could not have meant any “person.” Your dog-sitter is a “person,” but Congress could not have meant to grant him a lawsuit just because he was lucky enough to be around to “receive[]” wrongful telemarketing calls on your phone. Congress has to have intended a subset of “persons”; so the question is, what subset? And Lexmark teaches that a statute’s use of the word “person” is not dispositive. OB24. Contrary to Krakauer’s assertion, nothing in Lexmark limits that holding to
+2 Lexmark Int’l v. Static Control Components, 572 U.S. 118, 130 (2014); see Clarke v. Sec. Indus. Ass’n, 479 U.S. 388, 400 n.16 (1987); Thompson v. North Am. Stainless, LP, 562 U.S. 170, 178 (2011) (the term “‘aggrieved’ ... incorporates th[e] test” from the APA); AB29 (citing Match-E-Be-Nash-She-Wish Band of Pottawatomi Indians v. Patchak, 567 U.S. 209, 225 (2012) (APA), and Bank of Am. Corp. v. City of
+Miami, 137 S. Ct. 1296, 1301 (2017)).
+4
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 12 of 46
+statutes that do not specify a “particular kind of harm.” AB33. Lexmark applies a “requirement of general application.” 572 U.S. at 129-30.
+Second, Krakauer argues that “the word ‘subscriber’ is nowhere to be found” in the statute. AB27. But it’s easy to find, right in the title of § 227(c), which establishes a regime to “PROTECT[] SUBSCRIBER PRIVACY RIGHTS.” And it’s in the substantive provisions defining the “violation” that § 227(c)(5) enforces. OB21-22. The word “subscriber” also features prominently in Congress’s articulation of the problem it was solving: “the need to protect residential telephone subscribers’ privacy rights.” § 227(c)(1) (emphasis added); accord § 227(c)(3).
+When the FCC issued its implementing regulations, it heard Congress loud and clear. Those regulations are directly relevant, because § 227(c)(5) authorizes a lawsuit only to enforce “violation[s] of the regulations prescribed under this subsection”—that is, under
+§ 227(c). And Krakauer admits (AB31) that the “violation” those regulations define is for “any telephone solicitation” to a “residential telephone subscriber who has registered his or her telephone number.” 47 C.F.R. § 64.1200(c) (emphasis added). Krakauer suggests (AB31-32)
+5
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 13 of 46
+that § 227(c)(3)(F) indicates some broader scope. But in referring to calls to the “telephone number” of a “subscriber,” it underscores that it is the subscriber’s expressed interest in avoiding calls that Congress cared about, and thus the subscriber who may sue.
+Krakauer ignores the title’s text and dismisses the regulations as mere “context[].” AB28-29. On the contrary, as Krakauer’s own preferred authority (AB3, 31) confirms, the text defining the statutory violation is not mere “context”; it’s the starting point: “In order to delineate the zone of interests protected by the statute, it makes sense to start by looking at the prohibitions that the private right of action is intended to enforce.” Leyse v. Bank of Am. Nat’l Ass’n, 804 F.3d 316, 324 (3d Cir. 2015). Those “prohibitions” are all about subscribers who join the Registry to object to live telemarketing calls.
+c. The rest of Krakauer’s arguments are not about § 227(c) at all. He repeatedly invokes authorities discussing § 227(b), the TCPA’s robocalling prohibition. But § 227(b) and § 227(c) are fundamentally different, and so are their zones of interests. Section 227(b) bans all robocalls to “residential phone line[s],” thus creating an indiscriminate legally protected interest in avoiding robocalls. 804 F.3d at 326. But
+6
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 14 of 46
+the Do Not Call provisions bar live calls only after a “subscriber” has placed her number on the Registry, thereby creating a legally protected interest only for subscribers who affirmatively object to live telemarketing calls. OB25.
+Krakauer quotes a vivid excerpt of legislative history (AB30) but conspicuously omits the first sentence, which links the quote to robocalls: “Computerized calls are the scourge of modern civilization.” 137 Cong. Rec. 30,816, 30,821 (1991) (emphasis added). He also neglects to mention an earlier passage that addresses live calls and describes the Do Not Call provisions as protecting those who “affirmatively [took] action to prevent such calls,” id. at 30,818, i.e., subscribers.3
+
+Similarly, Krakauer asserts that an FCC ruling has “effectively rejected” DISH’s position, AB32, but the decision concerns “unwanted robocalls.” In re Rules and Regulations Implementing the TCPA, 30 FCC Rcd. 7961, 7964 (2015). As for case law, Krakauer (AB31)
+3 Krakauer elsewhere notes that the TCPA’s “Findings” “refer[] to ‘receiving part[ies],’ ‘consumers,’ and ‘[i]ndividuals,’” while “refer[ring] to ‘subscribers’ only once.” AB30. But these are general findings that cover the entire TCPA, including the robocalling provision.
+7
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 15 of 46
+criticizes DISH for not citing Leyse, 804 F.3d 316, only to admit that Leyse is a robocalling case about § 227(b).
+2.	The class contains individuals who suffered no Article III injury.
+Separately, the class is impermissibly overbroad because it encompasses people lacking Article III standing. Tellingly, Krakauer does not defend the district court’s theory; he just ignores it. The court held that every class member suffered concrete injury merely because, in the past, he or she had an unrealized “risk of an injury to privacy.” JA249. We demonstrated (OB28-29) why that is indefensible; Krakauer evidently agrees.
+Instead, Krakauer attacks an argument we did not make. We are not arguing that “receiving repeated unsolicited telemarketing calls isn’t a concrete injury.” AB34. So Krakauer’s lengthy rebuttal—with talk about “intangible harm,” “intrusion upon seclusion,” and “nuisance and invasion of privacy”—is beside the point. AB37-38. So is his argument that, under Spokeo, a plaintiff need not “prove some additional injury beyond the one identified by Congress”—receiving an unwanted phone call. AB35.
+8
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 16 of 46
+The argument we do make is another one that Krakauer never disputes: A non-subscriber who never received an unsolicited telemarketing call—and especially who never even heard the phone ring—was not injured. So the dispute boils down to whether the certified class sweeps in such uninjured people. That is easily resolved in DISH’s favor. The district court explicitly held that “class members did not necessarily pick up or hear ringing every call at issue in this case.” JA249.
+Krakauer never even acknowledges that holding. His position rests entirely on a premise that he repeats over and over, and even incorporates into his point heading, that “all class members, by definition, received multiple unlawful calls.” AB34 (emphasis added); see AB26-27. In support, he seizes on the class definition,
+“persons ... who received telemarketing calls.” AB15. The problem is that Krakauer persuaded the court to interpret that definition as encompassing everyone “associated with” a relevant phone number. JA98. As we explained (OB26), in the databases on which Krakauer relies for class membership, becoming “associated with” a number could entail as little as listing the number on a credit card application at some
+9
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 17 of 46
+unknown time in the past. The class thus encompasses many people who never heard the phone ring, such as a son who has long since moved away, a subscriber’s roommate, an ex-girlfriend, and a tenant who long ago vacated the premises.
+The district court’s “associated with” gloss on the class definition was hotly contested. Krakauer urged it on the court in an attempt to fix other fatal problems with his class. Here is what happened: In opposing certification of a class of “people ... who received telemarketing calls,” DISH argued that Krakauer had not proposed any way to “reliably ascertain[]” who “received” these calls, “without resort to individualized fact finding.” JA131. He could have satisfied the requirement by securing records from telephone companies matching phone numbers to subscribers. Instead of taking that path, Krakauer proposed ascertaining class membership with only the previously described databases that didn’t even purport to identify subscribers, let alone who otherwise received a call (as the class definition seemed to require). JA132-34; OB25-27. The court addressed the problem by interpreting the class definition not to require Krakauer to show subscribership or call receipt—only who was “associated with the[]
+10
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 18 of 46
+numbers during the class period,” JA180 (emphasis added), just as Krakauer’s expert had urged, JA110, 111, 113, 121, 147.
+Thus, contrary to Krakauer’s argument, that gloss on the class definition is not “plucked from two instances in which the district court described the methodology of Dr. Krakauer’s expert.” AB27. It was critical to approving the class. That’s why the phrase “associated with” appears eight times in the class-certification order. JA170-203. It’s why Krakauer and the court have invoked that standard ever since. E.g., JA258, 675. It’s why the court recognized that “class members did not necessarily pick up or hear ringing every call at issue in this case.” JA249. It’s why even during claims administration, claimants were required to show only that they were associated with a phone number that was called. OB34-36.4 And it’s why the district court based its finding of concrete injury not on the harm of having received an
+4 Krakauer asserts that “DISH tries to convey the [mis]impression that this case involves unanswered calls.” AB38 n.3. Not so. Our point is that the class members include people who did not answer the phone. Just because John Doe received a call does not mean others “associated with” his phone number were injured.
+11
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 19 of 46
+unwanted phone call (Krakauer’s new rationale), but on the past risk that a class member could have received one. JA249.
+So ultimately, we agree that the district court should have required Krakauer to prove that “all class members ... received multiple unlawful calls.” AB34. But to accept Krakauer’s new argument that the class definition actually required this would only revive the fatal ascertainability problem Krakauer was trying to avoid in the first place. He has presented no way to identify call recipients, and he points to no proof that any absent class member received any call. Here again, he just ignores the issue and the undisputed fact that the court never required the identification of call recipients. OB1-2, 34-36.
+B.	The district court erred in certifying an overbroad class.
+These two basic errors each preclude certification. As the opening brief explains, multiple circuits have held that class certification is impermissible when the class definition includes a significant number of uninjured class members. OB18-19, 30-31. Krakauer does not address these cases. Nor does he address a recent First Circuit decision, issued before Krakauer filed his brief, that refutes his single-paragraph response. AB34-35.
+12
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 20 of 46
+In re Asacol Antitrust Litigation was a putative class action alleging that a company wrongfully blocked a generic drug from the market. The district court found that 10% of the class was uninjured because they never would have switched to the generic. 907 F.3d 42, 47 (1st Cir. 2018). The court nonetheless certified the class, finding the number of uninjured class members “de minimis,” and reasoning that plaintiffs “could remove ... uninjured persons from the class” during claims administration. Id.
+The First Circuit reversed. Numerous potential class members “in fact suffered no injury,” id. at 53, and the plaintiffs identified no way to exclude them that was “both ‘administratively feasible’ and ‘protective of defendants’ Seventh Amendment and due process rights.’” Id. at 52. Mini-trials would be impractical, and the plaintiffs’ proposal—“a claim form, along with data and documentation,” with disputes resolved by a “Claims Administrator”—would improperly “jettison[] the rules of evidence and procedure, the Seventh Amendment, [and] the dictate of the Rules Enabling Act.” Id. at 53. The First Circuit explained that “in no case ... has a federal court affirmed a damages judgment in a class action against a defendant who was precluded from raising genuine
+13
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 21 of 46
+challenges at trial to the assertion of liability by individual class members of a class that was known to have members who could not be presumed to be injured.” Id. at 57 (emphasis added).
+Faced with unbroken authority from four circuits, Krakauer offers a cursory response lacking any record or case cite. AB34-35. He says that “[t]he verdict will pay only those who meet the class definition.” AB34. But the class includes anyone “associated with” a phone number, many of whom should not be paid. Krakauer disparages DISH’s objection as relating to “the method for determining” who should recover—which (he says) DISH has not challenged “in opposition to class certification.” AB34. Not so. Here’s the point heading on page 31 of our opening brief: “Alternatively, the class must be decertified because Krakauer identified no administratively feasible mechanism to limit recovery to proper plaintiffs.” We explained that Krakauer never intended to prove that class members were subscribers or were injured by SSN’s calls, and certainly proposed no mechanism for doing so. OB31-32.
+Finally, Krakauer says the claims-administration process is
+eliminating improper plaintiffs. But he does not dispute that the
+14
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 22 of 46
+process—relying on records of who is “associated with” a number— cannot identify subscribers or call recipients. OB31-32. Moreover, each of Krakauer’s assertions about that process is wrong.
+His “expert ensured that all class members were at least regular users of a phone number.” AB33-34 n.1. That is incorrect, which is why Krakauer offers no record cite. Krakauer’s expert never claimed to do this, nor could she have, based on records that (she conceded, JA120, 147) show, at most, who is “associated with” a number.
+The district court “has required claims forms for thousands of people.” AB41. Yes, for 7,000 of 18,000 people. The other 11,000 were admitted to the class based on Krakauer’s “associated with” standard. OB34-36. Moreover, the claim form doesn’t ask about subscribership or call receipt, and so could not solve the problem.
+“[T]he claims form asks” for documentation that “they, or their household, paid for or used the phone number.” AB33-34 n.1. The claim form requires no documentation, and fewer than 200 people have submitted any.
+The potential for “duplicative claims” “hasn’t been a problem in practice.” AB41. The problem isn’t merely “duplicative claims.” It is the high likelihood that Krakauer’s “associated with” approach identified, provided notice to, and permitted recovery for the wrong plaintiffs. We identified two obvious examples (OB35), which Krakauer does not refute.
+In short, the court entered judgment for an 18,000-member class defined as “associated with” numbers, without demanding proof of
+15
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 23 of 46
+anything more. This overbroad class must be decertified and the judgment vacated.
+II.	The Court Failed To Instruct The Jury To Determine
+Whether Each Class Member Received Two Calls Within A Year.
+Some errors are so simple and so fundamental that they require only “a quick” argument. AB39. Such an error occurred here: telling the jury that two calls to the same phone number establishes the statutory requirement of two calls to the same person. OB36-39.
+Krakauer concedes most of the argument. He agrees the TCPA requires each class member to prove, as an element, that she “received more than one telephone call within any 12-month period.” AB7, 27; 47 U.S.C. § 227(c)(5). He agrees that two calls to a phone number is not the same as two calls to a single person because “phone numbers change hands,” AB40; JA147 (Krakauer’s expert), and a different person associated with a single number might pick up each call, AB30. And he agrees that the instructions equated calls to a number with calls received by a single person. AB39.
+Krakauer never explains how that instruction properly stated the law. Instead, he argues that the court had “discretion ... to reserve
+16
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 24 of 46
+class-membership questions for the claims process” by removing all “identity” issues from the trial. AB39. But the two-call requirement is not a “class-membership question”—it is an element of the claim. The Seventh Amendment therefore guaranteed DISH the right to have a jury decide it. City of Monterey v. Del Monte Dunes at Monterey, 526 U.S. 687, 720-21 (1999). And Krakauer does not explain how he could have shown that any single person received two calls without providing evidence of that person’s “identit[y]”—which he acknowledges the jury did not determine. AB40.
+Krakauer faults DISH for not saying “what the instructions ... should have been.” AB40. They should have been what DISH
+proposed: Krakauer must prove that “each prospective class member ... received two such calls.” JA208-09; see JA213-15. But under no circumstances was it proper to forbid the jury from considering whether any particular person received multiple calls. JA274.
+Finally, Krakauer argues that the instruction did not prejudice DISH because the jury “heard expert testimony about the number of calls to each number.” AB39 (emphasis added). That’s the problem. By equating calls to a number with calls to a person, the instruction
+17
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 25 of 46
+directed the jury that Krakauer’s evidence about phone numbers was sufficient, and that it was irrelevant whether different people received each call or “people change[d] phone numbers”—something DISH’s expert testified happens “with significant frequency in the United States.” JA502. That mattered, because Krakauer introduced no evidence that anyone other than him received two calls. OB38. Given this basic instructional error, the verdict must be vacated.
+III. As A Matter Of Law, DISH Is Not Liable For The Calls Made By SSN.
+A.	SSN was not DISH’s agent.
+1. Krakauer’s defense of the legal conclusion that SSN was
+DISH’s agent rests on the wrong standard of review. He repeatedly asserts that this was a question for the jury. E.g., AB4, 42-43. He ignores the numerous cases, including from this Circuit, holding that agency is “a legal question,” warranting de novo review, where, as here, the historical facts are undisputed. OB39 (citing authorities). His own authorities concur. E.g., McKee v. Brimmer, 39 F.3d 94, 96 (5th Cir. 1994); Huggins v. FedEx Ground Package Sys., 592 F.3d 853, 861 (8th Cir. 2010). This rule applies here, because this appeal is about what types of facts demonstrate agency—“about what counts” and what is
+18
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 26 of 46
+legally “irrelevant”—not whether the jury was wrong about any particular historical fact. United States v. Clarke, 573 U.S. 248, 256 (2014).
+2. Krakauer tacitly concedes that no agency relationship arises without both parties’ assent. OB40-41. And he does not deny that the most authoritative evidence of what the parties agreed to—the DISH/SSN contract—repeatedly and expressly rejects any agency relationship: The parties agreed that SSN is an independent contractor and could not “hold itself out” or “represent that it” was DISH’s “agent.” OB42-43. Krakauer also does not dispute that DISH repeatedly and unambiguously reiterated that understanding with SSN. OB43. In fact, Krakauer never points to any assent; the word does not appear in his brief.
+Instead, all Krakauer can say is that contract language is “not dispositive.” AB42 (quoting Robb v. United States, 80 F.3d 884, 893 n.11 (4th Cir. 1996)). But the case Krakauer quotes emphasizes that contract language “demonstrates ... the parties’ ... belie[f] [about the nature of their] relationship.” 80 F.3d at 893 n.11; see id. at 893 (“we can not ignore the clear expression of intent in the MOU”). Thus, as we
+19
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 27 of 46
+explained (OB42-44), “a prominent [agency] disclaimer in a formal governing document” remains “highly significant.” Rankow v. First Chicago Corp., 870 F.2d 356, 360 (7th Cir. 1989); see Logue v. United States, 412 U.S. 521, 530 (1973); Terry v. SunTrust Banks, Inc., 493 F. App’x 345, 355-56 (4th Cir. 2012) (“The language of the Agreement controls ....”). Krakauer does not deny the legal rule that to overcome the parties’ express agreement, he would have to present “clear, unequivocal, and convincing” proof that they intended to override it. Stanley’s Cafeteria, Inc. v. Abramson, 306 S.E.2d 870, 873 (Va. 1983); OB49. Yet again, he simply ignores the rule. And what he points to is legally irrelevant or insufficient to prove agency anyway.5
+
+3. Krakauer’s main argument is that DISH had “control over SSN’s marketing.” AB44 (internal quotation marks omitted). But he ignores blackletter rules on what sort of control counts. Agency entails the power to “supervise[] the [agent’s] ‘day-to-day operations.’” Williams v. United States, 50 F.3d 299, 306 (4th Cir. 1995) (emphasis
+5 Krakauer cites Valenti v. Qualex for the principle that “self-serving characterizations” are not relevant to determining agency. AB42. But Valenti concerns attorney argument in a summary judgment filing, not the contract governing the parties’ relationship. 970 F.2d 363, 367 (7th Cir. 1992).
+20
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 28 of 46
+added); see OB41-42 & n.3 (citing cases). But here, the court explicitly found that “Dish did not own SSN or direct its day-to-day operations.” OB49. He ignores this finding, as well as our detailing of undisputed facts about SSN’s operational independence. OB49-51.
+Instead of trying to show operational control, Krakauer substitutes something else—quality control—which does not create agency. Agency law recognizes that a business must be free to impose “standards ... for acceptable service quality,” Restatement (Third) of Agency § 1.01 cmt. f(1), “without running the risk of transforming [an independent contractor] ... into an agent,” Cislaw v. Southland Corp., 4 Cal. App. 4th 1284, 1289, 1292, 1295 (1992). See PLAC Amicus Br. 5-6; Arguello v. Conoco, 207 F.3d 803, 807-08 (5th Cir. 2000). There are countless relationships where a party authorizing a retailer or franchisee imposes specifications without creating an agency relationship. Restatement (Third) of Agency § 1.01 cmt. c; OB45-46, 48. Sellers often dictate how independent retailers or franchisees must market their products. Think McDonald’s. Its franchise agreement is an encyclopedia of controls governing food quality, preparation, marketing, and presentation. That does not make the franchisee the
+21
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 29 of 46
+company’s agent. Hoffnagle v. McDonald’s Corp., 522 N.W.2d 808, 81011 (Iowa 1994).
+Yet again, Krakauer disputes none of this; he simply ignores our argument that the court erred when it relied on quality control measures to uphold the agency finding. OB45-46, 48. The omission is problematic because (as Krakauer also fails to dispute) nearly everything Krakauer points to is standard quality control.
+To start, Krakauer suggests the jury could have credited “contractual provisions [that] gave DISH substantial control over SSN’s marketing and gave DISH unilateral power to impose additional requirements about telemarketing on SSN.” AB44 (quoting JA584). As the opening brief explains (OB45-48), that misreads the contract—a quintessential legal question that does not go to a jury. The contract merely grants DISH the power to decide what programming packages to sell, and at what price—and requires SSN to properly disclose information to customers. This is classic quality control that cannot create agency. OB47-48. Krakauer fails to address that legal point.
+Elsewhere, Krakauer suggests the parties overrode the contractual disclaimer of agency by allowing DISH to exercise
+22
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 30 of 46
+operational control that is consistent with an agency relationship. Krakauer observes that “Dish wrote, approved, and monitored SSN scripts.” AB44. This too is quintessential quality control.6
+
+Krakauer also points repeatedly to DISH’s agreement with various state attorneys general. E.g., AB2, 4, 18, 44. But the agreement does not show assent to an agency relationship. Indeed, it recognizes that the retailers are “independent.” OB51. Nor does the agreement demonstrate DISH’s right to exercise day-to-day operational control of retailers. OB51-52. DISH merely agreed to require the contractors to comply with the law. JA868-69 §§ 4.74, 4.78. Legal compliance, just another sort of quality control, is a standard contract feature. Those requirements do not establish agency because the
+6 Huggins (cited at AB43) illustrates the operational control that is missing here. There, a company that delivered packages for FedEx was FedEx’s agent only where FedEx (among other things) made company drivers “look and act like FedEx employees”; had carte blanche to administer drug and alcohol tests and to disqualify drivers; required drivers to “submit daily fuel receipts and daily shipping documents to FedEx”; and required the company to use vehicles that “identify the Equipment as part of the [FedEx] system.” 592 F.3d at 859. Here, among other differences, DISH forbade SSN from holding itself out as DISH, and DISH required that callers “MUST identify the company that they work for.” JA967; see JA970; OB43.
+23
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 31 of 46
+“company is not controlling the [contractor], the law is.” FedEx Home Delivery v. NLRB, 563 F.3d 492, 501 (D.C. Cir. 2009).
+4. Beyond quality control, Krakauer recites various other facts that he says show agency. AB44. But each is irrelevant as a matter of law, and they do not clearly and convincingly overcome the parties’ express understanding anyway.
+First, Krakauer notes that “SSN sold only Dish” during the class period. AB44. But that was SSN’s decision; at other points, SSN sold DIRECTV, and there undisputedly was no exclusivity requirement. OB50. This therefore weighs against agency. Leon v. Caterpillar Indus., 69 F.3d 1326, 1330, 1336 (7th Cir. 1995).
+Second, Krakauer contends SSN “had direct access to Dish’s computer system.” AB44. He is referring to a website that retailers use to send DISH customer orders. JA359, 363-64. It’s the same tool that RadioShack and Sears used to enter DISH orders without becoming DISH’s agents. JA362-63. Creating a platform for retailers to conveniently send orders does not create agency.
+Third, Krakauer notes (again, citing no cases) that “Dish allowed
+SSN to use its name and logo.” AB44. DISH did so subject to a
+24
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 32 of 46
+trademark and licensing agreement, JA780, 795, 833, which is unexceptional for independent retailers and franchisees (e.g., McDonald’s), and does not create agency. E.g., Leon, 69 F.3d at 1336.
+Krakauer simply did not come close to showing that the parties nullified the plain language of their agreement and sub silentio created an agency relationship.
+B.	Even if SSN were DISH’s agent, it exceeded its authority.
+There is an even simpler reason why DISH cannot be liable for SSN’s calls: Even if SSN were DISH’s agent, it grossly exceeded any authority it had when it contravened DISH’s express orders and made calls violating the TCPA. OB52-56. This too is a question of law, for there are two legal rules (recited at OB52-54) that Krakauer does not dispute. One is this: “[C]rimes and torts” are not within the scope of an agent’s authority except in the rare situation where the principal issued clear instructions to break the law. Restatement (Third) of Agency § 2.02 cmt. h.
+The legal rule is especially emphatic here because, as Krakauer cannot dispute, DISH contractually obligated SSN to comply with the law and insistently repeated the direction. JA781; OB53. That triggers
+25
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 33 of 46
+the second legal rule: Where the principal “expressly prohibit[s]” illegal telemarketing, and does not later expressly “contradict[]” that proscription, there can be no authority and therefore no liability. Jones v. Royal Admin. Servs., 887 F.3d 443, 449-50 (9th Cir. 2018); see Bridgeview Health Care Ctr. v. Clark, 816 F.3d 935, 939 (7th Cir. 2016) (conduct is unauthorized where it “expressly contradict[s]” “actual instructions”).
+Krakauer adopts a legal theory at war with both rules when he derides DISH’s commands as “‘lip service’” and asserts that DISH “acquiesced” in SSN’s violations. AB45 (quoting JA570); see JA585-86. In other words, he claims that DISH implicitly overrode its explicit prohibition of unlawful telemarketing. That’s not enough. To be sure, a principal can be responsible for an agent’s past violation if the principal ratifies it. But that requires a “manifestation of assent to be bound by the prior act.” Restatement (Third) of Agency § 4.01 cmt. b. The district court shut down that ratification theory on summary judgment for lack of any such manifestation, which Krakauer does not challenge. JA204.
+26
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 34 of 46
+To reject Krakauer’s acquiescence theory, this Court need look only to Krakauer himself. OB7-8, 53-54. Krakauer does not dispute that after he complained to DISH about SSN’s call, DISH forbade SSN from calling him again, effective “immediately.” JA1048. He does not identify any evidence that DISH even suggested—much less clearly communicated—that it actually did want SSN to call Krakauer again. Krakauer says not one word about this. See generally AB44-46. This forfeiture is dispositive. As the court instructed (and Krakauer does not dispute), if Krakauer’s claim fails, the class’s claims fail. JA511; OB53-54.
+Even if it were permissible to transcend Krakauer’s individual facts, nowhere does the record reflect the requisite clear instruction to violate the law, much less a contradiction of DISH’s explicit command not to. OB53-55. Krakauer cites no case holding that such a countermand could be divined from silence. At a minimum, Krakauer would have to show, as the district court held, that DISH knew of prior bad acts “and consented or did not object to them.” JA586. Krakauer points to not a single instance of either.
+27
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 35 of 46
+Krakauer repeatedly emphasizes a DISH email acknowledging that “SSN is a problem because we know what he is doing and have cautioned him to stop.” AB10, 1, 52 (quoting JA884). “Caution[ing] him to stop” is the opposite of directing him to continue. Moreover, the email is from September 2005—five years before the class period—and it turned out that the calls that prompted it were not even from SSN. JA1029-30. What’s more, the email concerns “autodialers and automessages,” JA1031, which SSN had recently stopped using, JA365, 572, 840. And DISH threatened SSN with “termination” when it discovered isolated Registry calls—hardly the hallmark of acquiescence. JA1016, 1018.
+Elsewhere, Krakauer relies on complaints about SSN that DISH received from Krakauer and Campbell. AB11-13. He asserts that DISH “simply kicked the complaint over to SSN” and “rewarded SSN with ‘incentive trip[s].’” AB11. That is simply untrue. As the opening brief explains, DISH investigated why SSN made the calls. OB7-8, 7071. SSN replied that the calls fell within a statutory exception. Id. DISH then urged SSN to verify this with counsel. JA1039. And DISH learned of no other mistaken calls after it admonished SSN. OB71. As
+28
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 36 of 46
+for the “trip,” it occurred years before the calls to Krakauer and Campbell. JA1008.
+* * *
+At bottom, Krakauer’s argument is that DISH could have done more. The FCC is free to adopt new rules requiring more. But the current rules absolve DISH of liability, unless SSN was an agent acting within the scope of its charge. None of what Krakauer points to, even if true, can turn SSN into an agent or turn a command not to violate the law into a direction to violate it.
+IV. The Treble-Damages Award Must Be Overturned.
+The treble damages must be vacated if not reversed outright. The
+district court applied the wrong legal standard—twice over—and the
+evidence is legally insufficient to punish DISH for SSN’s conduct. OB57-73.
+A.	The court applied the wrong standards.
+1. Our opening brief cited two Supreme Court cases confirming
+the common-law rule that a principal (like DISH) is not subject to vindictive damages for its agent’s willful acts. OB58-59. Krakauer
+invokes Louis Pizitz Dry Goods v. Yeldell, 274 U.S. 112 (1927), to
+29
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 37 of 46
+suggest otherwise. Granted, Yeldell held that states may hold principals vicariously liable for punitive remedies without violating due process, but it confirms that Lake Shore & Mich. S. Ry. v. Prentice states the federal rule, id. at 114-15, which is that “[g]uilty intention on the part of the defendant is required in order to charge him with exemplary or punitive damages.” 147 U.S. 101, 107 (1893). “[The] Court historically has endorsed” this principle. Kolstad v. Am. Dental Ass’n, 527 U.S. 526, 541 (1999).
+Krakauer does not dispute that Congress is presumed to have adopted the federal common-law rule. But he suggests the TCPA’s text overcame that presumption. AB47. He points to § 227(c)(5), which establishes liability for calls made “by or on behalf of the same entity” (emphasis added). But that provision governs direct liability. The treble-damages provision is different—like the common law, it requires that “the defendant willfully or knowingly violated the” TCPA. Id.
+§ 227(c)(5)(C) (emphasis added). The FCC decision that Krakauer cites (AB51) similarly concerns direct liability, not treble damages, and even
+in that context, the FCC declined to find that the “on-behalf-of”
+30
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 38 of 46
+language established a “broader standard of vicarious liability.” In re Joint Pet. Filed by DISH Network, 28 FCC Rcd. 6574, 6585-86 (2013).
+Alternatively, Krakauer tries to recast the common-law rule, asserting that it applies only when the principal “engage[s] in good faith efforts to ensure compliance.” AB48. There is no such rule. Krakauer cites Kolstad, but Kolstad could not be clearer that willfulness requires that the defendant itself engaged in “reckless disregard of federally protected rights.” 527 U.S. at 544; see The Amiable Nancy, 16 U.S. 546, 558 (1818) (no mention of good faith).
+2. The court also erred in holding that DISH’s own conduct merited treble damages. JA571. It legally erred by (a) applying a negligence standard, and (b) improperly assuming DISH had a duty to monitor SSN. OB60-63.
+Krakauer agrees that negligence is the wrong standard. AB48-49 (citing Safeco’s recklessness standard). He does not dispute that the court’s “should have known” standard is the classic negligence formulation. OB61; JA569. That, alone, requires a remand. Raleigh Wake Citizens Ass’n v. Wake Cty. Bd. of Elections, 827 F.3d 333, 345 (4th Cir. 2016).
+31
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 39 of 46
+Moreover, the court erred by repeatedly relying on the conclusion that DISH failed to adequately monitor and investigate SSN. Krakauer does not dispute that there is no obligation to monitor absent a duty to do so. Restatement (Second) of Torts §§ 284, 314. He does not dispute that the court erred in deriving that duty from the voluntary agreement with state attorneys general. OB62-63. Instead, in the most important sentence of his argument, Krakauer glibly asserts that “[t]he duty here is obvious: comply with the TCPA, and ensure that agents acting in the scope of their agency do the same.” AB49 (emphasis added). Obvious how?
+Certainly, the statute creates no such duty. Congress made “establish[ing] and implement[ing] ... reasonable practices and procedures to effectively prevent” TCPA violations an affirmative defense to TCPA liability, but never suggested that failing to do so creates TCPA liability, much less for enhanced damages. 47 U.S.C. § 227(c)(5)(C). In the cases Krakauer cites, by contrast, willfulness required a failure to act in the face of a clear duty to do so. AB4 (citing
+32
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 40 of 46
+Redman v. RadioShack Corp., 768 F.3d 622, 638 (7th Cir. 2014)); AB49 (citing United States v. Blankenship, 846 F.3d 663, 671 (4th Cir. 2017)).7
+
+B.	DISH did not willfully violate the TCPA.
+Alternatively, the Court should reverse the treble-damages award
+outright because DISH’s conduct was not willful as a matter of law. OB63-72.
+1.	DISH had an objectively reasonable belief that it was complying with the TCPA.
+Everyone agrees that there is no willfulness if it was reasonable to believe that the TCPA imposed no liability. OB63-64; AB51; Safeco Ins. Co. of Am. v. Burr, 551 U.S. 47, 70 (2007); Berry v. Schulman, 807 F.3d 600, 605 (4th Cir. 2015). That conclusion was reasonable for two reasons. OB64-66.
+First, as explained above (at 18-29), it was objectively reasonable to conclude that SSN was not DISH’s agent. Krakauer does not argue
+7 Krakauer also argues that the district court found a knowing violation. AB50. But the court’s order addressed only “the willfulness of DISH’s conduct.” JA571. Moreover, Krakauer points only to statements that DISH knew about possible past transgressions by SSN. A knowing violation, however, requires knowledge of “the conduct that violates the statute.” Lary v. Trinity Physician Fin. & Ins. Servs., 780 F.3d 1101, 1107 (11th Cir. 2015).
+33
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 41 of 46
+otherwise. Cf. AB51-52. Nor could he, given (1) the plain language of the agreement, supra 19; (2) the fact that, before the class period, a district court had held in a TCPA case that DISH’s Retailer Agreement created no agency relationship, OB66; cf. Zhu v. DISH Network LLC, 808 F. Supp. 2d 815, 817-18 (E.D. Va. 2011) (Virginia TCPA analogue); and (3) that SSN was disregarding DISH’s clear instructions when it called Registry numbers, including Krakauer’s. This alone forecloses treble damages.
+Second, at the time of the calls, the scope of a seller’s obligations under the TCPA was unclear. Krakauer contends that the TCPA’s words “on behalf of” dispel all doubt, AB51, but the Sixth Circuit thought otherwise—it referred the question to the FCC. Charvat v. EchoStar Satellite, LLC, 630 F.3d 459, 465-66 (6th Cir. 2010). The FCC also disagreed—it thought the TCPA’s text supplied no “clear answer,” 28 FCC Rcd. at 6582. While some courts had indicated the possibility of vicarious liability, principally regarding the TCPA’s separate junk-fax provision, none had imposed liability on this basis (except where the
+34
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 42 of 46
+seller explicitly directed the violation).8 In short, DISH’s understanding has the requisite “foundation in the statutory text.” Safeco, 551 U.S. at 69-70. That objectively reasonable interpretation foreclosed punitive damages.
+2.	DISH disregarded no substantial risk that SSN was placing tens of thousands of Registry calls in 2010 and 2011.
+Finally, damages cannot be trebled because DISH did not recklessly disregard a risk that SSN was committing widespread TCPA violations. OB66-72. Krakauer does not dispute that, because damages were trebled for all violations, he had to show recklessness for all of them. See generally AB48-52.
+The opening brief details the record showing that DISH did not recklessly disregard any widespread risk. It is undisputed, for instance, that DISH received only five Registry-related complaints between SSN’s management change in 2006 and the class period. OB69. Krakauer offers no serious response. AB52. He does not respond to unrefuted
+8 E.g., Glen Ellyn Pharmacy v. Promius Pharma, LLC, 2009 WL 2973046, at *1, 3 (N.D. Ill. Sept. 11, 2009). The opening brief was imprecise in stating that no court held that a seller like DISH “could be” liable. OB65. Rather, no court had imposed liability.
+35
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 43 of 46
+
+testimony that one complaint a year—out of millions of calls—evidences TCPA compliance. OB67. He simply declares that “Dish plainly knew all it needed to know.” AB52. But what evidence establishes that DISH recklessly disregarded the substantial likelihood of widespread violations? Krakauer offers only sound bites.
+He cites (for the third time) a 2005 DISH email. AB52. But again, that email was five years before the class period, it was not prompted by SSN calls, and it addressed robocalling that SSN had ceased. Supra 28-29. He cites an email from a paralegal that indicates—at most—that DISH sent letters to SSN. AB52 (citing JA888-89). But of course DISH sent such letters to inform the company that made the call and was liable for it. That shows diligence. Nothing about these snippets demonstrates a substantial risk of widespread violations, and they do not remotely justify an additional $40 million in liability.
+The treble-damages award must be reversed.
+
+36
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 44 of 46
+CONCLUSION
+The judgment should be reversed. At a minimum, the treble-
+
+damages award must be set aside.
+Respectfully submitted,
+/s/ Eric A. Shumsky
+Eric A. Shumsky Kelsi Brown Corkran Jeremy R. Peterman ORRICK, HERRINGTON &
+SUTCLIFFE LLP 1152 15th Street Washington, DC 20005 (202) 339-8400
+Paul David Meyer
+ORRICK, HERRINGTON &
+SUTCLIFFE LLP 405 Howard Street San Francisco, CA 94105 (415) 773-5700
+Counsel for Defendant-Appellant
+February 19, 2019
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 45 of 46
+CERTIFICATE OF COMPLIANCE
+This brief complies with the type-volume limitation of Fed. R. App. P. 32(a)(7)(B)(ii), as enlarged by order of this Court dated February 8, 2019, Doc. 69 (permitting brief not in excess of 7,000 words), because this brief contains 6,964 words, excluding the parts of the brief exempted by Fed. R. App. P. 32(f).
+This brief complies with the typeface requirements of Fed. R. App. P. 32(a)(5) and the type-style requirements of Fed. R. App. P. 32(a)(6) because this brief has been prepared in a proportionally spaced typeface using Microsoft Word 2013 in Century Schoolbook 14-point font.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky 
+Eric A. Shumsky
+Counsel for Defendant-Appellant
+
+USCA4 Appeal: 18-1518	Doc: 76	Filed: 02/19/2019	Pg: 46 of 46
+CERTIFICATE OF SERVICE
+I hereby certify that I electronically filed the foregoing with the
+Clerk of the Court for the United States Court of Appeals for the Fourth
+Circuit by using the appellate CM/ECF system on February 19, 2019.
+I certify that all participants in the case are registered CM/ECF users and that service will be accomplished by the appellate CM/ECF system.
+ORRICK, HERRINGTON & SUTCLIFFE LLP
+/s/ Eric A. Shumsky
+Eric A. Shumsky
+Counsel for Defendant-Appellant
