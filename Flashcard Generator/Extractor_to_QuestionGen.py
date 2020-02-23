@@ -1,6 +1,12 @@
 import Extractor as ex
 import question_generator as gen
 
+# To speed up script, start servers:
+##bash runStanfordParserServer.sh
+##bash runSSTServer.sh
+
+
+
 #Dish sample
 #direct_path = ""
 
@@ -10,10 +16,9 @@ direct_path = ''
 with open(direct_path, 'r') as file:
     brief = file.read()
 
-
 test = ex.Extractor(brief)
 qGen = gen.QuestionGenerator()
-
+test.fix_pronouns(silence=1)
 sentences = test.get_sentences()
 
 for sentence in sentences:

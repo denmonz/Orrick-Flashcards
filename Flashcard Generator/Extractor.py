@@ -10,6 +10,7 @@ import lexnlp.extract.en.definitions as lex_definitions
 import lexnlp.extract.en.regulations as lex_regulations
 import lexnlp.extract.en.trademarks as lex_trademarks
 import lexnlp.extract.en.entities.nltk_maxent as lex_entities
+import Coreference as pronouns
 
 
 
@@ -37,7 +38,7 @@ class Extractor:
     # Tokenize the Document
     def init_tokenize(self, text = None):
         if not text:
-            text = self.text           
+            text = self.text
         self.sections = self.get_sections(text)
         self.paragraphs = self.get_paragraphs(text)
         self.sentences = self.get_sentences(text)
@@ -52,7 +53,14 @@ class Extractor:
         self.text = self.init_preprocess(text)
         return 
 
-
+    # Fix Coreference Issues
+    def fix_pronouns(self, text=None, silence=0):
+        if not text:
+            text = self.text
+        self.sentences = pronouns.fix_pronouns(text)
+        if silence!=0:
+            print(self.sentences)
+        return
 
     '''
     Functions: Tokenize The Document
@@ -164,7 +172,7 @@ class Extractor:
         return result
 
 
-    # Returns page locations for entity
+    # Returns section locations for entity
     def locate_sections(self, entity):
         if not self.sections:
             self.init_preprocess()
