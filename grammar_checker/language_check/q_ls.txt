@@ -1,0 +1,8 @@
+'What is H20?',
+'Can this Java-program be written better?',
+'Who teaches Java at teamtreehouse?',
+'Which Countries share a border with Switzerland?',
+'What is our group name?',
+'Who was the 3rd president of the United States?',
+'Which law school?',
+'Which law school do you attend?'
