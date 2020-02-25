@@ -1,10 +1,16 @@
 from app import app
+from flask import request
 import lexnlp.nlp.en.segments.sentences as lex_sentences
 import lexnlp.extract.en.dates as lex_dates
 
 @app.route('/')
 @app.route('/index')
 def index():
+    return "this is a test ayy"
+
+@app.route('/date')
+def date():
+
     sample = '''
 STATEMENT OF ISSUES 
 1. As the Board recognized, the most important bargaining issue between DISH and the union was QPC. DISH was clear that it would not agree to retain QPC in any form. Following lengthy and unsuccessful negotiations, the union insisted on keeping QPC. DISH made and then implemented its last, best, and final offer. 
@@ -42,7 +48,8 @@ Collective bargaining between DISH and the Union began in July 2010, ROA.2168, a
     r = ''
 
     for fact in facts:
-        r += "Question:\nWhy is {} significant?\n\nAnswer:\n{}".format(str(fact[0]), fact[1])
-        r += '\n'
+        # print('i ran')
+        
+        r = r + "Question:\nWhy is {} significant?\n\nAnswer:\n{}".format(str(fact[0]), fact[1])
 
     return r
