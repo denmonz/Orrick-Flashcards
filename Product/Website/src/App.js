@@ -1,6 +1,6 @@
 import React, {useCallback, useState} from 'react'
 import {useDropzone} from 'react-dropzone'
-import {AppBar, Toolbar, Typography, IconButton, Card, CardContent} from '@material-ui/core';
+import {AppBar, Toolbar, Typography, IconButton, Card, CardContent, Button} from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import GetAppIcon from '@material-ui/icons/GetApp';
 import './App.css';
@@ -105,6 +105,21 @@ function MyDropzone({upload, setUpload}) {
   ) 
 }
 
+function DemoCard() {
+  return (
+    <React.Fragment>
+      <Card style={{width:'80%',marginTop: '2%', marginLeft: '5%',padding: '5%', flex: 1, flexDirection: 'row'}}>
+        {/* <Card style={{flex:1}}> */}
+          <Typography style={{textAlign:'left',flex:1}}>Sample Question: What is important?</Typography>
+        {/* </Card>
+        <Card style={{flex:1}}> */}
+          <Typography style={{textAlign:'right',flex:1}}>Sample Answer: This is important!</Typography>
+        {/* </Card> */}
+      </Card>
+    </React.Fragment>
+  )
+}
+
 function App() {
   const [upload, setUpload] = useState('')
 
@@ -124,6 +139,8 @@ function App() {
           </Typography>
         </CardContent>
       </Card>
+      <Button variant='contained' style={{margin: '1%'}}>Download as PDF</Button>
+      <DemoCard/>
     </React.Fragment>
   );
 }
