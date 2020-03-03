@@ -1,7 +1,8 @@
 ### Potential Rule-based Question Filters ###
 # Gathering rule-based filtering functions
+# Potentially implement these in main.py
 
-def rm_2_short(ques_ls):
+def rm_2_short(question_list):
 '''
 # input string[]: a python list of questions 
 # output string[]: a list of filtered questions 
@@ -10,14 +11,14 @@ def rm_2_short(ques_ls):
 	- remove ones shorter than a length of 8 (worst case: "Who is ?")
 	- remove non-sense questions generated from our system (e.g. "What 345?")
 '''
-	for ques in ques_ls:
-		if len(questions) <= 8:
-			ques_ls.remove(ques)
-		if len(question.split()) <= 2:
-			ques_ls.remove(ques)
-	return ques_ls
+	for ques in question_list:
+		if len(ques) <= 8:
+			question_list.remove(ques)
+		if len(ques.split()) <= 2:
+			question_list.remove(ques)
+	return question_list
 
-def rm_ques_mark(ques_ls)
+def rm_ques_mark(question_list)
 '''
 # input string[]: a python list of questions 
 # output string[]: a list of filtered questions 
@@ -31,4 +32,4 @@ def rm_ques_mark(ques_ls)
 '''
 	for question in question_list:
 		question = question.strip('?')
-	return ques_ls
+	return question_list
