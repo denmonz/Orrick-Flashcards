@@ -62,4 +62,4 @@ Unidecode = "==0.4.21"
 sklearn = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.8"
