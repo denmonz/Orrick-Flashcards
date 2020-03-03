@@ -5,14 +5,16 @@ def rm_2_short(ques_ls):
 '''
 # input string[]: a python list of questions 
 # output string[]: a list of filtered questions 
-# purpose: remove questions that only consist of 2 terms 
-	- questions that short are most likely to be bad
-	- e.g. remove non-sense questions such as e.g. "What 345?" genearted
-	from our system
+# purpose: remove questions that are too short (likely to be bad):
+	- remove ones consisted of 2 terms
+	- remove ones shorter than a length of 8 (worst case: "Who is ?")
+	- remove non-sense questions generated from our system (e.g. "What 345?")
 '''
 	for ques in ques_ls:
+		if len(questions) <= 8:
+			ques_ls.remove(ques)
 		if len(question.split()) <= 2:
-			question_list.remove(question1)
+			ques_ls.remove(ques)
 	return ques_ls
 
 def rm_ques_mark(ques_ls)
