@@ -1,34 +1,74 @@
-#Speedup: bash runStanfordParserServer.sh, bash runSSTServer.sh
-
+# you may need to pip install python-docx
+import ParseDocx
+import os
 import sys
-import pip
-import spacy
-import neuralcoref
-import lexnlp.nlp.en.segments.sentences as lex_sentences
-import question_generator as gen
+
+# Put direct path to word doc here, or pass as command line argument
+word_doc = ''
+if len(sys.argv)>1:
+    word_doc = sys.argv[1]
+
+#Flashcard Generation
+def process(input_directory, input_file, section_name):
+    #Speedup: bash runStanfordParserServer.sh, bash runSSTServer.sh
+
+    import sys
+    import pip
+    import spacy
+    import neuralcoref
+    import lexnlp.nlp.en.segments.sentences as lex_sentences
+    import question_generator as gen
+    import csv
+    import time
+
+    #Load
+    start_time = time.time()
+    with open(input_file, 'r') as file:
+        brief = file.read()
+    print("--- %s seconds to Load ---" % (time.time() - start_time))
+
+    #Preprocess
+    ##start_time = time.time()
+    ##brief = lex_sentences.pre_process_document(brief)
+    ##print("--- %s seconds to LexNLP Preprocess---" % (time.time() - start_time))
+
+    start_time = time.time()
+    pronouns = spacy.load('en')
+    neuralcoref.add_to_pipe(pronouns,greedyness=0.5,max_dist=100,blacklist=False)
+    neural = pronouns(brief)
+    brief = neural._.coref_resolved
+    print("--- %s seconds to Pronoun Fix ---" % (time.time() - start_time))
+
+    #Tokenize
+    start_time = time.time()
+    sentences = list(lex_sentences.get_sentence_list(brief))
+    questions = gen.QuestionGenerator()
+    print("--- %s seconds to Tokenize ---" % (time.time() - start_time))
+
+    #Print
+    start_time = time.time()
+    with open(input_directory+"/"+section_name+'.csv', 'w') as csvfile:
+        qawriter = csv.writer(csvfile)
+        qawriter.writerow(["Q", "A"])
+        for sentence in sentences:
+                flashcard = questions.generate_question(sentence)
+                if flashcard:
+                    qawriter.writerow([flashcard[0]['Q'], flashcard[0]['A']])
+    print("--- %s seconds to Generate Questions ---" % (time.time() - start_time))
 
 
-#Load
-direct_path = ''
-with open(direct_path, 'r') as file:
-    brief = file.read()
+#Parse and Process
+ParseDocx.ParseDocx(word_doc)
 
+new_folder = os.path.splitext(os.path.basename(word_doc))[0]
+direc =os.path.dirname(word_doc)
+parsed_directory = direc + "/" + new_folder
 
-#Preprocess
-brief = lex_sentences.pre_process_document(brief)
-pronouns = spacy.load('en')
-neuralcoref.add_to_pipe(pronouns,greedyness=0.5,max_dist=100,blacklist=False)
-neural = pronouns(brief)
-brief = neural._.coref_resolved
+file_names = os.listdir(parsed_directory)
+full_paths = []
+for file in file_names:
+    full_paths.append((parsed_directory+"/"+file, file[:-4]))
 
-
-#Tokenize
-sentences = list(lex_sentences.get_sentence_list(brief))
-questions = gen.QuestionGenerator()
-
-
-#Print
-for sentence in sentences:
-        flashcard = questions.generate_question(sentence)
-        if flashcard:
-            print("Question: {}\n\nAnswer: {}\n-------------\n".format(flashcard[0]['Q'], flashcard[0]['A']))
+csv_dir = parsed_directory+"/"
+for file in full_paths:
+    process(csv_dir, file[0], file[1])
