@@ -1,3 +1,8 @@
+'''
+Run Main.py with path to Word Document as a
+command line argument. Will output parsed brief & CSV flashcards
+in subfolder w/ your word doc
+'''
 # you may need to pip install python-docx
 import ParseDocx
 import os
