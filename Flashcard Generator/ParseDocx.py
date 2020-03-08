@@ -1,13 +1,14 @@
 import docx
-import os
+# import os
 
 def ParseDocx(docxPath):
     f = open(docxPath, 'rb')
     document = docx.Document(f)
     f.close()
 
-    txt_file_names = []
-    txt_file_contents = []
+    section_dictionary = {}
+    # txt_file_names = []
+    # txt_file_contents = []
 
     # Retrieve JURISDICTION Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "JURISDICTION"), None)
@@ -15,8 +16,9 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("JURISDICTION.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("JURISDICTION.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["JURISDICTION"] = paragraph_text
 
     # Retrieve COUNTERSTATEMENT OF THE ISSUES Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "COUNTERSTATEMENT OF THE ISSUES"), None)
@@ -24,8 +26,10 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("COUNTERSTATEMENT OF THE ISSUES.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("COUNTERSTATEMENT OF THE ISSUES.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["COUNTERSTATEMENT OF THE ISSUES"] = paragraph_text
+
 
     # Retrieve STATEMENT OF THE CASE Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "STATEMENT OF THE CASE"), None)
@@ -33,8 +37,9 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("STATEMENT OF THE CASE.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("STATEMENT OF THE CASE.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["STATEMENT OF THE CASE"] = paragraph_text
 
     # Retrieve STATEMENT OF ISSUES Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "STATEMENT OF ISSUES"), None)
@@ -42,8 +47,9 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("STATEMENT OF ISSUES.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("STATEMENT OF ISSUES.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["STATEMENT OF ISSUES"] = paragraph_text
 
     # Retrieve SUMMARY OF ARGUMENT Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "SUMMARY OF ARGUMENT"), None)
@@ -51,8 +57,9 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("SUMMARY OF ARGUMENT.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("SUMMARY OF ARGUMENT.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["SUMMARY OF ARGUMENT"] = paragraph_text
 
     # Retrieve STANDARD OF REVIEW Section
     start_idx = next((i for i,v in enumerate(document.paragraphs) if v.text == "STANDARD OF REVIEW"), None)
@@ -60,8 +67,9 @@ def ParseDocx(docxPath):
         start_idx += 1
         end_idx = start_idx + next((i for i,v in enumerate(document.paragraphs[start_idx:]) if v.text.isupper()))
         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-        txt_file_names.append("STANDARD OF REVEIW.txt")
-        txt_file_contents.append(paragraph_text)
+        # txt_file_names.append("STANDARD OF REVEIW.txt")
+        # txt_file_contents.append(paragraph_text)
+        section_dictionary["STANDARD OF REVIEW"] = paragraph_text
 
     # Retrieve ARGUMENT Sections
     arg_number = 1
@@ -82,8 +90,9 @@ def ParseDocx(docxPath):
                         end_idx += start_idx
                     if end_idx != None:
                         paragraph_text = ' '.join([x.text for x in document.paragraphs[start_idx:end_idx]])
-                        txt_file_names.append("ARGUMENT {}.txt".format(roman_num))
-                        txt_file_contents.append(paragraph_text)
+                        # txt_file_names.append("ARGUMENT {}.txt".format(roman_num))
+                        # txt_file_contents.append(paragraph_text)
+                        section_dictionary["ARGUMENT " + roman_num] = paragraph_text
                         arg_number += 1
                         start_idx = end_idx
                     else:
@@ -91,14 +100,16 @@ def ParseDocx(docxPath):
             else:
                 start_idx = None
 
-    dir = os.path.dirname(docxPath)
-    new_folder = os.path.splitext(os.path.basename(docxPath))[0]
-    if not os.path.exists(dir + "/" + new_folder):
-        os.makedirs(dir + "/" + new_folder)
-    for filename, filecontents in zip(txt_file_names, txt_file_contents):
-        f = open(dir + "/" + new_folder + "/" + filename, "w")
-        f.write(filecontents)
-        f.close()
+    # dir = os.path.dirname(docxPath)
+    # new_folder = os.path.splitext(os.path.basename(docxPath))[0]
+    # if not os.path.exists(dir + "/" + new_folder):
+    #     os.makedirs(dir + "/" + new_folder)
+    # for filename, filecontents in zip(txt_file_names, txt_file_contents):
+    #     f = open(dir + "/" + new_folder + "/" + filename, "w")
+    #     f.write(filecontents)
+    #     f.close()
+
+    return section_dictionary
 
 def int2roman(number):
     """Code retrieved from: https://www.daniweb.com/programming/software-development/code/216865/roman-numerals-python"""
@@ -112,7 +123,7 @@ def int2roman(number):
     return result
 
 def main():
-    ParseDocx("")
+    return ParseDocx("")
 
 if __name__ == "__main__":
     main()
