@@ -1,25 +1,10 @@
-import React, {useCallback, useState} from 'react'
+import React, {useCallback, useState, createRef} from 'react'
 import {useDropzone} from 'react-dropzone'
-import {AppBar, Toolbar, Typography, IconButton, Card, CardContent, Button} from '@material-ui/core';
+import {AppBar, Toolbar, Typography, IconButton, Card, CardContent, Button, Grid, Tabs, Tab, Switch, FormGroup, FormControlLabel } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import GetAppIcon from '@material-ui/icons/GetApp';
 import './App.css';
-import firebase from 'firebase/app';
-import 'firebase/database';
-
-const firebaseConfig = {
-  apiKey: "AIzaSyBRgb3Ed9B9bg_dXi_VtMpoT3Ezr_MK83A",
-  authDomain: "orrick-flashcards.firebaseapp.com",
-  databaseURL: "https://orrick-flashcards.firebaseio.com",
-  projectId: "orrick-flashcards",
-  storageBucket: "orrick-flashcards.appspot.com",
-  messagingSenderId: "744134644092",
-  appId: "1:744134644092:web:a557f652b0d0ca6d6594f9"
-};
-
-firebase.initializeApp(firebaseConfig);
-
-const db = firebase.database().ref();
+import sampledata from './sampledata';
 
 var mammoth = require("mammoth");
 
@@ -27,12 +12,17 @@ const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1,
   },
-  menuButton: {
-    marginRight: theme.spacing(2),
-  },
   title: {
     flexGrow: 1,
   },
+  card: {
+    width:'80%',
+    marginTop: '2%', 
+    marginLeft: '5%',
+    padding: '5%', 
+    flex: 1, 
+    flexDirection: 'row'
+  }
 }));
 
 function ButtonAppBar() {
@@ -52,7 +42,7 @@ function ButtonAppBar() {
 }
 
 
-function MyDropzone({upload, setUpload}) {
+function MyDropzone({upload, setUpload, display, setDisplay}) {
   var text = '';
   var messages = '';
 
@@ -79,6 +69,7 @@ function MyDropzone({upload, setUpload}) {
             })
             .done(function() {
               setUpload(text);
+              setDisplay(true);
               console.log(text)
               console.log(messages)
             });
@@ -105,28 +96,199 @@ function MyDropzone({upload, setUpload}) {
   ) 
 }
 
-function DemoCard() {
+function Flashcard({qna, quiz}) {
+  const classes = useStyles();
+  const [value, setValue] = useState(0);
+  const [key, setKey] = useState(Object.keys(qna));
+  const [currval, setCurrval] = useState(0);
+
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
+  
+  if (quiz === true) {
+    return(
+      <React.Fragment>
+      <Tabs value={value} onChange={handleChange} >
+        <Tab label="All" index={0}/>
+        {key.map((r, index) => 
+          <Tab label={r} index={index+1}/>
+          )}
+      </Tabs>
+      {value === 0 ? <AllQuiz qna={qna}/> : null}
+      {key.map((r,index) => {
+        if (value === index +1) {
+          console.log(r)
+          return (
+            <FilterQuiz filter={r} qna={qna}/>
+          )
+        }
+        else {
+          return null
+        }
+      })}
+    </React.Fragment>
+    )
+  }
+  else {
+    return(
+      <React.Fragment>
+        <Tabs value={value} onChange={handleChange} >
+          <Tab label="All" index={0}/>
+          {key.map((r, index) => 
+            <Tab label={r} index={index+1}/>
+            )}
+        </Tabs>
+        {value === 0 ? <AllCard qna={qna}/> : null}
+        {key.map((r,index) => {
+          if (value === index +1) {
+            console.log(r)
+            return (
+              <FilterCard filter={r} qna={qna}/>
+            )
+          }
+          else {
+            return null
+          }
+        })}
+      </React.Fragment>
+    )
+  }
+}
+
+function AllQuiz({qna}) {
+  const classes = useStyles();
+  const key = Object.keys(qna)
+  const [flip, setFlip] = useState(false)
+
+  const handleFlip = () => {
+    if (flip === false) {
+      setFlip(true)
+    }
+    else {
+      setFlip(false)
+    }
+  }
+
   return (
     <React.Fragment>
-      <Card style={{width:'80%',marginTop: '2%', marginLeft: '5%',padding: '5%', flex: 1, flexDirection: 'row'}}>
-        {/* <Card style={{flex:1}}> */}
-          <Typography style={{textAlign:'left',flex:1}}>Sample Question: What is important?</Typography>
-        {/* </Card>
-        <Card style={{flex:1}}> */}
-          <Typography style={{textAlign:'right',flex:1}}>Sample Answer: This is important!</Typography>
-        {/* </Card> */}
-      </Card>
+      <Grid container style={{flexGrow: 1}} spacing={1}>
+        {key.map(k =>
+          qna[k].map(r => 
+            <React.Fragment>
+            <Grid item xs={12}>
+              <Card className={classes.card} onClick={handleFlip}>
+                {flip ? <Typography>{r.answer}</Typography> : <Typography>{r.question}</Typography>}
+              </Card>
+            </Grid>
+          </React.Fragment> 
+        ))}
+      </Grid>
+    </React.Fragment>
+  )
+}
+
+function FilterQuiz({filter, qna}) {
+  const classes = useStyles();
+  const [flip, setFlip] = useState(false)
+
+  const handleFlip = () => {
+    if (flip === false) {
+      setFlip(true)
+    }
+    else {
+      setFlip(false)
+    }
+  }
+
+  return (
+    <React.Fragment>
+      <Grid container style={{flexGrow: 1}} spacing={1}>
+        {qna[filter].map(r =>
+          <React.Fragment>
+            <Grid item xs={12}>
+              <Card className={classes.card} onClick={handleFlip}>
+              {flip ? <Typography>{r.answer}</Typography> : <Typography>{r.question}</Typography>}
+              </Card>
+            </Grid>
+          </React.Fragment> 
+        )}
+      </Grid>
+    </React.Fragment>
+  )
+}
+
+function AllCard({qna}) {
+  const classes = useStyles();
+  const key = Object.keys(qna)
+
+  return (
+    <React.Fragment>
+      <Grid container style={{flexGrow: 1}} spacing={1}>
+        {key.map(k =>
+          qna[k].map(r => 
+            <React.Fragment>
+            <Grid item xs={6}>
+              <Card className={classes.card}>
+                  <Typography>{r.question}</Typography>
+              </Card>
+            </Grid>
+            <Grid item xs={6}>
+              <Card className={classes.card}>
+                  <Typography>{r.answer}</Typography>
+              </Card>
+            </Grid>
+          </React.Fragment> 
+        ))}
+      </Grid>
+    </React.Fragment>
+  )
+}
+
+function FilterCard({filter, qna}) {
+  const classes = useStyles();
+
+  return (
+    <React.Fragment>
+      <Grid container style={{flexGrow: 1}} spacing={1}>
+        {qna[filter].map(r =>
+          <React.Fragment>
+            <Grid item xs={6}>
+              <Card className={classes.card}>
+                  <Typography>{r.question}</Typography>
+              </Card>
+            </Grid>
+            <Grid item xs={6}>
+              <Card className={classes.card}>
+                  <Typography>{r.answer}</Typography>
+              </Card>
+            </Grid>
+          </React.Fragment> 
+        )}
+      </Grid>
     </React.Fragment>
   )
 }
 
 function App() {
   const [upload, setUpload] = useState('')
+  const [qna, setQna] = useState(sampledata)
+  const [display, setDisplay] = useState(true)
+  const [quiz, setQuiz] = useState(false)
+
+  const handleQuiz = () => {
+    if (quiz === true) {
+      setQuiz(false)
+    }
+    else {
+      setQuiz(true)
+    }
+  }
 
   return (
     <React.Fragment>
       <ButtonAppBar/>
-      <MyDropzone upload={upload} setUpload={setUpload}/>
+      <MyDropzone upload={upload} setUpload={setUpload} display={display} setDisplay={setDisplay}/>
       <br/>
       <Typography align="center">
         Uploaded text will shown below ↓
@@ -140,7 +302,15 @@ function App() {
         </CardContent>
       </Card>
       <Button variant='contained' style={{margin: '1%'}}>Download as PDF</Button>
-      <DemoCard/>
+      <FormGroup style={{margin: '1%'}}>
+        <FormControlLabel
+          control={
+            <Switch checked={quiz} onChange={handleQuiz} lable="Quiz Mode"/>
+          }
+          label="Quiz Mode"
+        />
+      </FormGroup>
+      {display? <Flashcard qna={qna} quiz={quiz}/>: null}
     </React.Fragment>
   );
 }
