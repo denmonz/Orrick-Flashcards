@@ -1,0 +1,1002 @@
+---------- Question 1 from Apple Answering Brief ----------
+Question: What promises that solutions would be found for adjudicating antitrust injury claims?' Answer: common proof
+Reference Paragraph: "Those days are long gone. In the 2000s, an increasing number of circuit court decisions embraced the view evident in this Court’s Hotel Charges decision—45 years ago—that class actions cannot be based on promises of common proof, but instead require the plaintiff to prove how it proposes to adjudicate thousands or millions of injury claims. A prominent example is In re "
+
+---------- Question 2 from Apple Answering Brief ----------
+Question: Who could 8 See Windham v.?' Answer: J. Scott Ballenger
+Reference Paragraph: "J. Scott Ballenger "
+---------- Question 3 from Apple Answering Brief ----------
+Question: What is Richard A. Nagareda?'
+Answer: Class Certification in the Age of Aggregate Proof
+Reference Paragraph: "Richard A. Nagareda, Class Certification in the Age of Aggregate Proof, "
+---------- Question 4 from Apple Answering Brief ----------
+Question: What have this Court, this Court, and numerous other circuits now firmly rejected?'
+Answer: that paradigm
+Reference Paragraph: "The Supreme Court, this Court, and numerous other circuits have now firmly rejected that paradigm. Today, the law is unequivocal that Rule 23 is not a “mere pleading standard”; rather, it requires a plaintiff to est ablish to the district court’s satisfaction that the Rule’s requirements are “in fact” satisfied. Comcast Corp. v. "
+---------- Question 5 from Apple Answering Brief ----------
+Question: What requires a ``rigorous analysis'' that invariably will entail some overlap with the merits of the plaintiff's underlying claim?"
+Answer: a strict standard
+Reference Paragraph: "338, 350 (2011)). This is a strict standard, and it requires a “rigorous analysis” that invariably will “entail some overlap with the merits of the plaintiff’s underlying claim.” Wal-Mart, 564 U.S. at 351; see also
+Ellis v. Costco Wholesale Corp., 657 "
+---------- Question 6 from Apple Answering Brief ----------
+Question: Who does fuel surcharge in re Rail Freight?'
+Answer: Antitrust Litigation
+Reference Paragraph: "In re Rail Freight Fuel Surcharge Antitrust Litigation, "
+---------- Question 7 from Apple Answering Brief ----------
+Question: What U. S. at 35)?'
+Answer: 569
+Reference Paragraph: "Evidence 432 (3d ed. 2011)). A methodology that would not measure monopoly overcharges by AT&T in the renewal voice and data market, but instead unalleged supracompetitive pricing for iPhones themselves, fails Comca st’s requirement that “any model supporting ‘a plaintiff’s damages case must be consistent with its liability case, particularly with respect to the alleged anticompetitive effect of the violation.’” 569 U.S. at 35 (citation omitted). "
+---------- Question 8 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 34?'
+Answer: Comcast
+Reference Paragraph: "29 fact predominate over individual issues is “even more demanding than [what is required under] Rule 23(a).” Comcast, 569 U.S. at 34. "
+---------- Question 9 from Apple Answering Brief ----------
+Question: What is Contemporary class certification practice thus largely?'
+Brief ----------
+Brief ----------
+Answer: an evaluation of the “aggregate proof
+Reference Paragraph: "Contemporary class certification practice is thus largely an evaluation of the “aggregate proof” that purports to permit key issues to be resolved “in one stroke,” rather than through individualized evidence. Wal-Ma rt, 564 U.S. at 349–50 (citing "
+---------- Question 10 from Apple Answering Brief ---------- Question: What is not?'
+Answer: UNITED STATES COURT OF APPEALS
+Reference Paragraph: "UNITED STATES COURT OF APPEALS "
+---------- Question 11 from Apple Answering Brief ----------
+Question: What does a plaintiff that does not even advance a model obviously fail to Answer: Rule 23
+Reference Paragraph: "AT&T response does not meet a plaintiff’s Rule 23 burdens. "
+---------- Question 12 from Apple Answering Brief ----------
+Question: What did the Third Circuit hold without in Carrera v. Bayer Corp.?'
+Answer: grant class certification
+Reference Paragraph: "A plaintiff that does not even advance a model obviously fails
+cation where the plaintiff’s expert had “not completed any benchmark or regression analyses” or shown that it “would work.” 552 F.3d 305, 315 (3d Cir. 2008). Likewise, in Carrera v. Bayer "
+---------- Question 13 from Apple Answering Brief ----------
+Question: What must be able to ``see the model in action'' instead of operating solely on ``plaintiff's assurances it will be effective?''"
+Answer: A district court
+Reference Paragraph: "F.3d 300, 311 (3d Cir. 2013). A district court must be able to “see the model in action” instead of operating solely on “plaintiff’s assurances [that] it will be effective.” Id.; see also Blades v. Monsanto Co., 40 0 F.3d 562, 571 (8th Cir. 2005) (“[A]ssumptions,” “presumptions,” and “conclusions” are not enough.). "
+satisfy?'
+to satisfy these standards. In In re Hydrogen Peroxide Antitrust Litigation, the Third Circuit reversed a district court decision to grant class certifi
+---------- Question 14 from Apple Answering Brief ---------- Question: What is Monsanto Co.?'
+Answer: Sample
+Reference Paragraph: "MDL No. 2173, 2014 WL 1338605, at *21,
+---------- Question 15 from Apple Answering Brief ----------
+Question: What must 10 Rail Freight, 725 F. 3d at 252 (``The
+Answer: Meeting the predominance requirement
+Reference Paragraph: "Rail Freight, 725 F.3d at 252 (“Meeting the predominance requirement demands "
+---------- Question 16 from Apple Answering Brief ----------
+Question: What High-Tech Emp In re?'
+Answer: Employee Antitrust Litigation
+Reference Paragraph: "In re High-Tech Employee Antitrust Litigation, "
+---------- Question 17 from Apple Answering Brief ----------
+Question: What has the requisite integrity to demonstrate class-wide impact?'
+Answer: proffered expert testimony
+Reference Paragraph: "Cal. 2013) (explaining that “theory is not sufficient to satisfy Rule 23(b)(3)’s requirements” and analyzing the documentary and statistical evidence presented at class certification); In re Optical Disk Drive Antitr ust Litig., 303 F.R.D. 311, 320 (N.D. Cal. 2014) (The predominance inquiry is one that requires “determin[ing] if the proffered expert testimony has the requisite integrity to demonstrate class-wide impact.”); In re Graphics Processing Un its Antitrust Litig., 253 F.R.D. 478, 496 (N.D. Cal. 2008) (concluding, after analyzing the statistical model of the plaintiff’s expert, that “plaintiffs have fundamentally failed to show that the many factors influencing pricing of GPU p roducts were systematic and are now controllable”); "
+---------- Question 18 from Apple Answering Brief ----------
+Question: Who can obtain class certification just by hiring a competent expert?'
+Answer: plaintiffs
+Reference Paragraph: "First, certifying classes on the basis of promises rather than a working model results in an impermissible “delegation of judicial power to the plaintiffs, who can obtain class certification just by hiring a competen t expert.” West v. Prudential "
+---------- Question 19 from Apple Answering Brief ----------
+Question: What did 552 F. 3d at?'
+Answer: 323
+Reference Paragraph: "Allen, 600 F.3d 813, 815 (7th Cir. 2010); Hydrogen Peroxide, 552 F.3d at 323. "
+---------- Question 20 from Apple Answering Brief ----------
+Question: What exacerbates the circularity inherent in justifying class certification ``by reference to evidence that presupposes the aggregate unit whose legitimacy this Court is to determine?''"
+Answer: economic or statistical methodology
+Reference Paragraph: "This exacerbates the circularity inherent in justifying class certification “by reference to evidence that presupposes—at least as a matter of economic or statistical methodology—the aggregate unit whose legitimacy t he court is to determine.” Nagareda, 84 N.Y.U. L. Rev. at 103. "
+---------- Question 21 from Apple Answering Brief ----------
+Question: What is critical because many such models fail when tested?'
+Answer: scrutiny of actual models
+Reference Paragraph: "Second, scrutiny of actual models is critical because many such models fail when tested. The D.C. Circuit’s decision in Rail Freight is illustrative. That case involved allegations of a conspiracy among the major f reight railroads to impose fuel surcharges, and the key issue was whether “separate trials are needed to distinguish the shippers the alleged conspiracy injured from those it did not.” Rail "
+---------- Question 22 from Apple Answering Brief ---------- Question: What is illustrative?'
+Answer: APPLE
+Reference Paragraph: "APPLE INC., "
+---------- Question 23 from Apple Answering Brief ----------
+Question: What did Rail Freight F. 3d at?'
+Answer: 253
+Reference Paragraph: "39 is inappropriate. See Rail Freight, 725 F.3d at 253; Brown v. Am. Honda (In re "
+---------- Question 24 from Apple Answering Brief ----------
+Question: Who offered two, fully realized models with impressive damages estimates, and the district court initially certified the class?'
+Answer: plaintiffs
+Reference Paragraph: "Freight, 725 F.3d at 247. The plaintiffs offered two, fully realized models with impressive damages estimates, and the district court (applying pre-Comcast legal standards) initially certified the class. The D.C. C ircuit vacated that decision, "
+*27 (M.D. Fla. Apr. 3, 2014); Somers v. Apple, Inc., 258 F.R.D. 354, 356, 358 (N.D. Cal. 2009); Sample v. Monsanto "
+plaintiffs'' also show?"
+---------- Question 25 from Apple Answering Question: What denied class certification?' Answer: monopolization cases
+Reference Paragraph: "37 one fatal error in cases. See In re Asacol Antitrust "
+---------- Question 26 from Apple Answering
+Question: Who is Surcharge Antitrust Litig?
+Answer: Rail Freight
+Reference Paragraph: "In re Rail Freight Fuel Surcharge Antitrust Litigation, "
+---------- Question 27 from Apple Answering Brief ----------
+Question: What was Comcast?'
+Answer: cable TV service
+Reference Paragraph: "Second, Plaintiffs argue that predominance “is particularly easy to establish in this case,” Opening Br. 24, because this is an antitrust case involving a single monopolized service, priced uniformly. But so was Com cast, which involved cable TV service. See 569 U.S. at 30. The Supreme Court nevertheless identified "
+---------- Question 28 from Apple Answering Brief ----------
+Question: What did a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed calculate for the entire class?'
+Answer: classwide damages
+Reference Paragraph: "In its most recent word on this subject, Comcast, the Supreme Court was crystal clear as to the vital role of (a) developed models and (b) rigorous scrutiny in current antitrust class certification practice. The pla intiffs moved for class certification with a fully realized classwide damages model: “a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed but for petitioners’ allege dly anticompetitive activities. "
+---------- Question 29 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 32?'
+Answer: Comcast
+Reference Paragraph: "29 fact predominate over individual issues is “even more demanding than [what is required under] Rule 23(a).” Comcast, 569 U.S. at 34. "
+---------- Question 30 from Apple Answering Brief ----------
+Question: Where did the lower courts accept a regression model comparing actual cable prices with hypothetical prices that would have prevailed uncritically?'
+Answer: Philadelphia DMA
+Reference Paragraph: "In its most recent word on this subject, Comcast, the Supreme Court was crystal clear as to the vital role of (a) developed models and (b) rigorous scrutiny in current antitrust class certification practice. The pla intiffs moved for class certification with a fully realized classwide damages model: “a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed but for petitioners’ allege dly anticompetitive activities. "
+---------- Question 31 from Apple Answering Brief ----------
+Question: What is the way class certification proceeds in antitrust litigation today?'
+Answer: the plaintiff’s expert had “not completed any benchmark or regression analyses
+Reference Paragraph: "A plaintiff that does not even advance a model obviously fails to satisfy these standards. In In re Hydrogen Peroxide Antitrust Litigation, the Third Circuit reversed a district court decision to grant class certifi cation where the plaintiff’s expert had “not completed any benchmark or regression analyses” or shown that it “would work.” 552 F.3d 305, 315 (3d Cir. 2008). Likewise, in Carrera v. Bayer "
+---------- Question 32 from Apple Answering Brief ----------
+Question: What demanded a model that was sufficiently developed to permit rigorous scrutiny?'
+Answer: the district court
+Reference Paragraph: "This is the way class certification proceeds in antitrust litigation today, and the district court did exactly what these clear and binding recent Supreme Court precedents required. It demanded a model that was suff iciently developed to permit rigorous scrutiny. Plaintiffs quibble with the words the district court used, e.g., a “data-driven model.” But there is no such thing as an injury and damages model that is not “data-driven.” See Federal Ju dicial Center, Reference Manual on "
+---------- Question 33 from Apple Answering Brief ----------
+Question: What do plaintiffs quibble with?'
+Answer: Failure to Advance an Injury
+Reference Paragraph: "Make Up For Plaintiffs’ Failure to Advance an Injury and "
+---------- Question 34 from Apple Answering Brief ----------
+Question: Who is Reference Manual?'
+Answer: Federal Judicial Center
+Reference Paragraph: "569 U.S. at 38 (quoting Federal Judicial Center, Reference Manual on Scientific "
+---------- Question 35 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 33?'
+Answer: Comcast
+Reference Paragraph: "Carrera v. Bayer Corp., 727 F.3d 300, 311 (3d Cir. 2013), and scrutinize it rigorously. Wal-Mart, 564 U.S. at 350–51; Comcast, 569 U.S. at 33. And that is what happens in virtually every antitrust class action toda y: plaintiffs offer a functioning injury and damages model, the defendants critique it, and the district court conducts a rigorous analysis focused on “the soundness of [the] statistical models that purport to show predominance.” In re R ail Freight Fuel Surcharge "
+---------- Question 36 from Apple Answering Brief ---------- Question: What had to be denied?'
+Answer: Class certification
+Brief ----------
+the proposed common proof, and hinted at more. See id. at 38 n.6 (suggesting damages may have varied by geography). And, class certification has often been denied in comparable monopolization
+Brief ---------- ?'
+
+Reference Paragraph: "Charges all over: in an age when no plaintiff can possibly think this is acceptable, these plaintiffs asked the district court to accept “solutions that will, at some point in the future,” 500 F.2d at 90, become evi dent, but which could not possibly have been subjected to the “rigorous analysis” required by Wal-Mart and Comcast at the time of certification. Comcast, 569 U.S. at 33. Class certification had to be denied.
+"
+---------- Question 37 from Apple Answering Brief ---------- Question: What Available at?'
+Answer: APPLE INC.
+Reference Paragraph: "APPLE INC., "
+---------- Question 38 from Apple Answering Brief ----------
+Question: Who argue that less rigorous standards govern class certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases?'
+Answer: Plaintiffs
+Reference Paragraph: "First, Plaintiffs argue that less rigorous standards govern class certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases. Opening Br. 21–22. In 2019, this
+is wholly without merit. "
+---------- Question 39 from Apple Answering Brief ----------
+Question: What Br?'
+Answer: Br. 48
+Reference Paragraph: "Plaintiffs’ disclaim that their bid for reassignment is premised on bias (Opening Br. 48), but the substance of their argument amounts to an attack on the impartiality of the court. That is specious. Since inheriti ng this litigation from "
+---------- Question 40 from Apple Answering Brief ----------
+Question: What is wholly without merit in 2019?'
+Answer: class certification
+Reference Paragraph: "First, Plaintiffs argue that less rigorous standards govern class certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases. Opening Br. 21–22. In 2019, this
+is wholly without merit. "
+---------- Question 41 from Apple Answering Brief ----------
+Question: Who cite are simple price-fixing cases where the element of conspiracy dominates?'
+Answer: Plaintiffs
+Reference Paragraph: "Most of the cases Plaintiffs cite are simple price-fixing cases where,
+sumed in some price-fixing cases.13 However, there has never been a presumption in favor of
+states that the presence of “allegation[s] that a conspiracy existed to violate the antitrust laws does not insure that common questions will predominate.” 500 F.2d at 89; see also "
+on account of the per se rule, the element of conspiracy dominates. Early, now discredited case law suggested that antitrust impact could be pre class certification in monopolization actions such as this case. And even with regard to simple conspiracy cases, In re Hotel Telephone Charges
+---------- Question 42 from Apple Answering Brief ----------
+Question: What did now discredited case law suggest that antitrust impact could be presumed in some price-fixing cases. 13 in?'
+Answer: Early
+Reference Paragraph: "Most of the cases Plaintiffs cite are simple price-fixing cases where, on account of the per se rule, the element of conspiracy dominates. Early, now discredited case law suggested that antitrust impact could be pre
+sumed in some price-fixing cases.13 However, there has never been a presumption in favor of class states that the presence of “allegation[s] that a conspiracy existed to violate the antitrust laws
+---------- Question 43 from Apple Answering Brief ---------- Question: What is See?'
+Answer: Suite 1000
+Reference Paragraph: "Suite 1000 "
+---------- Question 44 from Apple Answering Brief ----------
+Question: What aff 'd, 271 F. App ` x 138 (3d Cir?"
+Answer: Harnish v. Widener Univ. School of Law
+Reference Paragraph: "15 See Harnish v. Widener Univ. School of Law, 833 F.3d 298, 306 (3d Cir. "
+---------- Question 45 from Apple Answering Brief ----------
+Question: Who is 400 F. 3d at 572 (roof of conspiracy?'
+Answer: Blades
+Reference Paragraph: "36 more than common evidence the defendants colluded to raise fuel surcharge
+---------- Question 46 from Apple Answering Brief ----------
+Question: Who was decided 16 years after Amchem?'
+Answer: Hydrogen Peroxide, 552 F.3d at 322. Comcast
+Reference Paragraph: "625 (1997) (emphasis added). “[I]t does not follow,” however, “that a court
+52 F.3d at 322. Comcast, decided 16 years after Amchem, was an antitrust case, and the Supreme Court did not apply a relaxed certification standard. Instead, the Court took that occasion to state that “[t]he class action is an exception
+to the usual rule that litigation is conducted by and on behalf of the individual named parties only.” 569 U.S. at 33 (citation omitted); see also Am. Express Co., 570 U.S. at 234 (stating, in an antitrust case, that Rule 23 “imposes st ringent requirements for certification that in practice exclude most claims”). "
+---------- Question 47 from Apple Answering Brief ---------- Question: What see also Am?'
+Answer: J. Scott Ballenger
+Reference Paragraph: "J. Scott Ballenger "
+---------- Question 48 from Apple Answering Brief ----------
+Question: What Co. U. S. at 234?'
+Answer: Am. Express Co., 570
+Reference Paragraph: "625 (1997) (emphasis added). “[I]t does not follow,” however, “that a court should relax its certification analysis, or presume a requirement for certification is met,” in every antitrust case. Hydrogen Peroxide, 5 52 F.3d at 322. Comcast, decided 16 years after Amchem, was an antitrust case, and the Supreme Court did not apply a relaxed certification standard. Instead, the Court took that occasion to state that “[t]he class action is an exception
+to the usual rule that litigation is conducted by and on behalf of the individual named parties only.” 569 U.S. at 33 (citation omitted); see also Am. Express Co., 570 U.S. at 234 (stating, in an antitrust case, that Rule 23 “imposes st ringent requirements for certification that in practice exclude most claims”). "
+---------- Question 49 from Apple Answering Brief ----------
+Question: What is Opening Br?'
+Answer: 48
+Reference Paragraph: "Plaintiffs’ disclaim that their bid for reassignment is premised on bias (Opening Br. 48), but the substance of their argument amounts to an attack on the impartiality of the court. That is specious. Since inheriti ng this litigation from "
+---------- Question 50 from Apple Answering Brief ----------
+Question: What did Comcast involve?'
+Answer: allegations of a conspiracy among the major freight railroads to impose fuel surcharges
+Reference Paragraph: "Second, scrutiny of actual models is critical because many such models fail when tested. The D.C. Circuit’s decision in Rail Freight is illustrative. That case involved allegations of a conspiracy among the major f
+reight railroads to impose fuel surcharges, and the key issue was whether
+---------- Question 51 from Apple Answering Brief ---------- Question: What hinted at more?'
+Answer: APPLE INC.
+Reference Paragraph: "APPLE INC., "
+---------- Question 52 from Apple Answering Brief ----------
+Question: What may n. 6 (suggesting damages have varied by)?'
+Answer: 41
+Reference Paragraph: "41 damages, but completely different conceptions of
+“separate trials are needed to distinguish the shippers the alleged conspiracy injured from those it did not.” Rail "
+the harm the challenged conduct might produce. "
+certification in monopolization actions such as this case. And even with regard to simple conspiracy cases, In re Hotel Telephone Charges does not insure that common questions will predominate.” 500 F.2d at 89; see also "
+rates.”); Blades, 400 F.3d at 572 (“[P]roof of conspiracy is not proof of common injury.”). "
+should relax its certification analysis, or presume a requirement for certification is met,” in every antitrust case. Hydrogen Peroxide, 5
+---------- Question 53 from Apple Answering Brief ----------
+Question: What has often been denied in comparable monopolization cases?'
+Answer: class certification
+Reference Paragraph: "37 one fatal error in the proposed common proof, and hinted at more. See id. at 38 n.6 (suggesting damages may have varied by geography). And, class certification has often been denied in comparable monopolization cases. See In re Asacol Antitrust "
+---------- Question 54 from Apple Answering Brief ---------- Question: Who is 907 F. 3d at 46?'
+Answer: Bombardier Inc.
+Reference Paragraph: "Bombardier Inc., 546 F.3d 196, 203 (2d
+Cir. 2008); Bell Atl. Corp., 339 F.3d at "
+---------- Question 55 from Apple Answering Question: What Div?'
+Answer: Defendant-Appellee
+Reference Paragraph: "Defendant-Appellee.
+Brief ----------
+"
+---------- Question 56 from Apple Answering
+Question: Who contend that all of Apple's arguments go to the amount of damages?"
+Answer: Plaintiffs
+Reference Paragraph: "Third, Plaintiffs offer up a diversion, contending that all of Apple’s arguments go to the amount of damages, an issue that rarely defeats class certification. "
+---------- Question 57 from Apple Answering Brief ----------
+Question: What do themselves concede?'
+Answer: on behalf of themselves
+Reference Paragraph: "ZACK WARD and THOMAS BUCHAR, on behalf of themselves and all others similarly situated, "
+---------- Question 58 from Apple Answering Brief ----------
+Question: What does Antitrust law follow?''"
+Answer: common law principle
+Reference Paragraph: "The Clayton Act requires that all antitrust plaintiffs prove impact as distinct from the quantification of damages, and the distinction has well-recognized significance in the class certification context. Plaintiffs
+themselves concede this point. See Opening Br. 25–26. Antitrust law follows the common law principle that once “the fact of damage” has been established by evidence with reasonable certainty, the amount of damages can be estimated by “ just and reasonable inference.” Story Parchment Co. v. Paterson Parchment Paper Co., 282 U.S. 555, "
+Brief ----------
+---------- Question 59 from Apple Answering Brief ----------
+Question: What Rule 23 rests on the insight not benefit the defendant?'
+Answer: 562–63
+Reference Paragraph: "562–63 (1931). That ancient rule rests on the insight that once wrongdoing and equently, many courts have held that the need for individual damages calculations, if not excessively
+individual harm have been established, uncertainty about the extent of that harm should (within limits) not benefit the defendant. Cons burdensome, need not preclude class certification. Prominent exceptions include "
+---------- Question 60 from Apple Answering Brief ----------
+Question: What have held that the need for individual damages calculations need not preclude class certification?'
+Answer: many courts
+Reference Paragraph: "562–63 (1931). That ancient rule rests on the insight that once wrongdoing and individual harm have been established, uncertainty about the extent of that harm should (within limits) not benefit the defendant. Cons equently, many courts have held that the need for individual damages calculations, if not excessively burdensome, need not preclude class certification. Prominent exceptions include "
+---------- Question 61 from Apple Answering Brief ----------
+Question: What is 725 F. 3d at 253;?'
+Answer: Rail Freight
+Reference Paragraph: "39 is inappropriate. See Rail Freight, 725 F.3d at 253; Brown v. Am. Honda (In re "
+---------- Question 62 from Apple Answering Brief ----------
+Question: What had nothing to do with uncertainty regarding the calculation of individual damages amounts?'
+Answer: The district court’s decision
+Reference Paragraph: "Plaintiffs are thus invoking a rule that would benefit them only if they first proposed and successfully defended a model for proving injury-in-fact on a classwide basis.15 But they have no such model—so this is all
+a red herring. The district court’s decision had nothing to do with uncertainty regarding the calculation of individual damages amounts. It rested on Plaintiffs’ failure to carry their initial burden to demonstrate that impact common t o the class could be established with common proof. "
+---------- Question 63 from Apple Answering Brief ----------
+
+Question: Whose failure to carry Plaintiffs initial burden to demonstrate that impact common to the class could be established with common proof did the district court's decision rest on?"
+Answer: Plaintiffs
+Reference Paragraph: "Plaintiffs are thus invoking a rule that would benefit them only if they first proposed and successfully defended a model for proving injury-in-fact on a classwide basis.15 But they have no such model—so this is all
+a red herring. The district court’s decision had nothing to do with uncertainty regarding the calculation of individual damages amounts. It rested on Plaintiffs’ failure to carry their initial burden to demonstrate that impact common t o the class could be established with common proof. "
+---------- Question 64 from Apple Answering Brief ----------
+Question: What is 870 F. 3d 1170 (9th Cir?'
+Answer: 2017
+Reference Paragraph: "870 F.3d 1170 (9th Cir. 2017)......................................................................... 25, 39 "
+---------- Question 65 from Apple Answering Brief ----------
+Question: What Ct?'
+Answer: 139 S. Ct. 710
+Reference Paragraph: "Corp., 870 F.3d 1170 (9th Cir. 2017), rev’d and remanded, 139 S. Ct. 710 (2019), "
+---------- Question 66 from Apple Answering Brief ---------- Question: What 979 (9th Cir?'
+Answer: 514
+Reference Paragraph: "716 F.3d 510, 514 (9th Cir. 2013). "
+---------- Question 67 from Apple Answering Brief ---------- Question: What do antitrust cases therefore not address on?' Answer: what an antitrust plaintiff must do
+Reference Paragraph: "LLC v. Google, Inc., 802 F.3d 979 (9th ual injury can be met on a
+Cir. 2015)—all of which are not antitrust cases. These cases therefore do not address what an antitrust plaintiff must do to prove that the Clayton Act’s requirement of individ "
+---------- Question 68 from Apple Answering Brief ----------
+Question: What do the antitrust cases require to scrutinize?'
+Answer: a working model
+Reference Paragraph: "40 classwide basis. The antitrust cases make that abundantly clear, and they require a working model for the district court to scrutinize. "
+---------- Question 69 from Apple Answering Brief ----------
+Question: What promises that solutions would be found for adjudicating antitrust injury claims?'
+Answer: common proof
+Reference Paragraph: "Those days are long gone. In the 2000s, an increasing number of circuit court decisions embraced the view evident in this Court’s Hotel Charges decision—45 years ago—that class actions cannot be based on promises of
+common proof, but instead require the plaintiff to prove how it proposes to adjudicate thousands or millions of injury claims. A prominent example is In re "
+---------- Question 70 from Apple Answering Brief ---------- Question: Who could 8 See Windham v.?'
+Answer: J. Scott Ballenger
+Reference Paragraph: "J. Scott Ballenger "
+---------- Question 71 from Apple Answering Brief ----------
+Question: What is Richard A. Nagareda?'
+Answer: Class Certification in the Age of Aggregate Proof
+Reference Paragraph: "Richard A. Nagareda, Class Certification in the Age of Aggregate Proof, "
+---------- Question 72 from Apple Answering Brief ----------
+Question: What have this Court, this Court, and numerous other circuits now firmly rejected?'
+Answer: that paradigm
+Reference Paragraph: "The Supreme Court, this Court, and numerous other circuits have now firmly rejected that paradigm. Today, the law is unequivocal that Rule 23 is not a “mere pleading standard”; rather, it requires a plaintiff to est ablish to the district court’s satisfaction that the Rule’s requirements are “in fact” satisfied. Comcast Corp. v. "
+---------- Question 73 from Apple Answering Brief ----------
+Question: What requires a ``rigorous analysis'' that invariably will entail some overlap with the merits of the plaintiff's underlying claim?"
+Answer: a strict standard
+Reference Paragraph: "338, 350 (2011)). This is a strict standard, and it requires a “rigorous analysis” that invariably will “entail some overlap with the merits of the plaintiff’s underlying claim.” Wal-Mart, 564 U.S. at 351; see also
+Ellis v. Costco Wholesale Corp., 657 "
+---------- Question 74 from Apple Answering Brief ----------
+Question: Who does fuel surcharge in re Rail Freight?'
+Answer: Antitrust Litigation
+Reference Paragraph: "In re Rail Freight Fuel Surcharge Antitrust Litigation, "
+---------- Question 75 from Apple Answering Brief ----------
+Question: What U. S. at 35)?'
+Answer: 569
+Reference Paragraph: "Evidence 432 (3d ed. 2011)). A methodology that would not measure monopoly overcharges by AT&T in the renewal voice and data market, but instead unalleged supracompetitive pricing for iPhones themselves, fails Comca st’s requirement that “any model supporting ‘a plaintiff’s damages case must be consistent with its liability case, particularly with respect to the alleged anticompetitive effect of the violation.’” 569 U.S. at 35 (citation omitted). "
+---------- Question 76 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 34?'
+Answer: Comcast
+Reference Paragraph: "29 fact predominate over individual issues is “even more demanding than [what is required under] Rule 23(a).” Comcast, 569 U.S. at 34. "
+---------- Question 77 from Apple Answering Brief ----------
+Question: What is Contemporary class certification practice thus largely?'
+Answer: an evaluation of the “aggregate proof
+Reference Paragraph: "Contemporary class certification practice is thus largely an evaluation of the “aggregate proof” that purports to permit key issues to be resolved “in one stroke,” rather than through individualized evidence. Wal-Ma rt, 564 U.S. at 349–50 (citing "
+---------- Question 78 from Apple Answering Brief ---------- Question: What is not?'
+Answer: UNITED STATES COURT OF APPEALS
+Reference Paragraph: "UNITED STATES COURT OF APPEALS "
+---------- Question 79 from Apple Answering Brief ----------
+Question: What does a plaintiff that does not even advance a model obviously fail to satisfy?' Answer: Rule 23
+Reference Paragraph: "AT&T response does not meet a plaintiff’s Rule 23 burdens. "
+---------- Question 80 from Apple Answering Brief ----------
+Question: What did the Third Circuit hold without in Carrera v. Bayer Corp.?'
+Answer: grant class certification
+Reference Paragraph: "A plaintiff that does not even advance a model obviously fails to satisfy these standards. In In re Hydrogen Peroxide Antitrust Litigation, the Third Circuit reversed a district court decision to grant class certifi cation where the plaintiff’s expert had “not completed any benchmark or regression analyses” or shown that it “would work.” 552 F.3d 305, 315 (3d Cir. 2008). Likewise, in Carrera v. Bayer "
+---------- Question 81 from Apple Answering Brief ----------
+Question: What must be able to ``see the model in action'' instead of operating solely on ``plaintiff's assurances it will be effective?''"
+Answer: A district court
+Reference Paragraph: "F.3d 300, 311 (3d Cir. 2013). A district court must be able to “see the model in action” instead of operating solely on “plaintiff’s assurances [that] it will be effective.” Id.; see also Blades v. Monsanto Co., 40 0 F.3d 562, 571 (8th Cir. 2005) (“[A]ssumptions,” “presumptions,” and “conclusions” are not enough.). "
+---------- Question 82 from Apple Answering Brief ---------- Question: What is Monsanto Co.?'
+Answer: Sample
+Reference Paragraph: "MDL No. 2173, 2014 WL 1338605, at *21,
+---------- Question 83 from Apple Answering Brief ----------
+Question: What must 10 Rail Freight, 725 F. 3d at 252 (``The
+Answer: Meeting the predominance requirement
+Reference Paragraph: "Rail Freight, 725 F.3d at 252 (“Meeting the predominance requirement demands "
+---------- Question 84 from Apple Answering Brief ----------
+Question: What High-Tech Emp In re?'
+Answer: Employee Antitrust Litigation
+Reference Paragraph: "In re High-Tech Employee Antitrust Litigation, "
+---------- Question 85 from Apple Answering Brief ----------
+Question: What has the requisite integrity to demonstrate class-wide impact?'
+Answer: proffered expert testimony
+Reference Paragraph: "Cal. 2013) (explaining that “theory is not sufficient to satisfy Rule 23(b)(3)’s requirements” and analyzing the documentary and statistical evidence presented at class certification); In re Optical Disk Drive Antitr ust Litig., 303 F.R.D. 311, 320 (N.D. Cal. 2014) (The predominance inquiry is one that requires “determin[ing] if the proffered expert testimony has the requisite integrity to demonstrate class-wide impact.”); In re Graphics Processing Un its Antitrust Litig., 253 F.R.D. 478, 496 (N.D. Cal. 2008) (concluding, after analyzing the statistical model of the plaintiff’s expert, that “plaintiffs have fundamentally failed to show that the many factors influencing pricing of GPU p roducts were systematic and are now controllable”); "
+---------- Question 86 from Apple Answering Brief ----------
+Question: Who can obtain class certification just by hiring a competent expert?'
+Answer: plaintiffs
+Reference Paragraph: "First, certifying classes on the basis of promises rather than a working model results in an impermissible “delegation of judicial power to the plaintiffs, who can obtain class certification just by hiring a competen t expert.” West v. Prudential "
+---------- Question 87 from Apple Answering Brief ----------
+Question: What did 552 F. 3d at?'
+Answer: 323
+Reference Paragraph: "Allen, 600 F.3d 813, 815 (7th Cir. 2010); Hydrogen Peroxide, 552 F.3d at 323. "
+---------- Question 88 from Apple Answering Brief ----------
+Question: What exacerbates the circularity inherent in justifying class certification ``by reference to evidence that presupposes the aggregate unit whose legitimacy this Court is to determine?''"
+Answer: economic or statistical methodology
+Reference Paragraph: "This exacerbates the circularity inherent in justifying class certification “by reference to evidence that presupposes—at least as a matter of economic or statistical methodology—the aggregate unit whose legitimacy t he court is to determine.” Nagareda, 84 N.Y.U. L. Rev. at 103. "
+---------- Question 89 from Apple Answering Brief ----------
+Question: What is critical because many such models fail when tested?'
+Answer: scrutiny of actual models
+Reference Paragraph: "Second, scrutiny of actual models is critical because many such models fail when tested. The D.C. Circuit’s decision in Rail Freight is illustrative. That case involved allegations of a conspiracy among the major f reight railroads to impose fuel surcharges, and the key issue was whether “separate trials are needed to distinguish the shippers the alleged conspiracy injured from those it did not.” Rail "
+---------- Question 90 from Apple Answering Brief ---------- Question: What is illustrative?'
+Answer: APPLE
+Reference Paragraph: "APPLE INC., "
+---------- Question 91 from Apple Answering Brief ---------- Question: What did Rail Freight F. 3d at?'
+*27 (M.D. Fla. Apr. 3, 2014); Somers v. Apple, Inc., 258 F.R.D. 354, 356, 358 (N.D. Cal. 2009); Sample v. Monsanto "
+plaintiffs'' also show?"
+
+Answer: 253
+Reference Paragraph: "39 is inappropriate. See Rail Freight, 725 F.3d at 253; Brown v. Am. Honda (In re "
+---------- Question 92 from Apple Answering Brief ----------
+Question: Who offered two, fully realized models with impressive damages estimates, and the district court initially certified the class?'
+Answer: plaintiffs
+Reference Paragraph: "Freight, 725 F.3d at 247. The plaintiffs offered two, fully realized models with impressive damages estimates, and the district court (applying pre-Comcast legal standards) initially certified the class. The D.C. C ircuit vacated that decision, "
+---------- Question 93 from Apple Answering Question: What denied class certification?' Answer: monopolization cases
+Reference Paragraph: "37 one fatal error in cases. See In re Asacol Antitrust "
+---------- Question 94 from Apple Answering
+Question: Who is Surcharge Antitrust Litig?
+Answer: Rail Freight
+Reference Paragraph: "In re Rail Freight Fuel Surcharge Antitrust Litigation, "
+---------- Question 95 from Apple Answering Brief ----------
+Question: What was Comcast?'
+Answer: cable TV service
+Reference Paragraph: "Second, Plaintiffs argue that predominance “is particularly easy to establish in this case,” Opening Br. 24, because this is an antitrust case involving a single monopolized service, priced uniformly. But so was Com cast, which involved cable TV service. See 569 U.S. at 30. The Supreme Court nevertheless identified "
+---------- Question 96 from Apple Answering Brief ----------
+Question: What did a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed calculate for the entire class?'
+Answer: classwide damages
+Reference Paragraph: "In its most recent word on this subject, Comcast, the Supreme Court was crystal clear as to the vital role of (a) developed models and (b) rigorous scrutiny in current antitrust class certification practice. The pla intiffs moved for class certification with a fully realized classwide damages model: “a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed but for petitioners’ allege dly anticompetitive activities. "
+---------- Question 97 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 32?'
+Answer: Comcast
+Reference Paragraph: "29 fact predominate over individual issues is “even more demanding than [what is required under] Rule 23(a).” Comcast, 569 U.S. at 34. "
+---------- Question 98 from Apple Answering Brief ----------
+Question: Where did the lower courts accept a regression model comparing actual cable prices with hypothetical prices that would have prevailed uncritically?'
+Answer: Philadelphia DMA
+Reference Paragraph: "In its most recent word on this subject, Comcast, the Supreme Court was crystal clear as to the vital role of (a) developed models and (b) rigorous scrutiny in current antitrust class certification practice. The pla intiffs moved for class certification with a fully realized classwide damages model: “a regression model comparing actual cable prices in the Philadelphia DMA with hypothetical prices that would have prevailed but for petitioners’ allege dly anticompetitive activities. "
+---------- Question 99 from Apple Answering Brief ----------
+Question: What is the way class certification proceeds in antitrust litigation today?'
+Answer: the plaintiff’s expert had “not completed any benchmark or regression analyses
+Reference Paragraph: "A plaintiff that does not even advance a model obviously fails to satisfy these standards. In In re Hydrogen Peroxide Antitrust Litigation, the Third Circuit reversed a district court decision to grant class certifi cation where the plaintiff’s expert had “not completed any benchmark or regression analyses” or shown that it “would work.” 552 F.3d 305, 315 (3d Cir. 2008). Likewise, in Carrera v. Bayer "
+---------- Question 100 from Apple Answering Brief ----------
+Question: What demanded a model that was sufficiently developed to permit rigorous scrutiny?'
+Answer: the district court
+Reference Paragraph: "This is the way class certification proceeds in antitrust litigation today, and the district court did exactly what these clear and binding recent Supreme Court precedents required. It demanded a model that was suff iciently developed to permit rigorous scrutiny. Plaintiffs quibble with the words the district court used, e.g., a “data-driven model.” But there is no such thing as an injury and damages model that is not “data-driven.” See Federal Ju dicial Center, Reference Manual on "
+---------- Question 101 from Apple Answering Brief ----------
+Question: What do plaintiffs quibble with?'
+Answer: Failure to Advance an Injury
+Reference Paragraph: "Make Up For Plaintiffs’ Failure to Advance an Injury and "
+---------- Question 102 from Apple Answering Brief ----------
+Question: Who is Reference Manual?'
+Answer: Federal Judicial Center
+Reference Paragraph: "569 U.S. at 38 (quoting Federal Judicial Center, Reference Manual on Scientific "
+---------- Question 103 from Apple Answering Brief ----------
+Question: Who 569 U. S. at 33?'
+Answer: Comcast
+Reference Paragraph: "Carrera v. Bayer Corp., 727 F.3d 300, 311 (3d Cir. 2013), and scrutinize it rigorously. Wal-Mart, 564 U.S. at 350–51; Comcast, 569 U.S. at 33. And that is what happens in virtually every antitrust class action toda y: plaintiffs offer a functioning injury and damages model, the defendants critique it, and the district court conducts a rigorous analysis focused on “the soundness of [the] statistical models that purport to show predominance.” In re R ail Freight Fuel Surcharge "
+---------- Question 104 from Apple Answering Brief ----------
+Question: What had to be denied?'
+Answer: Class certification
+Reference Paragraph: "Charges all over: in an age when no plaintiff can possibly think this is acceptable, these plaintiffs asked the district court to accept “solutions that will, at some point in the future,” 500 F.2d at 90, become evi
+Brief ----------
+the proposed common proof, and hinted at more. See id. at 38 n.6 (suggesting damages may have varied by geography). And, class certification has often been denied in comparable monopolization
+Brief ---------- ?'
+dent, but which could not possibly have been subjected to the "
+---------- Question 105 from Apple Answering Brief ---------- Question: What Available at?'
+Answer: APPLE INC.
+Reference Paragraph: "APPLE INC., "
+---------- Question 106 from Apple Answering Brief ----------
+Question: Who argue that less rigorous standards govern class
+Answer: Plaintiffs
+Reference Paragraph: "First, Plaintiffs argue that less rigorous standards govern class certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases. Opening Br. 21–22. In 2019, this
+is wholly without merit. "
+---------- Question 107 from Apple Answering Brief ----------
+Question: What Br?'
+Answer: Br. 48
+Reference Paragraph: "Plaintiffs’ disclaim that their bid for reassignment is premised on bias (Opening Br. 48), but the substance of their argument amounts to an attack on the impartiality of the court. That is specious. Since inheriti ng this litigation from "
+---------- Question 108 from Apple Answering Brief ----------
+Question: What is wholly without merit in 2019?'
+Answer: class certification
+Reference Paragraph: "First, Plaintiffs argue that less rigorous standards govern class certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases. Opening Br. 21–22. In 2019, this
+is wholly without merit. "
+“rigorous analysis” required by Wal-Mart and Comcast at the time of certification. Comcast, 569 U.S. at 33. Class certification had to be denied.
+certification in antitrust cases, or alternatively that class certification is somehow presumed in antitrust cases?'
+---------- Question 109 from Apple Answering Brief ----------
+Question: Who cite are simple price-fixing cases where the element of conspiracy dominates?'
+Answer: Plaintiffs
+Reference Paragraph: "Most of the cases Plaintiffs cite are simple price-fixing cases where,
+sumed in some price-fixing cases.13 However, there has never been a presumption in favor of
+states that the presence of “allegation[s] that a conspiracy existed to violate the antitrust laws does not insure that common questions will predominate.” 500 F.2d at 89; see also "
+on account of the per se rule, the element of conspiracy dominates. Early, now discredited case law suggested that antitrust impact could be pre class certification in monopolization actions such as this case. And even with regard to simple conspiracy cases, In re Hotel Telephone Charges
+---------- Question 110 from Apple Answering Brief ----------
+Question: What did now discredited case law suggest that antitrust impact could be presumed in some price-fixing cases. 13 in?'
+Answer: Early
+Reference Paragraph: "Most of the cases Plaintiffs cite are simple price-fixing cases where, on account of the per se rule, the element of conspiracy dominates. Early, now discredited case law suggested that antitrust impact could be pre
+sumed in some price-fixing cases.13 However, there has never been a presumption in favor of class states that the presence of “allegation[s] that a conspiracy existed to violate the antitrust laws
+certification in monopolization actions such as this case. And even with regard to simple conspiracy cases, In re Hotel Telephone Charges does not insure that common questions will predominate.” 500 F.2d at 89; see also "
+rates.”); Blades, 400 F.3d at 572 (“[P]roof of conspiracy is not proof of common injury.”). "
+---------- Question 114 from Apple Answering Brief ----------
+Question: Who was decided 16 years after Amchem?'
+Answer: Hydrogen Peroxide, 552 F.3d at 322. Comcast
+Reference Paragraph: "625 (1997) (emphasis added). “[I]t does not follow,” however, “that a court
+52 F.3d at 322. Comcast, decided 16 years after Amchem, was an antitrust case, and the Supreme Court did not apply a relaxed certification standard. Instead, the Court took that occasion to state that “[t]he class action is an exception
+to the usual rule that litigation is conducted by and on behalf of the individual named parties only.” 569 U.S. at 33 (citation omitted); see also Am. Express Co., 570 U.S. at 234 (stating, in an antitrust case, that Rule 23 “imposes st ringent requirements for certification that in practice exclude most claims”). "
+---------- Question 115 from Apple Answering Brief ---------- Question: What see also Am?'
+Answer: J. Scott Ballenger
+Reference Paragraph: "J. Scott Ballenger "
+---------- Question 116 from Apple Answering Brief ----------
+Question: What Co. U. S. at 234?'
+Answer: Am. Express Co., 570
+Reference Paragraph: "625 (1997) (emphasis added). “[I]t does not follow,” however, “that a court should relax its certification analysis, or presume a requirement for certification is met,” in every antitrust case. Hydrogen Peroxide, 5 52 F.3d at 322. Comcast, decided 16 years after Amchem, was an antitrust case, and the Supreme Court did not apply a relaxed certification standard. Instead, the Court took that occasion to state that “[t]he class action is an exception
+to the usual rule that litigation is conducted by and on behalf of the individual named parties only.” 569 U.S. at 33 (citation omitted); see also Am. Express Co., 570 U.S. at 234 (stating, in an antitrust case, that Rule 23 “imposes st ringent requirements for certification that in practice exclude most claims”). "
+---------- Question 117 from Apple Answering Brief ---------- Question: What is Opening Br?'
+---------- Question 111 from Apple Answering Brief ---------- Question: What is See?'
+Answer: Suite 1000
+Reference Paragraph: "Suite 1000 "
+---------- Question 112 from Apple Answering Brief ---------- Question: What aff 'd, 271 F. App ` x 138 (3d Cir?"
+Answer: Harnish v. Widener Univ. School of Law
+Reference Paragraph: "15 See Harnish v. Widener Univ. School
+of Law, 833 F.3d 298, 306 (3d Cir. "
+---------- Question 113 from Apple Answering Brief ----------
+Question: Who is 400 F. 3d at 572 (roof of conspiracy?'
+Answer: Blades
+Reference Paragraph: "36 more than common evidence the defendants colluded to raise fuel surcharge
+should relax its certification analysis, or presume a requirement for certification is met,” in every antitrust case. Hydrogen Peroxide, 5
+
+Answer: 48
+Reference Paragraph: "Plaintiffs’ disclaim that their bid for reassignment is premised on bias (Opening Br. 48), but the substance of their argument amounts to an attack on the impartiality of ng this litigation from "
+---------- Question 118 from Apple Answering Brief ----------
+Question: What did Comcast involve?'
+Answer: allegations of a conspiracy among the major freight railroads to impose fuel surcharges
+Reference Paragraph: "Second, scrutiny of actual models is critical because many such models fail when tested. The D.C. Circuit’s decision in Rail Freight is illustrative. That case involved
+the court. That is specious. Since inheriti
+allegations of a conspiracy among the major f
+reight railroads to impose fuel surcharges, and the key issue
+---------- Question 119 from Apple Answering Brief ---------- Question: What hinted at more?'
+Answer: APPLE INC.
+Reference Paragraph: "APPLE INC., "
+was whether
+“separate trials are needed to distinguish the shippers the alleged conspiracy injured from those it did not.” Rail "
+the harm the challenged conduct might produce. "
+---------- Question 120 from Apple Answering Brief ----------
+Question: What may n. 6 (suggesting damages have varied by)?'
+Answer: 41
+Reference Paragraph: "41 damages, but completely different conceptions of
+---------- Question 121 from Apple Answering Brief ----------
+Question: What has often been denied in comparable monopolization cases?' Answer: class certification
+Reference Paragraph: "37 one fatal
+cases. See In re Asacol Antitrust
+error in the proposed common proof, and hinted at more. See id. at 38 n.6 (suggesting damages may have varied by geography). And, class certification has often been denied in comparable monopolization "
+---------- Question 122 from Apple
+Question: Who is 907 F. 3d at 46?'
+Answer: Bombardier Inc.
+Reference Paragraph: "Bombardier Inc., 546 F.3d 196, 203 (2d Cir. 2008); Bell Atl. Corp., 339 F.3d at "
+---------- Question 123 from Apple Answering Brief ---------- Question: What Div?'
+Answer: Defendant-Appellee
+Reference Paragraph: "Defendant-Appellee. "
+---------- Question 124 from Apple Answering Brief ---------- Question: Who contend that all of Apple's arguments go to the Answer: Plaintiffs
+Reference Paragraph: "Third, Plaintiffs offer up a diversion,
+---------- Question 125 from Apple Answering Brief ---------- Question: What do themselves concede?'
+Answer: on behalf of themselves
+Reference Paragraph: "ZACK WARD and THOMAS BUCHAR, on behalf
+amount of damages?"
+contending that all of Apple’s arguments go to the amount of damages, an issue that rarely defeats class certification. "
+of themselves and all others similarly situated, "
+Answering Brief ----------
+---------- Question 126 from Apple Answering Brief ----------
+Question: What does Antitrust law follow?''"
+Answer: common law principle
+Reference Paragraph: "The Clayton Act requires that all antitrust plaintiffs prove impact as distinct from the quantification of damages, and the distinction has well-recognized significance in the class certification context. Plaintiffs
+themselves concede this point. See Opening Br. 25–26. Antitrust law follows the common law principle that once “the fact of damage” has been established by evidence with reasonable certainty, the amount of damages can be estimated by “ just and reasonable inference.” Story Parchment Co. v. Paterson Parchment Paper Co., 282 U.S. 555, "
+---------- Question 127 from Apple Answering Brief ----------
+Question: What Rule 23 rests on the insight not benefit the defendant?'
+Answer: 562–63
+Reference Paragraph: "562–63 (1931). That ancient rule rests on the insight that once wrongdoing and equently, many courts have held that the need for individual damages calculations, if not excessively
+individual harm have been established, uncertainty about the extent of that harm should (within limits) not benefit the defendant. Cons burdensome, need not preclude class certification. Prominent exceptions include "
+---------- Question 128 from Apple Answering Brief ----------
+Question: What have held that the need for individual damages calculations need not preclude class certification?'
+Answer: many courts
+Reference Paragraph: "562–63 (1931). That ancient rule rests on the insight that once wrongdoing and individual harm have been established, uncertainty about the extent of that harm should (within limits) not benefit the defendant. Cons equently, many courts have held that the need for individual damages calculations, if not excessively burdensome, need not preclude class certification. Prominent exceptions include "
+---------- Question 129 from Apple Answering Brief ----------
+Question: What is 725 F. 3d at 253;?'
+Answer: Rail Freight
+Reference Paragraph: "39 is inappropriate. See Rail Freight, 725 F.3d at 253; Brown v. Am. Honda (In re "
+---------- Question 130 from Apple Answering Brief ----------
+Question: What had nothing to do with uncertainty regarding the calculation of individual damages amounts?'
+Answer: The district court’s decision
+Reference Paragraph: "Plaintiffs are thus invoking a rule that would benefit them only if they first proposed and successfully defended a model for proving injury-in-fact on a classwide basis.15 But they have no such model—so this is all
+a red herring. The district court’s decision had nothing to do with uncertainty regarding the calculation of individual damages amounts. It rested on Plaintiffs’ failure to carry their initial burden to demonstrate that impact common t o the class could be established with common proof. "
+---------- Question 131 from Apple Answering Brief ----------
+Question: Whose failure to carry Plaintiffs initial burden to demonstrate that impact common to the class could be established with common proof did the district court's decision rest on?"
+Answer: Plaintiffs
+Reference Paragraph: "Plaintiffs are thus invoking a rule that would benefit them only if they first proposed and successfully defended a model for proving injury-in-fact on a classwide basis.15 But they have no such model—so this is all
+a red herring. The district court’s decision had nothing to do with uncertainty regarding the calculation of individual damages amounts. It rested on Plaintiffs’ failure to carry their initial burden to demonstrate that impact common t o the class could be established with common proof. "
+---------- Question 132 from Apple Answering Brief ----------
+Question: What is 870 F. 3d 1170 (9th Cir?'
+Answer: 2017
+Reference Paragraph: "870 F.3d 1170 (9th Cir. 2017)......................................................................... 25, 39 "
+---------- Question 133 from Apple Answering Brief ----------
+Question: What Ct?'
+Answer: 139 S. Ct. 710
+Reference Paragraph: "Corp., 870 F.3d 1170 (9th Cir. 2017), rev’d and remanded, 139 S. Ct. 710 (2019), "
+---------- Question 134 from Apple Answering Brief ---------- Question: What 979 (9th Cir?'
+Answer: 514
+Reference Paragraph: "716 F.3d 510, 514 (9th Cir. 2013). "
+---------- Question 135 from Apple Answering Brief ----------
+Question: What do antitrust cases therefore not address on?'
+Answer: what an antitrust plaintiff must do
+Reference Paragraph: "LLC v. Google, Inc., 802 F.3d 979 (9th Cir. 2015)—all of which are not antitrust cases. These cases therefore do not address what an antitrust plaintiff must do to prove that the Clayton Act’s requirement of individ ual injury can be met on a "
+---------- Question 136 from Apple Answering Brief ----------
+Question: What do the antitrust cases require to scrutinize?'
+Answer: a working model
+Reference Paragraph: "40 classwide basis. The antitrust cases make that abundantly clear, and they require a working model for the district court to scrutinize. "
+---------- Question 137 from Apple Answering Brief ----------
+Question: What need not consider in the first instance whether Plaintiffs ' hypothetical damages theories, would support class certification?"
+Answer: This Court
+Reference Paragraph: "This Court need not consider in the first instance whether Plaintiffs’ hypothetical damages theories, would support class certification. They were not developed at all, and the decision below holds only that. Apple
+had no opportunity to test or respond to a tangible implementation of those theories. Likewise, the district court had no opportunity to conduct the required rigorous scrutiny, or thereafter exercise its considerable discretion as to wh ether to certify a class. The decision below should be affirmed because of Plaintiffs’ default, and no more. "
+---------- Question 138 from Apple Answering Brief ----------
+Question: What were plaintiffs ' hypothetical damages theories not developed at?"
+Answer: the first instance
+Reference Paragraph: "The district court stopped there, and this Court should as well. It would be inappropriate for this Court to pass on the substantive sufficiency of Plaintiffs’ hypothetical damages theories in the first instance. "
+---------- Question 139 from Apple Answering Brief ----------
+Question: What did Apple have?'
+Answer: iPhone unlock codes
+Reference Paragraph: "ER513. AT&T retained ownership of the iPhone unlock codes and Apple "
+---------- Question 140 from Apple Answering Brief ----------
+Question: What had no opportunity to conduct the required rigorous scrutiny, or thereafter exercise This Court considerable discretion as to whether to certify a class?'
+Answer: the district court
+Reference Paragraph: "This Court need not consider in the first instance whether Plaintiffs’ hypothetical damages theories, would support class certification. They were not developed at all, and the decision below holds only that. Apple
+had no opportunity to test or respond to a tangible implementation of those theories. Likewise, the district court had no opportunity to conduct the required rigorous scrutiny, or thereafter exercise its considerable discretion as to wh ether to certify a class. The decision below should be affirmed because of Plaintiffs’ default, and no more. "
+---------- Question 141 from Apple Answering Brief ----------
+Question: Whose default should the decision below be affirmed because of?'
+Answer: Plaintiffs’ default
+Reference Paragraph: "This Court need not consider in the first instance whether Plaintiffs’ hypothetical damages theories, would support class certification. They were not developed at all, and the decision below holds only that. Apple
+had no opportunity to test or respond to a tangible implementation of those theories. Likewise, the district court had no opportunity to conduct the required rigorous scrutiny, or thereafter exercise its considerable discretion as to wh ether to certify a class. The decision below should be affirmed because of Plaintiffs’ default, and no more. "
+---------- Question 142 from Apple Answering Brief ----------
+Question: What below is therefore only out of an abundance of caution that Apple addresses Plaintiffs ' hypothetical damages theories?"
+Answer: substantive sufficiency of Plaintiffs’ hypothetical damages theories in the first instance
+Reference Paragraph: "The district court stopped there, and this Court should as well. It would be inappropriate for this Court to pass on the substantive sufficiency of Plaintiffs’ hypothetical damages theories in the first instance. "
+---------- Question 143 from Apple Answering Brief ----------
+Question: What is Page 51?'
+Answer: 54
+Reference Paragraph: "Apple’s iPhone pricing decisions. See ER39–41 ¶¶ 51–54. And there is nothing to account for the individual differences in knowledge and expectations regarding unlocking, and how (if at all) those variations would have affected consumer demand with respect to AT&T’s service prices. ER18–25 ¶¶ 20–25. Nor is there any consideration of the inevitable variations across how individuals value iPhone service. ER68–69 ¶ 96. And there is not anything to
+account for Apple and "
+---------- Question 144 from Apple Answering Brief ----------
+Question: What does the first theory posit?'
+Answer: AT&T would have lowered its service prices
+Reference Paragraph: "The alternate TNE theory is equally flawed, but for different reasons. Under this theory, Dr. Warren-Boulton advances two “alternative” approaches, both borrowed from Dr. Wilkie: (i) a “Benchmark Approach” that ass
+
+umes AT&T would have lowered its service prices to match T-Mobile’s in the absence of exclusivity, ER137 ¶ 21; and (ii) a “Real-Option Approach” that assumes that, without exclusivity, a gap would have remained between AT&T’s and T-Mobile ’s service prices, constituting the option value of switching carriers for iPhone customers, ER139–40 ¶ 31. To begin with, the approaches are inherently incompatible: the first assumes AT&T would have lowered its service prices; the oth er does not. See ER45–46 ¶ 63. They are also both unreliable. "
+---------- Question 145 from Apple Answering Brief ----------
+Question: Whose pricing is the first theory not even about?'
+Answer: alleged monopolist’s
+Reference Paragraph: "Pause on how radically different the two theories are. The first TE theory is not even about the alleged monopolist’s pricing (since AT&T, not Apple, is alleged monopolist). It tries to make this case into somethin g it has never been—one based on the price of the cellular handset rather than the cellular service. The second TNE theory seems more connected to this case, but even that is not true, since Dr. Warren-Boulton also proposes to award ever y iPhone user—including the majority of those who never purchased renewal service from AT&T—renewal service damages on a theory of lost “option value.” ER27–28 ¶ 31. "
+---------- Question 146 from Apple Answering Brief ----------
+Question: What tries to make this case into something this case has never been rather than the cellular service?'
+Answer: The first TE theory
+Reference Paragraph: "Pause on how radically different the two theories are. The first TE theory is not even about the alleged monopolist’s pricing (since AT&T, not Apple, is alleged monopolist). It tries to make this case into somethin g it has never been—one based on the price of the cellular handset rather than the cellular service. The second TNE theory seems more connected to this case, but even that is not true, since Dr. Warren-Boulton also proposes to award ever y iPhone user—including the majority of those who never purchased renewal service from AT&T—renewal service damages on a theory of lost “option value.” ER27–28 ¶ 31. "
+---------- Question 147 from Apple Answering Brief ----------
+Question: Who refuse to commit to one theory Plaintiffs represent?'
+Answer: Plaintiffs
+Reference Paragraph: "Plaintiffs refuse to commit to one theory, which is remarkable given the diametrically opposite damages conceptions they represent. And when confronted with criticisms from Apple’s expert (Dr. Katz) regarding their viability, Dr. "
+---------- Question 148 from Apple Answering Brief ----------
+Question: Whose Injury Theories Would Require IndividualizedAssessments of Impact?' Answer: Plaintiffs
+Reference Paragraph: "B. Plaintiffs’ Injury Theories Would Require Individualized "
+---------- Question 149 from Apple Answering Brief ----------
+Question: What is a foundational flaw of both theories?'
+Answer: nothing happens to the prices
+Reference Paragraph: "In support of their class certification motion, Plaintiffs submitted an 11-page declaration from an economist, Dr. Frederick R. Warren-Boulton, which set forth two inconsistent theories of common impact. See ER128–4 0. The first—postulating a “truthfully exclusive” world in which AT&T’s exclusive rights were generally known (ER134 ¶ 13)—is facially inconsistent with Plaintiffs’ “aftermarket” theories in that nothing happens to the prices for the all egedly "
+---------- Question 150 from Apple Answering Brief ----------
+Question: What do both of Dr. Warren-Boulton's theories simply assume?"
+Answer: that the influence of all of these factors will yield a common impact capable of proof on a classwide basis
+Reference Paragraph: "Both of Dr. Warren-Boulton’s theories simply assume that the influence of all of these factors will yield a common impact capable of proof on a classwide basis. So he does not actually study and present conclusions on anything. Not on “whether ... consumers [who] entered into certain [aftermarket] transactions [did so] ‘knowing that they were agreeing to such a commitment.’” ER172 (quoting "
+---------- Question 151 from Apple Answering Brief ----------
+Question: Who does not actually study and present conclusions on anything?'
+Answer: Dr. Warren-Boulton
+Reference Paragraph: "Both of Dr. Warren-Boulton’s theories simply assume that the influence of all of these factors will yield a common impact capable of proof on a classwide basis. So he does not actually study and present conclusions on anything. Not on “whether ... consumers [who] entered into certain [aftermarket] transactions [did so] ‘knowing that they were agreeing to such a commitment.’” ER172 (quoting "
+---------- Question 152 from Apple Answering Brief ----------
+Question: What can 198 (``Knowledge not be determined on? '''"
+Answer: a classwide basis
+Reference Paragraph: "Tex. 2004) (“‘Knowledge is highly individualistic and cannot be determined on a classwide basis.’” (citation omitted)). "
+---------- Question 153 from Apple Answering Brief ----------
+Question: Who would have been uniform or discriminatory?'
+Answer: information about exclusivity
+Reference Paragraph: "44 information about exclusivity would have been uniform or discriminatory. 504 "
+---------- Question 154 from Apple Answering Brief ----------
+Question: What U. S. at 473?'
+Answer: 504
+Reference Paragraph: "504 U.S. at 473; Carl Shapiro, Aftermarkets and Consumer Welfare: Making Sense of Kodak, 63 Antitrust L.J. 483, 486 (1995). use under Kodak itself the degree of interdependence (or cross-elasticity) between iPhone and service pricing that the TE theory presumes defeats
+---------- Question 155 from Apple Answering Brief ----------
+Question: Who merely assumes?'
+Answer: Dr. Warren-Boulton
+Reference Paragraph: "U.S. at 473. Dr. Warren-Boulton merely assumes, without analysis, that all consumers expected to unlock their iPhones, and
+It is logically impossible to base aftermarket damages on foremarket (iPhone) pricing, beca the aftermarket claim. See Kodak, 504 "
+therefore more information inevitably means uniformly lower prices. ER16 ¶ 14. But, as Dr. Katz explains, there is no basis for such an assumption given (i) variance in consumer experiences with AT&T and other carriers, (ii) variance in exposure to media, including coverage of this and other “locking” litigation against AT&T,
+(iii) variance in exposure to Apple and AT&T marketing materials, and (iv) non-uniform responses "
+---------- Question 156 from Apple Answering Brief ----------
+Question: What cannot be acceptable?'
+Answer: any method of [damages] measurement
+Reference Paragraph: "Comcast, the Supreme Court reversed class certification in an antitrust case
+at was a “merits” question with “no place in the class certification inquiry.” 569 U.S. at 32, 35
+le so long as it can be applied classwide, no matter how arbitrary the measurements may be. Such a proposition would reduce Rule 23(b)(3)’s predominance requirement to a nullity.” Id. at 35–"
+---------- Question 157 from Apple Answering Brief ----------
+Question: What did plaintiffs need to show for?'
+Answer: revenue-sharing provision
+Reference Paragraph: "2007. See In re Apple & AT&TM Antitrust Litig., No. C 07-5152 JW (N.D. Cal.) (“iPhone I”). That case differed from this one both in that AT&T was a named defendant and that the plaintiffs focused on a revenue-shari
+ng provision in the original DRSA, which did not apply to the 3G and 3GS iPhones sold during the class period in this case. In 2010, before the Wal-Mart
+---------- Question 158 from Apple Answering Brief ----------
+Question: What does each of the theories suffer from?'
+Answer: numerous other flaws
+Reference Paragraph: "Moreover, each of the theories suffers from numerous other flaws, as described below. "
+---------- Question 159 from Apple Answering Brief ----------
+Question: What is problematic for numerous reasons-- which likely explain why Plaintiffs never attempted to actually develop The TE Theory into a working
+and Comcast decisions, "
+model even as a theoretical construct?'
+a theoretical construct, this is problematic for numerous reasons—which likely expla
+Answer: this is problematic for numerous reasons—which likely explain why Plaintiffs never attempted to actually develop this theory into a Reference Paragraph: "45 iPhone,” which “flows directly from the monopoly profits in the iPhone voice and data service aftermarket.” ER132 in why Plaintiffs never attempted to actually develop this theory into a working model. "
+---------- Question 160 from Apple Answering Brief ----------
+Question: What turns Kodak upside-down?'
+Answer: the TE theory
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+---------- Question 161 from Apple Answering Brief ----------
+Question: What is that a second, aftermarket purchase might become economically disconnected from the first purchase of a primary product?' Answer: aftermarket
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+---------- Question 162 from Apple Answering Brief ----------
+Question: What presumes that the first purchase is at a competitive price?'
+Answer: The doctrine
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+---------- Question 163 from Apple Answering Brief ----------
+Question: What is therefore whether the second purchase was at a monopolistic price?'
+Answer: The injury question
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+---------- Question 164 from Apple Answering Brief ----------
+Question: What is Kodak?'
+Answer: upside-down
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+working model ¶ 9. Even as
+where lower courts had refused to consider whether the plaintiffs’ model generated “just and reasonable” damages estimates on the ground th (citations omitted). The Court wrote: “Under that logic, at the class-certification stage any method of [damages] measurement is acceptab
+---------- Question 165 from Apple Answering Brief ----------
+Question: What does the degree of interdependence between iPhone and service pricing that the TE theory presumes defeat under Kodak?'
+Answer: aftermarket claim
+Reference Paragraph: "504 U.S. at 473; Carl Shapiro, Aftermarkets and Consumer Welfare: Making Sense of Kodak, 63 Antitrust L.J. 483, 486 (1995). It is logically impossible to base aftermarket damages on foremarket (iPhone) pricing, beca use under Kodak itself the degree of interdependence (or cross-elasticity) between iPhone and service pricing that the TE theory presumes defeats the aftermarket claim. See Kodak, 504 "
+---------- Question 166 from Apple Answering Brief ----------
+Question: What is Kodak?'
+Answer: upside-down
+Reference Paragraph: "First, the TE theory turns Kodak upside-down. The justification for an aftermarket as a distinct “relevant market” is that a second, aftermarket purchase might become economically disconnected from the first purchase
+(in the “foremarket”) of a primary product. The doctrine presumes that the first purchase (here, the iPhone), because it takes place in a competitive market, is at a competitive price. The injury question is therefore whether the secon d purchase was at a monopolistic price (thereby raising systems prices as well). See Kodak, "
+---------- Question 167 from Apple Answering Brief ----------
+Question: What was prohibited contractually from charging iPhone users prices greater than those offered to other handset customers?'
+Answer: AT&T
+Reference Paragraph: "46 evidence shows that iPhone prices remained constant—throughout the class period and after the end of exclusivity—and that iPhone prices were the same as various other smartphones offered by AT&T. SER79–80; SER111 –14. Likewise, there is no evidentiary basis for the theory’s assumption that AT&T’s renewal service prices were in fact monopolistic. AT&T was prohibited contractually from charging iPhone users prices greater than those offered to oth er handset customers. "
+---------- Question 168 from Apple Answering Brief ----------
+Question: What did not differ from service prices during the initial-two year contract period-- prices which were constrained by the vigorous competition AT&T faced from other carriers?'
+Answer: renewal service pricing
+Reference Paragraph: "ER319 ¶ 7.1, ER517–19 ¶ 6; SER50 ¶ 13. And AT&T’s renewal service pricing did not differ from service prices during the initial-two year contract period—prices which were constrained by the vigorous competition AT&T
+faced from other carriers. There is no explanation for how those exact same prices for renewal service suddenly became supracompetitive. The TE theory just assumes it. " ---------- Question 169 from Apple Answering Brief ----------
+that a second, aftermarket purchase might become economically disconnected from the first purchase competitive market, is at a competitive price. The injury question is therefore whether the secon
+that a second, aftermarket purchase might become economically disconnected from the first purchase competitive market, is at a competitive price. The injury question is therefore whether the secon
+that a second, aftermarket purchase might become economically disconnected from the first purchase competitive market, is at a competitive price. The injury question is therefore whether the secon
+that a second, aftermarket purchase might become economically disconnected from the first purchase competitive market, is at a competitive price. The injury question is therefore whether the secon
+that a second, aftermarket purchase might become economically disconnected from the first purchase competitive market, is at a competitive price. The injury question is therefore whether the secon
+
+Question: What just assumes The TE Theory?'
+Answer: theory of liability
+Reference Paragraph: "The TE theory runs directly counter to this remaining theory of liability. It is a damages theory relating to prices for the iPhone itself, which is something that by definition every class members buys, but which P laintiffs do not claim is a monopolized product. Furthermore, as explained earlier, Plaintiffs’ aftermarket theory would fail as a matter of law if iPhone and service pricing were so tightly connected that monopoly pricing in renewal ser vice only would affect the price of every iPhone. "
+---------- Question 170 from Apple Answering Brief ----------
+Question: What allowed Apple to share in AT&T's monopoly service pricing?"
+Answer: revenue-sharing provisions of the DRSA
+Reference Paragraph: "Third, the TE theory is borrowed from iPhone I, which attacked and built an injury theory around the revenue-sharing provisions of the DRSA, which supposedly allowed Apple to share in AT&T’s monopoly service pricing.
+But every iPhone sold during the class period in this case was no longer subject to "
+---------- Question 171 from Apple Answering Brief ----------
+Question: What was no longer subject to Apple and AT&T's revenue-sharing provision?"
+Answer: iPhone
+Reference Paragraph: "Apple and AT&T’s revenue-sharing provision. See ER513 ¶¶ 2, 3. Absent revenue sharing, Apple could not have “extract[ed] the full economic rents from the iPhone, ... leaving AT&T to earn only normal economic profit s despite its monopoly over ... [renewal] service.” ER133 ¶ 11. The TE theory nevertheless assumes that Apple did. "
+---------- Question 172 from Apple Answering Brief ----------
+Question: What nevertheless assumes that Apple did?'
+Answer: The TE theory
+Reference Paragraph: "Apple and AT&T’s revenue-sharing provision. See ER513 ¶¶ 2, 3. Absent revenue sharing, Apple could not have “extract[ed] the full economic rents from the iPhone, ... leaving AT&T to earn only normal economic profit s despite its monopoly over ... [renewal] service.” ER133 ¶ 11. The TE theory nevertheless assumes that Apple did. "
+---------- Question 173 from Apple Answering Brief ----------
+Question: Who did Dr. Warren-Boulton neglect to consider the valuations of?'
+Answer: the marginal consumer
+Reference Paragraph: "Dr. Katz explains, Dr. Warren-Boulton neglected to consider the valuations of the marginal consumer, which are the valuations that matter in predicting whether iPhone prices would have been higher or lower in the tru thfully-exclusive but-for world. ER39–41 ¶¶ 51–54. The theory also fails to account for innumerable differences in the individual knowledge that would naturally occur among class members. ER16, 27–28 ¶¶ 14, 31. There is nothing to exp lain whether customers would have demanded a cheaper iPhone if they understood the extent of AT&T’s exclusivity, much less whether enough customers would have cared to affect "
+---------- Question 174 from Apple Answering Brief ----------
+Question: What also fails to account for innumerable differences in the individual knowledge that would naturally occur among class members?'
+Answer: The theory
+Reference Paragraph: "Dr. Katz explains, Dr. Warren-Boulton neglected to consider the valuations of the marginal consumer, which are the valuations that matter in predicting whether iPhone prices would have been higher or lower in the tru thfully-exclusive but-for world. ER39–41 ¶¶ 51–54. The theory also fails to account for innumerable differences in the individual knowledge that would naturally occur among class members. ER16, 27–28 ¶¶ 14, 31. There is nothing to exp lain whether customers would have demanded a cheaper iPhone if they understood the extent of AT&T’s exclusivity, much less whether enough customers would have cared to affect "
+---------- Question 175 from Apple Answering Brief ----------
+Question: Who would have demanded a cheaper iPhone if customers understood the extent of AT&T's exclusivity?" Answer: Warren-Boulton
+Reference Paragraph: "Warren-Boulton himself agreed that “the extension of exclusivity into the Renewal "
+---------- Question 176 from Apple Answering Brief ----------
+Question: What the TE Theory is for?'
+Answer: REMAINING LIABILITY THEORY
+Reference Paragraph: "REMAINING LIABILITY THEORY .......................................................... 40 "
+---------- Question 177 from Apple Answering Brief ----------
+Question: What assumes AT&T would have lowered AT&T service prices?'
+Answer: The TE theory
+Reference Paragraph: "ER319 ¶ 7.1, ER517–19 ¶ 6; SER50 ¶ 13. And AT&T’s renewal service pricing did not differ from service prices during the initial-two year contract period—prices which were constrained by the vigorous competition AT&T
+faced from other carriers. There is no explanation for how those exact same prices for renewal service suddenly became supracompetitive. The TE theory just assumes it. "
+---------- Question 178 from Apple Answering Brief ----------
+Question: Who are also both unreliable?'
+Answer: ZACK WARD and THOMAS BUCHAR
+Reference Paragraph: "ZACK WARD and THOMAS BUCHAR, on behalf of themselves and all others similarly situated, "
+---------- Question 179 from Apple Answering Brief ----------
+Question: What is the Benchmark Approach unreliable for?'
+Answer: wide variation in pricing plans
+Reference Paragraph: "Further, the Benchmark Approach fails to account for the wide variation in pricing plans available to both AT&T’s and T-Mobile’s customers. “Before, during, and after the Class period, each carrier offered multiple
+rate plans that differed from one another along multiple dimensions, including allowances for voice calls, texts, and data.” ER47 ¶ 67. Dr. Warren-Boulton recognizes that “these are complications” for his TNE theory; but rather ress them, he simply casts then aside to be somehow dealt with at a later time: “[they] do not mean we cannot calculate damages using a common methodology that would apply to virtually all members of the Class.” ER278 ¶ 28. "
+than add
+---------- Question 180 from Apple Answering Brief ----------
+Question: What simply did not converge once both carriers offered iPhones?'
+Answer: AT&T and T-Mobile service prices
+Reference Paragraph: "49 levels. ER60–61 ¶¶ 83–84. AT&T and T-Mobile service prices simply did not converge once both carriers offered iPhones. ER48–51 ¶ 69 & Fig. 1. That is because the AT&T and T-Mobile networks were not of
+le quality. On all cellphones, and before and after its iPhone exclusivity, AT&T enjoyed a price premium over T-Mobile because of its substantially greater nationwide coverage and the superior performance of its 3G networks nationally. ER60–63 ¶¶ 84–"
+---------- Question 181 from Apple Answering Brief ----------
+Question: What is because the AT&T and T-Mobile networks were not of comparable quality?'
+Answer: prices simply did not converge
+Reference Paragraph: "49 levels. ER60–61 ¶¶ 83–84. AT&T and T-Mobile service prices simply did not converge once both carriers offered iPhones. ER48–51 ¶ 69 & Fig. 1. That is because the AT&T and T-Mobile networks were not of comparab le quality. On all cellphones, and before and after its iPhone exclusivity, AT&T enjoyed a price premium over T-Mobile because of its substantially greater nationwide coverage and the superior performance of its 3G networks nationally. ER60–63 ¶¶ 84–"
+---------- Question 182 from Apple Answering Brief ----------
+Question: What did AT&T enjoy a price premium over T-Mobile because of AT&T substantially greater nationwide coverage and the superior performance of AT&T 3G networks nationally on?' Answer: cellphones, and before and after its iPhone exclusivity
+Reference Paragraph: "49 levels. ER60–61 ¶¶ 83–84. AT&T and T-Mobile service prices simply did not converge once both
+le quality. On all cellphones, and before and after its iPhone exclusivity, AT&T enjoyed a price premium over T-Mobile
+ER60–63 ¶¶ 84–"
+---------- Question 183 from Apple Answering Brief ----------
+Question: What entirely undermines The TE Theory?'
+Answer: uncontroverted evidence
+Reference Paragraph: "85. This uncontroverted evidence entirely undermines the TNE theory. "
+---------- Question 184 from Apple Answering Brief ----------
+Question: What fails to account for the wide variation in pricing plans available to both AT&T's and AT&T's customers?"
+Answer: Benchmark Approach
+Reference Paragraph: "Further, the Benchmark Approach fails to account for the wide variation in pricing plans available to both AT&T’s and T-Mobile’s customers. “Before, during, and after the Class period, each carrier offered multiple rate plans that differed from one another along multiple dimensions, including allowances for voice calls, texts, and data.” ER47 ¶ 67. Dr. Warren-Boulton recognizes that “these are complications” for his TNE theory; but rather than add ress them, he simply casts then aside to be somehow dealt with at a later time: “[they] do not mean we cannot calculate damages using a common methodology that would apply to virtually all members of the Class.” ER278 ¶ 28. "
+---------- Question 185 from Apple Answering Brief ---------- Question: What did each carrier offer after the Class period?' Answer: iPhone
+Reference Paragraph: "SER48 ¶ 7; SER105; SER108. That is why
+---------- Question 186 from Apple Answering Brief ---------- Question: Who merely assumes?'
+Answer: Dr. Warren-Boulton
+Reference Paragraph: "U.S. at 473. Dr. Warren-Boulton merely
+T-Mobile did not distribute the iPhone until April 2013, after the class period in this case. "
+assumes, without analysis, that all consumers expected to unlock their iPhones, and therefore more information inevitably means uniformly lower prices. ER16 ¶ 14. But, as Dr. Katz explains, there is no basis for such an assumption given (i) variance in consumer experiences with AT&T and other carriers, (ii) variance in exposure to media, including coverage of this and other “locking” litigation against AT&T,
+(iii) variance in exposure to Apple and AT&T marketing materials, and (iv) non-uniform responses "
+---------- Question 187 from Apple Answering Brief ----------
+Question: What would be ``a fact-intensive inquiry that must be conducted at the individual level?''"
+Answer: litigation is conducted by and on behalf of the individual named parties only
+Reference Paragraph: "36. The Supreme Court also eradicated the notion that class certification is somehow presumed in antitrust cases: “[t]he class action is ‘an exception to the usual rule that litigation is conducted by and on behalf
+of the individual named parties only.’” Id. at 33 (citation omitted). And American Express Co. v. Italian "
+---------- Question 188 from Apple Answering Brief ----------
+Question: What is not a reliable way to ``determin whether any iPhone customer suffered harm?''"
+Answer: The Benchmark Approach
+Reference Paragraph: "50 lower rate), and those who would have sold or transferred their iPhones (at a higher price or value).” ER139 ¶ 31. Yet again, he merely assumes, incorrectly, that this is not an individualized issue that would t hwart class certification and that estimates “can be made of the harm” using common proof. Id. As Dr. Katz notes, such an inquiry would be “a fact-intensive inquiry that must be conducted at the individual level.” ER58 ¶ 80. The Benc hmark Approach is not a reliable way to “determin[e] whether any iPhone customer suffered harm, let alone that all iPhone customers suffered the same (non-zero) harm.” ER66 ¶ 91. "
+---------- Question 189 from Apple Answering Brief ----------
+Question: What do the Benchmark approach no better?'
+Answer: wide variation in pricing plans
+Reference Paragraph: "Further, the Benchmark Approach fails to account for the wide variation in pricing plans available to both AT&T’s and T-Mobile’s customers. “Before, during, and
+rate plans that differed from one another along multiple dimensions, including allowances for voice calls, texts, and data.” ER47 ¶ 67. Dr. Warren-Boulton recognizes that “these are
+ress them, he simply casts then aside to be somehow dealt with at a later time: “[they] do not mean we cannot calculate damages using a common methodology that would apply to virtually all members of the Class.” ER278 ¶ 28. "
+---------- Question 190 from Apple Answering Brief ----------
+Question: What include variations in service prices by locale, as well as differences in cellular network quality by geography?'
+Answer: ER67–68 ¶¶ 92, 94
+Reference Paragraph: "The Real Option Approach fares no better. It rests on the naked assumption that every iPhone customer within the alleged class period similarly valued the option of being able to switch from AT&T to T-Mobile, despit e the numerous individual-specific marketplace factors that would implicate their individual valuations of being able to do so. ER67–68 ¶¶ 92, 94. Those include variations in service prices by locale, as well as differences in cellular network quality by geography. ER68–70 ¶¶ 96–99. This approach also fails to account for the many consumers who purchased AT&T and not T-Mobile wireless service during the class period even though they did not purchase iPhones, meaning t hat any differential in service prices could not have accurately represented the “value” of being able to use the iPhone on T-Mobile (or another carrier). ER68–69 ¶ 96. The real-option approach is another one-size-fits-all analysis that
+not only fails to "
+---------- Question 191 from Apple Answering Brief ----------
+Question: What may affirm on any basis supported by the record?'
+Answer: this Court
+Reference Paragraph: "18 Because this Court may affirm on any basis supported by the record, the fundamental mismatch presented here provides an alternative basis for affirmance. "
+---------- Question 192 from Apple Answering Brief ----------
+Question: What is F. 3d 995,999 (9th Cir?'
+Answer: 710
+Reference Paragraph: "710 F.3d 995 (9th Cir. 2013) ................................................................................. 51 "
+---------- Question 193 from Apple Answering Brief ----------
+Question: What relied upon by Court)?'
+Answer: reversing certification
+Reference Paragraph: "6 (reversing certification where court “relied on the ‘imagination’ of [plaintiffs’] counsel to provide solutions that will, at some point in the future, prevent these individual issues from splintering the action in to thousands of individual trials”). "
+---------- Question 194 from Apple Answering Brief ----------
+carriers offered iPhones. ER48–51 ¶ 69 & Fig. 1. That is because the AT&T and T-Mobile networks were not of comparab because of its substantially greater nationwide coverage and the superior performance of its 3G networks nationally.
+after the Class period, each carrier offered multiple complications” for his TNE theory; but rather than add
+comparab
+
+Question: What is something that by definition every class members buys?'
+Answer: iPhone
+Reference Paragraph: "The TE theory runs directly counter to this remaining theory of liability. It is a damages theory relating to prices for the iPhone itself, which is something that by definition every class members buys, but which P laintiffs do not claim is a monopolized product. Furthermore, as explained earlier, Plaintiffs’ aftermarket theory would fail as a matter of law if iPhone and service pricing were so tightly connected that monopoly pricing in renewal ser vice only would affect the price of every iPhone. "
+---------- Question 195 from Apple Answering Brief ----------
+Question: What does not align with the pleaded or post-summary judgment claims in this case?'
+Answer: this argument
+Reference Paragraph: "But more simply, this argument does not align with the pleaded or post-summary judgment claims in this case. A claim about iPhone pricing would have required different pleadings and different evidence in order to su rvive the litigation up to this point—none of which has been offered. As the Supreme Court explained in Comcast, “‘[t]he first step in a damages study is the translation of the legal theory of the harmful event into an analysis of the ec onomic impact of that event.’” "
+---------- Question 196 from Apple Answering Brief ----------
+Question: What would a claim about iPhone pricing have required different pleadings and different evidence in order to survive the litigation up to?'
+Answer: this point
+Reference Paragraph: "But more simply, this argument does not align with the pleaded or post-summary judgment claims in this case. A claim about iPhone pricing would have required different pleadings and different evidence in order to su rvive the litigation up to this point—none of which has been offered. As the Supreme Court explained in Comcast, “‘[t]he first step in a damages study is the translation of the legal theory of the harmful event into an analysis of the ec onomic impact of that event.’” "
+---------- Question 197 from Apple Answering Brief ---------- Question: When) )?'
+Answer: April 15, 2019
+Reference Paragraph: "Dated: April 15, 2019 "
+---------- Question 198 from Apple Answering Brief ----------
+Question: What could not possibly be anticompetitive?'
+Answer: an exclusive deal for the launch of a new product with zero market share
+Reference Paragraph: "Plaintiffs have never contended that there was anything unlawful about the exclusivity itself, nor could they. Exclusive arrangements between phone manufacturers and carriers are common, and an exclusive deal for th e launch of a new product with zero market share could not possibly be anticompetitive. Dr. "
+---------- Question 199 from Apple Answering Brief ---------- Question: Who agreed that ``the extension of exclusivity into Answer: Warren-Boulton
+Reference Paragraph: "Warren-Boulton himself agreed that “the
+the Renewal Service Period would not have been anticompetitive or unlawful''?" extension of exclusivity into the Renewal "
+---------- Question 200 from Apple Answering Brief ---------- Question: What does Warren-BoultonAT & T's but-for world does Answer: one with a uniform
+Reference Paragraph: "This cannot be acceptable. Plaintiffs needed s) that every customer thought the same way and every but-for world
+---------- Question 209 from Apple Answering Brief ---------- Question: What is specious?'
+Answer: UNITED STATES COURT OF APPEALS
+Reference Paragraph: "UNITED STATES COURT OF APPEALS "
+---------- Question 210 from Apple Answering Brief ---------- Question: What has provided Plaintiffs with every opportunity Answer: the district court
+Reference Paragraph: "Judge Ware, the district court has been
+to prove Plaintiffs case?'
+patient, evenhanded and provided Plaintiffs with every opportunity to prove their case. The district court has issued
+rulings "
+the rare case where reassignment is warranted. Throughou
+not?"
+to show that they had solved for these issues—and with solutions that withstand rigorous scrutiny. Simply presuming (without any actual analyses, such as consumer survey was one with a uniform "
+---------- Question 201 from Apple Answering Brief ----------
+Question: What does not?'
+Answer: if the fact of damage is established
+Reference Paragraph: "2016) (“Only if the fact of damage is established does a court reach the question of remedy and the exact calculation of each plaintiff’s damages.”). "
+---------- Question 202 from Apple Answering Brief ----------
+Question: What does plaintiffs ' TNE theory fail to estimate damages stem from the defendant's actions that created the legal liability like?"
+Answer: allegedly
+Reference Paragraph: "Plaintiffs’ TNE theory fails to estimate “damages stem[ming] from the defendant’s actions that [allegedly] created the legal liability.” Leyva v. Medline Indus., Inc., "
+---------- Question 203 from Apple Answering Brief ----------
+Question: What is entirely unfounded?'
+Answer: Plaintiffs’ request that this case be reassigned on remand
+Reference Paragraph: "Plaintiffs’ request that this case be reassigned on remand is entirely unfounded, and indeed, disingenuous. "
+---------- Question 204 from Apple Answering Brief ----------
+Question: What exist only where ``This Court has exhibited personal bias requiring recusal from a case'' or in other ``unusual circumstances?''"
+Answer: Such circumstances exist only where “the district court has exhibited personal bias requiring recusal from a case” or in other “unusual circumstances
+Reference Paragraph: "Riverside, 723 F.3d 1104, 1112 (9th Cir. 2013) (citation omitted). Such circumstances exist only where “the district court has exhibited personal bias requiring recusal from a case” or in other “unusual circumstance s.” United Nat’l "
+---------- Question 205 from Apple Answering Brief ---------- Question: Who Nat ` l Ins?'
+Answer: J. Scott Ballenger
+Reference Paragraph: "J. Scott Ballenger "
+---------- Question 206 from Apple Answering Brief ----------
+Question: What guide whether the kind of unusual circumstances warranting reassignment exist?'
+Answer: Three factors
+Reference Paragraph: "Ins. Co. v. R&D Latex Corp., 242 F.3d 1102, 1118 (9th Cir. 2001) (citation omitted). Three factors guide whether the kind of unusual circumstances warranting reassignment exist. Id. A party must show that the dist rict court judge “would reasonably be expected upon remand to have substantial difficulty in putting out of his or her mind previously-expressed views or findings determined to be erroneous or based on evidence that must be rejected” or t hat reassignment “is advisable to preserve the appearance of justice.” McSherry v. City of Long "
+---------- Question 207 from Apple Answering Brief ----------
+Question: What must Reassignment also not ``entail waste and duplication out of proportion to?''"
+Answer: any gain in preserving the appearance of fairness
+Reference Paragraph: "Beach, 423 F.3d 1015, 1023 (9th Cir. 2005) (citation omitted). Reassignment must also not “entail waste and duplication out of proportion to any gain in preserving the appearance of fairness.” Id. (citation omitted ). "
+---------- Question 208 from Apple Answering Brief ----------
+Question: What (omitted)?'
+Answer: ER5
+Reference Paragraph: "The court had to deny certification under these circumstances. A “functioning model ... tailored to market facts in the case at hand” (ER5 (citation omitted)) is required in antitrust cases today—even if it otherwise might not be in the pre-Comcast antitrust cases Plaintiffs cite. See Opening Br. 23–24. It is required because injury-in-fact is an essential element of liability in a private antitrust claim, and because of the now-universal recognitio n that “[c]ommon questions of fact cannot predominate when there exists no reliable means of proving classwide injury in fact.” Rail Freight, 725 F.3d at 253. "
+---------- Question 211 from Apple Answering Brief ----------
+Question: What has any merit?'
+Answer: Plaintiffs’ request for reassignment to a different judge if this case is remanded is without merit
+Reference Paragraph: "Plaintiffs’ request for reassignment to a different judge if this case is remanded is without merit. Finally, contrary to Plaintiffs’ suggestion, this is not t the proceedings, the district court has acted in an impartial, exemplary manner. Plaintiffs’ attempt to foist their own failures onto the district court should be rejected. "
+---------- Question 212 from Apple Answering Brief ----------
+Question: What did this Court not express views or findings beyond?'
+Answer: its conclusion that the theories presented by Plaintiffs were not developed enough
+Reference Paragraph: "In denying class certification, the district court did not express views or findings beyond its conclusion that the theories presented by Plaintiffs were not developed enough to allow for the rigorous scrutiny requir ed under Rule 23. "
+---------- Question 213 from Apple Answering Brief ----------
+Question: What does nothing suggest with?'
+Answer: antitrust impact could be presumed in some price-fixing cases
+Reference Paragraph: "Most of the cases Plaintiffs cite are simple price-fixing cases where, on account of the per se rule, the element of conspiracy dominates. Early, now discredited case law suggested that antitrust impact could be pre sumed in some price-fixing cases.13 However, there has never been a presumption in favor of class certification in monopolization actions such as this case. And even with regard to simple conspiracy cases, In re Hotel Telephone Charges states that the presence of “allegation[s] that a conspiracy existed to violate the antitrust laws does not insure that common questions will predominate.” 500 F.2d at 89; see also "
+---------- Question 214 from Apple Answering Brief ---------- Question: What is also of no consequence?'
+Answer: Defendant-Appellee
+Reference Paragraph: "Defendant-Appellee. "
+---------- Question 215 from Apple Answering Brief ----------
+Question: What do Rule 23 petitions not automatically stay?'
+Answer: proceedings
+Reference Paragraph: "Court’s decision on their Rule 23(f) petition is also of no consequence. Rule 23(f) petitions do not automatically stay proceedings. And given that such petitions are "
+---------- Question 216 from Apple Answering Brief ----------
+Question: What cannot be read to suggest that This Court harbors any particular views that This Court could not set aside on remand?'
+Answer: The district court’s denial of a stay
+Reference Paragraph: "2005), it was reasonable for the district court to conclude that this one would most likely be denied, and to plan accordingly. The district court’s denial of a stay cannot be read to suggest that the district court
+harbors any particular views that it could not set aside on remand. "
+---------- Question 217 from Apple Answering Brief ---------- Question: What is also unpersuasive?'
+Answer: APPLE
+Reference Paragraph: "APPLE INC., "
+---------- Question 218 from Apple Answering Brief ----------
+Question: What should remand be necessary?'
+Answer: prior held views
+Reference Paragraph: "Court’s reversal of an order that this district court had no role in deciding cannot somehow compromise the court’s ability to set aside any prior held views should remand be necessary. "
+---------- Question 219 from Apple Answering Brief ----------
+Question: What Has Not Been Compromised Reassignment is also not necessary to preserve the ``appearance of justice?''" Answer: “appearance of justice
+Reference Paragraph: "Reassignment is also not necessary to preserve the “appearance of justice.” "
+---------- Question 220 from Apple Answering Brief ----------
+Question: What are exceedingly rare?'
+Answer: extraordinary circumstances
+Reference Paragraph: "This Court exercises its statutory supervisory authority to reassign cases on remand only in “rare and extraordinary circumstances.” Krechman v. County of "
+---------- Question 221 from Apple Answering Brief ----------
+Question: What's expressions of frustration with an attorney or party somehow appeared to affect his or her handling of the substantive issues in the case?''"
+Answer: a “district court
+Reference Paragraph: "See Krechman, 723 F.3d at 1112. Rather, a “district court’s expressions of frustration with an attorney or party [must have] somehow appeared to affect his or her handling of the substantive issues in the case.” Mo
+
+ntrose, 104 F.3d at 1522. "
+---------- Question 222 from Apple Answering Brief ----------
+Question: What has diligently shepherded the case toward a final disposition?'
+Answer: The court
+Reference Paragraph: "The court has diligently shepherded this case toward a final disposition. It entertained and denied a motion to dismiss by Apple, entertained a motion for summary judgment by Apple, permitted Plaintiffs to conduct d iscovery in opposition to Apple’s motion for summary judgment, addressed class certification motions, and set a schedule for trial. The district court has provided Plaintiffs every opportunity to prove their case—at every juncture. The court denied Apple’s "
+---------- Question 223 from Apple Answering Brief ----------
+Question: What has provided Plaintiffs every opportunity to prove Plaintiffs case-- at every juncture?'
+Answer: the district court
+Reference Paragraph: "Judge Ware, the district court has been patient, evenhanded and provided Plaintiffs with every opportunity to prove their case. The district court has issued rulings "
+---------- Question 224 from Apple Answering Brief ----------
+Question: What belies Plaintiffs ' contention that reassignment is necessary to preserve the appearance of justice?" Answer: not necessary to preserve the “appearance of justice.
+Reference Paragraph: "Reassignment is also not necessary to preserve the “appearance of justice.” "
+---------- Question 225 from Apple Answering Brief ----------
+Question: What is Plaintiffs who submitted an 11-page initial expert report that was devoid of actual analysis?'
+Answer: district court
+Reference Paragraph: "58 summary judgment motion in part, and permitted Plaintiffs to take a portion of their claims to a jury. This even-handed treatment belies Plaintiffs’ contention that reassignment is necessary to preserve the appea rance of justice. And while they fault the district court for the brevity of its subsequent opinion, it is Plaintiffs who submitted an 11-page initial expert report that was devoid of actual analysis. The district court’s inability to s ubject Plaintiffs’ declaration to rigorous scrutiny was a result of their own failure—not the court’s. "
+---------- Question 226 from Apple Answering Brief ----------
+Question: What was a result of The district court's inability
+Answer: The district court’s inability to subject Plaintiffs’
+Reference Paragraph: "58 summary judgment motion in part, and
+rance of justice. And while they fault the district court for the brevity of its subsequent opinion, it is Plaintiffs who submitted an 11-page initial expert report that was devoid of actual analysis. The district court’s inability to s ubject Plaintiffs’ declaration to rigorous scrutiny was a result of their own failure—not the court’s. "
+to subject Plaintiffs ' declaration to rigorous scrutiny own failure-- not the court's?"
+declaration to rigorous scrutiny
+permitted Plaintiffs to take a portion of their claims to a jury. This even-handed treatment belies Plaintiffs’ contention that reassignment is necessary to preserve the appea
+---------- Question 227 from Apple Answering Brief ----------
+Question: What Would C. Reassignment Be Wasteful and Duplicative would far outweigh any benefit?' Answer: C. Reassignment Would Be Wasteful and Duplicative
+Reference Paragraph: "C. Reassignment Would Be Wasteful and Duplicative "
+---------- Question 228 from Apple Answering Brief ----------
+Question: What has shepherded This Court through a motion to dismiss?'
+Answer: The district court
+Reference Paragraph: "The waste and duplication that would result from reassigning this protracted litigation would far outweigh any benefit. The district court is deeply familiar with this case’s complicated factual and procedural histo ry and has shepherded it through a motion to dismiss, a motion for summary judgment, discovery, and a ruling on class certification. Plaintiffs’ request is merely an attempt to have another go with a different district court in hopes of a different outcome. That falls far short of what is required to justify reassignment on remand. "
+---------- Question 229 from Apple Answering Brief ----------
+Question: What is plaintiffs ' request?"
+Answer: a stay
+Reference Paragraph: "The district court’s denial of Plaintiffs’ request for a stay pending this "
+---------- Question 230 from Apple Answering Brief ----------
+Question: What falls far short of what is required to justify reassignment on remand?'
+Answer: Plaintiffs
+Reference Paragraph: "The waste and duplication that would result from reassigning this protracted litigation would far outweigh any benefit. The district court is deeply familiar with this case’s complicated factual and procedural histo ry and has shepherded it through a motion to dismiss, a motion for summary judgment, discovery, and a ruling on class certification. Plaintiffs’ request is merely an attempt to have another go with a different district court in hopes of a different outcome. That falls far short of what is required to justify reassignment on remand. "
+(py36) dhcp-10-105-201-232:qa zhiliwang$

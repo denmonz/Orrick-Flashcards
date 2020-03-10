@@ -12,9 +12,7 @@ def rm_2_short(question_list):
 	- remove non-sense questions generated from our system (e.g. "What 345?")
 '''
 	for ques in question_list:
-		if len(ques) <= 8:
-			question_list.remove(ques)
-		if len(ques.split()) <= 2:
+		if len(ques) <= 8 or len(ques.split()) <= 2:
 			question_list.remove(ques)
 	return question_list
 
