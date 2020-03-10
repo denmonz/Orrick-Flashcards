@@ -97,9 +97,9 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
                 text = result.value; // The generated text
                 messages = result.messages; // Any messages, such as warnings during conversion
             })
-            .then(function() {
-              fetchFlask();
-            })
+            // .then(function() {
+            //   fetchFlask();
+            // })
             .done(function() {
               setUpload(text);
               setDisplay(true);
@@ -319,7 +319,7 @@ function FilterCard({filter, qna}) {
 function App() {
   const [upload, setUpload] = useState('')
   const [qna, setQna] = useState(sampledata)
-  const [display, setDisplay] = useState(true)
+  const [display, setDisplay] = useState(false)
   const [quiz, setQuiz] = useState(false)
   // useEffect(() => {
   //   fetch('http://127.0.0.1:5000/q',{mode:'no-cors',dataType:'json'}).then(response => response.json().then(data => {console.log(data);}))
