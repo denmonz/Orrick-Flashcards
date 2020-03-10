@@ -190,29 +190,39 @@ function Flashcard({qna, quiz}) {
 function AllQuiz({qna}) {
   const classes = useStyles();
   const key = Object.keys(qna)
-  const [flip, setFlip] = useState(false)
+  
+  var total_len = 0;
+  for (var i=0; i < key.length; i++) {
+    total_len += qna[key[i]].length
+  }
 
-  const handleFlip = () => {
-    if (flip === false) {
-      setFlip(true)
+  const [flip, setFlip] = useState(Array.apply(null, Array(key.length)).map(function (x) { return Array.apply(null, Array(total_len)).map(function (x) {return false}); }))
+
+  const handleFlip = (index, key) => {
+    if (flip[key][index] === false) {
+      let old = flip.slice()
+      old[key][index] = true
+      setFlip(old)
     }
     else {
-      setFlip(false)
+      let old = flip.slice()
+      old[key][index] = false
+      setFlip(old)
     }
   }
 
   return (
     <React.Fragment>
       <Grid container style={{flexGrow: 1}} spacing={1}>
-        {key.map(k =>
-          qna[k].map(r => 
+        {key.map((k,j) =>
+          qna[k].map((r,i) => 
             <React.Fragment>
             <Grid item xs={12}>
-              <Card className={classes.card} onClick={handleFlip}>
-                {flip ? <Typography className={classes.cardtext}>{r.answer}</Typography> : <Typography className={classes.cardtext}>{r.question}</Typography>}
+              <Card className={classes.card} onClick={() => handleFlip(i,j)}>
+                {flip[j][i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
               </Card>
             </Grid>
-          </React.Fragment> 
+          </React.Fragment>
         ))}
       </Grid>
     </React.Fragment>
@@ -221,25 +231,30 @@ function AllQuiz({qna}) {
 
 function FilterQuiz({filter, qna}) {
   const classes = useStyles();
-  const [flip, setFlip] = useState(false)
 
-  const handleFlip = () => {
-    if (flip === false) {
-      setFlip(true)
+  const [flip, setFlip] = useState(Array.apply(null, Array(qna[filter].length)).map(function (x) { return false }))
+
+  const handleFlip = (index) => {
+    if (flip[index] === false) {
+      let old = flip.slice()
+      old[index] = true
+      setFlip(old)
     }
     else {
-      setFlip(false)
+      let old = flip.slice()
+      old[index] = false
+      setFlip(old)
     }
   }
 
   return (
     <React.Fragment>
       <Grid container style={{flexGrow: 1}} spacing={1}>
-        {qna[filter].map(r =>
+        {qna[filter].map((r, i) =>
           <React.Fragment>
             <Grid item xs={12}>
-              <Card className={classes.card} onClick={handleFlip}>
-              {flip ? <Typography className={classes.cardtext}>{r.answer}</Typography> : <Typography className={classes.cardtext}>{r.question}</Typography>}
+              <Card className={classes.card} onClick={() => handleFlip(i)}>
+              {flip[i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
               </Card>
             </Grid>
           </React.Fragment> 
