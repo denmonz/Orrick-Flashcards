@@ -3,14 +3,17 @@ Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com <br>
 Heroku Deployed Website: https://orrick-flashcards.herokuapp.com/
 
 ## To-do's
-- [ ] Add more filtering rules
+- [ ] Grammar/Styling filter
+    - [ ] Or get a better, purely-python-implemented question generator
 - [ ] Finalize a main.py or pipeline to automate connections between our back and front-end components
 - [ ] Test our pipeline on a brand new environment
-    - [ ] Once the test above passes, complete a .sh script to automate set-up procedures as much as possible
-- [ ] Potentially adding an option to allow custom and self-defined  questions
+    - [ ] A .sh script to automate set-up procedures as much as possible
+- [ ] Self-defined  questions
+- [ ] AWS deployment
 
-    Clients' Wishlist:
-- [ ] customize sections
+Clients' Wishlist:
+- [ ] Customize sections
+- [ ] Password Protection of the site  
 
 ## LexNLP<br>
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192101) | [Code](https://github.com/LexPredict/lexpredict-lexnlp)<br>
