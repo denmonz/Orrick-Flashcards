@@ -2,6 +2,16 @@
 Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com <br>
 Heroku Deployed Website: https://orrick-flashcards.herokuapp.com/
 
+## To-do's
+[ ] Add more filtering rules
+[ ] Finalize a main.py or pipeline to automate connections between our back and front-end components
+[ ] Test our pipeline on a brand new environment
+    - [ ] Once the test above passes, complete a .sh script to automate set-up procedures as much as possible
+[ ] Potentially adding an option to allow custom and self-defined  questions
+
+    Clients' Wishlist:
+[ ] customize sections
+
 ## LexNLP<br>
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192101) | [Code](https://github.com/LexPredict/lexpredict-lexnlp)<br>
 
