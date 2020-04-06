@@ -1,0 +1,6 @@
+- download node js (LTS)
+- stay in this root directory where the README.md file is
+- run "npm install" in terminal
+- run "npm start" in terminal
+- the local version should pop up on your browser
+- the password for the website is orrick
