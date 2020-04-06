@@ -3,4 +3,6 @@
 - run "npm install" in terminal
 - run "npm start" in terminal
 - the local version should pop up on your browser
+- drag & drop only works for txt and docx files (pdf does not work)
 - the password for the website is orrick
+- after adding your own question answer pair, you need to click on a different section heading tab for the new "Added" tab to appear
