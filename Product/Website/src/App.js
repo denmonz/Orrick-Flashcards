@@ -88,8 +88,10 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
         var arrayBuffer = reader.result;
 
         if (file_extention === 'txt' || file_extention === 'html') { // for txt or html files
-          setUpload(String.fromCharCode.apply(null, new Uint8Array(arrayBuffer)));
+          // setUpload(String.fromCharCode.apply(null, new Uint8Array(arrayBuffer)));
           console.log(upload);
+          setUpload(text);
+          setDisplay(true);
         }
         else if (file_extention === 'docx') { // for docx files
           mammoth.extractRawText({arrayBuffer: arrayBuffer})
@@ -97,9 +99,9 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
                 text = result.value; // The generated text
                 messages = result.messages; // Any messages, such as warnings during conversion
             })
-            .then(function() {
-              fetchFlask();
-            })
+            // .then(function() {
+            //   fetchFlask();
+            // })
             .done(function() {
               setUpload(text);
               setDisplay(true);
@@ -319,7 +321,7 @@ function FilterCard({filter, qna}) {
 function App() {
   const [upload, setUpload] = useState('')
   const [qna, setQna] = useState(sampledata)
-  const [display, setDisplay] = useState(true)
+  const [display, setDisplay] = useState(false)
   const [quiz, setQuiz] = useState(false)
   // useEffect(() => {
   //   fetch('http://127.0.0.1:5000/q',{mode:'no-cors',dataType:'json'}).then(response => response.json().then(data => {console.log(data);}))
