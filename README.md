@@ -17,6 +17,9 @@ Clients' Wishlist:
 
 ## LexNLP<br>
 [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3192101) | [Code](https://github.com/LexPredict/lexpredict-lexnlp)<br>
+## Question Generation via Overgenerating Transformations and Ranking<br>
+[Paper](http://www.cs.cmu.edu/~ark/mheilman/questions/papers/heilman-smith-qg-tech-report.pdf) | [Code](http://www.cs.cmu.edu/~ark/mheilman/questions/)
+<br>
 
 ----------------
 ## Setup Instructions
