@@ -16,18 +16,24 @@ const useStyles = makeStyles(theme => ({
     flexGrow: 1,
   },
   card: {
+    flex: 1,
     width:'80%',
     height: '15vw',
     marginTop: '2%', 
     marginLeft: '5%',
     padding: '5%', 
-    flex: 1, 
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'center',
   },
   cardtext: {
-    fontSize: 30
+    fontSize: 30,
+    marginLeft: '2%',
+    marginRight: '2%'
+  },
+  textcontainer: {
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+    height: '100%',
+    margin: 0,
   },
   background: {
     backgroundColor: 'grey',
@@ -112,55 +118,32 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
   ) 
 }
 
-function Flashcard({qna, quiz}) {
+function Flashcard({ qna, quiz, heading }) {
   const classes = useStyles();
   const [value, setValue] = useState(0);
-  const [key, setKey] = useState(Object.keys(qna));
-  const [currval, setCurrval] = useState(0);
+  
   const handleChange = (event, newValue) => {
     setValue(newValue);
-    setKey(Object.keys(qna))
   };
-  
-  if (quiz === true) {
-    return(
-      <React.Fragment>
-      <Tabs value={value} onChange={handleChange} >
-        <Tab label="All" index={0}/>
-        {key.map((r, index) => 
-          <Tab label={r} index={index+1}/>
-          )}
-      </Tabs>
-      {value === 0 ? <AllQuiz qna={qna}/> : null}
-      {key.map((r,index) => {
-        if (value === index +1) {
-          console.log(r)
-          return (
-            <FilterQuiz filter={r} qna={qna}/>
-          )
-        }
-        else {
-          return null
-        }
-      })}
-    </React.Fragment>
-    )
+  if (heading === undefined) {
+    return(null)
   }
   else {
-    return(
-      <React.Fragment>
+    if (quiz === true) {
+      return(
+        <React.Fragment>
         <Tabs value={value} onChange={handleChange} >
           <Tab label="All" index={0}/>
-          {key.map((r, index) => 
+          {heading.map((r, index) => 
             <Tab label={r} index={index+1}/>
             )}
         </Tabs>
-        {value === 0 ? <AllCard qna={qna}/> : null}
-        {key.map((r,index) => {
+        {value === 0 ? <AllQuiz qna={qna}/> : null}
+        {heading.map((r,index) => {
           if (value === index +1) {
             console.log(r)
             return (
-              <FilterCard filter={r} qna={qna}/>
+              <FilterQuiz filter={r} qna={qna}/>
             )
           }
           else {
@@ -168,7 +151,32 @@ function Flashcard({qna, quiz}) {
           }
         })}
       </React.Fragment>
-    )
+      )
+    }
+    else {
+      return(
+        <React.Fragment>
+          <Tabs value={value} onChange={handleChange} >
+            <Tab label="All" index={0}/>
+            {heading.map((r, index) => 
+              <Tab label={r} index={index+1}/>
+              )}
+          </Tabs>
+          {value === 0 ? <AllCard qna={qna}/> : null}
+          {heading.map((r,index) => {
+            if (value === index +1) {
+              console.log(r)
+              return (
+                <FilterCard filter={r} qna={qna}/>
+              )
+            }
+            else {
+              return null
+            }
+          })}
+        </React.Fragment>
+      )
+    }
   }
 }
 
@@ -204,7 +212,9 @@ function AllQuiz({qna}) {
             <React.Fragment>
             <Grid item xs={12}>
               <Card className={classes.card} onClick={() => handleFlip(i,j)}>
-                {flip[j][i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
+                <div className={classes.textcontainer}>
+                  {flip[j][i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
+                </div>
               </Card>
             </Grid>
           </React.Fragment>
@@ -239,7 +249,9 @@ function FilterQuiz({filter, qna}) {
           <React.Fragment>
             <Grid item xs={12}>
               <Card className={classes.card} onClick={() => handleFlip(i)}>
-              {flip[i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
+                <div className={classes.textcontainer}>
+                  {flip[i] ? <Typography className={classes.cardtext}>Answer: {r.answer}</Typography> : <Typography className={classes.cardtext}>Question: {r.question}</Typography>}
+                </div>
               </Card>
             </Grid>
           </React.Fragment> 
@@ -261,12 +273,16 @@ function AllCard({qna}) {
             <React.Fragment>
             <Grid item xs={6}>
               <Card className={classes.card}>
+                <div className={classes.textcontainer}>
                   <Typography className={classes.cardtext}>{r.question}</Typography>
+                </div>
               </Card>
             </Grid>
             <Grid item xs={6}>
               <Card className={classes.card}>
+                <div className={classes.textcontainer}>
                   <Typography className={classes.cardtext}>{r.answer}</Typography>
+                </div>
               </Card>
             </Grid>
           </React.Fragment> 
@@ -286,12 +302,16 @@ function FilterCard({filter, qna}) {
           <React.Fragment>
             <Grid item xs={6}>
               <Card className={classes.card}>
+                <div className={classes.textcontainer}>
                   <Typography className={classes.cardtext}>{r.question}</Typography>
+                </div>
               </Card>
             </Grid>
             <Grid item xs={6}>
               <Card className={classes.card}>
+                <div className={classes.textcontainer}>
                   <Typography className={classes.cardtext}>{r.answer}</Typography>
+                </div>
               </Card>
             </Grid>
           </React.Fragment> 
@@ -301,11 +321,11 @@ function FilterCard({filter, qna}) {
   )
 }
 
-function AddFlashcard({add, setAdd, qna, setQna}) {
+function AddFlashcard({add, setAdd, qna, setQna, heading, setHeading}) {
   const [newq, setNewq] = useState('')
   const [newa, setNewa] = useState('')
   const [noinput, setNoinput] = useState(false)
-  let temp = sampledata
+  let temp = qna
 
   const handleQuestion = (e) => {
     setNewq(e.target.value)
@@ -322,6 +342,7 @@ function AddFlashcard({add, setAdd, qna, setQna}) {
       if (temp['Added'] === undefined) {
         temp['Added'] = [{'question': newq, 'answer': newa}]
         setQna(temp)
+        setHeading(Object.keys(temp))
         console.log(temp)
       }
       else {
@@ -373,6 +394,12 @@ function Generator() {
   const [display, setDisplay] = useState(false)
   const [quiz, setQuiz] = useState(false)
   const [add, setAdd] = useState(false)
+  const [heading, setHeading] = useState([])
+
+  useEffect(() => {
+    setHeading(Object.keys(qna));
+  }, [qna, display]);
+
   // useEffect(() => {
   //   fetch('http://127.0.0.1:5000/q',{mode:'no-cors',dataType:'json'}).then(response => response.json().then(data => {console.log(data);}))
   // },[])
@@ -397,23 +424,12 @@ function Generator() {
     <React.Fragment>
       {display? null : <MyDropzone upload={upload} setUpload={setUpload} display={display} setDisplay={setDisplay} qna={qna} setQna={setQna}/>}
       <br/>
-      {/* <Typography align="center">
-        Uploaded text will shown below ↓
-      </Typography>
-      <br/>
-      <Card variant="outlined">
-        <CardContent>
-          <Typography>
-            {upload}
-          </Typography>
-        </CardContent>
-      </Card> */}
       {display? 
       <React.Fragment>
         <Button variant='contained' style={{margin: '1%'}} onClick={() => window.print()}>Download as PDF</Button>
-        <Button variant='contained' color='primary' onClick={handleAdd} style={{margin: '1%'}}>Add New Flashcards</Button>
-        <Button variant='contained' color='secondary' onClick={handleNew} style={{margin: '1%'}}>Create New Flashcards</Button>
-        {add ? <AddFlashcard add={add} setAdd={setAdd} qna={qna} setQna={setQna}/> : null }
+        <Button variant='contained' color='primary' onClick={handleAdd} style={{margin: '1%'}}>Add New Flashcard</Button>
+        <Button variant='contained' color='secondary' onClick={handleNew} style={{margin: '1%'}}>Upload New Document</Button>
+        {add ? <AddFlashcard add={add} setAdd={setAdd} qna={qna} setQna={setQna} heading={heading} setHeading={setHeading} /> : null }
         <FormGroup style={{margin: '1%'}}>
           <FormControlLabel
             control={
@@ -422,7 +438,7 @@ function Generator() {
             label="Quiz Mode"
           />
         </FormGroup>
-        <Flashcard qna={qna} quiz={quiz}/> 
+        <Flashcard qna={qna} quiz={quiz} heading={heading}/> 
       </React.Fragment>: null}
     </React.Fragment>
   );
