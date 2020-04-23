@@ -47,8 +47,8 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
 
   const fetchFlask = () => {
     console.log("fetching python localhost");
-    fetch('http://127.0.0.1:5000/demo').then(response => response.json().then(data => setQna(data)))
-    
+    // fetch('http://127.0.0.1:5000/q').then(response => response.json().then(data => setQna(data)))
+    axios.post('http://127.0.0.1:5000/q', {data: upload}).then(response => response.json().then(output => setQna(output)))
     // useEffect(() => {
     //   fetch('/a').then(response => response.json().then(data => {console.log(data);}))
     // },[])
@@ -76,23 +76,25 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
         const file_extention = file.name.split('.').pop();
         var arrayBuffer = reader.result;
 
-        if (file_extention === 'txt' || file_extention === 'html') { // for txt or html files
-          // setUpload(String.fromCharCode.apply(null, new Uint8Array(arrayBuffer)));
-          console.log(upload);
-          setUpload(text);
-          setDisplay(true);
-        }
-        else if (file_extention === 'docx') { // for docx files
+        // if (file_extention === 'txt' || file_extention === 'html') { // for txt or html files
+        //   // setUpload(String.fromCharCode.apply(null, new Uint8Array(arrayBuffer)));
+        //   console.log(upload);
+        //   setUpload(text);
+        //   setDisplay(true);
+        // }
+        if (file_extention === 'docx') { // for docx files
           mammoth.extractRawText({arrayBuffer: arrayBuffer})
             .then(function(result) {
                 text = result.value; // The generated text
                 messages = result.messages; // Any messages, such as warnings during conversion
             })
-            // .then(function() {
-            //   fetchFlask();
-            // })
-            .done(function() {
+            .then(function() {
               setUpload(text);
+            })
+            .then(function() {
+              fetchFlask();
+            })
+            .done(function() {
               setDisplay(true);
             });
         }
