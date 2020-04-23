@@ -17,13 +17,10 @@ datefinder-lexpredict = {file = "https://github.com/LexPredict/datefinder/archiv
 dateparser = "==0.7.0"
 elasticsearch = "==5.4.0"
 execnet = "==1.5.0"
-extractor = "*"
-flask = "*"
 gensim = "==3.4.0"
 idna = "==2.6"
 isort = "==4.2.15"
 lazy-object-proxy = "==1.3.1"
-lexnlp = {file = "https://github.com/LexPredict/lexpredict-lexnlp/archive/master.zip"}
 lxml = "==4.2.0"
 mccabe = "==0.6.1"
 memory-profiler = "==0.47"
@@ -64,6 +61,5 @@ Sphinx = "==2.1.2"
 Unidecode = "==0.4.21"
 sklearn = "*"
 
-
 [requires]
-python_version = "3.6"
+python_version = "3.6.8"
