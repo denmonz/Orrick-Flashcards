@@ -1,6 +1,4 @@
 # Orrick Flashcards
-Firebase Deployed Website: https://orrick-flashcards.firebaseapp.com <br>
-Heroku Deployed Website: https://orrick-flashcards.herokuapp.com/
 
 ## To-do's
 - [ ] Grammar/Styling filter
