@@ -5,6 +5,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import GetAppIcon from '@material-ui/icons/GetApp';
 import './Generator.css';
 import sampledata from './sampledata';
+import axios from 'axios';
 
 var mammoth = require("mammoth");
 
@@ -45,10 +46,11 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
   var text = '';
   var messages = '';
 
-  const fetchFlask = () => {
+  const fetchFlask = (text) => {
     console.log("fetching python localhost");
     // fetch('http://127.0.0.1:5000/q').then(response => response.json().then(data => setQna(data)))
-    axios.post('http://127.0.0.1:5000/q', {data: upload}).then(response => response.json().then(output => setQna(output)))
+    // axios.post('http://127.0.0.1:5000/q', {data: text}).then(response => response.json().then(output => setQna(output)))
+    axios.post('http://127.0.0.1:5000/q', {data: text}).then(response => setQna(response.data))
     // useEffect(() => {
     //   fetch('/a').then(response => response.json().then(data => {console.log(data);}))
     // },[])
@@ -88,11 +90,12 @@ function MyDropzone({upload, setUpload, display, setDisplay, qna, setQna}) {
                 text = result.value; // The generated text
                 messages = result.messages; // Any messages, such as warnings during conversion
             })
+            // .then(function() {
+            //   setUpload(text);
+            //   console.log(text)
+            // })
             .then(function() {
-              setUpload(text);
-            })
-            .then(function() {
-              fetchFlask();
+              fetchFlask(text);
             })
             .done(function() {
               setDisplay(true);
@@ -392,7 +395,7 @@ function AddFlashcard({add, setAdd, qna, setQna, heading, setHeading}) {
 
 function Generator() {
   const [upload, setUpload] = useState('')
-  const [qna, setQna] = useState(sampledata)
+  const [qna, setQna] = useState({})
   const [display, setDisplay] = useState(false)
   const [quiz, setQuiz] = useState(false)
   const [add, setAdd] = useState(false)
