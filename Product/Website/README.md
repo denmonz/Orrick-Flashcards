@@ -6,3 +6,11 @@
 - drag & drop only works for txt and docx files (pdf does not work)
 - the password for the website is orrick
 - after adding your own question answer pair, you need to click on a different section heading tab for the new "Added" tab to appear
+
+- flask server (backend) is connected but our question generator scripts must be applied correctly
+- the formatting of the flask server avaiable in the "Product/server/app.py" is provided
+- the scripts in the question generator folder in the main directory of this repository must be applied so that the scripts run with the uploaded documents
+- the uploaded documents are currently passed as a single string to Flask
+- a sample of what the output dictionary should look like to support the frontend output is provided
+- our scripts already output the dictionaries in the correct format
+- please modify the app.py in the "Product/server" folder to run the scripts for the POST request so that the question generator scripts go through the uploaded document
